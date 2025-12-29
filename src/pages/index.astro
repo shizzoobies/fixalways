@@ -1,0 +1,25 @@
+---
+import { floridaCities } from "../data/fl-cities";
+---
+
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title>FixAlways – Find HVAC Services in Florida</title>
+  </head>
+  <body>
+    <h1>FixAlways</h1>
+    <p>Find HVAC services in Florida.</p>
+
+    <h2>Florida HVAC cities</h2>
+    <ul>
+      {floridaCities.map((city) => (
+        <li>
+          <a href={`/fl/${city.toLowerCase().replace(/\s+/g, "-")}/hvac`}>
+            HVAC in {city}
+          </a>
+        </li>
+      ))}
+    </ul>
+  </body>
+</html>

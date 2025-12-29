@@ -1,0 +1,59 @@
+---
+import { floridaCities } from "../../../../data/fl-cities.js";
+import tampaData from "../../../../data/tampa-hvac.json";
+
+export function getStaticPaths() {
+  return floridaCities.map((city) => ({
+    params: { city: city.toLowerCase().replace(/\s+/g, "-") },
+    props: { city },
+  }));
+}
+
+const { city } = Astro.props;
+const state = "Florida";
+const service = "HVAC";
+
+// For now: only Tampa shows the list. Other cities show "coming soon".
+const slug = city.toLowerCase().replace(/\s+/g, "-");
+const listings = slug === "tampa" ? tampaData : [];
+---
+
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title>{service} in {city}, {state} | FixAlways</title>
+    <meta
+      name="description"
+      content={`Find HVAC companies in ${city}, Florida. Listings update over time.`}
+    />
+  </head>
+  <body>
+    <a href="/">← Back to home</a>
+
+    <h1>{service} in {city}, {state}</h1>
+
+    {listings.length > 0 ? (
+      <>
+        <p><strong>Live listings for {city}:</strong></p>
+
+        <ol>
+          {listings.map((biz) => (
+            <li>
+              <strong>{biz.name}</strong><br />
+              ⭐ {biz.rating} ({biz.reviews} reviews)<br />
+              📞 {biz.phone}<br />
+              <a href={biz.website} target="_blank" rel="noopener noreferrer">
+                Website
+              </a>
+            </li>
+          ))}
+        </ol>
+      </>
+    ) : (
+      <>
+        <p><strong>HVAC listings for {city} are coming soon.</strong></p>
+        <p>We’re currently gathering local HVAC companies for this area.</p>
+      </>
+    )}
+  </body>
+</html>
