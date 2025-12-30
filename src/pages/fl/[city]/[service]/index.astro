@@ -35,12 +35,8 @@ const cityTitle = city
   ? city.replace(/-/g, " ").replace(/\b\w/g, (m) => m.toUpperCase())
   : "City";
 
-/**
- * ✅ Load all JSON at build time:
- * src/data/fl/{serviceFolder}/{city}.json
- */
+/** Load JSON at build time */
 const dataModules = import.meta.glob("../../../../data/fl/*/*.json", { eager: true });
-
 const dataKey = `../../../../data/fl/${serviceConfig.folder}/${city}.json`;
 const mod = dataModules[dataKey];
 
@@ -64,7 +60,6 @@ const listings = (listingsRaw || []).map((x) => ({
 }));
 
 const serviceLabel = serviceConfig.label;
-
 const pageTitle = `${cityTitle} ${serviceLabel} Listings | FixAlways`;
 const pageDesc = `Top rated ${serviceLabel.toLowerCase()} companies in ${cityTitle}. Compare reviews, websites and phone numbers.`;
 
@@ -72,8 +67,6 @@ const currentQueryString = Astro.url.searchParams.toString();
 const qs = currentQueryString ? `?${currentQueryString}` : "";
 
 const relatedTrades = services.filter((s) => s.key !== serviceKey).slice(0, 6);
-
-const FORMSPREE_ENDPOINT = "https://formspree.io/f/mdaorwgo";
 ---
 
 <BaseLayout title={pageTitle} description={pageDesc} badge={`Florida • ${serviceLabel}`}>
@@ -92,7 +85,7 @@ const FORMSPREE_ENDPOINT = "https://formspree.io/f/mdaorwgo";
 
         <h1 class="pageTitle">{cityTitle} {serviceLabel} listings</h1>
         <p class="pageSubtitle">
-          Compare top-rated picks, filter by rating/reviews, and request free quotes.
+          Compare local companies by rating, reviews, and contact info.
         </p>
 
         <div class="tradeTabsWrap">
@@ -114,10 +107,6 @@ const FORMSPREE_ENDPOINT = "https://formspree.io/f/mdaorwgo";
           </div>
         </div>
       </div>
-
-      <div class="pageHeaderRight">
-        <a class="btn btnPrimary" href="#quote">Get free quotes</a>
-      </div>
     </div>
   </section>
 
@@ -126,7 +115,7 @@ const FORMSPREE_ENDPOINT = "https://formspree.io/f/mdaorwgo";
       <div class="toolbar card">
         <div class="toolbarRow">
           <div class="toolbarLeft">
-            <div class="meta" id="resultsMeta">{listings.length} found</div>
+            <div class="meta">{listings.length} found</div>
 
             <div class="toolbarLabel">Sort</div>
             <select id="sortSelect" class="select">
@@ -138,9 +127,9 @@ const FORMSPREE_ENDPOINT = "https://formspree.io/f/mdaorwgo";
           </div>
 
           <div class="toolbarRight">
-            <button id="filterRating45" class="chip" type="button" aria-pressed="false">4.5+ rating</button>
-            <button id="filterReviews100" class="chip" type="button" aria-pressed="false">100+ reviews</button>
-            <button id="filterWebsite" class="chip" type="button" aria-pressed="false">Has website</button>
+            <button id="filterRating45" class="chip" type="button">4.5+ rating</button>
+            <button id="filterReviews100" class="chip" type="button">100+ reviews</button>
+            <button id="filterWebsite" class="chip" type="button">Has website</button>
           </div>
         </div>
       </div>
@@ -163,35 +152,32 @@ const FORMSPREE_ENDPOINT = "https://formspree.io/f/mdaorwgo";
                     <span class="stars">{x.rating ? x.rating.toFixed(1) : "—"}</span>
                     <span class="dot">•</span>
                     <span>{x.reviews || 0} reviews</span>
-                    {x.website ? (
+                    {x.website && (
                       <>
                         <span class="dot">•</span>
                         <span class="pill">Website</span>
                       </>
-                    ) : null}
+                    )}
                   </div>
 
                   <div class="listingAddr">{x.address}</div>
                 </div>
 
                 <div class="listingActions">
-                  {x.phone ? (
+                  {x.phone && (
                     <a class="btn btnSmall btnPrimary" href={`tel:${String(x.phone).replace(/\D/g, "")}`}>
                       Call
                     </a>
-                  ) : null}
-
-                  {x.website ? (
+                  )}
+                  {x.website && (
                     <a class="btn btnSmall btnGhost" href={x.website} target="_blank" rel="noopener noreferrer">
                       Website
                     </a>
-                  ) : null}
+                  )}
                 </div>
               </div>
 
               <div class="listingBottom">
-                <a class="link" href="#quote">Request a quote</a>
-                <span class="dot">•</span>
                 <a class="link" href="#">Claim this listing</a>
               </div>
             </li>
@@ -202,18 +188,6 @@ const FORMSPREE_ENDPOINT = "https://formspree.io/f/mdaorwgo";
           <div class="meta">
             {dataFound ? "No listings found yet." : "Service data not added yet."}
           </div>
-
-          <p class="pageSubtitle" style="margin-top: 8px;">
-            Expected: <code>src/data/fl/{serviceConfig.folder}/{city}.json</code>
-          </p>
-
-          <p class="pageSubtitle" style="margin-top: 8px;">
-            Lookup key: <code>{dataKey}</code>
-          </p>
-
-          <a class="btn btnPrimary" style="margin-top: 12px;" href="#quote">
-            Request quotes anyway
-          </a>
         </div>
       )}
     </div>
@@ -233,95 +207,11 @@ const FORMSPREE_ENDPOINT = "https://formspree.io/f/mdaorwgo";
             </a>
           ))}
         </div>
-
-        <div class="relatedTradeHint">
-          Tip: filters and sorting stay applied when you switch trades.
-        </div>
-      </div>
-
-      <div class="panel sticky" id="quote" style="margin-top: 12px;">
-        <div class="panelHeader">
-          <div class="panelTitle">Get free quotes</div>
-          <div class="panelSubtitle">
-            From local {serviceLabel} pros in {cityTitle}
-          </div>
-        </div>
-
-        <form class="form" action={FORMSPREE_ENDPOINT} method="POST">
-          <input type="hidden" name="_redirect" value="/thanks" />
-          <input type="hidden" name="source" value="fixalways" />
-          <input type="hidden" name="page" value={Astro.url.pathname} />
-          <input type="hidden" name="city" value={cityTitle} />
-          <input type="hidden" name="service" value={serviceLabel} />
-
-          <div class="field">
-            <label class="label" for="leadNameCity">Name</label>
-            <input id="leadNameCity" class="input" name="name" type="text" placeholder="Alex" required />
-          </div>
-
-          <div class="field">
-            <label class="label" for="leadPhoneCity">Phone</label>
-            <input id="leadPhoneCity" class="input" name="phone" type="tel" placeholder="(555) 555-5555" required />
-          </div>
-
-          <div class="field">
-            <label class="label" for="leadEmailCity">Email (optional)</label>
-            <input id="leadEmailCity" class="input" name="email" type="email" placeholder="alex@email.com" />
-          </div>
-
-          <div class="field">
-            <label class="label" for="leadCityZipCity">City or ZIP</label>
-            <input
-              id="leadCityZipCity"
-              class="input"
-              name="city_or_zip"
-              type="text"
-              value={`${cityTitle}, FL`}
-              required
-            />
-          </div>
-
-          <div class="field">
-            <label class="label" for="leadTimingCity">When do you need help?</label>
-            <select id="leadTimingCity" class="select" name="timing" required>
-              <option value="" disabled selected>Select one</option>
-              <option value="asap">ASAP</option>
-              <option value="this_week">This week</option>
-              <option value="flexible">Flexible</option>
-            </select>
-          </div>
-
-          <div class="field">
-            <label class="label" for="leadNeedCity">Project details</label>
-            <textarea
-              id="leadNeedCity"
-              class="input inputArea"
-              name="details"
-              placeholder={`Ex: Need ${serviceLabel.toLowerCase()} help in ${cityTitle}`}
-              required
-            ></textarea>
-          </div>
-
-          <div class="field consentRow">
-            <input id="leadConsentCity" name="consent" type="checkbox" required />
-            <label for="leadConsentCity">
-              I agree FixAlways and up to 3 service providers may contact me about this request.
-            </label>
-          </div>
-
-          <button class="btn btnPrimary btnFull" type="submit">
-            Get free quotes
-          </button>
-
-          <p class="finePrint">
-            No obligation. Usually replies within 10–15 minutes.
-          </p>
-        </form>
       </div>
 
       <div class="adBox">
-        <div class="adLabel">Ad space</div>
-        <div class="adBody">Google AdSense / Sponsored block</div>
+        <div class="adLabel">Sponsored</div>
+        <div class="adBody">Future featured placement</div>
       </div>
     </aside>
   </section>
