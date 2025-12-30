@@ -15,7 +15,6 @@ const {
     <title>{title}</title>
     <meta name="description" content={description} />
 
-    <!-- ✅ MUST be absolute path because it's served from /public -->
     <link rel="stylesheet" href="/styles/global.css" />
 
     <link rel="icon" href="/favicon.ico" />
@@ -37,7 +36,6 @@ const {
 
         <nav class="nav">
           <a class="navLink" href="/#cities">Browse Cities</a>
-          <a class="navLink" href="/#quote">Get Quotes</a>
         </nav>
 
         <div class="headerSearch">
@@ -76,13 +74,11 @@ const {
           <div class="footerMeta">© {new Date().getFullYear()} • Florida Home Services</div>
         </div>
         <div class="footerRight">
-          <a class="footerLink" href="/#quote">Get Quotes</a>
           <a class="footerLink" href="/#cities">Browse Cities</a>
         </div>
       </div>
     </footer>
 
-    <!-- ✅ if your top-search.js exists -->
     <script type="module" src="/js/top-search.js"></script>
   </body>
 </html>
