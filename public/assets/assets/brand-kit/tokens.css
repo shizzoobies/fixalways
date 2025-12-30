@@ -1,0 +1,16 @@
+:root {
+  --bg: #0E1623;
+  --surface: #141E2E;
+  --text: #EAF0F6;
+  --muted: #9FB0C3;
+
+  --primary: #2ECC71;
+  --primary-2: #1FA463;
+
+  --radius: 12px;
+  --shadow: 0 12px 40px rgba(0,0,0,.35);
+
+  --font-sans: Inter, system-ui, -apple-system, BlinkMacSystemFont, sans-serif;
+  --font-scale-h1: clamp(2.4rem, 4vw, 3.4rem);
+  --font-scale-body: 1rem;
+}

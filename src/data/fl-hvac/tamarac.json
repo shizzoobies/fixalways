@@ -1,0 +1,65 @@
+[
+  {
+    "name": "Quality Air Conditioning Company",
+    "rating": 4.9,
+    "reviews": 916,
+    "phone": "(954) 504-6314",
+    "website": "https://www.qualityac.com/",
+    "maps": "https://maps.google.com/?cid=2652943894188034941&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "720 W McNab Rd, Fort Lauderdale, FL 33309, USA"
+  },
+  {
+    "name": "Inca Air Conditioning and Refrigeration LLC",
+    "rating": 5,
+    "reviews": 10,
+    "phone": "(954) 449-3720",
+    "website": "https://inca-air.com/",
+    "maps": "https://maps.google.com/?cid=14614972325101110265&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "7615 Banyan Way, Tamarac, FL 33321, USA"
+  },
+  {
+    "name": "FrostMasters AC Repair Tamarac",
+    "rating": 5,
+    "reviews": 9,
+    "phone": "(754) 203-4244",
+    "website": null,
+    "maps": "https://maps.google.com/?cid=17029974881522907154&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "7431 N University Dr Unit 424, Tamarac, FL 33321, USA"
+  },
+  {
+    "name": "SJS Mechanical LLC",
+    "rating": 5,
+    "reviews": 307,
+    "phone": "(786) 783-4050",
+    "website": "http://www.sjs-mechanical.com/",
+    "maps": "https://maps.google.com/?cid=15008239496119085927&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "4570 Glenwood Dr, Coconut Creek, FL 33066, USA"
+  },
+  {
+    "name": "Cool Air USA",
+    "rating": 4.9,
+    "reviews": 4644,
+    "phone": "(877) 230-2448",
+    "website": "http://coolairusa.com/?utm_campaign=gmb",
+    "maps": "https://maps.google.com/?cid=2293311518134502792&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "3901 NW 16th St, Lauderhill, FL 33311, USA"
+  },
+  {
+    "name": "Ask For Cool Air Conditioning, Inc.",
+    "rating": 5,
+    "reviews": 353,
+    "phone": "(954) 678-6764",
+    "website": "https://www.askforcool.com/?utm_source=google&utm_medium=organic&utm_campaign=GMB%20Listing",
+    "maps": "https://maps.google.com/?cid=11767994264095637134&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "10170 NW 47th St, Sunrise, FL 33351, USA"
+  },
+  {
+    "name": "Stay Cool HVAC In Florida LLC",
+    "rating": 4.9,
+    "reviews": 318,
+    "phone": "(954) 477-9399",
+    "website": "https://staycoolinflorida.com/",
+    "maps": "https://maps.google.com/?cid=10905685609413198764&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "1001 NW 62nd St Suite 410, Fort Lauderdale, FL 33309, USA"
+  }
+]

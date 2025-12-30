@@ -1,0 +1,92 @@
+[
+  {
+    "name": "Burgess Heating and Air",
+    "rating": 4.9,
+    "reviews": 1380,
+    "phone": "(727) 516-7171",
+    "website": "http://www.burgessair.com/",
+    "maps": "https://maps.google.com/?cid=13284232431539838226&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "976 DR Martin Luther King JR Street North, Safety Harbor, FL 34695, USA"
+  },
+  {
+    "name": "ACHV Services",
+    "rating": 5,
+    "reviews": 358,
+    "phone": "(727) 453-2432",
+    "website": "https://www.achvservices.com/",
+    "maps": "https://maps.google.com/?cid=7223405524968128675&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "144 Douglas Rd W Apt A, Oldsmar, FL 34677, USA"
+  },
+  {
+    "name": "The AC Guy of Tampa Bay Inc",
+    "rating": 4.7,
+    "reviews": 765,
+    "phone": "(727) 286-3170",
+    "website": "https://www.acguyoftampa.com/",
+    "maps": "https://maps.google.com/?cid=18324461657742603580&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "2070 Calumet St, Clearwater, FL 33765, USA"
+  },
+  {
+    "name": "Harbor Air",
+    "rating": 4.9,
+    "reviews": 217,
+    "phone": "(727) 315-2274",
+    "website": "https://harborairac.net/",
+    "maps": "https://maps.google.com/?cid=15187681090631223347&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "485 Douglas Rd E E C, Oldsmar, FL 34677, USA"
+  },
+  {
+    "name": "FAST of Florida",
+    "rating": 4.8,
+    "reviews": 1841,
+    "phone": "(727) 273-7810",
+    "website": "https://www.fastofflorida.com/",
+    "maps": "https://maps.google.com/?cid=10457202109223650448&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "13101 56th Ct N # 813, Clearwater, FL 33760, USA"
+  },
+  {
+    "name": "Reliant Heating and Air Conditioning, LLC",
+    "rating": 4.9,
+    "reviews": 349,
+    "phone": "(727) 543-2134",
+    "website": "https://reliantacguys.com/",
+    "maps": "https://maps.google.com/?cid=8059891754387610077&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "1175 N Hercules Ave, Clearwater, FL 33765, USA"
+  },
+  {
+    "name": "Prestige HVAC Clearwater Solutions",
+    "rating": 5,
+    "reviews": 51,
+    "phone": "(727) 428-6539",
+    "website": null,
+    "maps": "https://maps.google.com/?cid=18368658481973129706&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "2945 Gulf to Bay Blvd, Clearwater, FL 33759, USA"
+  },
+  {
+    "name": "Metron Air",
+    "rating": 4.9,
+    "reviews": 79,
+    "phone": "(727) 422-2494",
+    "website": null,
+    "maps": "https://maps.google.com/?cid=9756097787562339869&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "35246 US Hwy 19 N #334, Palm Harbor, FL 34683, USA"
+  },
+  {
+    "name": "Ervin Air, Inc.",
+    "rating": 4.9,
+    "reviews": 271,
+    "phone": "(727) 320-0011",
+    "website": "https://www.ervinair.com/",
+    "maps": "https://maps.google.com/?cid=8822175359927455071&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "12961 44th St N Suite A, Clearwater, FL 33762, USA"
+  },
+  {
+    "name": "Pleasant Air Conditioning and Electrical Inc.",
+    "rating": 4.9,
+    "reviews": 140,
+    "phone": "(727) 337-9674",
+    "website": "http://www.pleasantacandelectrical.com/",
+    "maps": "https://maps.google.com/?cid=5177539762116768447&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "3530 Greenglen Cir, Palm Harbor, FL 34684, USA"
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "name": "RCI Air Conditioning Company",
+    "rating": 4.9,
+    "reviews": 527,
+    "phone": "(305) 396-3728",
+    "website": "https://www.rci-air.com/",
+    "maps": "https://maps.google.com/?cid=17868318278594068732&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "16641 SW 117th Ave #10b, Miami, FL 33177, USA"
+  },
+  {
+    "name": "Air On Demand",
+    "rating": 4.9,
+    "reviews": 654,
+    "phone": "(305) 259-5669",
+    "website": "https://www.airondemand.com/?utm_source=google&utm_medium=organic&utm_campaign=gbp",
+    "maps": "https://maps.google.com/?cid=2511863853407667439&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "10682 SW 186th St, Miami, FL 33157, USA"
+  },
+  {
+    "name": "Miami Precision HVAC Repair",
+    "rating": 5,
+    "reviews": 23,
+    "phone": "(305) 928-1802",
+    "website": "https://hvacrepairmiami1.com/",
+    "maps": "https://maps.google.com/?cid=2166750956087219736&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "3900 SW 78th Ct #16, Miami, FL 33155, USA"
+  },
+  {
+    "name": "Island Breeze Air Conditioning, LLC",
+    "rating": 5,
+    "reviews": 170,
+    "phone": "(786) 350-5815",
+    "website": "https://www.islandbreezeac.io/",
+    "maps": "https://maps.google.com/?cid=815370660580339583&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "6831 SW 44th St APT 109, Miami, FL 33155, USA"
+  },
+  {
+    "name": "Beachside AC Repair 24 hour",
+    "rating": 5,
+    "reviews": 11,
+    "phone": "(786) 661-7337",
+    "website": "https://acrepair24seven.com/",
+    "maps": "https://maps.google.com/?cid=5208023865352539531&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "3121 SW 7th St, Miami, FL 33135, USA"
+  },
+  {
+    "name": "ABH Air Conditioning",
+    "rating": 5,
+    "reviews": 89,
+    "phone": "(305) 510-8871",
+    "website": "http://abhcooling.com/",
+    "maps": "https://maps.google.com/?cid=10531021988824526454&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "95 Merrick Way 3rd, 300, Coral Gables, FL 33134, USA"
+  },
+  {
+    "name": "Coral Gables AC Repair",
+    "rating": 5,
+    "reviews": 4,
+    "phone": "(786) 475-6549",
+    "website": "https://www.coralgablesacrepair.net/",
+    "maps": "https://maps.google.com/?cid=4020836486972905770&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "9205 S Dixie Hwy, Coral Gables, FL 33156, USA"
+  },
+  {
+    "name": "HVACOSTA LLC",
+    "rating": 5,
+    "reviews": 2,
+    "phone": "(754) 484-1361",
+    "website": null,
+    "maps": "https://maps.google.com/?cid=16501961317718300404&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "719 Zamora Ave, Miami, FL 33134, USA"
+  },
+  {
+    "name": "Flow -Tech Air Conditioning Corp.",
+    "rating": 4.8,
+    "reviews": 212,
+    "phone": "(305) 264-5051",
+    "website": "https://www.flowtechac.com/",
+    "maps": "https://maps.google.com/?cid=6201542616499945924&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "7023 SW 13th Terrace, Miami, FL 33144, USA"
+  },
+  {
+    "name": "Doctor Air Hvac Corp",
+    "rating": 5,
+    "reviews": 152,
+    "phone": "(786) 367-3152",
+    "website": "http://www.doctorairhvac.com/",
+    "maps": "https://maps.google.com/?cid=13659265222678655149&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "4850 nw 4 terrace 7440 n kendall drive miami fl 33156 1003 sw 142nd pl miami fl 33184, 4850 NW 4th Terrace, Miami, FL 33126, USA"
+  }
+]

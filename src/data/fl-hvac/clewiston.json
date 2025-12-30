@@ -1,0 +1,92 @@
+[
+  {
+    "name": "Taylor Electric And Air Conditioning",
+    "rating": 4.9,
+    "reviews": 61,
+    "phone": "(863) 805-8724",
+    "website": null,
+    "maps": "https://maps.google.com/?cid=13339887075697945602&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "509 E Sagamore Ave, Clewiston, FL 33440, USA"
+  },
+  {
+    "name": "AIRLINK Airconditioning",
+    "rating": 5,
+    "reviews": 8,
+    "phone": "(863) 983-8536",
+    "website": null,
+    "maps": "https://maps.google.com/?cid=897391030893900853&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "515 E Obispo Ave, Clewiston, FL 33440, USA"
+  },
+  {
+    "name": "Garry's Heating & Cooling",
+    "rating": 4.8,
+    "reviews": 18,
+    "phone": "(863) 312-7925",
+    "website": null,
+    "maps": "https://maps.google.com/?cid=5560067029616207646&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "345 W Alverdez Ave, Clewiston, FL 33440, USA"
+  },
+  {
+    "name": "Oasis Mechanical LLC",
+    "rating": 4,
+    "reviews": 4,
+    "phone": "(561) 906-5997",
+    "website": "http://www.oasismechanical.org/",
+    "maps": "https://maps.google.com/?cid=13328247362918932941&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "535 E El Paso Ave suite a, Clewiston, FL 33440, USA"
+  },
+  {
+    "name": "Phillips A/C & Heating Services",
+    "rating": 4.9,
+    "reviews": 71,
+    "phone": "(863) 675-2665",
+    "website": "https://phillipsac.com/",
+    "maps": "https://maps.google.com/?cid=10452238819894531620&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "137 S Industrial Loop Unit 1, LaBelle, FL 33935, USA"
+  },
+  {
+    "name": "Yebba’s Heating and Cooling Inc",
+    "rating": null,
+    "reviews": null,
+    "phone": "(863) 228-3091",
+    "website": null,
+    "maps": "https://maps.google.com/?cid=7034534795154673804&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "718 W Avenida Del Rio, Clewiston, FL 33440, USA"
+  },
+  {
+    "name": "Sunset Air and Home Services",
+    "rating": 4.9,
+    "reviews": 1081,
+    "phone": "(239) 693-9005",
+    "website": "https://sunset-air.com/",
+    "maps": "https://maps.google.com/?cid=8068605959814801631&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "5610 Division Dr, Fort Myers, FL 33905, USA"
+  },
+  {
+    "name": "Worry Free Plumbing",
+    "rating": 4.9,
+    "reviews": 190,
+    "phone": "(863) 233-3207",
+    "website": null,
+    "maps": "https://maps.google.com/?cid=17853849487094216703&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "544 E Sugarland Hwy, Clewiston, FL 33440, USA"
+  },
+  {
+    "name": "Oasis HVAC Supply, LLC.",
+    "rating": 5,
+    "reviews": 1,
+    "phone": "(561) 873-6021",
+    "website": null,
+    "maps": "https://maps.google.com/?cid=14999581742592454232&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "535 E El Paso Ave suite b, Clewiston, FL 33440, USA"
+  },
+  {
+    "name": "Cox Air Conditioning & Electric, Inc.",
+    "rating": 4.5,
+    "reviews": 24,
+    "phone": "(863) 675-0022",
+    "website": null,
+    "maps": "https://maps.google.com/?cid=6377924774911193834&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "99 N Industrial Loop, LaBelle, FL 33935, USA"
+  }
+]

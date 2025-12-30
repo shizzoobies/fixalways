@@ -1,0 +1,92 @@
+[
+  {
+    "name": "Quality Air",
+    "rating": 5,
+    "reviews": 287,
+    "phone": "(850) 687-4458",
+    "website": "http://qualityair.biz/",
+    "maps": "https://maps.google.com/?cid=12729541863385188000&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "221 Business Centre Dr A, Miramar Beach, FL 32550, USA"
+  },
+  {
+    "name": "JP Florida Air Conditioning LLC",
+    "rating": 5,
+    "reviews": 71,
+    "phone": "(754) 225-4369",
+    "website": "https://www.jpfloridaac.com/",
+    "maps": "https://maps.google.com/?cid=10968403030126609023&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "3350 SW 148th Ave Suit 110, Miramar, FL 33027, USA"
+  },
+  {
+    "name": "FRASCONA HVAC-R",
+    "rating": 5,
+    "reviews": 301,
+    "phone": "(305) 417-9707",
+    "website": "https://www.frasconahvacr.com/",
+    "maps": "https://maps.google.com/?cid=16230832781573522844&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "1102 SW 113th Way, Pembroke Pines, FL 33025, USA"
+  },
+  {
+    "name": "PolarTech AC Repair Miramar",
+    "rating": 5,
+    "reviews": 11,
+    "phone": "(954) 613-8699",
+    "website": "https://miramar.polartech.pro/location/ac-repairs-in-miramar-your-ultimate-guide",
+    "maps": "https://maps.google.com/?cid=4431044156347943245&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "14633 Miramar Pkwy #32, Miramar, FL 33027, USA"
+  },
+  {
+    "name": "AC Repair Pros",
+    "rating": 5,
+    "reviews": 19,
+    "phone": "(754) 225-7614",
+    "website": null,
+    "maps": "https://maps.google.com/?cid=7330055174577433108&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "9951 Miramar Pkwy Unit 82, Miramar, FL 33025, USA"
+  },
+  {
+    "name": "Hvar Real Estate, LLC Miramar Hvac FastFix",
+    "rating": 5,
+    "reviews": 1,
+    "phone": "(850) 787-0109",
+    "website": "https://hvacoflosangeles.com/",
+    "maps": "https://maps.google.com/?cid=12066368360965319623&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "3401 SW 160th Ave # 330, Miramar, FL 33027, USA"
+  },
+  {
+    "name": "HI-VAC Air Conditioning Service",
+    "rating": 4.9,
+    "reviews": 1073,
+    "phone": "(954) 738-2908",
+    "website": "http://hivacair.com/",
+    "maps": "https://maps.google.com/?cid=14220210371496913601&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "1671 NW 144th Terrace STE 111, Sunrise, FL 33323, USA"
+  },
+  {
+    "name": "Freezing Mechanical",
+    "rating": 4.7,
+    "reviews": 1366,
+    "phone": "(305) 363-7021",
+    "website": "https://freezingmechanical.com/",
+    "maps": "https://maps.google.com/?cid=8583202408560358266&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "4808 NW 167th St, Miami Gardens, FL 33014, USA"
+  },
+  {
+    "name": "Blaze Air Conditioning",
+    "rating": 5,
+    "reviews": 25,
+    "phone": "(954) 573-3191",
+    "website": null,
+    "maps": "https://maps.google.com/?cid=12284296414311067975&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "3350 SW 141st Ave, Miramar, FL 33027, USA"
+  },
+  {
+    "name": "Air Supply A/c Services & Repairs",
+    "rating": 4.8,
+    "reviews": 139,
+    "phone": "(786) 755-7500",
+    "website": "https://airsupplyacservices.com/",
+    "maps": "https://maps.google.com/?cid=10223427154769353136&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "2010 SW 100th Ave Bay A, Miramar, FL 33025, USA"
+  }
+]

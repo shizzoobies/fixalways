@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="140" viewBox="0 0 560 140">
+  <defs>
+    <linearGradient id="pinGrad" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#2ECC71"/>
+      <stop offset="1" stop-color="#1FA463"/>
+    </linearGradient>
+  </defs>
+  <!-- Mark -->
+  <g transform="translate(20,16)">
+    <path d="M54 0c24 0 44 19 44 43 0 30-44 81-44 81S10 73 10 43C10 19 30 0 54 0z" fill="url(#pinGrad)"/>
+    <circle cx="54" cy="43" r="22" fill="#0E1623"/>
+    <path d="M44 44l7 7 16-18" fill="none" stroke="#EAF0F6" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <!-- Wordmark -->
+  <text x="140" y="86" font-family="Inter, system-ui, -apple-system, BlinkMacSystemFont, sans-serif"
+        font-size="64" font-weight="700" fill="#EAF0F6">FixAlways</text>
+</svg>

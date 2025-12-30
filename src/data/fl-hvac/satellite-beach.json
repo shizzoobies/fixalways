@@ -1,0 +1,92 @@
+[
+  {
+    "name": "Dave Mastro Air & Heat Inc",
+    "rating": 4.9,
+    "reviews": 1104,
+    "phone": "(321) 777-2664",
+    "website": "http://www.davemastroair.com/",
+    "maps": "https://maps.google.com/?cid=10114786426568052068&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "1620 Jimmy Buffett Mem Hwy, Satellite Beach, FL 32937, USA"
+  },
+  {
+    "name": "High Flow AC Repair",
+    "rating": 5,
+    "reviews": 1,
+    "phone": "(321) 599-7772",
+    "website": "https://www.highflowheatingacrepair.com/satellite-beach-fl/",
+    "maps": "https://maps.google.com/?cid=7852211223114609740&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "1290 Jimmy Buffett Mem Hwy #111, Satellite Beach, FL 32937, USA"
+  },
+  {
+    "name": "Space Age Cooling and Heating, Inc.",
+    "rating": 4.7,
+    "reviews": 156,
+    "phone": "(321) 325-2020",
+    "website": null,
+    "maps": "https://maps.google.com/?cid=3206634557396013562&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "1110 Jimmy Buffett Mem Hwy, Satellite Beach, FL 32937, USA"
+  },
+  {
+    "name": "Complete Air & Heat, Inc.",
+    "rating": 4.8,
+    "reviews": 305,
+    "phone": "(321) 779-7068",
+    "website": "http://www.completeairandheat.com/?utm_source=gbp&utm_medium=organic",
+    "maps": "https://maps.google.com/?cid=7530453090629786651&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "1395 S Patrick Dr, Satellite Beach, FL 32937, USA"
+  },
+  {
+    "name": "Arctic Edge AC Repair",
+    "rating": 5,
+    "reviews": 1,
+    "phone": "(321) 850-2532",
+    "website": "https://www.arcticedgeheatingac.com/satellite-beach-fl/",
+    "maps": "https://maps.google.com/?cid=13930468610639633689&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "689 S Hedgecock Square, Satellite Beach, FL 32937, USA"
+  },
+  {
+    "name": "Lift Off HVAC",
+    "rating": 5,
+    "reviews": 17,
+    "phone": "(321) 415-7050",
+    "website": "https://www.liftoffhvac.com/",
+    "maps": "https://maps.google.com/?cid=13768837728811393025&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "1170 S Patrick Dr, Satellite Beach, FL 32937, USA"
+  },
+  {
+    "name": "Dial Duron Service Company",
+    "rating": 4.8,
+    "reviews": 2364,
+    "phone": "(321) 341-3625",
+    "website": "https://www.dialduron.com/",
+    "maps": "https://maps.google.com/?cid=9589656183987149793&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "290 Paint St Suite 101, Rockledge, FL 32955, USA"
+  },
+  {
+    "name": "Brevard Cooling And Heating Inc.",
+    "rating": 4.8,
+    "reviews": 502,
+    "phone": "(321) 757-9008",
+    "website": "https://brevardcooling.com/",
+    "maps": "https://maps.google.com/?cid=14966966376730621139&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "5255 Corporate Ct, Melbourne, FL 32940, USA"
+  },
+  {
+    "name": "Climate Experts Air, Plumbing & Electric",
+    "rating": 4.9,
+    "reviews": 1682,
+    "phone": "(321) 455-8601",
+    "website": "https://www.climateexpertsac.com/?utm_source=google&utm_medium=organic&utm_campaign=gbp",
+    "maps": "https://maps.google.com/?cid=1436757313021131434&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "4270 Dow Rd #209, Melbourne, FL 32934, USA"
+  },
+  {
+    "name": "Masters Air and Heat",
+    "rating": 4.9,
+    "reviews": 63,
+    "phone": "(321) 345-8842",
+    "website": "https://mastersairandheat.com/",
+    "maps": "https://maps.google.com/?cid=15496299042501023421&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "328 Avenue A, Melbourne Beach, FL 32951, USA"
+  }
+]

@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="180" viewBox="0 0 760 180">
+  <defs>
+    <linearGradient id="pinGrad" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#2ECC71"/>
+      <stop offset="1" stop-color="#1FA463"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Mark -->
+  <g transform="translate(20,26)">
+    <path d="M46 0c20 0 36 16 36 35 0 25-36 68-36 68S10 60 10 35C10 16 26 0 46 0z" fill="url(#pinGrad)"/>
+    <circle cx="46" cy="35" r="18" fill="#0E1623"/>
+    <path d="M38 36l6 6 13-15" fill="none" stroke="#EAF0F6" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+
+  <!-- Wordmark -->
+  <g transform="translate(120,0)">
+    <!-- Fix -->
+    <text x="0" y="110" font-family="Inter, system-ui, -apple-system, BlinkMacSystemFont, sans-serif"
+          font-size="72" font-weight="800" fill="#EAF0F6" letter-spacing="-0.5">Fix</text>
+
+    <!-- Custom A (inline) -->
+    <!-- Baseline is y=110, cap height approx y=52 for 72px text (optical), place A accordingly -->
+    <g transform="translate(172,42)">
+      <!-- A fill -->
+      <path d="M40 76 L12 76 L44 0 L76 76 L48 76 L44 64 Z" fill="#EAF0F6"/>
+      <!-- Counter cutout -->
+      <path d="M44 18 L28 58 L60 58 Z" fill="#0E1623"/>
+      <!-- Crossbar -->
+      <rect x="28" y="46" width="32" height="10" fill="#EAF0F6"/>
+      <!-- Check (subtle) -->
+      <path d="M32 50 l8 8 18-20" fill="none" stroke="#2ECC71" stroke-width="6"
+            stroke-linecap="round" stroke-linejoin="round" opacity="0.7"/>
+    </g>
+
+    <!-- lways -->
+    <text x="238" y="110" font-family="Inter, system-ui, -apple-system, BlinkMacSystemFont, sans-serif"
+          font-size="72" font-weight="700" fill="#EAF0F6" letter-spacing="-0.5">lways</text>
+  </g>
+</svg>

@@ -1,0 +1,15 @@
+{
+  "name": "FixAlways",
+  "colors": {
+    "trust_blue": "#1F3A5F",
+    "action_green": "#2ECC71",
+    "cta_hover_green": "#27AE60",
+    "soft_sky": "#EAF2F8",
+    "neutral_gray": "#F4F6F8",
+    "text_charcoal": "#2B2B2B"
+  },
+  "typography": {
+    "primary": "Inter",
+    "fallback": "Inter, system-ui, -apple-system, BlinkMacSystemFont, sans-serif"
+  }
+}

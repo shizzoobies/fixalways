@@ -1,0 +1,92 @@
+[
+  {
+    "name": "True Cool Air Conditioning Service Inc",
+    "rating": 4.9,
+    "reviews": 381,
+    "phone": "(305) 232-7575",
+    "website": "http://www.truecoolac.com/",
+    "maps": "https://maps.google.com/?cid=15678659045288816637&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "5730 SW 74th St #300, South Miami, FL 33143, USA"
+  },
+  {
+    "name": "RCI Air Conditioning Company",
+    "rating": 4.9,
+    "reviews": 527,
+    "phone": "(305) 396-3728",
+    "website": "https://www.rci-air.com/",
+    "maps": "https://maps.google.com/?cid=17868318278594068732&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "16641 SW 117th Ave #10b, Miami, FL 33177, USA"
+  },
+  {
+    "name": "Flow -Tech Air Conditioning Corp.",
+    "rating": 4.8,
+    "reviews": 212,
+    "phone": "(305) 264-5051",
+    "website": "https://www.flowtechac.com/",
+    "maps": "https://maps.google.com/?cid=6201542616499945924&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "7023 SW 13th Terrace, Miami, FL 33144, USA"
+  },
+  {
+    "name": "Centry Air Designs - AC Repair Miami",
+    "rating": 5,
+    "reviews": 10,
+    "phone": "(305) 458-5022",
+    "website": "https://www.centryairdesigns.com/location/downtown-miami-fl",
+    "maps": "https://maps.google.com/?cid=4454519116836881699&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "6351 SW 74th St, South Miami, FL 33143, USA"
+  },
+  {
+    "name": "Southern Comfort Air Conditioning & Builders",
+    "rating": 4.9,
+    "reviews": 146,
+    "phone": "(786) 346-7590",
+    "website": "http://www.southerncomfortac.com/",
+    "maps": "https://maps.google.com/?cid=11045605035250560472&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "14790 SW 88th St #393, Miami, FL 33196, USA"
+  },
+  {
+    "name": "AirFlow Conditioning Services - Miami",
+    "rating": 5,
+    "reviews": 49,
+    "phone": "(305) 609-7675",
+    "website": "https://www.airflowconditioning.com/",
+    "maps": "https://maps.google.com/?cid=10869146861637635155&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "6864 SW 25th Terrace, Miami, FL 33155, USA"
+  },
+  {
+    "name": "Island Breeze Air Conditioning, LLC",
+    "rating": 5,
+    "reviews": 170,
+    "phone": "(786) 350-5815",
+    "website": "https://www.islandbreezeac.io/",
+    "maps": "https://maps.google.com/?cid=815370660580339583&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "6831 SW 44th St APT 109, Miami, FL 33155, USA"
+  },
+  {
+    "name": "Dadeland HVAC Solutions",
+    "rating": 5,
+    "reviews": 23,
+    "phone": "(305) 602-5614",
+    "website": null,
+    "maps": "https://maps.google.com/?cid=14138079706245162558&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "9155 S Dadeland Blvd, Miami, FL 33156, USA"
+  },
+  {
+    "name": "South Cooling LLC",
+    "rating": 4.6,
+    "reviews": 637,
+    "phone": "(305) 463-8866",
+    "website": "http://southcooling.com/",
+    "maps": "https://maps.google.com/?cid=20767136886976067&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "7880 W 25th Ave, Hialeah, FL 33016, USA"
+  },
+  {
+    "name": "AC Cooling 305",
+    "rating": 5,
+    "reviews": 1,
+    "phone": "(954) 410-7356",
+    "website": "http://accooling305.godaddysites.com/",
+    "maps": "https://maps.google.com/?cid=11299334159680082097&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "6840 SW 49th St, Miami, FL 33155, USA"
+  }
+]
