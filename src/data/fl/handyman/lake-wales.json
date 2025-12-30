@@ -1,0 +1,72 @@
+[
+  {
+    "name": "FTK Home Repair, LLC",
+    "rating": 4.9,
+    "reviews": 35,
+    "phone": "(863) 605-4886",
+    "website": "https://ftkhomerepair.com/",
+    "address": "1075 Tequesta Trail, Lake Wales, FL 33898, USA",
+    "place_id": "ChIJY9E0Of0p4GARd3D9b7eiGnQ",
+    "maps_url": "https://maps.google.com/?cid=8366178166535712887"
+  },
+  {
+    "name": "Knights Construction and HandyMan Services LLC",
+    "rating": 4,
+    "reviews": 4,
+    "phone": "(863) 241-4047",
+    "website": "",
+    "address": "721 Hibiscus Ave, Lake Wales, FL 33853, USA",
+    "place_id": "ChIJvyAteOYI3YgRW0Yrt2DQC2k",
+    "maps_url": "https://maps.google.com/?cid=7569372712534754907"
+  },
+  {
+    "name": "DBS Handyman Services & Roofing",
+    "rating": 5,
+    "reviews": 2,
+    "phone": "(863) 514-2984",
+    "website": "https://m.facebook.com/DBSrenovations/",
+    "address": "1455 Country Oaks Blvd, Lake Wales, FL 33898, USA",
+    "place_id": "ChIJpfhatWgL3YgRPsKsEXJSgso",
+    "maps_url": "https://maps.google.com/?cid=14592316392510112318"
+  },
+  {
+    "name": "Sosa home remodeling",
+    "rating": 5,
+    "reviews": 1,
+    "phone": "(863) 605-1548",
+    "website": "",
+    "address": "413 Kissimmee Ave, Lake Wales, FL 33853, USA",
+    "place_id": "ChIJJxC6TLIJ3YgRxIODt3eAC1w",
+    "maps_url": "https://maps.google.com/?cid=6632536127901500356"
+  },
+  {
+    "name": "D&K Handyman Solutions",
+    "rating": 4.8,
+    "reviews": 16,
+    "phone": "(863) 364-4030",
+    "website": "https://www.facebook.com/profile.php?id=61571541401533",
+    "address": "941 Gotthard Pass Dr., Winter Haven, FL 33881, USA",
+    "place_id": "ChIJU1D3KVJz3YgR0I5Teek3f4g",
+    "maps_url": "https://maps.google.com/?cid=9835641587102879440"
+  },
+  {
+    "name": "W&W Complete Property Maintenance Management Inc",
+    "rating": 5,
+    "reviews": 1,
+    "phone": "(863) 605-6647",
+    "website": "",
+    "address": "2530 Appaloosa Rd, Lake Wales, FL 33898, USA",
+    "place_id": "ChIJW6GGIgcL3YgRQOM6axKUopw",
+    "maps_url": "https://maps.google.com/?cid=11286746422973227840"
+  },
+  {
+    "name": "Ace Handyman Services Lakeland",
+    "rating": 4.8,
+    "reviews": 429,
+    "phone": "(863) 777-2343",
+    "website": "https://www.acehandymanservices.com/offices/lakeland",
+    "address": "2225 E Edgewood Dr STE 14, Lakeland, FL 33803, USA",
+    "place_id": "ChIJ6bNpBoE_3YgROSr_1JOKrbY",
+    "maps_url": "https://maps.google.com/?cid=13163329653412145721"
+  }
+]

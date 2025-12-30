@@ -1,0 +1,122 @@
+[
+  {
+    "name": "A & B Exterminators",
+    "rating": 4.3,
+    "reviews": 16,
+    "phone": "(305) 743-6344",
+    "website": "https://www.abexterminators.com/",
+    "address": "1585 Yellowtail Dr, Marathon, FL 33050, USA",
+    "place_id": "ChIJjYUWiV7Z0IgRo88a5qMBURY",
+    "maps_url": "https://maps.google.com/?cid=1608068345399791523"
+  },
+  {
+    "name": "Total Control Pest Control, LLC",
+    "rating": 5,
+    "reviews": 2,
+    "phone": "(305) 735-4043",
+    "website": "",
+    "address": "118 Bahama Dr N, Marathon, FL 33050, USA",
+    "place_id": "ChIJz2eXbZ3R0IgRZ4hc6Tksbm8",
+    "maps_url": "https://maps.google.com/?cid=8029403812888086631"
+  },
+  {
+    "name": "HAMMERHEAD TERMITE CONTROL",
+    "rating": 4.4,
+    "reviews": 44,
+    "phone": "(305) 515-2800",
+    "website": "http://www.tentfumigation.net/",
+    "address": "30385 Quail Roost Trail, Big Pine Key, FL 33043, USA",
+    "place_id": "ChIJiXNoZ0P90IgRV_VbaXo4Spw",
+    "maps_url": "https://maps.google.com/?cid=11261875916598146391"
+  },
+  {
+    "name": "Truly Nolen Pest & Termite Control",
+    "rating": 4.8,
+    "reviews": 599,
+    "phone": "(305) 451-9900",
+    "website": "https://locations.trulynolen.com/fl/keylargo/key-largo-072.html?utm_source=local&utm_medium=organic&utm_campaign=googlemybusiness",
+    "address": "100105 Overseas Hwy, Key Largo, FL 33037, USA",
+    "place_id": "ChIJ64vLM8Jp14gRA3wIwdAP-AY",
+    "maps_url": "https://maps.google.com/?cid=502168747717983235"
+  },
+  {
+    "name": "Williams Pest Control",
+    "rating": 5,
+    "reviews": 5,
+    "phone": "(305) 872-1008",
+    "website": "https://www.keithwilliamspestcontrol.com/",
+    "address": "29526 Ranger Ave, Big Pine Key, FL 33043, USA",
+    "place_id": "ChIJywOy1ZL90IgRKzvKlxJZdCI",
+    "maps_url": "https://maps.google.com/?cid=2482707230978882347"
+  },
+  {
+    "name": "Marathon Pest Control",
+    "rating": 5,
+    "reviews": 128,
+    "phone": "(832) 934-7378",
+    "website": "https://www.marathonpest.com/",
+    "address": "32302 Tamina Rd, Magnolia, TX 77354, USA",
+    "place_id": "ChIJJ3kH3e0vR4YRJEIAcVHVAZo",
+    "maps_url": "https://maps.google.com/?cid=11097385502582522404"
+  },
+  {
+    "name": "Florida Keys Mosquito Control",
+    "rating": 4,
+    "reviews": 7,
+    "phone": "(305) 292-7190",
+    "website": "https://keysmosquito.org/",
+    "address": "503 107th Street Gulf, Marathon, FL 33050, USA",
+    "place_id": "ChIJOa7bd33Z0IgRN305seJWLmQ",
+    "maps_url": "https://maps.google.com/?cid=7218802784357416247"
+  },
+  {
+    "name": "McCall Pest & Wildlife - Gainesville",
+    "rating": 4.9,
+    "reviews": 984,
+    "phone": "(352) 660-8663",
+    "website": "https://www.mccallservice.com/our-service-areas/gainesville-pest-control/",
+    "address": "415 NW 250th St #1, Newberry, FL 32669, USA",
+    "place_id": "ChIJb52OwR_B6IgRS_X5eOlMGoA",
+    "maps_url": "https://maps.google.com/?cid=9230774951889990987"
+  },
+  {
+    "name": "Patriot Pest Management",
+    "rating": 4.9,
+    "reviews": 777,
+    "phone": "(850) 852-1120",
+    "website": "https://www.patriotpest.net/?utm_campaign=gmb",
+    "address": "3701 US-90, Pace, FL 32571, USA",
+    "place_id": "ChIJ40bxPxnskIgRwMG4hCuJjIs",
+    "maps_url": "https://maps.google.com/?cid=10055562888014774720"
+  },
+  {
+    "name": "Keys Pest Control",
+    "rating": 4.4,
+    "reviews": 33,
+    "phone": "(305) 294-5048",
+    "website": "https://keyspestcontrol.com/",
+    "address": "3208 Flagler Ave, Key West, FL 33040, USA",
+    "place_id": "ChIJS6DLFUex0YgREzed1TyyHQU",
+    "maps_url": "https://maps.google.com/?cid=368646718865880851"
+  },
+  {
+    "name": "Williams Pest Control",
+    "rating": 4.8,
+    "reviews": 11,
+    "phone": "(305) 295-6545",
+    "website": "https://www.keithwilliamspestcontrol.com/",
+    "address": "Key West, FL 33040, USA",
+    "place_id": "ChIJNxt4jMu20YgRYyaFH49uYZg",
+    "maps_url": "https://maps.google.com/?cid=10980178927494178403"
+  },
+  {
+    "name": "Live Oak Pest Control",
+    "rating": 4.9,
+    "reviews": 1352,
+    "phone": "(866) 313-0044",
+    "website": "http://liveoakpestcontrol.com/?utm_source=google&utm_medium=gbp&utm_campaign=mcalpin",
+    "address": "17856 US-129, McAlpin, FL 32062, USA",
+    "place_id": "ChIJOWsMXqfX7ogRaDV3qDhZkEA",
+    "maps_url": "https://maps.google.com/?cid=4652316514953147752"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "name": "JMA Electric",
+    "rating": 3.5,
+    "reviews": 11,
+    "phone": "(561) 993-9225",
+    "website": "",
+    "address": "325 SE 2nd St, Belle Glade, FL 33430, USA",
+    "place_id": "ChIJYZedsnBQ2YgRwuyAjDhhPwE",
+    "maps_url": "https://maps.google.com/?cid=89897413074021570"
+  },
+  {
+    "name": "Carter Electric of Belle Glade LLC",
+    "rating": 3.5,
+    "reviews": 2,
+    "phone": "(561) 996-7218",
+    "website": "",
+    "address": "1200 NW 16th St, Belle Glade, FL 33430, USA",
+    "place_id": "ChIJKWUOPYlQ2YgR_qaPezTwR88",
+    "maps_url": "https://maps.google.com/?cid=14936170797399516926"
+  },
+  {
+    "name": "Anything Man",
+    "rating": 5,
+    "reviews": 3,
+    "phone": "(561) 975-3816",
+    "website": "",
+    "address": "512 SW 9th St #4, Belle Glade, FL 33430, USA",
+    "place_id": "ChIJk9FIUsFR2YgRGhp4yroIeNg",
+    "maps_url": "https://maps.google.com/?cid=15598226907751520794"
+  },
+  {
+    "name": "Rexel",
+    "rating": 4.8,
+    "reviews": 6,
+    "phone": "(561) 996-0515",
+    "website": "https://www.rexelusa.com/locations/FL/Belle-Glade/1142?utm_source=local-listings&utm_medium=organic&utm_content=GMB",
+    "address": "134 SW 16th St, Belle Glade, FL 33430, USA",
+    "place_id": "ChIJNQTycIRQ2YgRdy8nFL-Z_n0",
+    "maps_url": "https://maps.google.com/?cid=9078862944781414263"
+  }
+]

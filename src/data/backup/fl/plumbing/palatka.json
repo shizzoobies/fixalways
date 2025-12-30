@@ -1,0 +1,83 @@
+[
+  {
+    "name": "Southern Air",
+    "rating": 4.9,
+    "reviews": 1647,
+    "phone": "(386) 384-8644",
+    "website": "https://southernair.net/?utm_source=GBP&utm_medium=Organic",
+    "maps": "https://maps.google.com/?cid=16898989101770479276&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "3849 Reid St, Palatka, FL 32177, USA"
+  },
+  {
+    "name": "Love My AC LLC",
+    "rating": 4.9,
+    "reviews": 309,
+    "phone": "(904) 826-9214",
+    "website": "http://lovemyac.com/",
+    "maps": "https://maps.google.com/?cid=10966257367909306963&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "116 Husson Ave, Palatka, FL 32177, USA"
+  },
+  {
+    "name": "Palatka Heating & Air",
+    "rating": 4.7,
+    "reviews": 70,
+    "phone": "(386) 325-3570",
+    "website": "http://palatkaheatingandair.com/",
+    "maps": "https://maps.google.com/?cid=17733418994307742976&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "1221 Moseley Ave, Palatka, FL 32177, USA"
+  },
+  {
+    "name": "Artic Air Home Services",
+    "rating": 4.9,
+    "reviews": 1038,
+    "phone": "(386) 243-2158",
+    "website": "https://articairhomeservices.com/?utm_source=google&utm_medium=gbp-palatka&se_campaign=Organic%20-%20GBP%20-%20FM",
+    "maps": "https://maps.google.com/?cid=4830094753375793559&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "342 US-17, East Palatka, FL 32131, USA"
+  },
+  {
+    "name": "Hart Heating & Air LLC",
+    "rating": 5,
+    "reviews": 9,
+    "phone": "(386) 937-5824",
+    "website": "http://www.hartheatingandairllc.com/",
+    "maps": "https://maps.google.com/?cid=9583429930095961533&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "201 Silver Lake Terrace, Palatka, FL 32177, USA"
+  },
+  {
+    "name": "Keystone HVAC Services LLC",
+    "rating": 5,
+    "reviews": 101,
+    "phone": "(904) 815-7930",
+    "website": "https://www.keystonehvac.services/",
+    "maps": "https://maps.google.com/?cid=1799312855331485209&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "625 SE Lakeview Dr, Keystone Heights, FL 32656, USA"
+  },
+  {
+    "name": "Gods Grace AC & Heating",
+    "rating": 4.7,
+    "reviews": 28,
+    "phone": "(386) 325-2620",
+    "website": null,
+    "maps": "https://maps.google.com/?cid=17070315991104743694&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "194 Yelvington Rd, East Palatka, FL 32131, USA"
+  },
+  {
+    "name": "H & W Griffith Construction Inc",
+    "rating": 4.9,
+    "reviews": 13,
+    "phone": "(689) 265-3195",
+    "website": null,
+    "maps": "https://maps.google.com/?cid=14876630198679262908&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "201 County Rd 315, Interlachen, FL 32148, USA"
+  },
+  {
+    "name": "Platinum HVAC",
+    "rating": 5,
+    "reviews": 158,
+    "phone": "(386) 260-3120",
+    "website": "https://platinumhvacflorida.com/?utm_source=Google&utm_medium=organic&utm_campaign=Google&utm_id=Google&utm_content=Platinum+HVAC+Florida",
+    "maps": "https://maps.google.com/?cid=5829864932685806400&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "100 Plainview Dr, Palm Coast, FL 32164, USA"
+  }
+]

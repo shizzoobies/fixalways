@@ -1,0 +1,92 @@
+[
+  {
+    "name": "Gulf Coast",
+    "rating": 4.9,
+    "reviews": 598,
+    "phone": "(727) 329-6696",
+    "website": "https://www.makeitcold.com/",
+    "maps": "https://maps.google.com/?cid=9910832109342065865&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "6331 39th St N Ste 100, Pinellas Park, FL 33781, USA"
+  },
+  {
+    "name": "Total Air Inc.",
+    "rating": 4.8,
+    "reviews": 1753,
+    "phone": "(727) 888-2922",
+    "website": "https://totalairinc.net/?utm_source=gmb&utm_medium=organic",
+    "maps": "https://maps.google.com/?cid=6847829630878700834&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "3100 39th Ave N, St. Petersburg, FL 33714, USA"
+  },
+  {
+    "name": "Kron & West, Inc",
+    "rating": 4.8,
+    "reviews": 561,
+    "phone": "(727) 345-0317",
+    "website": "https://www.kronwest.com/?utm_source=google&utm_medium=organic&utm_campaign=gbp",
+    "maps": "https://maps.google.com/?cid=3114793839351279573&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "6981 Sunset Dr S, South Pasadena, FL 33707, USA"
+  },
+  {
+    "name": "Custom Air Works HVAC",
+    "rating": 4.9,
+    "reviews": 43,
+    "phone": "(727) 641-0558",
+    "website": "http://customairworks.com/",
+    "maps": "https://maps.google.com/?cid=17186947896662217249&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "5111 8th Ave S B, Gulfport, FL 33707, USA"
+  },
+  {
+    "name": "The Service Pros AC Repair St Petersburg",
+    "rating": 5,
+    "reviews": 213,
+    "phone": "(727) 222-0237",
+    "website": "http://theservicepros.com/",
+    "maps": "https://maps.google.com/?cid=10342156825796400079&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "1700 4th St S Unit C, St. Petersburg, FL 33701, USA"
+  },
+  {
+    "name": "Viking Air Services, LLC",
+    "rating": 5,
+    "reviews": 693,
+    "phone": "(727) 777-5200",
+    "website": "https://www.vikingcoldair.com/",
+    "maps": "https://maps.google.com/?cid=8672965573054511663&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "4801 58th Ave N, St. Petersburg, FL 33714, USA"
+  },
+  {
+    "name": "GoodWind Cooling & Heating Inc.",
+    "rating": 5,
+    "reviews": 71,
+    "phone": "(727) 557-9517",
+    "website": "https://goodwindfl.com/?utm_source=gmb&utm_medium=organic",
+    "maps": "https://maps.google.com/?cid=6342764400641425308&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "5210 57th Ave N, St. Petersburg, FL 33709, USA"
+  },
+  {
+    "name": "Harrington Air Conditioning",
+    "rating": 4.9,
+    "reviews": 1153,
+    "phone": "(727) 477-1004",
+    "website": "https://www.harringtonac.com/",
+    "maps": "https://maps.google.com/?cid=2437287134144741343&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "7840 62nd St N, Pinellas Park, FL 33781, USA"
+  },
+  {
+    "name": "Precision Air conditioning & Refrigeration Inc.",
+    "rating": 4.7,
+    "reviews": 192,
+    "phone": "(727) 515-5506",
+    "website": "http://www.precisionairflorida.com/",
+    "maps": "https://maps.google.com/?cid=8885478963240021256&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "6577 49th Ave N Unit 4, St. Petersburg, FL 33709, USA"
+  },
+  {
+    "name": "Sevier & Heating Air Conditioning Service",
+    "rating": 5,
+    "reviews": 221,
+    "phone": "(727) 851-1393",
+    "website": "https://sevierandheating.com/",
+    "maps": "https://maps.google.com/?cid=4904909324617056351&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "7674 Bristol Ct N, St. Petersburg, FL 33709, USA"
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "name": "Haynes Pest Control Inc",
+    "rating": 4.8,
+    "reviews": 158,
+    "phone": "(863) 382-2272",
+    "website": "http://www.haynespestcontrol.com/",
+    "address": "393 County Rd 17A W STE2, Avon Park, FL 33825, USA",
+    "place_id": "ChIJz1WZx-1X3IgRmDFy2ZNvKiw",
+    "maps_url": "https://maps.google.com/?cid=3182478767489692056"
+  },
+  {
+    "name": "Bug Doctor",
+    "rating": 4.6,
+    "reviews": 20,
+    "phone": "(863) 453-5969",
+    "website": "https://floridabugdoctor.com/",
+    "address": "1572 US-27, Avon Park, FL 33825, USA",
+    "place_id": "ChIJvyucFo1V3IgRH6vylNnLHGw",
+    "maps_url": "https://maps.google.com/?cid=7790325590811388703"
+  },
+  {
+    "name": "Bug's Bee-Ware Exterminating",
+    "rating": 4.9,
+    "reviews": 399,
+    "phone": "(863) 385-0404",
+    "website": "https://bugsbeeware.com/",
+    "address": "610 State Rte 66, Sebring, FL 33875, USA",
+    "place_id": "ChIJDUQ1Lj9X3IgRtMPejBW9EtM",
+    "maps_url": "https://maps.google.com/?cid=15209426791838958516"
+  },
+  {
+    "name": "Hurst Pest Services",
+    "rating": 5,
+    "reviews": 73,
+    "phone": "(863) 638-3732",
+    "website": "http://www.hurstpestservices.com/",
+    "address": "1060 US-98, Frostproof, FL 33843, USA",
+    "place_id": "ChIJzXIiPHIG3YgRsG7KWyOeeaY",
+    "maps_url": "https://maps.google.com/?cid=11995792957179063984"
+  },
+  {
+    "name": "All Bugs Pest Control - Pest Control & Lawn Care",
+    "rating": 4.6,
+    "reviews": 9,
+    "phone": "(863) 255-3173",
+    "website": "https://www.allbugspestcontrolfl.com/",
+    "address": "2725 Old Grove Trail, Frostproof, FL 33843, USA",
+    "place_id": "ChIJmQ-nwB6r3YgRz-d7TfPaQLI",
+    "maps_url": "https://maps.google.com/?cid=12844506875772528591"
+  },
+  {
+    "name": "McCall Pest & Wildlife - Gainesville",
+    "rating": 4.9,
+    "reviews": 984,
+    "phone": "(352) 660-8663",
+    "website": "https://www.mccallservice.com/our-service-areas/gainesville-pest-control/",
+    "address": "415 NW 250th St #1, Newberry, FL 32669, USA",
+    "place_id": "ChIJb52OwR_B6IgRS_X5eOlMGoA",
+    "maps_url": "https://maps.google.com/?cid=9230774951889990987"
+  },
+  {
+    "name": "Sunny South Exterminators",
+    "rating": 4.4,
+    "reviews": 21,
+    "phone": "(863) 382-1850",
+    "website": "http://www.sunnysouthels.net/Landscaping-Services-Sebring-FL.html",
+    "address": "5146 Schumacher Rd, Sebring, FL 33872, USA",
+    "place_id": "ChIJ1xxvQHj43IgRanLguqFcXbk",
+    "maps_url": "https://maps.google.com/?cid=13356933919545520746"
+  },
+  {
+    "name": "Young's Lawn & Pest Control . Inc",
+    "rating": 4.4,
+    "reviews": 7,
+    "phone": "(863) 402-1698",
+    "website": "http://ylpestcontrol.com/",
+    "address": "9160 McRoy Rd, Sebring, FL 33875, USA",
+    "place_id": "ChIJU4j48iFZ3IgRQvOEX76BDd0",
+    "maps_url": "https://maps.google.com/?cid=15928530111725630274"
+  },
+  {
+    "name": "Advanced Pest Control",
+    "rating": 4.2,
+    "reviews": 5,
+    "phone": "(863) 453-8077",
+    "website": "",
+    "address": "5003 Whiting Dr, Sebring, FL 33870, USA",
+    "place_id": "ChIJUyngC29X3IgRzEezdXWJ8BY",
+    "maps_url": "https://maps.google.com/?cid=1652972200823834572"
+  }
+]

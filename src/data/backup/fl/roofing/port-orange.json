@@ -1,0 +1,92 @@
+[
+  {
+    "name": "Rossi's Heating & Air Conditioning",
+    "rating": 4.9,
+    "reviews": 253,
+    "phone": "(386) 767-7422",
+    "website": "http://www.rossiac.com/",
+    "maps": "https://maps.google.com/?cid=17484221346358688989&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "215 Church St, Port Orange, FL 32127, USA"
+  },
+  {
+    "name": "Air Systems Of Daytona",
+    "rating": 4.9,
+    "reviews": 642,
+    "phone": "(386) 252-1222",
+    "website": "http://www.airsystemsofdaytona.com/",
+    "maps": "https://maps.google.com/?cid=17857589754559375535&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "750 Oak Heights Ct STE 310, Port Orange, FL 32127, USA"
+  },
+  {
+    "name": "Extra Air Conditioning and Heating",
+    "rating": 4.9,
+    "reviews": 212,
+    "phone": "(386) 444-0494",
+    "website": "https://www.extraairandheat.com/",
+    "maps": "https://maps.google.com/?cid=15092593186713092434&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "700 Justice Ct, Port Orange, FL 32128, USA"
+  },
+  {
+    "name": "Port, Orange Air Conditioning & Heating Inc",
+    "rating": 4.6,
+    "reviews": 22,
+    "phone": "(386) 761-6690",
+    "website": "http://www.portorangeairconditioning.com/",
+    "maps": "https://maps.google.com/?cid=3388550191722940225&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "515 Herbert St STE C, Port Orange, FL 32129, USA"
+  },
+  {
+    "name": "Air Conditioning & Heating Contracting Service",
+    "rating": 4.4,
+    "reviews": 19,
+    "phone": "(386) 348-5211",
+    "website": null,
+    "maps": "https://maps.google.com/?cid=13921791203750931535&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "955 Herbert St, Port Orange, FL 32129, USA"
+  },
+  {
+    "name": "Advanced Air Home Services",
+    "rating": 4.7,
+    "reviews": 4288,
+    "phone": "(386) 260-2330",
+    "website": "https://www.advancedairandheat.com/",
+    "maps": "https://maps.google.com/?cid=14314509626584894671&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "1939 W Park Ave, Edgewater, FL 32132, USA"
+  },
+  {
+    "name": "Jerry Brittingham A/C & Heat, Inc.",
+    "rating": 4.9,
+    "reviews": 534,
+    "phone": "(386) 590-9424",
+    "website": "https://www.brittinghamac.com/",
+    "maps": "https://maps.google.com/?cid=2122279683778535095&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "947 Beville Rd Ste. 8, South Daytona, FL 32119, USA"
+  },
+  {
+    "name": "Jeff's Mid Florida Heating & Air Conditioning Inc",
+    "rating": 4.7,
+    "reviews": 63,
+    "phone": "(386) 760-1444",
+    "website": "https://www.midfloridaonline.com/testimonials/",
+    "maps": "https://maps.google.com/?cid=3704236032277572761&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "5677 Lancewood Dr, Port Orange, FL 32127, USA"
+  },
+  {
+    "name": "A/C Doctor Complete Inc.",
+    "rating": 4.8,
+    "reviews": 430,
+    "phone": "(386) 677-2665",
+    "website": "http://www.677cool.com/",
+    "maps": "https://maps.google.com/?cid=9678732371985051474&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "1206 Flomich St, Daytona Beach, FL 32117, USA"
+  },
+  {
+    "name": "ACR Air Conditioning & Refrigeration",
+    "rating": 5,
+    "reviews": 8,
+    "phone": "(386) 845-3599",
+    "website": "https://www.callacr.com/",
+    "maps": "https://maps.google.com/?cid=8227071723312329159&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "939 Alexander Ave, Port Orange, FL 32129, USA"
+  }
+]

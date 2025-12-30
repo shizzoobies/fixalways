@@ -1,0 +1,47 @@
+[
+  {
+    "name": "Dave Mastro Air & Heat Inc",
+    "rating": 4.9,
+    "reviews": 1104,
+    "phone": "(321) 777-2664",
+    "website": "http://www.davemastroair.com/",
+    "maps": "https://maps.google.com/?cid=10114786426568052068&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "1620 Jimmy Buffett Mem Hwy, Satellite Beach, FL 32937, USA"
+  },
+  {
+    "name": "Wallace Air Conditioning & Heating",
+    "rating": 4,
+    "reviews": 50,
+    "phone": "(321) 773-7696",
+    "website": "http://www.wallaceairheat.com/",
+    "maps": "https://maps.google.com/?cid=16635361355483596559&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "131-16A, Tomahawk Dr, Indian Harbour Beach, FL 32937, USA"
+  },
+  {
+    "name": "Complete Air & Heat, Inc.",
+    "rating": 4.8,
+    "reviews": 305,
+    "phone": "(321) 779-7068",
+    "website": "http://www.completeairandheat.com/?utm_source=gbp&utm_medium=organic",
+    "maps": "https://maps.google.com/?cid=7530453090629786651&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "1395 S Patrick Dr, Satellite Beach, FL 32937, USA"
+  },
+  {
+    "name": "Brevard Cooling And Heating Inc.",
+    "rating": 4.8,
+    "reviews": 502,
+    "phone": "(321) 757-9008",
+    "website": "https://brevardcooling.com/",
+    "maps": "https://maps.google.com/?cid=14966966376730621139&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "5255 Corporate Ct, Melbourne, FL 32940, USA"
+  },
+  {
+    "name": "Air Care Of Brevard Inc",
+    "rating": 5,
+    "reviews": 18,
+    "phone": "(321) 777-1449",
+    "website": "http://aircareofbrevard.com/",
+    "maps": "https://maps.google.com/?cid=14210233310502859187&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "961 Flotilla Club Dr, Indian Harbour Beach, FL 32937, USA"
+  }
+]

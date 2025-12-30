@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Clyde Johnson Contracting & Roofing, Inc.",
+    "rating": 4.4,
+    "reviews": 104,
+    "phone": "(863) 805-0001",
+    "website": "https://johnsongroup.global/",
+    "address": "206 Lotus St, Clewiston, FL 33440, USA",
+    "place_id": "ChIJ3zEac7L724gRr0_49AaA_rE",
+    "maps_url": "https://maps.google.com/?cid=12825829556165824431"
+  },
+  {
+    "name": "Superior Contracting Of South Florida",
+    "rating": 4.7,
+    "reviews": 46,
+    "phone": "(855) 362-2001",
+    "website": "https://www.yourroofingexperts.com/",
+    "address": "141 S Deane Duff Ave, Clewiston, FL 33440, USA",
+    "place_id": "ChIJiToqLL3724gR0dHiN6ob19k",
+    "maps_url": "https://maps.google.com/?cid=15697045444119155153"
+  },
+  {
+    "name": "Roofing For Less",
+    "rating": 0,
+    "reviews": 0,
+    "phone": "",
+    "website": "https://roofingforless.shop/",
+    "address": "1800 Red Rd, Clewiston, FL 33440, USA",
+    "place_id": "ChIJHfhmgMP724gR1xENh029HxA",
+    "maps_url": "https://maps.google.com/?cid=1161855369560789463"
+  }
+]

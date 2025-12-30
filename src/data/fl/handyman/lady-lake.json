@@ -1,0 +1,52 @@
+[
+  {
+    "name": "GBR Handyman Service",
+    "rating": 4.9,
+    "reviews": 53,
+    "phone": "(352) 234-4494",
+    "website": "http://gbrhandyman.com/",
+    "address": "126 Shenandoah Ave B, Lady Lake, FL 32159, USA",
+    "place_id": "ChIJkXlX-juIBkoR-vPu5jsLEeM",
+    "maps_url": "https://maps.google.com/?cid=16361871273119118330"
+  },
+  {
+    "name": "M. Wenzel Handyman Services LLC",
+    "rating": 5,
+    "reviews": 35,
+    "phone": "(352) 661-8725",
+    "website": "",
+    "address": "1624 W. Schwartz Blvd Lady Lake, The Villages, FL 32159, USA",
+    "place_id": "ChIJgZtal7ePcgURw_vW26fgBiQ",
+    "maps_url": "https://maps.google.com/?cid=2596009246778129347"
+  },
+  {
+    "name": "Ace Handyman Services The Villages",
+    "rating": 4.8,
+    "reviews": 381,
+    "phone": "(352) 234-8874",
+    "website": "https://www.acehandymanservices.com/offices/the-villages",
+    "address": "17860 SE 109th Ave Suite 604, Summerfield, FL 34491, USA",
+    "place_id": "ChIJO5D9uR_F54gRSVYSykKAVoQ",
+    "maps_url": "https://maps.google.com/?cid=9535950285350000201"
+  },
+  {
+    "name": "Tropical Handyman",
+    "rating": 5,
+    "reviews": 9,
+    "phone": "(352) 221-3002",
+    "website": "https://tropicalhandyman.com/",
+    "address": "3000 SE 143rd Pl, Summerfield, FL 34491, USA",
+    "place_id": "ChIJP7ZZG4PP54gR9KNdaAhrdN0",
+    "maps_url": "https://maps.google.com/?cid=15957497063535387636"
+  },
+  {
+    "name": "Reliable Tasks Pros",
+    "rating": 0,
+    "reviews": 0,
+    "phone": "(352) 350-3144",
+    "website": "https://www.reliabletaskspros.com/",
+    "address": "40129 Palm St, Lady Lake, FL 32159, USA",
+    "place_id": "ChIJn4s9P73H54gRNfVI2TjWHJg",
+    "maps_url": "https://maps.google.com/?cid=10960871132764894517"
+  }
+]

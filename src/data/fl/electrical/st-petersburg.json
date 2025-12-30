@@ -1,0 +1,252 @@
+[
+  {
+    "name": "Everingham Electric",
+    "rating": 4.8,
+    "reviews": 152,
+    "phone": "(727) 422-8455",
+    "website": "http://everinghamelectric.com/",
+    "address": "3620 18th Ave S, St. Petersburg, FL 33711, USA",
+    "place_id": "ChIJF4rahAwew4gRuBEvqZv4-CA",
+    "maps_url": "https://maps.google.com/?cid=2375922150879990200"
+  },
+  {
+    "name": "J & L Sanchez, Inc. Electrical Contractors",
+    "rating": 5,
+    "reviews": 27,
+    "phone": "(727) 341-0123",
+    "website": "http://www.jnlsanchez.com/",
+    "address": "6543 Bougainvilla Ave S, St. Petersburg, FL 33707, USA",
+    "place_id": "ChIJY5fs587iwogRL9GPhqbPxBE",
+    "maps_url": "https://maps.google.com/?cid=1280376508209156399"
+  },
+  {
+    "name": "Maynard Electric",
+    "rating": 4.1,
+    "reviews": 64,
+    "phone": "(727) 525-0677",
+    "website": "http://www.localfloridaelectrician.com/",
+    "address": "4823 46th Ave N, St. Petersburg, FL 33714, USA",
+    "place_id": "ChIJ0zvYgXDjwogRW6OV4-7iokg",
+    "maps_url": "https://maps.google.com/?cid=5233995232606266203"
+  },
+  {
+    "name": "Suncoast Inc",
+    "rating": 4.4,
+    "reviews": 57,
+    "phone": "(727) 347-2176",
+    "website": "http://suncoastelectricinc.com/",
+    "address": "6100 Haines Rd N, St. Petersburg, FL 33714, USA",
+    "place_id": "ChIJhQNY98v8wogR0Fw8IAGZvvE",
+    "maps_url": "https://maps.google.com/?cid=17419528638830501072"
+  },
+  {
+    "name": "Saltside",
+    "rating": 5,
+    "reviews": 28,
+    "phone": "(727) 433-0787",
+    "website": "http://saltsideelectric.com/",
+    "address": "4636 Redfish Ln SE, St. Petersburg, FL 33705, USA",
+    "place_id": "ChIJfRC9UB4ew4gRqEg6gAIazmA",
+    "maps_url": "https://maps.google.com/?cid=6975541470887037096"
+  },
+  {
+    "name": "The Electric Connection",
+    "rating": 4.6,
+    "reviews": 27,
+    "phone": "(727) 821-1568",
+    "website": "https://electricconnection.weebly.com/",
+    "address": "2027 2nd Ave S, St. Petersburg, FL 33712, USA",
+    "place_id": "ChIJTTUDvDHiwogRGhcnAD9Hwys",
+    "maps_url": "https://maps.google.com/?cid=3153442500000552730"
+  },
+  {
+    "name": "Great Lakes Electric Solutions",
+    "rating": 5,
+    "reviews": 32,
+    "phone": "(727) 486-6717",
+    "website": "https://glesfl.com/",
+    "address": "2891 15th Ave N, St. Petersburg, FL 33713, USA",
+    "place_id": "ChIJu0gDxNfjwogReXZ5bmhF7Ws",
+    "maps_url": "https://maps.google.com/?cid=7776948446371083897"
+  },
+  {
+    "name": "Coastal Palms Electrical",
+    "rating": 5,
+    "reviews": 59,
+    "phone": "(727) 899-1810",
+    "website": "http://coastalpalmselectrical.com/",
+    "address": "5681 70th Ave N, Pinellas Park, FL 33781, USA",
+    "place_id": "ChIJG27NMBPjwogRI38LEp1gOrI",
+    "maps_url": "https://maps.google.com/?cid=12842683515129265955"
+  },
+  {
+    "name": "Trevino Electric, Inc.",
+    "rating": 4.6,
+    "reviews": 60,
+    "phone": "(727) 804-9541",
+    "website": "",
+    "address": "3067 66th Way N, St. Petersburg, FL 33710, USA",
+    "place_id": "ChIJ__-vswfjwogRwt5CxBun6ME",
+    "maps_url": "https://maps.google.com/?cid=13972601581615636162"
+  },
+  {
+    "name": "A C Electric Company",
+    "rating": 4.8,
+    "reviews": 26,
+    "phone": "(727) 345-3108",
+    "website": "https://acelectricfla.com/",
+    "address": "7011 4th Ave N, St. Petersburg, FL 33710, USA",
+    "place_id": "ChIJSZgGWyv9wogR1c9eov9ToZw",
+    "maps_url": "https://maps.google.com/?cid=11286394498573062101"
+  },
+  {
+    "name": "Red Royal Electric",
+    "rating": 4.7,
+    "reviews": 159,
+    "phone": "(727) 220-5150",
+    "website": "https://www.redroyalelectric.com/locations/st-petersburg/",
+    "address": "7830 38th Ave N # 14, St. Petersburg, FL 33710, USA",
+    "place_id": "ChIJowfv5eDGOG4RhzuaEzrE_4w",
+    "maps_url": "https://maps.google.com/?cid=10160055038087150471"
+  },
+  {
+    "name": "Green Light Electric",
+    "rating": 4.8,
+    "reviews": 112,
+    "phone": "(727) 635-7771",
+    "website": "https://www.greenlightele.com/",
+    "address": "13750 49th Street N Suite 4, Clearwater, FL 33762, USA",
+    "place_id": "ChIJC2Ic3RjMsksRIS4X_57HLG0",
+    "maps_url": "https://maps.google.com/?cid=7866882134807883297"
+  },
+  {
+    "name": "Mister Sparky",
+    "rating": 4.8,
+    "reviews": 3180,
+    "phone": "(727) 201-3126",
+    "website": "https://clearwatermistersparky.com/?utm_source=GBP&utm_medium=organic&utm_campaign=clearwatergbp",
+    "address": "12345 Starkey Rd Suite B, Largo, FL 33773, USA",
+    "place_id": "ChIJAQAAANHxwogRoWKe8MkrgIM",
+    "maps_url": "https://maps.google.com/?cid=9475621762312856225"
+  },
+  {
+    "name": "Red Royal Electric",
+    "rating": 4.8,
+    "reviews": 1751,
+    "phone": "(727) 205-5550",
+    "website": "https://www.redroyalelectric.com/",
+    "address": "717 Drew St, Clearwater, FL 33755, USA",
+    "place_id": "ChIJm-f3_ufwwogRJ59gowhzkOY",
+    "maps_url": "https://maps.google.com/?cid=16613905506307710759"
+  },
+  {
+    "name": "A-1 Electrical Contractors, INC.",
+    "rating": 4.1,
+    "reviews": 9,
+    "phone": "(727) 526-9011",
+    "website": "",
+    "address": "4823 46th Ave N, St. Petersburg, FL 33714, USA",
+    "place_id": "ChIJMZtOgHDjwogR_jnMStu_icU",
+    "maps_url": "https://maps.google.com/?cid=14234119045854804478"
+  },
+  {
+    "name": "Ezell Electric",
+    "rating": 4.8,
+    "reviews": 253,
+    "phone": "(727) 800-2232",
+    "website": "http://www.ezell-electric.com/",
+    "address": "4985 72nd Ave N, Pinellas Park, FL 33781, USA",
+    "place_id": "ChIJh4tfcJPkwogR9zr9D6WPT9o",
+    "maps_url": "https://maps.google.com/?cid=15730949962529061623"
+  },
+  {
+    "name": "Luminous Electric",
+    "rating": 4.7,
+    "reviews": 533,
+    "phone": "(727) 954-4666",
+    "website": "https://lumelect.com/",
+    "address": "3350 Ulmerton Rd ste 20, Clearwater, FL 33762, USA",
+    "place_id": "ChIJPbJdyorjwogRMR-EbunCWIg",
+    "maps_url": "https://maps.google.com/?cid=9824816894946058033"
+  },
+  {
+    "name": "B&D Electric, Inc.",
+    "rating": 4.9,
+    "reviews": 529,
+    "phone": "(352) 472-1966",
+    "website": "http://www.bdelectric.com/",
+    "address": "24462 NW 9th Pl, Newberry, FL 32669, USA",
+    "place_id": "ChIJUV2Az9jA6IgRvezOQSXBh3w",
+    "maps_url": "https://maps.google.com/?cid=8973353148321033405"
+  },
+  {
+    "name": "Electrician of Saint Petersburg",
+    "rating": 4.8,
+    "reviews": 19,
+    "phone": "(813) 774-5953",
+    "website": "",
+    "address": "280 126th Ave, Treasure Island, FL 33706, USA",
+    "place_id": "ChIJu59GlS39wogRMPr0sxg_qlc",
+    "maps_url": "https://maps.google.com/?cid=6316930802671483440"
+  },
+  {
+    "name": "Clark",
+    "rating": 4.3,
+    "reviews": 30,
+    "phone": "(727) 821-0828",
+    "website": "http://clarkelectricflorida.com/about-us/",
+    "address": "5989 Haines Rd N, St. Petersburg, FL 33714, USA",
+    "place_id": "ChIJdf_asHXkwogRpwWSEU466io",
+    "maps_url": "https://maps.google.com/?cid=3092348201119909287"
+  },
+  {
+    "name": "Integrity Home Solutions",
+    "rating": 4.8,
+    "reviews": 2159,
+    "phone": "(727) 235-6972",
+    "website": "https://www.homeofintegrity.com/service-area/st-petersburg/?utm_source=google-gbp&utm_medium=organic&utm_campaign=*133*integrity-home-solutions-st.-petersburg",
+    "address": "1661 Commerce Ave N, St. Petersburg, FL 33716, USA",
+    "place_id": "ChIJx98ckfP6wogR89-wJHLI0dw",
+    "maps_url": "https://maps.google.com/?cid=15911719351044071411"
+  },
+  {
+    "name": "Influx Electricians Saint Petersburg",
+    "rating": 4.8,
+    "reviews": 20,
+    "phone": "(727) 999-5560",
+    "website": "",
+    "address": "445 32nd Ave N, St. Petersburg, FL 33704, USA",
+    "place_id": "ChIJ9fgvupfhwogR3_W6zqmv5VI",
+    "maps_url": "https://maps.google.com/?cid=5973373624629523935"
+  },
+  {
+    "name": "Lloyd's Services Inc.",
+    "rating": 4.6,
+    "reviews": 11,
+    "phone": "(727) 374-6385",
+    "website": "",
+    "address": "11850 Dr M.L.K. Jr St N, St. Petersburg, FL 33716, USA",
+    "place_id": "ChIJmYEqKNXgwogRbroHRuhsmbI",
+    "maps_url": "https://maps.google.com/?cid=12869437155051027054"
+  },
+  {
+    "name": "Hoffman Electrical & A/C",
+    "rating": 4.8,
+    "reviews": 3980,
+    "phone": "(855) 644-1365",
+    "website": "https://hoffmanelectrical.com/?utm_source=google&utm_medium=organic&utm_campaign=GMBListing-Tampa-FL",
+    "address": "1909 N 57th St, Tampa, FL 33619, USA",
+    "place_id": "ChIJVVsfV0ziwogRuqj5fbsAmI4",
+    "maps_url": "https://maps.google.com/?cid=10274963355118184634"
+  },
+  {
+    "name": "JL Local Electricians",
+    "rating": 4.7,
+    "reviews": 23,
+    "phone": "(813) 705-6644",
+    "website": "",
+    "address": "2800 4th St S, St. Petersburg, FL 33705, USA",
+    "place_id": "ChIJTdPEjHzhwogRf75l7fnpOEQ",
+    "maps_url": "https://maps.google.com/?cid=4915936252913892991"
+  }
+]

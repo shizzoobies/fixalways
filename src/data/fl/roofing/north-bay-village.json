@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Roofing Repair Near Me",
+    "rating": 5,
+    "reviews": 2,
+    "phone": "(305) 570-0982",
+    "website": "",
+    "address": "7811 Beach View Dr, North Bay Village, FL 33141, USA",
+    "place_id": "ChIJMxrE3Gez2YgRLJD1Gejlpgk",
+    "maps_url": "https://maps.google.com/?cid=695495977506017324"
+  },
+  {
+    "name": "AGK Construction & Roofing",
+    "rating": 5,
+    "reviews": 11,
+    "phone": "(954) 807-3455",
+    "website": "http://www.agkgc.com/",
+    "address": "6494 Collins Ave APT 21, Miami Beach, FL 33141, USA",
+    "place_id": "ChIJVQtnkA1oUgURajZolJdDGNE",
+    "maps_url": "https://maps.google.com/?cid=15066866871676974698"
+  },
+  {
+    "name": "T&S Roofing Systems",
+    "rating": 4.8,
+    "reviews": 1105,
+    "phone": "(305) 676-7043",
+    "website": "https://www.tsroofingsystems.com/",
+    "address": "2519 NW 38th St, Miami, FL 33142, USA",
+    "place_id": "ChIJY7RUGc622YgRQQiyV-vHuwc",
+    "maps_url": "https://maps.google.com/?cid=557258792512915521"
+  },
+  {
+    "name": "ROPARCA LLC",
+    "rating": 0,
+    "reviews": 0,
+    "phone": "",
+    "website": "https://applianceelectrichvac.us/",
+    "address": "7525 E Treasure Dr apt 616, North Bay Village, FL 33141, USA",
+    "place_id": "ChIJHWkP7ZKz2YgRm1oJY22Vn28",
+    "maps_url": "https://maps.google.com/?cid=8043311756552526491"
+  }
+]

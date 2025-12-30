@@ -1,0 +1,112 @@
+[
+  {
+    "name": "My Favorite Handyman",
+    "rating": 4.9,
+    "reviews": 52,
+    "phone": "(386) 538-1428",
+    "website": "http://www.myfavoritehandymanfl.com/",
+    "address": "469 N Samsula Dr, New Smyrna Beach, FL 32168, USA",
+    "place_id": "ChIJZ2KBBA3suGwRQnhovLUP1Fc",
+    "maps_url": "https://maps.google.com/?cid=6328700649586849858"
+  },
+  {
+    "name": "Handy Retired Man",
+    "rating": 5,
+    "reviews": 23,
+    "phone": "(321) 345-6304",
+    "website": "https://handyretiredman.godaddysites.com/",
+    "address": "523 S Peninsula Ave, New Smyrna Beach, FL 32169, USA",
+    "place_id": "ChIJq7kTyldE8qMRQRGpBHerOWQ",
+    "maps_url": "https://maps.google.com/?cid=7221992005132947777"
+  },
+  {
+    "name": "Will Doo Maintenance and Repair",
+    "rating": 5,
+    "reviews": 1,
+    "phone": "",
+    "website": "http://willdoohandyman.com/",
+    "address": "336 Equestrians Way, New Smyrna Beach, FL 32168, USA",
+    "place_id": "ChIJt6rFoDs954gRe7_P_Q7VD_M",
+    "maps_url": "https://maps.google.com/?cid=17514451736231657339"
+  },
+  {
+    "name": "Sunshine Innovative Solutions, LLC",
+    "rating": 5,
+    "reviews": 6,
+    "phone": "(386) 227-7234",
+    "website": "https://sunshineinnovativesolutions.com/",
+    "address": "3011 Saxon Dr, New Smyrna Beach, FL 32169, USA",
+    "place_id": "ChIJA0sb8rHX5ogRj7WzCEXtzhg",
+    "maps_url": "https://maps.google.com/?cid=1787626982867187087"
+  },
+  {
+    "name": "Jec Handyman LLC",
+    "rating": 5,
+    "reviews": 4,
+    "phone": "(386) 402-3902",
+    "website": "",
+    "address": "437 Palmetto St, Edgewater, FL 32132, USA",
+    "place_id": "ChIJOa6iqf8v54gR62HFdRkUV7g",
+    "maps_url": "https://maps.google.com/?cid=13283107725535175147"
+  },
+  {
+    "name": "All of the Above Handyman Solutions, LLC",
+    "rating": 5,
+    "reviews": 21,
+    "phone": "(407) 952-9825",
+    "website": "https://aotahs.jobbersites.com/",
+    "address": "2500 W International Speedway Blvd SUITE 900, Daytona Beach, FL 32114, USA",
+    "place_id": "ChIJq89QuMnf5ogR7PET_AaLm3E",
+    "maps_url": "https://maps.google.com/?cid=8186289609791238636"
+  },
+  {
+    "name": "All Seasons Handyman and Demolition",
+    "rating": 4.9,
+    "reviews": 28,
+    "phone": "(386) 569-8816",
+    "website": "",
+    "address": "719 S Beach St, Daytona Beach, FL 32114, USA",
+    "place_id": "ChIJ5yfhWQLC0SkRxcjqHeeEknE",
+    "maps_url": "https://maps.google.com/?cid=8183749601059850437"
+  },
+  {
+    "name": "4T Handyman, LLC",
+    "rating": 5,
+    "reviews": 3,
+    "phone": "(704) 728-5826",
+    "website": "http://4thandyman.com/",
+    "address": "365 Davenport Ln, Oak Hill, FL 32759, USA",
+    "place_id": "ChIJT_6u2O2pVogRSbBXl4FJ6SU",
+    "maps_url": "https://maps.google.com/?cid=2731795469915631689"
+  },
+  {
+    "name": "ALL THE ODD JOBS INC.",
+    "rating": 4.5,
+    "reviews": 17,
+    "phone": "(386) 478-9693",
+    "website": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://odds-ends-unlimited-llc.business.site/&ved=2ahUKEwjsg43458KDAxVrmmoFHQjxBhkQFnoECCQQAQ&usg=AOvVaw2G014g7gOy-3KfrrynivnT",
+    "address": "2921 Lime Tree Dr, Edgewater, FL 32141, USA",
+    "place_id": "ChIJJwIjqpgt54gRAKD1JC4bSxg",
+    "maps_url": "https://maps.google.com/?cid=1750522765166092288"
+  },
+  {
+    "name": "Volusia Handyman Solutions",
+    "rating": 4.4,
+    "reviews": 77,
+    "phone": "(866) 218-3395",
+    "website": "http://www.volusiahandymansolutions.com/",
+    "address": "1616 Concierge Blvd Suite 119, Daytona Beach, FL 32117, USA",
+    "place_id": "ChIJAQAAAHDZ5ogREEUj7BYKKUE",
+    "maps_url": "https://maps.google.com/?cid=4695295180077745424"
+  },
+  {
+    "name": "New Symrna Beach Property Maintenance Professionals",
+    "rating": 5,
+    "reviews": 2,
+    "phone": "(561) 236-4685",
+    "website": "http://nsbpmp.com/",
+    "address": "100 N Atlantic Ave, New Smyrna Beach, FL 32169, USA",
+    "place_id": "ChIJGXVtchwr54gRioif50ves5k",
+    "maps_url": "https://maps.google.com/?cid=11075440326224087178"
+  }
+]

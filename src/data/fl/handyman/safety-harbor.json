@@ -1,0 +1,72 @@
+[
+  {
+    "name": "Tampa Bay Pro Handyman",
+    "rating": 5,
+    "reviews": 9,
+    "phone": "(586) 843-7184",
+    "website": "https://tampabayprohandyman.com/",
+    "address": "379 S McMullen Booth Rd, Clearwater, FL 33759, USA",
+    "place_id": "ChIJjdLzEy7vwogRYGlZyLjToAg",
+    "maps_url": "https://maps.google.com/?cid=621729539165874528"
+  },
+  {
+    "name": "Suncoast Repairs",
+    "rating": 4.9,
+    "reviews": 78,
+    "phone": "(727) 201-2993",
+    "website": "http://suncoastrepairs.com/",
+    "address": "2333 Bristol Ct, Dunedin, FL 34698, USA",
+    "place_id": "ChIJd55HywfzwogRVyPKwfy_o8M",
+    "maps_url": "https://maps.google.com/?cid=14097322350903698263"
+  },
+  {
+    "name": "Sunpro Handyman",
+    "rating": 5,
+    "reviews": 17,
+    "phone": "(727) 396-6614",
+    "website": "http://sunprohandyman.com/?utm_source=gmb&utm_medium=referral",
+    "address": "4300 E Bay Dr lot 427, Clearwater, FL 33764, USA",
+    "place_id": "ChIJwYDBT7lQUg0RHp1wHVYku5A",
+    "maps_url": "https://maps.google.com/?cid=10428969314386222366"
+  },
+  {
+    "name": "Knight Group",
+    "rating": 5,
+    "reviews": 7,
+    "phone": "(813) 649-3341",
+    "website": "http://knightgroup.com/",
+    "address": "1225 7th St S, Safety Harbor, FL 34695, USA",
+    "place_id": "ChIJ5wmsGV3uwogRPOLGYleA0Zg",
+    "maps_url": "https://maps.google.com/?cid=11011723676705284668"
+  },
+  {
+    "name": "Mr. Handyman serving Palm Harbor, Clearwater and Largo",
+    "rating": 4.9,
+    "reviews": 697,
+    "phone": "(727) 888-2742",
+    "website": "https://www.mrhandyman.com/palm-harbor-clearwater-largo/?cid=LSTL_MHM000197&utm_source=gmb&utm_campaign=local&utm_medium=organic",
+    "address": "41268 US Hwy 19 N, Tarpon Springs, FL 34689, USA",
+    "place_id": "ChIJ7dLxNp2NwogRgxxzoeW9zS4",
+    "maps_url": "https://maps.google.com/?cid=3372560489924205699"
+  },
+  {
+    "name": "Craftsmen Handyman Services",
+    "rating": 5,
+    "reviews": 3,
+    "phone": "(813) 360-1616",
+    "website": "",
+    "address": "2679 Cypress Bend Dr, Clearwater, FL 33761, USA",
+    "place_id": "ChIJi9v3qf7vwogRXFNtUmvSp-g",
+    "maps_url": "https://maps.google.com/?cid=16764599496296190812"
+  },
+  {
+    "name": "GULF COAST HANDYMAN & JUNK REMOVAL SERVICES (LLC)",
+    "rating": 5,
+    "reviews": 1,
+    "phone": "(813) 593-1080",
+    "website": "",
+    "address": "2454 N McMullen Booth Rd Suite 700, Clearwater, FL 33759, USA",
+    "place_id": "ChIJAcwenXnvwogRzrtSWHH9UsE",
+    "maps_url": "https://maps.google.com/?cid=13930475260665314254"
+  }
+]

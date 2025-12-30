@@ -1,0 +1,74 @@
+[
+  {
+    "name": "Woodall's Total Comfort Systems, Inc.",
+    "rating": 4.9,
+    "reviews": 737,
+    "phone": "(850) 482-8802",
+    "website": "https://woodallstotalcomfort.com/",
+    "maps": "https://maps.google.com/?cid=6708387861339314831&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "3608 US-90, Marianna, FL 32446, USA"
+  },
+  {
+    "name": "Jemison Heating & Cooling, Inc.",
+    "rating": 4.9,
+    "reviews": 447,
+    "phone": "(850) 482-8100",
+    "website": "https://www.jemisonhvac.com/",
+    "maps": "https://maps.google.com/?cid=1829669871981072161&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "2431 FL-71, Marianna, FL 32448, USA"
+  },
+  {
+    "name": "Affordable Heat & Air, LLC",
+    "rating": 5,
+    "reviews": 24,
+    "phone": "(850) 482-3892",
+    "website": "http://www.affordablehtgac.com/",
+    "maps": "https://maps.google.com/?cid=11020601265414876517&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "2942 Hunter Fish Camp Rd, Marianna, FL 32446, USA"
+  },
+  {
+    "name": "Woods and Sons Air Conditioning and Heating LLC",
+    "rating": 5,
+    "reviews": 3,
+    "phone": "(832) 810-0850",
+    "website": null,
+    "maps": "https://maps.google.com/?cid=17560082971225463364&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "5364 Turk Rd, Marianna, FL 32448, USA"
+  },
+  {
+    "name": "Economy Air Conditioning Inc",
+    "rating": 4.4,
+    "reviews": 35,
+    "phone": "(850) 526-2531",
+    "website": null,
+    "maps": "https://maps.google.com/?cid=2220095078779035583&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "3036 Old Campbellton Rd, Marianna, FL 32446, USA"
+  },
+  {
+    "name": "Sammy's Heating and Cooling LLC",
+    "rating": 4.5,
+    "reviews": 66,
+    "phone": "(850) 573-2084",
+    "website": "https://sammysheatingandcooling.com/",
+    "maps": "https://maps.google.com/?cid=6529275831393205483&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "2982 Sunrise Dr, Marianna, FL 32448, USA"
+  },
+  {
+    "name": "Hobbs Heating & Air Conditioning, Inc.",
+    "rating": 4.9,
+    "reviews": 99,
+    "phone": "(850) 258-4920",
+    "website": "http://hobbsheatingandair.com/",
+    "maps": "https://maps.google.com/?cid=2617720955692778690&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "6161 FL-77, Chipley, FL 32428, USA"
+  },
+  {
+    "name": "Chumley Services",
+    "rating": 4.9,
+    "reviews": 35,
+    "phone": "(850) 209-4071",
+    "website": "http://www.chcsflorida.com/",
+    "maps": "https://maps.google.com/?cid=12403928998286075978&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "2715 Shirley Ln, Marianna, FL 32446, USA"
+  }
+]

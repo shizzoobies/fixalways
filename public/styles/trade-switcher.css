@@ -1,0 +1,132 @@
+/* =========================================================
+   Trade Switcher Tabs (sticky)
+========================================================= */
+
+.tradeTabsWrap {
+  margin-top: 14px;
+  position: sticky;
+  top: 62px;
+  z-index: 20;
+}
+
+.tradeTabs {
+  display: flex;
+  gap: 8px;
+  flex-wrap: wrap;
+
+  padding: 10px;
+  border-radius: 16px;
+
+  background: rgba(11, 18, 32, 0.55);
+  border: 1px solid rgba(255, 255, 255, 0.10);
+  backdrop-filter: blur(10px);
+}
+
+.tradeTab {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+
+  height: 34px;
+  padding: 0 12px;
+  border-radius: 999px;
+
+  font-size: 12px;
+  font-weight: 950;
+  text-decoration: none;
+
+  background: rgba(255, 255, 255, 0.06);
+  border: 1px solid rgba(255, 255, 255, 0.14);
+  color: rgba(255, 255, 255, 0.85);
+
+  transition: background 0.15s ease, border-color 0.15s ease, transform 0.1s ease;
+}
+
+.tradeTab:hover {
+  background: rgba(255, 255, 255, 0.09);
+  border-color: rgba(255, 255, 255, 0.20);
+  text-decoration: none;
+}
+
+.tradeTab:active {
+  transform: translateY(1px);
+}
+
+.tradeTab.isActive {
+  background: rgba(124, 220, 255, 0.18);
+  border-color: rgba(124, 220, 255, 0.28);
+  color: rgba(255, 255, 255, 0.95);
+}
+
+/* Mobile: make the row scroll instead of wrapping */
+@media (max-width: 560px) {
+  .tradeTabsWrap {
+    top: 56px;
+  }
+
+  .tradeTabs {
+    flex-wrap: nowrap;
+    overflow-x: auto;
+    padding-bottom: 6px;
+    -webkit-overflow-scrolling: touch;
+  }
+
+  .tradeTabs::-webkit-scrollbar {
+    height: 6px;
+  }
+
+  .tradeTabs::-webkit-scrollbar-thumb {
+    background: rgba(255, 255, 255, 0.10);
+    border-radius: 999px;
+  }
+}
+
+/* =========================================================
+   Related Trades Sidebar
+========================================================= */
+
+.relatedTrades {
+  display: grid;
+  gap: 8px;
+  margin-top: 10px;
+}
+
+.relatedTrade {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 10px;
+
+  height: 40px;
+  padding: 0 12px;
+  border-radius: 14px;
+
+  text-decoration: none;
+  color: rgba(255, 255, 255, 0.90);
+
+  background: rgba(255, 255, 255, 0.05);
+  border: 1px solid rgba(255, 255, 255, 0.10);
+}
+
+.relatedTrade:hover {
+  background: rgba(255, 255, 255, 0.07);
+  border-color: rgba(255, 255, 255, 0.14);
+  text-decoration: none;
+}
+
+.relatedTradeName {
+  font-weight: 950;
+  font-size: 13px;
+}
+
+.relatedTradeArrow {
+  opacity: 0.65;
+  font-weight: 900;
+}
+
+.relatedTradeHint {
+  margin-top: 10px;
+  font-size: 12px;
+  color: rgba(255, 255, 255, 0.62);
+  line-height: 1.35;
+}

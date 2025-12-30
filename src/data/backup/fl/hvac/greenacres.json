@@ -1,0 +1,92 @@
+[
+  {
+    "name": "Hilling Air Conditioning Inc",
+    "rating": 5,
+    "reviews": 261,
+    "phone": "(561) 586-7003",
+    "website": "https://hillingairconditioning.com/",
+    "maps": "https://maps.google.com/?cid=7966855619667407242&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "5101 3rd Rd, Greenacres, FL 33467, USA"
+  },
+  {
+    "name": "Hopkins Air Conditioning",
+    "rating": 4.9,
+    "reviews": 2642,
+    "phone": "(561) 656-4870",
+    "website": "https://hopkinsair.com/",
+    "maps": "https://maps.google.com/?cid=2745868234018833061&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "5403 N Haverhill Rd #231, West Palm Beach, FL 33407, USA"
+  },
+  {
+    "name": "Greenacres AC Services",
+    "rating": 5,
+    "reviews": 2,
+    "phone": "(561) 330-5348",
+    "website": "https://www.greenacresacservices.com/",
+    "maps": "https://maps.google.com/?cid=3292582161434860237&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "3098 Jog Rd b7, Greenacres, FL 33467, USA"
+  },
+  {
+    "name": "Ewing & Ewing Air Conditioning",
+    "rating": 4.9,
+    "reviews": 505,
+    "phone": "(561) 220-6484",
+    "website": "http://www.ewingair.com/",
+    "maps": "https://maps.google.com/?cid=5692845248159623481&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "480 Tall Pines Rd STE B, West Palm Beach, FL 33413, USA"
+  },
+  {
+    "name": "Grace Air LLC",
+    "rating": 4.9,
+    "reviews": 110,
+    "phone": "(561) 460-2031",
+    "website": "https://graceair.net/",
+    "maps": "https://maps.google.com/?cid=13915149038306404998&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "5700 Lake Worth Rd, Lake Worth Beach, FL 33463, USA"
+  },
+  {
+    "name": "A.R. Williams Air Conditioning",
+    "rating": 5,
+    "reviews": 527,
+    "phone": "(561) 332-4576",
+    "website": "http://arwilliamsac.com/",
+    "maps": "https://maps.google.com/?cid=18236287497310697763&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "2141 10th Ave N, Lake Worth Beach, FL 33461, USA"
+  },
+  {
+    "name": "AirEase AC Repair Lake Worth Beach",
+    "rating": 5,
+    "reviews": 14,
+    "phone": "(561) 783-3938",
+    "website": "https://lakeworthbeach.airease.net/location/ac-repairs-in-lake-worth-your-comprehensive-guide",
+    "maps": "https://maps.google.com/?cid=12288432695248346954&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "5750 Jog Rd #431, Greenacres, FL 33467, USA"
+  },
+  {
+    "name": "BREEZY AIR CONDITIONING AND HEATING LLC",
+    "rating": 5,
+    "reviews": 17,
+    "phone": "(954) 256-8726",
+    "website": null,
+    "maps": "https://maps.google.com/?cid=16360911705848579396&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "6081 Lake Worth Rd, Greenacres, FL 33463, USA"
+  },
+  {
+    "name": "INTEGRITY COMFORT SOLUTIONS,LLC",
+    "rating": 5,
+    "reviews": 43,
+    "phone": "(561) 727-0722",
+    "website": "http://www.ics-comfort.com/",
+    "maps": "https://maps.google.com/?cid=9969502114921195165&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "4181 Centurian Cir, Greenacres, FL 33463, USA"
+  },
+  {
+    "name": "First Degree Air Conditioning, Inc.",
+    "rating": 4.9,
+    "reviews": 277,
+    "phone": "(561) 461-7411",
+    "website": "https://firstdegreeairconditioning.com/",
+    "maps": "https://maps.google.com/?cid=8319242181624558352&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "5487 Avocado Blvd, West Palm Beach, FL 33411, USA"
+  }
+]

@@ -1,0 +1,27 @@
+---
+import BaseLayout from "../layouts/BaseLayout.astro";
+
+const title = "Thanks — FixAlways";
+const description = "We received your request. A local pro will reach out soon.";
+---
+
+<BaseLayout title={title} description={description} badge="Thanks">
+  <section class="section">
+    <div class="card" style="padding: 18px;">
+      <h1 style="margin: 0 0 8px;">Thanks — request received</h1>
+
+      <p style="margin: 0; color: rgba(255,255,255,0.75); max-width: 70ch;">
+        We’re matching you with top-rated pros now. Expect a call or text soon.
+      </p>
+
+      <div style="margin-top: 14px; display: flex; gap: 10px; flex-wrap: wrap;">
+        <a class="btn btnPrimary" href="/">Browse cities</a>
+        <a class="btn" href="/#cities">View city listings</a>
+      </div>
+
+      <p style="margin-top: 14px; color: rgba(255,255,255,0.55); font-size: 12px;">
+        By submitting, you agree FixAlways and up to 3 service providers may contact you about your request.
+      </p>
+    </div>
+  </section>
+</BaseLayout>

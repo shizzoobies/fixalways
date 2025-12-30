@@ -1,0 +1,182 @@
+[
+  {
+    "name": "Martin Electric",
+    "rating": 4.7,
+    "reviews": 11,
+    "phone": "(352) 521-3319",
+    "website": "",
+    "address": "14801 10th St, Dade City, FL 33523, USA",
+    "place_id": "ChIJGT3GDJZU3YgR9dCX-EdBcyQ",
+    "maps_url": "https://maps.google.com/?cid=2626514785056313589"
+  },
+  {
+    "name": "East Pasco Electric, Inc.",
+    "rating": 4.2,
+    "reviews": 18,
+    "phone": "(813) 782-8622",
+    "website": "http://eastpascoelectric.com/",
+    "address": "10624 US-301, Dade City, FL 33525, USA",
+    "place_id": "ChIJfXwZMatT3YgRAMVo4z_-bvk",
+    "maps_url": "https://maps.google.com/?cid=17973582713233917184"
+  },
+  {
+    "name": "Rogers Electric Inc.",
+    "rating": 5,
+    "reviews": 3,
+    "phone": "(352) 583-5611",
+    "website": "",
+    "address": "33184 Portage Path, Dade City, FL 33523, USA",
+    "place_id": "ChIJ8TyyQar_54gRzbTu9zwnzlQ",
+    "maps_url": "https://maps.google.com/?cid=6110864887199478989"
+  },
+  {
+    "name": "Acoma Electric LLC",
+    "rating": 4.9,
+    "reviews": 32,
+    "phone": "(720) 217-5705",
+    "website": "https://acomaelectric.com/",
+    "address": "31461 Mirada Blvd, San Antonio, FL 33576, USA",
+    "place_id": "ChIJ06tC0dz516gRuB5cNEz25js",
+    "maps_url": "https://maps.google.com/?cid=4316408100037598904"
+  },
+  {
+    "name": "Taddeo Electrical Contractors, Inc.",
+    "rating": 4.9,
+    "reviews": 723,
+    "phone": "(352) 556-5276",
+    "website": "https://taddeoelectric.com/",
+    "address": "18739 Sakera Rd, Hudson, FL 34667, USA",
+    "place_id": "ChIJJZLMtCEe6IgRTbVbFywGF5E",
+    "maps_url": "https://maps.google.com/?cid=10454831846404109645"
+  },
+  {
+    "name": "Electrical Professionals of Florida",
+    "rating": 5,
+    "reviews": 26,
+    "phone": "(813) 702-9040",
+    "website": "https://www.electricpfl.com/",
+    "address": "37903 Tucker Rd, Zephyrhills, FL 33542, USA",
+    "place_id": "ChIJWUAmvZZHWi8R7cHHwsEZL6Y",
+    "maps_url": "https://maps.google.com/?cid=11974818254188691949"
+  },
+  {
+    "name": "Kennedy Electric",
+    "rating": 4.8,
+    "reviews": 439,
+    "phone": "(352) 251-2795",
+    "website": "https://www.kennedyelectricfl.com/",
+    "address": "1160 Ponce De Leon Blvd, Brooksville, FL 34601, USA",
+    "place_id": "ChIJganhGk8b6IgRvedOd_lkk3k",
+    "maps_url": "https://maps.google.com/?cid=8760456722777040829"
+  },
+  {
+    "name": "Professional Electrical LLC",
+    "rating": 5,
+    "reviews": 45,
+    "phone": "",
+    "website": "https://professionalelectrical.services/",
+    "address": "1451 Mariner Blvd, Spring Hill, FL 34609, USA",
+    "place_id": "ChIJqSciU7bRw68Rbjk1v4p5gV4",
+    "maps_url": "https://maps.google.com/?cid=6809857748381284718"
+  },
+  {
+    "name": "Young Cardinal Electric",
+    "rating": 5,
+    "reviews": 48,
+    "phone": "(813) 388-7813",
+    "website": "https://www.youngcardinalelectric.com/",
+    "address": "7105 Maysville Ct, Wesley Chapel, FL 33545, USA",
+    "place_id": "ChIJ8xX29S-zwogRwLlZMn1tgv8",
+    "maps_url": "https://maps.google.com/?cid=18411398611127089600"
+  },
+  {
+    "name": "Instant Electric",
+    "rating": 5,
+    "reviews": 58,
+    "phone": "(813) 680-1507",
+    "website": "https://instant-electric.com/",
+    "address": "7226 Drifting Sand Dr, Wesley Chapel, FL 33544, USA",
+    "place_id": "ChIJlyHs8xmwwogRGozVTd8LErg",
+    "maps_url": "https://maps.google.com/?cid=13263676906270985242"
+  },
+  {
+    "name": "Brandon Electric",
+    "rating": 0,
+    "reviews": 0,
+    "phone": "(352) 618-6118",
+    "website": "https://brandonelectricinc.com/",
+    "address": "31107 Blanton Rd, Dade City, FL 33523, USA",
+    "place_id": "ChIJd_4AyQapwogR_BW6GahYccI",
+    "maps_url": "https://maps.google.com/?cid=14011077394735699452"
+  },
+  {
+    "name": "City Electric Supply Dade City",
+    "rating": 4.1,
+    "reviews": 24,
+    "phone": "(352) 567-3424",
+    "website": "https://www.cityelectricsupply.com/branches/fl/dade-city/dade-city",
+    "address": "13630 US-98 BYP, Dade City, FL 33525, USA",
+    "place_id": "ChIJAdrmjp1U3YgRZU1VY8566nY",
+    "maps_url": "https://maps.google.com/?cid=8568796267874176357"
+  },
+  {
+    "name": "Reese Electrical, Inc. EC13001353",
+    "rating": 4.8,
+    "reviews": 25,
+    "phone": "(813) 788-0091",
+    "website": "https://www.facebook.com/ReeseElectricalInc",
+    "address": "3633 New River Rd, Wesley Chapel, FL 33543, USA",
+    "place_id": "ChIJdU2Heq7QQ4cRBT_SkpUhaTU",
+    "maps_url": "https://maps.google.com/?cid=3848644282861895429"
+  },
+  {
+    "name": "CED Raybro Electric Supplies",
+    "rating": 4.8,
+    "reviews": 12,
+    "phone": "(813) 779-0400",
+    "website": "http://dadecity.portalced.com/",
+    "address": "37822 Sky Ridge Cir, Dade City, FL 33525, USA",
+    "place_id": "ChIJKQnzyOtS3YgRLkzwVtYLS5E",
+    "maps_url": "https://maps.google.com/?cid=10469474773962345518"
+  },
+  {
+    "name": "A & G Electrical Technologies",
+    "rating": 5,
+    "reviews": 5,
+    "phone": "(352) 588-0400",
+    "website": "http://www.agelectric.biz/",
+    "address": "11638 Corporate Lake Blvd, San Antonio, FL 33576, USA",
+    "place_id": "ChIJ7WryZoWuwogRaGOYcHudB-M",
+    "maps_url": "https://maps.google.com/?cid=16359217324942189416"
+  },
+  {
+    "name": "A Rock Electric LLC",
+    "rating": 4.4,
+    "reviews": 50,
+    "phone": "(352) 419-4302",
+    "website": "http://arockelectric.com/",
+    "address": "7366 S Florida Ave, Floral City, FL 34436, USA",
+    "place_id": "ChIJq0k4uDUK6IgRUFeCWobNOcA",
+    "maps_url": "https://maps.google.com/?cid=13851328105882474320"
+  },
+  {
+    "name": "Small Jobs Electric, Inc.",
+    "rating": 4.8,
+    "reviews": 2061,
+    "phone": "(813) 303-0052",
+    "website": "https://www.smalljobselectric.com/",
+    "address": "5002 W Linebaugh Ave Ste C, Tampa, FL 33624, USA",
+    "place_id": "ChIJD6hInM3NwogRPl5VKcgM5ko",
+    "maps_url": "https://maps.google.com/?cid=5397015257276571198"
+  },
+  {
+    "name": "Pattie Electric",
+    "rating": 4.2,
+    "reviews": 153,
+    "phone": "(813) 782-3319",
+    "website": "http://www.pattieelectric.com/",
+    "address": "39111 Pattie Rd, Zephyrhills, FL 33540, USA",
+    "place_id": "ChIJRwX8Nl9M3YgRCwrazsnI1Ew",
+    "maps_url": "https://maps.google.com/?cid=5536270611029559819"
+  }
+]

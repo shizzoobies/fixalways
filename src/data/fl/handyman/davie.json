@@ -1,0 +1,162 @@
+[
+  {
+    "name": "The Trusty Handyman",
+    "rating": 5,
+    "reviews": 241,
+    "phone": "(954) 477-7148",
+    "website": "https://www.thetrustyhandyman.com/",
+    "address": "4750 Oakes Rd Bay T, Davie, FL 33314, USA",
+    "place_id": "ChIJzX0fIGwL2YgR2_oOGj-KD_g",
+    "maps_url": "https://maps.google.com/?cid=17874657449681550043"
+  },
+  {
+    "name": "QUALITY HANDYMAN LLC",
+    "rating": 5,
+    "reviews": 156,
+    "phone": "(954) 850-0707",
+    "website": "https://qualityhandymanllc.net/",
+    "address": "928 SW 131st Way, Davie, FL 33325, USA",
+    "place_id": "ChIJCWMiQOEJ2YgRXlzCqZziRrQ",
+    "maps_url": "https://maps.google.com/?cid=12990319337687637086"
+  },
+  {
+    "name": "All Solutions Handyman Services",
+    "rating": 4.8,
+    "reviews": 43,
+    "phone": "(954) 854-9890",
+    "website": "https://allsolutionshandymanservices.com/",
+    "address": "6900 SW 39th St, Davie, FL 33314, USA",
+    "place_id": "ChIJr4z-jDLilIcRKhp3pmh9zck",
+    "maps_url": "https://maps.google.com/?cid=14541416660272093738"
+  },
+  {
+    "name": "Handyman Services by Luis LLC",
+    "rating": 4.9,
+    "reviews": 34,
+    "phone": "(954) 673-6302",
+    "website": "",
+    "address": "6620 SW 49th St, Davie, FL 33314, USA",
+    "place_id": "ChIJ6YLXYLCp2YgRCP5g28Y6KX8",
+    "maps_url": "https://maps.google.com/?cid=9162919542620487176"
+  },
+  {
+    "name": "Handyman Group SFL",
+    "rating": 4.9,
+    "reviews": 152,
+    "phone": "(786) 800-7068",
+    "website": "https://handymansfl.com/",
+    "address": "7450 Cleveland St, Hollywood, FL 33024, USA",
+    "place_id": "ChIJ-3qo5ter2YgR4Uyu07KedqU",
+    "maps_url": "https://maps.google.com/?cid=11922891554402749665"
+  },
+  {
+    "name": "O. R. Handyman Services",
+    "rating": 4.2,
+    "reviews": 15,
+    "phone": "(954) 289-9554",
+    "website": "https://www.orhandymanservicesfl.com/",
+    "address": "6191 Orange Dr, Davie, FL 33314, USA",
+    "place_id": "ChIJ98Xzzs4A2YgRVoJbNgHEPSY",
+    "maps_url": "https://maps.google.com/?cid=2755574056506589782"
+  },
+  {
+    "name": "Plantation Handyman Care",
+    "rating": 4.8,
+    "reviews": 88,
+    "phone": "(954) 507-3699",
+    "website": "https://www.plantationhandymancare.com/",
+    "address": "7501 NW 4th St, Plantation, FL 33317, USA",
+    "place_id": "ChIJIQHK1LwA2YgRmCSAfCgizXk",
+    "maps_url": "https://maps.google.com/?cid=8776708806097773720"
+  },
+  {
+    "name": "Florida Handyman Service - FHS",
+    "rating": 5,
+    "reviews": 93,
+    "phone": "(954) 299-9831",
+    "website": "https://soflo-handyman.com/",
+    "address": "1818 Rodman St APT 2G, Hollywood, FL 33020, USA",
+    "place_id": "ChIJr4D4vwMewQMRpYnlYsuO3nA",
+    "maps_url": "https://maps.google.com/?cid=8133094981266409893"
+  },
+  {
+    "name": "Your handyman Now",
+    "rating": 5,
+    "reviews": 5,
+    "phone": "(954) 549-4791",
+    "website": "http://yourhandymannow.com/",
+    "address": "5965 Stirling Rd, Davie, FL 33314, USA",
+    "place_id": "ChIJGY_jcEep2YgRPA6mGE5SjO0",
+    "maps_url": "https://maps.google.com/?cid=17117146779102875196"
+  },
+  {
+    "name": "Jacks The Handyman",
+    "rating": 5,
+    "reviews": 17,
+    "phone": "(954) 953-4971",
+    "website": "https://www.jacksthehandyman.com/",
+    "address": "4800 SW 133rd Ave, Cooper City, FL 33330, USA",
+    "place_id": "ChIJ32pz1Win2YgR7zoWN6raRdY",
+    "maps_url": "https://maps.google.com/?cid=15439987322113112815"
+  },
+  {
+    "name": "A1 HANDYMAN",
+    "rating": 5,
+    "reviews": 28,
+    "phone": "(954) 805-8057",
+    "website": "",
+    "address": "901 N State Rd 7, Hollywood, FL 33021, USA",
+    "place_id": "ChIJgYMLApmp2YgRd3QB8p-XnKM",
+    "maps_url": "https://maps.google.com/?cid=11789464637764891767"
+  },
+  {
+    "name": "R. X. Handyman Pembroke Pines",
+    "rating": 4.8,
+    "reviews": 90,
+    "phone": "(954) 953-3589",
+    "website": "https://www.rxhandymanpembrokepines.com/",
+    "address": "11810 Pines Blvd, Pembroke Pines, FL 33026, USA",
+    "place_id": "ChIJ4S4TWRwd2YgRtfhGUFdd7M4",
+    "maps_url": "https://maps.google.com/?cid=14910395095907236021"
+  },
+  {
+    "name": "Way 2Cool LLC Handyman Repair Services Ft. Lauderdale",
+    "rating": 4.8,
+    "reviews": 99,
+    "phone": "(954) 867-4731",
+    "website": "http://2way2cool.com/?utm_source=gmb&utm_medium=referral",
+    "address": "2630 W Broward Blvd Suite 203 -179 7, Fort Lauderdale, FL 33312, USA",
+    "place_id": "ChIJG0S-ZxYB2YgRQ-EO8xDTbr8",
+    "maps_url": "https://maps.google.com/?cid=13794194778433184067"
+  },
+  {
+    "name": "JGB Renovations",
+    "rating": 5,
+    "reviews": 10,
+    "phone": "(201) 815-1437",
+    "website": "",
+    "address": "2720 Treasure Cove Cir, Davie, FL 33312, USA",
+    "place_id": "ChIJrX-dMder2YgRj7AyN5NoDW4",
+    "maps_url": "https://maps.google.com/?cid=7930109500364861583"
+  },
+  {
+    "name": "Jewels Construction & Handyman Services",
+    "rating": 5,
+    "reviews": 19,
+    "phone": "(754) 249-6939",
+    "website": "http://jewelsconstruction.work/",
+    "address": "135 Weston Rd Suite 137, Sunrise, FL 33326, USA",
+    "place_id": "ChIJPREkQyS0CQwR4Tc7otwrOzs",
+    "maps_url": "https://maps.google.com/?cid=4268053298478266337"
+  },
+  {
+    "name": "Cooper City Handyman Services",
+    "rating": 3.7,
+    "reviews": 9,
+    "phone": "(954) 715-4039",
+    "website": "https://www.coopercityhandymanservices.com/",
+    "address": "5121 SW 90th Ave, Cooper City, FL 33328, USA",
+    "place_id": "ChIJ_____6sA2YgRtdmEZcWahO0",
+    "maps_url": "https://maps.google.com/?cid=17114974656517167541"
+  }
+]

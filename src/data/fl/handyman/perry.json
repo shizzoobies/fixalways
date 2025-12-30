@@ -1,0 +1,102 @@
+[
+  {
+    "name": "Handy Rentals",
+    "rating": 4.7,
+    "reviews": 103,
+    "phone": "(850) 584-9322",
+    "website": "",
+    "address": "900 Industrial Prk Dr, Perry, FL 32348, USA",
+    "place_id": "ChIJR-RXMg6q7ogRmYGIVwiiJ24",
+    "maps_url": "https://maps.google.com/?cid=7937491024975790489"
+  },
+  {
+    "name": "R & R Home Improvement LLC",
+    "rating": 5,
+    "reviews": 1,
+    "phone": "(850) 584-3515",
+    "website": "",
+    "address": "416 E Elm St, Perry, FL 32347, USA",
+    "place_id": "ChIJ9z0UrMip7ogRZQtISQ3R5Js",
+    "maps_url": "https://maps.google.com/?cid=11233333225563097957"
+  },
+  {
+    "name": "All American Handy Man",
+    "rating": 5,
+    "reviews": 5,
+    "phone": "(229) 877-6169",
+    "website": "",
+    "address": "5010 NW Co Rd 146, Jennings, FL 32053, USA",
+    "place_id": "ChIJ_ThtlCPv7ogRyPVNb9Nmw1A",
+    "maps_url": "https://maps.google.com/?cid=5819608201784325576"
+  },
+  {
+    "name": "House Calls Handyman Services",
+    "rating": 5,
+    "reviews": 1,
+    "phone": "(352) 498-0257",
+    "website": "",
+    "address": "2018 River Rd, Steinhatchee, FL 32359, USA",
+    "place_id": "ChIJWb0CaQhE6YgR3rS0saDgFx4",
+    "maps_url": "https://maps.google.com/?cid=2168448726382982366"
+  },
+  {
+    "name": "Big Dog's Handyman Services LLC",
+    "rating": 4.8,
+    "reviews": 37,
+    "phone": "(904) 629-6915",
+    "website": "http://bigdogshandymanservicesllc.com/",
+    "address": "181 County Rd Lakeview Dr, Melrose, FL 32666, USA",
+    "place_id": "ChIJ8b2syscb5ogR5YKjnxUEMXE",
+    "maps_url": "https://maps.google.com/?cid=8156304891063796453"
+  },
+  {
+    "name": "All Around Home and Business Solutions LLC",
+    "rating": 5,
+    "reviews": 10,
+    "phone": "(850) 745-9066",
+    "website": "https://allaroundhomeandbusinesssolutions.com/",
+    "address": "2667 Aucilla Rd, Monticello, FL 32344, USA",
+    "place_id": "ChIJa8qxkLQ77IgR658tQ51KbzA",
+    "maps_url": "https://maps.google.com/?cid=3490090275532808171"
+  },
+  {
+    "name": "Stan'z Handyman Services",
+    "rating": 5,
+    "reviews": 2,
+    "phone": "(850) 295-2337",
+    "website": "https://stanzhandymanservices.com/",
+    "address": "153 NE Alyssum Loop, Madison, FL 32340, USA",
+    "place_id": "ChIJ9Yq6VyuR7ogRXdbPy0b3j3I",
+    "maps_url": "https://maps.google.com/?cid=8255088525432575581"
+  },
+  {
+    "name": "A&P Handyman Home Services LLC, Tallahassee Fl",
+    "rating": 5,
+    "reviews": 42,
+    "phone": "(850) 364-3097",
+    "website": "https://www.aphandymanhomeservices.com/",
+    "address": "203 Henderson Rd, Tallahassee, FL 32312, USA",
+    "place_id": "ChIJt0tlMwT17IgRIly9WmOP84M",
+    "maps_url": "https://maps.google.com/?cid=9508100895196142626"
+  },
+  {
+    "name": "Quality Services The King LLC",
+    "rating": 5,
+    "reviews": 29,
+    "phone": "(352) 281-9137",
+    "website": "",
+    "address": "136 SW 145th Dr, Newberry, FL 32669, USA",
+    "place_id": "ChIJExTqCJi_6IgRQQ7KBy5DN_c",
+    "maps_url": "https://maps.google.com/?cid=17813780716065525313"
+  },
+  {
+    "name": "Stones Home Centers",
+    "rating": 4.4,
+    "reviews": 27,
+    "phone": "(850) 584-5515",
+    "website": "https://www.stoneshc.com/",
+    "address": "209 W Green St, Perry, FL 32347, USA",
+    "place_id": "ChIJYWUkPNWp7ogR2Npw3eBNG08",
+    "maps_url": "https://maps.google.com/?cid=5700235381550668504"
+  }
+]

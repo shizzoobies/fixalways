@@ -1,0 +1,83 @@
+[
+  {
+    "name": "Air Excel Heating & Cooling, LLC",
+    "rating": 5,
+    "reviews": 623,
+    "phone": "(904) 529-0065",
+    "website": "https://www.airexcelac.com/",
+    "maps": "https://maps.google.com/?cid=13694203862047047839&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "2416 Royal Pointe Dr, Green Cove Springs, FL 32043, USA"
+  },
+  {
+    "name": "Crane AC & Heating Services",
+    "rating": 5,
+    "reviews": 25,
+    "phone": "(904) 552-8446",
+    "website": "https://craneacrepair.com/",
+    "maps": "https://maps.google.com/?cid=14136465656841586714&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "411 Walnut St suite 267, Green Cove Springs, FL 32043, USA"
+  },
+  {
+    "name": "Farmer's Heating and Cooling Solutions, LLC",
+    "rating": 5,
+    "reviews": 515,
+    "phone": "(904) 305-0646",
+    "website": "http://www.farmersheatingandcoolingsolutions.com/",
+    "maps": "https://maps.google.com/?cid=9333981811355036298&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "2005 Teal Ln, Middleburg, FL 32068, USA"
+  },
+  {
+    "name": "Keystone HVAC Services LLC",
+    "rating": 5,
+    "reviews": 101,
+    "phone": "(904) 815-7930",
+    "website": "https://www.keystonehvac.services/",
+    "maps": "https://maps.google.com/?cid=1799312855331485209&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "625 SE Lakeview Dr, Keystone Heights, FL 32656, USA"
+  },
+  {
+    "name": "Von's Heating and Air",
+    "rating": 4.9,
+    "reviews": 2019,
+    "phone": "(904) 977-2479",
+    "website": "https://vonsheatingandair.com/?utm_source=google&utm_medium=gbp",
+    "maps": "https://maps.google.com/?cid=2252959693346605035&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "2815 Bolton Rd B, Orange Park, FL 32073, USA"
+  },
+  {
+    "name": "Southern Air",
+    "rating": 4.9,
+    "reviews": 1647,
+    "phone": "(386) 384-8644",
+    "website": "https://southernair.net/?utm_source=GBP&utm_medium=Organic",
+    "maps": "https://maps.google.com/?cid=16898989101770479276&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "3849 Reid St, Palatka, FL 32177, USA"
+  },
+  {
+    "name": "Air Advice LLC",
+    "rating": 4.8,
+    "reviews": 161,
+    "phone": null,
+    "website": "https://airadvicellc.com/",
+    "maps": "https://maps.google.com/?cid=4245600313017269810&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "1849 Blackwater Wy, Middleburg, FL 32068, USA"
+  },
+  {
+    "name": "Air America Heating & Cooling, Inc.",
+    "rating": 4.9,
+    "reviews": 573,
+    "phone": "(386) 454-0859",
+    "website": "http://coolairamerica.com/",
+    "maps": "https://maps.google.com/?cid=17495189676801095323&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "18564 NW 238th St, High Springs, FL 32643, USA"
+  },
+  {
+    "name": "Campana's Comfort Solutions Heating & Air Conditioning, LLC",
+    "rating": 5,
+    "reviews": 215,
+    "phone": "(352) 776-0600",
+    "website": "https://www.ccs-air.com/",
+    "maps": "https://maps.google.com/?cid=8169268906385252171&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "27020 NW 46 Ave, Newberry, FL 32669, USA"
+  }
+]

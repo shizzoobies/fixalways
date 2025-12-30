@@ -1,0 +1,22 @@
+[
+  {
+    "name": "S & S Electric of Florida Inc",
+    "rating": 3.5,
+    "reviews": 15,
+    "phone": "(850) 526-3771",
+    "website": "",
+    "address": "2990 FL-71, Marianna, FL 32446, USA",
+    "place_id": "ChIJezM-SjUnk4gRypDPjUtIAAk",
+    "maps_url": "https://maps.google.com/?cid=648597835680288970"
+  },
+  {
+    "name": "Morse Electric",
+    "rating": 3.8,
+    "reviews": 14,
+    "phone": "(850) 482-3755",
+    "website": "",
+    "address": "2479 FL-73, Marianna, FL 32448, USA",
+    "place_id": "ChIJQ-PL_wkhk4gRNqnFegs0lrY",
+    "maps_url": "https://maps.google.com/?cid=13156760585318541622"
+  }
+]

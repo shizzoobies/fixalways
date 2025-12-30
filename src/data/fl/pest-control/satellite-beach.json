@@ -1,0 +1,52 @@
+[
+  {
+    "name": "Extermination Station",
+    "rating": 4.6,
+    "reviews": 10,
+    "phone": "(321) 773-6524",
+    "website": "http://www.exterminationstation.com/",
+    "address": "1403 S Patrick Dr Suite 6, Satellite Beach, FL 32937, USA",
+    "place_id": "ChIJmZUZY5ka3ogRkrcBw-A6xW8",
+    "maps_url": "https://maps.google.com/?cid=8053908245640755090"
+  },
+  {
+    "name": "All U Need Pest Control",
+    "rating": 5,
+    "reviews": 2562,
+    "phone": "(321) 358-2082",
+    "website": "https://alluneedpest.com/",
+    "address": "310 N Wickham Rd Unit 117, Melbourne, FL 32935, USA",
+    "place_id": "ChIJ0-apI8gP3ogRlAoHDeWt-wg",
+    "maps_url": "https://maps.google.com/?cid=647302170735479444"
+  },
+  {
+    "name": "Price Termite & Pest Control",
+    "rating": 4.8,
+    "reviews": 1078,
+    "phone": "(321) 541-4811",
+    "website": "https://www.pricetermite.com/services-area/west-melbourne?utm_source=gbp&utm_medium=organic&utm_campaign=gbp-west-melbourne",
+    "address": "4356 Fortune Pl #C, West Melbourne, FL 32904, USA",
+    "place_id": "ChIJzx1uG74O3ogRAQFMI9eLims",
+    "maps_url": "https://maps.google.com/?cid=7749159864970772737"
+  },
+  {
+    "name": "ASAP Pest Solutions",
+    "rating": 4.9,
+    "reviews": 333,
+    "phone": "(321) 557-2100",
+    "website": "http://www.asappestsolutions.com/",
+    "address": "Billiar Ave NE, Palm Bay, FL 32907, USA",
+    "place_id": "ChIJZxtzql0N3ogRajIU84yeVhY",
+    "maps_url": "https://maps.google.com/?cid=1609648245042328170"
+  },
+  {
+    "name": "Johnson's Pest & Lawn",
+    "rating": 4.3,
+    "reviews": 15,
+    "phone": "(321) 613-8299",
+    "website": "http://pestnlawn.com/",
+    "address": "439 Wilson Ave, Satellite Beach, FL 32937, USA",
+    "place_id": "ChIJGXfX3zrPm0YRobvquuaQXO4",
+    "maps_url": "https://maps.google.com/?cid=17175762399537052577"
+  }
+]

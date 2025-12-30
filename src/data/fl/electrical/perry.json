@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Taylor County Electric Co",
+    "rating": 5,
+    "reviews": 2,
+    "phone": "(850) 584-7198",
+    "website": "",
+    "address": "3498 S Byron Butler Pkwy, Perry, FL 32348, USA",
+    "place_id": "ChIJPwOi1eip7ogRRu0vdcu5y3k",
+    "maps_url": "https://maps.google.com/?cid=8776312582357118278"
+  },
+  {
+    "name": "J R Ross Electric Inc",
+    "rating": 5,
+    "reviews": 1,
+    "phone": "(850) 578-2099",
+    "website": "",
+    "address": "2229 Red Oak Rd, Perry, FL 32348, USA",
+    "place_id": "ChIJme1dEpT964gRhpyREX1iiVw",
+    "maps_url": "https://maps.google.com/?cid=6667969012603919494"
+  },
+  {
+    "name": "Bobby Jo Hires LLC",
+    "rating": 3.7,
+    "reviews": 3,
+    "phone": "(850) 584-5662",
+    "website": "",
+    "address": "5343 Turner Rd, Perry, FL 32348, USA",
+    "place_id": "ChIJyR2W55qs7ogRMfQVxnAMgrY",
+    "maps_url": "https://maps.google.com/?cid=13151087540374467633"
+  },
+  {
+    "name": "AOK Electric , Inc",
+    "rating": 4.8,
+    "reviews": 17,
+    "phone": "(850) 973-9957",
+    "website": "",
+    "address": "421 SW Range Ave, Madison, FL 32340, USA",
+    "place_id": "ChIJlVDv7aSQ7ogRrA0cJkuRdEQ",
+    "maps_url": "https://maps.google.com/?cid=4932727243825483180"
+  },
+  {
+    "name": "Prestige Electric, Inc.",
+    "rating": 4.8,
+    "reviews": 50,
+    "phone": "(352) 745-0650",
+    "website": "",
+    "address": "15345 NW 194th St, Lake Butler, FL 32054, USA",
+    "place_id": "ChIJ-Wejx8lV74gRrgdRXJCsJoo",
+    "maps_url": "https://maps.google.com/?cid=9954833762373142446"
+  },
+  {
+    "name": "Current Solutions",
+    "rating": 0,
+    "reviews": 0,
+    "phone": "(850) 838-6539",
+    "website": "",
+    "address": "Perry, FL 32347, USA",
+    "place_id": "ChIJfXuF_uep7ogRkcjAITBaq98",
+    "maps_url": "https://maps.google.com/?cid=16117074854246664337"
+  }
+]

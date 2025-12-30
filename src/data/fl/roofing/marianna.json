@@ -1,0 +1,72 @@
+[
+  {
+    "name": "Marianna Metal Roofing Inc",
+    "rating": 4.8,
+    "reviews": 30,
+    "phone": "(850) 594-7990",
+    "website": "http://mariannametalroofing.com/",
+    "address": "3638 FL-71, Marianna, FL 32446, USA",
+    "place_id": "ChIJBdjFK77YkogRB7xikzmAmNU",
+    "maps_url": "https://maps.google.com/?cid=15391192711312882695"
+  },
+  {
+    "name": "Johnson Roofing Solutions",
+    "rating": 4.9,
+    "reviews": 315,
+    "phone": "(850) 658-4341",
+    "website": "https://johnsonroofingsolutions.com/",
+    "address": "1383 Jackson Ave, Chipley, FL 32428, USA",
+    "place_id": "ChIJ90P-NJ_7kogRMskXLWVy_Ps",
+    "maps_url": "https://maps.google.com/?cid=18157513576524794162"
+  },
+  {
+    "name": "Marianna FL",
+    "rating": 3.9,
+    "reviews": 9,
+    "phone": "(850) 557-1626",
+    "website": "",
+    "address": "2966 Penn Ave, Marianna, FL 32446, USA",
+    "place_id": "ChIJVVUFuEAgk4gRt-y3LClCdoI",
+    "maps_url": "https://maps.google.com/?cid=9400774016793832631"
+  },
+  {
+    "name": "Double D's Roofing & Construction LLC",
+    "rating": 5,
+    "reviews": 9,
+    "phone": "(850) 703-1451",
+    "website": "http://www.doubledsroofingconstructionllc.com/",
+    "address": "1836 Clayton Rd, Chipley, FL 32428, USA",
+    "place_id": "ChIJSc2Kz6gHk4gR7PITl4MNh3U",
+    "maps_url": "https://maps.google.com/?cid=8468752483120050924"
+  },
+  {
+    "name": "Pennywise Contracting, LLC",
+    "rating": 4.6,
+    "reviews": 9,
+    "phone": "(360) 628-4379",
+    "website": "",
+    "address": "4516 Cook Rd, Marianna, FL 32448, USA",
+    "place_id": "ChIJL_DjJpdzkVQRQxrkJbMp-lk",
+    "maps_url": "https://maps.google.com/?cid=6483540462964841027"
+  },
+  {
+    "name": "A.S.A.P. Roofing of Walton County Inc",
+    "rating": 0,
+    "reviews": 0,
+    "phone": "(850) 625-4265",
+    "website": "http://www.getasaproofing.com/",
+    "address": "Fairview Rd, Marianna, FL 32448, USA",
+    "place_id": "ChIJb4EDYBIZk4gR0fLwC2d_gNY",
+    "maps_url": "https://maps.google.com/?cid=15456494001694241489"
+  },
+  {
+    "name": "John David Andress Construction, Inc. \"DBA\" Restoration Commercial Roofing Services LLC",
+    "rating": 0,
+    "reviews": 0,
+    "phone": "(888) 707-1916",
+    "website": "https://restorationcommercialroofing.com/",
+    "address": "2843 Jefferson St, Marianna, FL 32448, USA",
+    "place_id": "ChIJUYAl2yEhk4gRcBpZghO44-A",
+    "maps_url": "https://maps.google.com/?cid=16204998278139943536"
+  }
+]

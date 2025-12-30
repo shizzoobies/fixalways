@@ -1,0 +1,92 @@
+[
+  {
+    "name": "Milt's Air Conditioning & Heating",
+    "rating": 4.9,
+    "reviews": 786,
+    "phone": "(904) 261-9445",
+    "website": "http://www.miltsair.com/",
+    "maps": "https://maps.google.com/?cid=2555313606921203897&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "1941 Island Walkway, Fernandina Beach, FL 32034, USA"
+  },
+  {
+    "name": "Amelia’s Best Comfort Solutions",
+    "rating": 5,
+    "reviews": 190,
+    "phone": "(904) 729-4232",
+    "website": "https://ameliasbestcomfort.com/",
+    "maps": "https://maps.google.com/?cid=218867236659136412&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "2588 S 8th St, Fernandina Beach, FL 32034, USA"
+  },
+  {
+    "name": "Snyder Air Conditioning, Plumbing & Electric",
+    "rating": 4.9,
+    "reviews": 220,
+    "phone": "(904) 441-1721",
+    "website": "https://snyderac.com/fernandina-beach/?utm_source=google-gbp&utm_medium=organic&utm_campaign=*184*snyder-air-fernandina-beach",
+    "maps": "https://maps.google.com/?cid=6409053850195697571&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "911 S 8th St Suite 2, Fernandina Beach, FL 32034, USA"
+  },
+  {
+    "name": "Ed's Comfort Solutions",
+    "rating": 4.9,
+    "reviews": 353,
+    "phone": "(866) 429-0417",
+    "website": "http://edscomfortsolutions.com/",
+    "maps": "https://maps.google.com/?cid=8886767074115569610&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "85083 Deonas Way, Yulee, FL 32097, USA"
+  },
+  {
+    "name": "Precision Air Heating & Cooling",
+    "rating": 5,
+    "reviews": 17,
+    "phone": "(904) 889-1893",
+    "website": "https://www.precisionairfl.com/",
+    "maps": "https://maps.google.com/?cid=13328994876710741614&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "85072 Lonnie Crews Rd, Fernandina Beach, FL 32034, USA"
+  },
+  {
+    "name": "Peacock Electric Incorporated",
+    "rating": 5,
+    "reviews": 471,
+    "phone": "(904) 261-0661",
+    "website": "http://peacockelectric.net/",
+    "maps": "https://maps.google.com/?cid=15415478405648085482&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "474362 E State Rd 200, Fernandina Beach, FL 32034, USA"
+  },
+  {
+    "name": "Comfort Zone of North Florida Inc.",
+    "rating": 5,
+    "reviews": 157,
+    "phone": "(904) 579-0243",
+    "website": "https://comfortzoneofnf.com/yulee/",
+    "maps": "https://maps.google.com/?cid=14874794469212374811&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "82051 Swallowtail Dr, Yulee, FL 32097, USA"
+  },
+  {
+    "name": "HVAC/DUCT Cleaning System",
+    "rating": 5,
+    "reviews": 25,
+    "phone": "(904) 385-1770",
+    "website": null,
+    "maps": "https://maps.google.com/?cid=3655390361448782222&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "94141 Duck Lake Dr E, Fernandina Beach, FL 32034, USA"
+  },
+  {
+    "name": "Mason's Air Conditioning & Heat",
+    "rating": 4.3,
+    "reviews": 41,
+    "phone": "(904) 277-4743",
+    "website": "http://masonsac.com/",
+    "maps": "https://maps.google.com/?cid=11550091685067506866&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "1438 Oak St, Fernandina Beach, FL 32034, USA"
+  },
+  {
+    "name": "Arctic Air of Northern Florida",
+    "rating": 4.4,
+    "reviews": 98,
+    "phone": "(904) 607-5777",
+    "website": "https://arcticairofnorthernflorida.com/",
+    "maps": "https://maps.google.com/?cid=15917904052304666753&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "451688 FL-200, Callahan, FL 32011, USA"
+  }
+]

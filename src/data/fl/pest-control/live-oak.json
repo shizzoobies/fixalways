@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Live Oak Pest Control",
+    "rating": 4.9,
+    "reviews": 1352,
+    "phone": "(866) 313-0044",
+    "website": "http://liveoakpestcontrol.com/?utm_source=google&utm_medium=gbp&utm_campaign=mcalpin",
+    "address": "17856 US-129, McAlpin, FL 32062, USA",
+    "place_id": "ChIJOWsMXqfX7ogRaDV3qDhZkEA",
+    "maps_url": "https://maps.google.com/?cid=4652316514953147752"
+  },
+  {
+    "name": "PestAway Experts",
+    "rating": 5,
+    "reviews": 5,
+    "phone": "(386) 245-2186",
+    "website": "",
+    "address": "126 Howard St E, Live Oak, FL 32064, USA",
+    "place_id": "ChIJN8KdMZXe7ogR4ZGcWV6NWzM",
+    "maps_url": "https://maps.google.com/?cid=3700706955184869857"
+  },
+  {
+    "name": "Powerhouse Pest Control Inc.",
+    "rating": 5,
+    "reviews": 101,
+    "phone": "(386) 623-2693",
+    "website": "http://powerhousepestfl.com/",
+    "address": "880 SW Sisters Welcome Rd #119, Lake City, FL 32025, USA",
+    "place_id": "ChIJ7d__GXM174gR71BJjz_GHOc",
+    "maps_url": "https://maps.google.com/?cid=16653403498398437615"
+  },
+  {
+    "name": "Bird Strike Force Pest Bird and Wildlife Control",
+    "rating": 0,
+    "reviews": 0,
+    "phone": "(386) 776-1960",
+    "website": "https://www.birdstrikeforce.com/",
+    "address": "15209 165th Rd, Live Oak, FL 32060, USA",
+    "place_id": "ChIJLclDaX3e7ogRByWStrQWm2Q",
+    "maps_url": "https://maps.google.com/?cid=7249412990595900679"
+  }
+]

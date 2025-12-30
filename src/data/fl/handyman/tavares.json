@@ -1,0 +1,92 @@
+[
+  {
+    "name": "Florida Handy LLC",
+    "rating": 4.9,
+    "reviews": 39,
+    "phone": "(786) 307-8280",
+    "website": "https://www.flhandy.com/",
+    "address": "3001 Northland Rd, Mt Dora, FL 32757, USA",
+    "place_id": "ChIJH16rhT-j54gR3fI_TRm_xQY",
+    "maps_url": "https://maps.google.com/?cid=488006250030691037"
+  },
+  {
+    "name": "Barnes Concepts",
+    "rating": 4.9,
+    "reviews": 31,
+    "phone": "(352) 739-0862",
+    "website": "",
+    "address": "1608 Orange Dr, Eustis, FL 32726, USA",
+    "place_id": "ChIJ-4L_JQDg3igRpPMYD0wjI5Q",
+    "maps_url": "https://maps.google.com/?cid=10674414351375987620"
+  },
+  {
+    "name": "America's Best Services",
+    "rating": 4.8,
+    "reviews": 165,
+    "phone": "",
+    "website": "https://www.americasbestservices.online/",
+    "address": "1919 E Orange Ave, Eustis, FL 32726, USA",
+    "place_id": "ChIJoSTcsD2j54gRiv8JiXd60m4",
+    "maps_url": "https://maps.google.com/?cid=7985579743100141450"
+  },
+  {
+    "name": "Ben Handyman Home Services: Astatula, Clermont, Ferndale, Groveland, Minneola, Montverde, Tildenville, Oakland, Winter Garden",
+    "rating": 5,
+    "reviews": 29,
+    "phone": "(352) 561-3616",
+    "website": "https://benhandymanservice.com/",
+    "address": "Cavender Creek Rd, Minneola, FL 34715, USA",
+    "place_id": "ChIJ_xh83iLzTUYR_5b9lMGBkL8",
+    "maps_url": "https://maps.google.com/?cid=13803675526318888703"
+  },
+  {
+    "name": "Ace Handyman Services The Villages",
+    "rating": 4.8,
+    "reviews": 381,
+    "phone": "(352) 234-8874",
+    "website": "https://www.acehandymanservices.com/offices/the-villages",
+    "address": "17860 SE 109th Ave Suite 604, Summerfield, FL 34491, USA",
+    "place_id": "ChIJO5D9uR_F54gRSVYSykKAVoQ",
+    "maps_url": "https://maps.google.com/?cid=9535950285350000201"
+  },
+  {
+    "name": "Mr. Handyman serving Debary, Lake Mary, and Winter Springs",
+    "rating": 4.7,
+    "reviews": 231,
+    "phone": "(407) 801-6194",
+    "website": "https://www.mrhandyman.com/debary-lake-mary-winter-springs/?cid=LSTL_MHM000197&utm_source=gmb&utm_campaign=local&utm_medium=organic",
+    "address": "3525 W Lake Mary Blvd #308a, Lake Mary, FL 32746, USA",
+    "place_id": "ChIJxd8v7fcQ54gRu3VpYLqABlA",
+    "maps_url": "https://maps.google.com/?cid=5766437910864295355"
+  },
+  {
+    "name": "Jones Homes",
+    "rating": 5,
+    "reviews": 12,
+    "phone": "(407) 394-5836",
+    "website": "http://joneshomesfl.com/",
+    "address": "407 Plaza Dr, Eustis, FL 32726, USA",
+    "place_id": "ChIJGS-QJ2Oi54gRBuoyxNQnMKU",
+    "maps_url": "https://maps.google.com/?cid=11903057609918441990"
+  },
+  {
+    "name": "Deltona handyman services",
+    "rating": 4.9,
+    "reviews": 248,
+    "phone": "(386) 848-2844",
+    "website": "http://deltonahandymanservices.net/",
+    "address": "1556 Rockwell Heights Dr, DeLand, FL 32724, USA",
+    "place_id": "ChIJq6qqqroW54gRJTxZSQ5Z4Hg",
+    "maps_url": "https://maps.google.com/?cid=8710059597229538341"
+  },
+  {
+    "name": "Fred White Handyman",
+    "rating": 4.8,
+    "reviews": 5,
+    "phone": "(352) 669-7416",
+    "website": "",
+    "address": "38127 Church St, Umatilla, FL 32784, USA",
+    "place_id": "ChIJ1ZSrer-k54gRlfte1Sj-LIc",
+    "maps_url": "https://maps.google.com/?cid=9740439545427458965"
+  }
+]

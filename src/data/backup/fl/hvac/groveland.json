@@ -1,0 +1,92 @@
+[
+  {
+    "name": "Calvary Mechanical LLC",
+    "rating": 5,
+    "reviews": 228,
+    "phone": "(352) 225-8279",
+    "website": "http://www.calvary.cool/",
+    "maps": "https://maps.google.com/?cid=7608991297949646043&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "731 E Myers Blvd #3, Mascotte, FL 34753, USA"
+  },
+  {
+    "name": "Riffle's Air & Heat",
+    "rating": 4.6,
+    "reviews": 104,
+    "phone": "(352) 429-8333",
+    "website": "http://www.rifflesair.com/",
+    "maps": "https://maps.google.com/?cid=13270644872061249665&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "112 Sourwood Ln suite f, Groveland, FL 34736, USA"
+  },
+  {
+    "name": "Munn's Sales & Service, Inc.",
+    "rating": 5,
+    "reviews": 13585,
+    "phone": "(352) 787-7741",
+    "website": "http://www.munnair.com/",
+    "maps": "https://maps.google.com/?cid=6120691796077867095&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "2135 US-441, Fruitland Park, FL 34731, USA"
+  },
+  {
+    "name": "Global Cooling",
+    "rating": 4.9,
+    "reviews": 1213,
+    "phone": "(352) 269-8191",
+    "website": "https://globalcoolingair.com/?utm_source=gbp&utm_medium=organic",
+    "maps": "https://maps.google.com/?cid=2006440025960614817&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "365 Citrus Tower Blvd Suite 122, Clermont, FL 34711, USA"
+  },
+  {
+    "name": "Sunshine Cooling Solutions, LLC",
+    "rating": 4.9,
+    "reviews": 64,
+    "phone": "(352) 394-1428",
+    "website": "http://sunshinecoolingsolutions.com/",
+    "maps": "https://maps.google.com/?cid=3207433631495700803&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "505 S Seminole Ave, Minneola, FL 34715, USA"
+  },
+  {
+    "name": "Kalos Services Inc.",
+    "rating": 4.9,
+    "reviews": 729,
+    "phone": "(352) 243-7099",
+    "website": "http://kalosflorida.com/?UTM_source=GMB_listing&UTM_medium=organic",
+    "maps": "https://maps.google.com/?cid=93636754926878756&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "236 Hatteras Ave, Clermont, FL 34711, USA"
+  },
+  {
+    "name": "M&S Air Conditioning",
+    "rating": 4.9,
+    "reviews": 1888,
+    "phone": "(352) 833-7003",
+    "website": "https://www.msaccfl.com/?utm_source=google&utm_medium=organic&utm_campaign=GMBListing-Leesburg-FL",
+    "maps": "https://maps.google.com/?cid=13925290563991332726&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "1806 Greenleaf Ln, Leesburg, FL 34748, USA"
+  },
+  {
+    "name": "Mission Air Inc.",
+    "rating": 5,
+    "reviews": 14,
+    "phone": "(407) 536-9395",
+    "website": "https://www.missionair.ac/",
+    "maps": "https://maps.google.com/?cid=11691930511838487699&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "1504 Max Hooks Rd suite f, Groveland, FL 34736, USA"
+  },
+  {
+    "name": "AC Guys Cooling and Heating Services",
+    "rating": 4.6,
+    "reviews": 556,
+    "phone": "(352) 242-0274",
+    "website": "https://ac-guys.com/",
+    "maps": "https://maps.google.com/?cid=1527025922456857800&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "11321 Montevista Rd, Clermont, FL 34711, USA"
+  },
+  {
+    "name": "Arctic Cooling and Refrigeration, LLC",
+    "rating": 4.9,
+    "reviews": 170,
+    "phone": "(352) 432-5311",
+    "website": "http://www.arcticacr.com/",
+    "maps": "https://maps.google.com/?cid=4439323561025657183&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "820 Willow Oak Loop, Minneola, FL 34715, USA"
+  }
+]

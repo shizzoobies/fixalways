@@ -1,0 +1,102 @@
+[
+  {
+    "name": "S&G Pest Control LLC",
+    "rating": 5,
+    "reviews": 22,
+    "phone": "(863) 215-2150",
+    "website": "https://www.sgbugbusters.com/",
+    "address": "3000 Camp Rosalie Rd Lot 33, Lake Wales, FL 33898, USA",
+    "place_id": "ChIJVbQg_2ij3YgRvTdO-FatgFQ",
+    "maps_url": "https://maps.google.com/?cid=6089057285249578941"
+  },
+  {
+    "name": "Hurst Pest Services",
+    "rating": 5,
+    "reviews": 73,
+    "phone": "(863) 638-3732",
+    "website": "http://www.hurstpestservices.com/",
+    "address": "1060 US-98, Frostproof, FL 33843, USA",
+    "place_id": "ChIJzXIiPHIG3YgRsG7KWyOeeaY",
+    "maps_url": "https://maps.google.com/?cid=11995792957179063984"
+  },
+  {
+    "name": "Pest Tech Central, Inc.",
+    "rating": 5,
+    "reviews": 19,
+    "phone": "(863) 632-4308",
+    "website": "https://pesttechcentral.com/",
+    "address": "407 S Lake Starr Blvd, Lake Wales, FL 33898, USA",
+    "place_id": "ChIJU1nYzzoL3YgR_7E3HmvBvdY",
+    "maps_url": "https://maps.google.com/?cid=15473736560527520255"
+  },
+  {
+    "name": "Wilds pest management",
+    "rating": 0,
+    "reviews": 0,
+    "phone": "(863) 455-6569",
+    "website": "https://wildspm.com/",
+    "address": "948 Carlton Ave, Lake Wales, FL 33853, USA",
+    "place_id": "ChIJz0f1QzcJ3YgR8T_gePsAexQ",
+    "maps_url": "https://maps.google.com/?cid=1475774382958723057"
+  },
+  {
+    "name": "Ramson Services, inc.",
+    "rating": 5,
+    "reviews": 21,
+    "phone": "(863) 232-9153",
+    "website": "",
+    "address": "6348 Rocky Point Rd, Lake Wales, FL 33898, USA",
+    "place_id": "ChIJOyH1ZxkM3YgR8M9KVfczIyI",
+    "maps_url": "https://maps.google.com/?cid=2459866958855327728"
+  },
+  {
+    "name": "Total Pest Solutions, Inc.",
+    "rating": 4.9,
+    "reviews": 483,
+    "phone": "(863) 585-3636",
+    "website": "https://totalpestsolutionsfl.com/",
+    "address": "709 Old Polk City Rd, Lake Alfred, FL 33850, USA",
+    "place_id": "ChIJE_SGcvFu3YgRuUsaDXg4uHA",
+    "maps_url": "https://maps.google.com/?cid=8122304016229747641"
+  },
+  {
+    "name": "Country Boy Pest Control LLC.",
+    "rating": 4.9,
+    "reviews": 388,
+    "phone": "(863) 356-1616",
+    "website": "https://www.countryboypestcontrol.com/",
+    "address": "2103 K-Ville Ave, Auburndale, FL 33823, USA",
+    "place_id": "ChIJB7lVByoS3YgRV1ubSc_Twts",
+    "maps_url": "https://maps.google.com/?cid=15835452127034694487"
+  },
+  {
+    "name": "All Bugs Pest Control - Pest Control & Lawn Care",
+    "rating": 4.6,
+    "reviews": 9,
+    "phone": "(863) 255-3173",
+    "website": "https://www.allbugspestcontrolfl.com/",
+    "address": "2725 Old Grove Trail, Frostproof, FL 33843, USA",
+    "place_id": "ChIJmQ-nwB6r3YgRz-d7TfPaQLI",
+    "maps_url": "https://maps.google.com/?cid=12844506875772528591"
+  },
+  {
+    "name": "Golden Pest Services",
+    "rating": 5,
+    "reviews": 2,
+    "phone": "(863) 638-0158",
+    "website": "",
+    "address": "304 Jefferson St, Lake Wales, FL 33859, USA",
+    "place_id": "ChIJJ4AyDw0G3YgRU-eFRC79jrw",
+    "maps_url": "https://maps.google.com/?cid=13587075500983314259"
+  },
+  {
+    "name": "Robin's Pest Control LLC",
+    "rating": 4.9,
+    "reviews": 73,
+    "phone": "(863) 514-7056",
+    "website": "https://www.robinspestcontrol.com/",
+    "address": "6039 Cypress Gardens Blvd Suite 576, Winter Haven, FL 33884, USA",
+    "place_id": "ChIJmx-f0zMN3YgRMJWWRmqfawA",
+    "maps_url": "https://maps.google.com/?cid=30293101307663664"
+  }
+]

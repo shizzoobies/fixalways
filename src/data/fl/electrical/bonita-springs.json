@@ -1,0 +1,252 @@
+[
+  {
+    "name": "Eric's Electrical Services",
+    "rating": 4.9,
+    "reviews": 182,
+    "phone": "(239) 200-5453",
+    "website": "http://www.ericselectricalservices.com/",
+    "address": "27970 Crown Lake Blvd Suite 4, Bonita Springs, FL 34135, USA",
+    "place_id": "ChIJgxEm8HUb24gRX-TVqTRljRA",
+    "maps_url": "https://maps.google.com/?cid=1192720753185121375"
+  },
+  {
+    "name": "A/C Electrical Services",
+    "rating": 4.7,
+    "reviews": 129,
+    "phone": "(239) 597-1789",
+    "website": "https://acelectric.net/?utm_source=GMB&utm_medium=organic",
+    "address": "25150 Bernwood Dr #27, Bonita Springs, FL 34135, USA",
+    "place_id": "ChIJW3vOuw4d24gRiZudYReui_k",
+    "maps_url": "https://maps.google.com/?cid=17981657352652037001"
+  },
+  {
+    "name": "SPEEDY ELECTRIC",
+    "rating": 4.6,
+    "reviews": 233,
+    "phone": "(239) 267-2817",
+    "website": "http://www.myspeedyelectric.com/",
+    "address": "27499 Riverview Center Blvd #136, Bonita Springs, FL 34134, USA",
+    "place_id": "ChIJZZaS_7oZ24gRzQrtNfMDRWE",
+    "maps_url": "https://maps.google.com/?cid=7009012738188708557"
+  },
+  {
+    "name": "Connors Electric, Inc.",
+    "rating": 4.6,
+    "reviews": 27,
+    "phone": "(239) 948-6755",
+    "website": "https://connorselectricinc.com/",
+    "address": "28200 Old 41 Rd #202, Bonita Springs, FL 34135, USA",
+    "place_id": "ChIJv8Z_-YAZ24gRT9Vc5GLCAx4",
+    "maps_url": "https://maps.google.com/?cid=2162785976061842767"
+  },
+  {
+    "name": "Gulf Shore Electric",
+    "rating": 4.7,
+    "reviews": 27,
+    "phone": "(239) 221-7265",
+    "website": "https://gulfshoreelectric.com/",
+    "address": "28291 Race Track Rd Suite 101, Bonita Springs, FL 34135, USA",
+    "place_id": "ChIJ0U9K5S4Z24gR0qRhs0XYp54",
+    "maps_url": "https://maps.google.com/?cid=11432343972977157330"
+  },
+  {
+    "name": "Wave Electric LLC",
+    "rating": 5,
+    "reviews": 10,
+    "phone": "(239) 293-1728",
+    "website": "",
+    "address": "25926 Cockleshell Dr, Bonita Springs, FL 34135, USA",
+    "place_id": "ChIJP2RbLFEX24gRw5vK36tXIJk",
+    "maps_url": "https://maps.google.com/?cid=11033915482763336643"
+  },
+  {
+    "name": "Volts Electrical Services LLC",
+    "rating": 4.5,
+    "reviews": 205,
+    "phone": "(239) 355-5912",
+    "website": "https://www.volts-electric.com/",
+    "address": "16103 Lee Rd #207, Fort Myers, FL 33912, USA",
+    "place_id": "ChIJVVBOHbUF24gRgxNugKVixt8",
+    "maps_url": "https://maps.google.com/?cid=16124683978810463107"
+  },
+  {
+    "name": "Emergency 1 Electric Inc",
+    "rating": 5,
+    "reviews": 17,
+    "phone": "(239) 498-1801",
+    "website": "",
+    "address": "26930 N Riverside Dr, Bonita Springs, FL 34135, USA",
+    "place_id": "ChIJxV-y4ooZ24gRqR_HuXDL0q0",
+    "maps_url": "https://maps.google.com/?cid=12525297198684381097"
+  },
+  {
+    "name": "Goodwin Electric, Inc.",
+    "rating": 4.6,
+    "reviews": 26,
+    "phone": "(239) 363-6836",
+    "website": "https://www.mygoodwinelectric.com/",
+    "address": "28480 Old 41 Rd, Bonita Springs, FL 34135, USA",
+    "place_id": "ChIJy0VLbXkZ24gRc-dW6l1h3QE",
+    "maps_url": "https://maps.google.com/?cid=134370619882399603"
+  },
+  {
+    "name": "Home Works Now",
+    "rating": 5,
+    "reviews": 315,
+    "phone": "(239) 288-2911",
+    "website": "https://homeworksnow.com/",
+    "address": "12601 Trade Way Dr Ste 4, Bonita Springs, FL 34135, USA",
+    "place_id": "ChIJo5PzaUID24gRl_E9VtCRNRg",
+    "maps_url": "https://maps.google.com/?cid=1744460754662060439"
+  },
+  {
+    "name": "S.E. Bates Electric",
+    "rating": 4.7,
+    "reviews": 216,
+    "phone": "(239) 420-7707",
+    "website": "https://bates-electric.com/locations/naples-fl/",
+    "address": "5633 Strand Blvd Suite 313, Naples, FL 34110, USA",
+    "place_id": "ChIJu4fGku4d24gRFRW0JLvbxng",
+    "maps_url": "https://maps.google.com/?cid=8702884926761211157"
+  },
+  {
+    "name": "AFC Electric Inc",
+    "rating": 5,
+    "reviews": 6,
+    "phone": "(239) 498-3131",
+    "website": "https://www.afcelectric.com/",
+    "address": "9001 Highland Woods Blvd #3, Bonita Springs, FL 34135, USA",
+    "place_id": "ChIJHZhu8Cca24gRb8rJSDRpjn0",
+    "maps_url": "https://maps.google.com/?cid=9047284374714305135"
+  },
+  {
+    "name": "Coup Electric Co.",
+    "rating": 5,
+    "reviews": 453,
+    "phone": "(239) 228-6581",
+    "website": "http://www.coupelectric.com/",
+    "address": "17251 Alico Center Rd STE 5, Fort Myers, FL 33967, USA",
+    "place_id": "ChIJxWFFSDri2ogREW4jf-J9jEc",
+    "maps_url": "https://maps.google.com/?cid=5155634085181484561"
+  },
+  {
+    "name": "Diaz Brothers Company LLC",
+    "rating": 5,
+    "reviews": 17,
+    "phone": "(239) 494-7964",
+    "website": "https://www.diazbrotherscompany.com/?utm_source=google&utm_medium=wix_google_business_profile&utm_campaign=9672316629883757886",
+    "address": "27499 Riverview Center Blvd Suite 105, Bonita Springs, FL 34134, USA",
+    "place_id": "ChIJG-QAyC4Z24gROhZZuEqASpg",
+    "maps_url": "https://maps.google.com/?cid=10973724500450416186"
+  },
+  {
+    "name": "Mister Sparky",
+    "rating": 4.8,
+    "reviews": 3721,
+    "phone": "(239) 212-0122",
+    "website": "https://fortmyersmistersparky.com/?utm_source=GBP&utm_medium=organic&utm_campaign=fortmyersgbp",
+    "address": "14241 Jetport Loop W #2, Fort Myers, FL 33913, USA",
+    "place_id": "ChIJ3RdG19Fp24gRofMLdlrL59w",
+    "maps_url": "https://maps.google.com/?cid=15917914997352297377"
+  },
+  {
+    "name": "Powerpoint One Electric Inc",
+    "rating": 4.9,
+    "reviews": 8,
+    "phone": "(239) 877-7566",
+    "website": "http://pp1electric.com/",
+    "address": "28711 S Diesel Dr, Bonita Springs, FL 34135, USA",
+    "place_id": "ChIJizlWU9Qd24gR5q1DFcl22hQ",
+    "maps_url": "https://maps.google.com/?cid=1502644031698742758"
+  },
+  {
+    "name": "Palm River Electric",
+    "rating": 5,
+    "reviews": 3,
+    "phone": "(239) 221-7451",
+    "website": "http://palmriverelectric.com/",
+    "address": "28380 Old 41 Rd # 9, Bonita Springs, FL 34135, USA",
+    "place_id": "ChIJtx2uTn8Z24gRCxwYsiC6iHE",
+    "maps_url": "https://maps.google.com/?cid=8180993372708150283"
+  },
+  {
+    "name": "Southwest Florida Electric Inc.",
+    "rating": 4.8,
+    "reviews": 472,
+    "phone": "(239) 788-2799",
+    "website": "https://www.swflelectric.com/",
+    "address": "2565 South St, Fort Myers, FL 33901, USA",
+    "place_id": "ChIJ29i4_aRq24gR2OFsn-bm_BY",
+    "maps_url": "https://maps.google.com/?cid=1656452641157079512"
+  },
+  {
+    "name": "Coharbor Electric LLC",
+    "rating": 4.9,
+    "reviews": 491,
+    "phone": "(239) 356-1062",
+    "website": "https://coharborelectric.com/",
+    "address": "11270 Metro Pkwy #5, Fort Myers, FL 33966, USA",
+    "place_id": "ChIJTd_4NPFD24gR9YntAPQAvI0",
+    "maps_url": "https://maps.google.com/?cid=10213039102957029877"
+  },
+  {
+    "name": "Franco's Electric",
+    "rating": 4.6,
+    "reviews": 28,
+    "phone": "(239) 244-8640",
+    "website": "https://francoselectric.com/",
+    "address": "20791 Three Oaks Pkwy, Estero, FL 33928, USA",
+    "place_id": "ChIJ-UIl0MgW24gRXAIw4NeYp5k",
+    "maps_url": "https://maps.google.com/?cid=11071986261860287068"
+  },
+  {
+    "name": "Guzzo Electric, LLC",
+    "rating": 5,
+    "reviews": 3,
+    "phone": "(239) 301-4174",
+    "website": "",
+    "address": "28621 N Diesel Dr, Bonita Springs, FL 34135, USA",
+    "place_id": "ChIJk9U9ItMb24gRSGHsthknTYE",
+    "maps_url": "https://maps.google.com/?cid=9317146195496034632"
+  },
+  {
+    "name": "Hogue Electric Inc",
+    "rating": 3.8,
+    "reviews": 4,
+    "phone": "(239) 992-3939",
+    "website": "",
+    "address": "27771 Tennessee St #2, Bonita Springs, FL 34135, USA",
+    "place_id": "ChIJUeNBdYcZ24gRHEG5QaD8oJc",
+    "maps_url": "https://maps.google.com/?cid=10926010461228450076"
+  },
+  {
+    "name": "Alliance electric, LLC",
+    "rating": 0,
+    "reviews": 0,
+    "phone": "(239) 271-4889",
+    "website": "https://allianceelectric.jobbersites.com/",
+    "address": "25150 Bernwood Dr, Bonita Springs, FL 34135, USA",
+    "place_id": "ChIJswV1YHIZ24gRbbx-XE8uW6s",
+    "maps_url": "https://maps.google.com/?cid=12347513721755450477"
+  },
+  {
+    "name": "Hutch Electric",
+    "rating": 4.6,
+    "reviews": 18,
+    "phone": "(239) 596-2663",
+    "website": "https://hutchelectric.com/",
+    "address": "1085 Business Ln STE 8, Naples, FL 34110, USA",
+    "place_id": "ChIJ9TE3zwcc24gR_7sZBuoSmT0",
+    "maps_url": "https://maps.google.com/?cid=4438599704084331519"
+  },
+  {
+    "name": "ELEKTRIKA-FL",
+    "rating": 5,
+    "reviews": 3,
+    "phone": "(239) 961-0824",
+    "website": "https://www.elektrika-fl.com/?utm_source=google&utm_medium=wix_google_business_profile&utm_campaign=11556623564908305062",
+    "address": "11620 Red Hibiscus Dr, Bonita Springs, FL 34135, USA",
+    "place_id": "ChIJ7_x12GNy60ERjQ56XxDThLo",
+    "maps_url": "https://maps.google.com/?cid=13440099255255174797"
+  }
+]

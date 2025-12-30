@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Florida Pest Control",
+    "rating": 4.8,
+    "reviews": 342,
+    "phone": "(386) 245-9795",
+    "website": "https://www.flapest.com/locations/palatka/?utm_source=google&utm_medium=gbp&utm_campaign=crillave_palatka",
+    "address": "2405 Crill Ave, Palatka, FL 32177, USA",
+    "place_id": "ChIJ5VLXILZl5ogRzR0KlDQdVwU",
+    "maps_url": "https://maps.google.com/?cid=384808404822662605"
+  },
+  {
+    "name": "Champion Termite and Pest Control, Inc.",
+    "rating": 4.8,
+    "reviews": 265,
+    "phone": "(386) 329-9700",
+    "website": "https://www.championtermiteandpestcontrol.com/?utm_source=GoogleMyBusiness&utm_medium=organic&utm_campaign=GMB",
+    "address": "818 Husson Ave, Palatka, FL 32177, USA",
+    "place_id": "ChIJ5xvIH7Zl5ogRWXDx1v26wso",
+    "maps_url": "https://maps.google.com/?cid=14610445740538949721"
+  },
+  {
+    "name": "Sentry Termite & Pest Control Inc.",
+    "rating": 4.8,
+    "reviews": 198,
+    "phone": "(386) 684-2847",
+    "website": "http://sentrypestfl.com/",
+    "address": "431 Atlantic Ave, Interlachen, FL 32148, USA",
+    "place_id": "ChIJ69QtopgU5ogR9q96qqVZQTU",
+    "maps_url": "https://maps.google.com/?cid=3837446925561016310"
+  },
+  {
+    "name": "Do-All Pest Control Inc",
+    "rating": 4.5,
+    "reviews": 8,
+    "phone": "(386) 328-3347",
+    "website": "",
+    "address": "6100 Crill Ave, Palatka, FL 32177, USA",
+    "place_id": "ChIJA8MWkfRl5ogRkYxP-fDiOIA",
+    "maps_url": "https://maps.google.com/?cid=9239384160153341073"
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "name": "Robbie's Plumbing Service INC",
+    "rating": 4.9,
+    "reviews": 100,
+    "phone": "(813) 304-4183",
+    "website": "http://www.robbiesplumbingfl.com/",
+    "address": "14915 US-301, Dade City, FL 33523, USA",
+    "place_id": "ChIJfwqnCEBV3YgRrplkjy_Fnj8",
+    "maps_url": "https://maps.google.com/?cid=4584318278769613230"
+  },
+  {
+    "name": "Massey Plumbing Inc.",
+    "rating": 4.4,
+    "reviews": 149,
+    "phone": "(352) 206-4149",
+    "website": "http://masseyplumbing.net/",
+    "address": "13820 5th St, Dade City, FL 33525, USA",
+    "place_id": "ChIJgVH-2J1U3YgRABdaOMegdZc",
+    "maps_url": "https://maps.google.com/?cid=10913806049506629376"
+  },
+  {
+    "name": "A.C. Plumbing",
+    "rating": 5,
+    "reviews": 28,
+    "phone": "(352) 521-0402",
+    "website": "http://www.acplumbingfl.com/",
+    "address": "15812 US-301, Dade City, FL 33523, USA",
+    "place_id": "ChIJbSAfuMJU3YgRueJEln2oNBY",
+    "maps_url": "https://maps.google.com/?cid=1600089024968843961"
+  },
+  {
+    "name": "Harris Service Unlimited",
+    "rating": 4.3,
+    "reviews": 35,
+    "phone": "(352) 521-0707",
+    "website": "http://harrisserviceinc.com/",
+    "address": "15752 US-301, Dade City, FL 33523, USA",
+    "place_id": "ChIJpdOXkcJU3YgRtAgdQgMu7FA",
+    "maps_url": "https://maps.google.com/?cid=5831086209066928308"
+  },
+  {
+    "name": "Bahr Plumbing",
+    "rating": 4.9,
+    "reviews": 262,
+    "phone": "(813) 782-2524",
+    "website": "http://www.bahr.plumbing/",
+    "address": "5729 Gall Blvd, Zephyrhills, FL 33542, USA",
+    "place_id": "ChIJ01AdxGxN3YgR9hlFhNyv3Sw",
+    "maps_url": "https://maps.google.com/?cid=3232933469168671222"
+  },
+  {
+    "name": "Perez Plumbing Inc.",
+    "rating": 4.9,
+    "reviews": 123,
+    "phone": "(813) 907-1515",
+    "website": "https://perezplumbing.com/?utm_source=google&utm_medium=gmb&utm_campaign=seo",
+    "address": "10391 Gliding Eagle Wy, Land O' Lakes, FL 34638, USA",
+    "place_id": "ChIJxzR4zZ67wogRfU-1IcCC5ls",
+    "maps_url": "https://maps.google.com/?cid=6622124063805755261"
+  },
+  {
+    "name": "Major Plumbing LLC",
+    "rating": 4.9,
+    "reviews": 301,
+    "phone": "(352) 556-4029",
+    "website": "https://www.major-plumbing.com/",
+    "address": "9021 McIntyre Rd, Brooksville, FL 34601, USA",
+    "place_id": "ChIJ0ZxCk4ge6IgRCPWx-ogbPKE",
+    "maps_url": "https://maps.google.com/?cid=11618191413844505864"
+  },
+  {
+    "name": "Jimmy's Sanitary Services",
+    "rating": 4,
+    "reviews": 61,
+    "phone": "(352) 567-6373",
+    "website": "",
+    "address": "38140 Michael St, Dade City, FL 33525, USA",
+    "place_id": "ChIJiaGT1BJT3YgR2RQ9lTgVWXU",
+    "maps_url": "https://maps.google.com/?cid=8455813108130976985"
+  },
+  {
+    "name": "Colby Jaynes Plumbing",
+    "rating": 3.3,
+    "reviews": 3,
+    "phone": "(352) 567-6586",
+    "website": "",
+    "address": "39041 Clinton Ave, Dade City, FL 33525, USA",
+    "place_id": "ChIJp6xQXqBT3YgRxI6r5llyAdE",
+    "maps_url": "https://maps.google.com/?cid=15060444359351307972"
+  }
+]

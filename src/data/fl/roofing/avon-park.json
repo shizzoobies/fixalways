@@ -1,0 +1,162 @@
+[
+  {
+    "name": "Simpson Construction and Roofing",
+    "rating": 4.9,
+    "reviews": 49,
+    "phone": "(863) 312-9236",
+    "website": "https://simpsonconstructionandroofingfl.hibuwebsites.com/",
+    "address": "120 S Anoka Ave, Avon Park, FL 33825, USA",
+    "place_id": "ChIJ7a8qS75V3IgRSs_w9STubPw",
+    "maps_url": "https://maps.google.com/?cid=18189174837555023690"
+  },
+  {
+    "name": "Cobb Roofing Inc",
+    "rating": 3.9,
+    "reviews": 27,
+    "phone": "(863) 453-6595",
+    "website": "http://cobbroofinginc.com/",
+    "address": "1111 Memorial Dr, Avon Park, FL 33825, USA",
+    "place_id": "ChIJV1tJ6OBV3IgRZh3jTg7ZHuo",
+    "maps_url": "https://maps.google.com/?cid=16870159909652733286"
+  },
+  {
+    "name": "Morel Roofing",
+    "rating": 4.2,
+    "reviews": 58,
+    "phone": "(863) 452-5959",
+    "website": "https://morelroofingincfl.com/",
+    "address": "1012 S Memorial Dr, Avon Park, FL 33825, USA",
+    "place_id": "ChIJpXDA8XhU3IgRsx90vETOgLQ",
+    "maps_url": "https://maps.google.com/?cid=13006622518460817331"
+  },
+  {
+    "name": "J&C Roofing Co",
+    "rating": 4.1,
+    "reviews": 7,
+    "phone": "(863) 449-0212",
+    "website": "",
+    "address": "2991 US-27, Avon Park, FL 33825, USA",
+    "place_id": "ChIJjzac7JlV3IgR4RrYqiobhNw",
+    "maps_url": "https://maps.google.com/?cid=15889855255338818273"
+  },
+  {
+    "name": "AMS Central",
+    "rating": 4.4,
+    "reviews": 19,
+    "phone": "(800) 226-1334",
+    "website": "https://amsroofing.com/central-division/",
+    "address": "1000 US-27, Avon Park, FL 33825, USA",
+    "place_id": "ChIJ-6P234dV3IgRhpy0HwfUIT0",
+    "maps_url": "https://maps.google.com/?cid=4405035037606845574"
+  },
+  {
+    "name": "Spurlock Roofing",
+    "rating": 5,
+    "reviews": 1,
+    "phone": "(863) 453-5565",
+    "website": "",
+    "address": "1042 E Cornell St, Avon Park, FL 33825, USA",
+    "place_id": "ChIJl0U9cPZV3IgR_pimcDmoGNs",
+    "maps_url": "https://maps.google.com/?cid=15787553458403842302"
+  },
+  {
+    "name": "Zenith Construction Services LLC",
+    "rating": 5,
+    "reviews": 20,
+    "phone": "(863) 241-0855",
+    "website": "http://zenithcsllc.com/",
+    "address": "602 Forest St, Frostproof, FL 33843, USA",
+    "place_id": "ChIJ4Yypmr4B3YgRNwjmgEPV7U4",
+    "maps_url": "https://maps.google.com/?cid=5687436390340888631"
+  },
+  {
+    "name": "Spurlock Roofing",
+    "rating": 1.6,
+    "reviews": 5,
+    "phone": "(863) 453-5565",
+    "website": "",
+    "address": "100-198 N Glenwood Ave, Avon Park, FL 33825, USA",
+    "place_id": "ChIJ_2UP073_3IgRut1zOwa44kg",
+    "maps_url": "https://maps.google.com/?cid=5251962452374183354"
+  },
+  {
+    "name": "David J. Marley Roofing Contractors, Inc",
+    "rating": 4.8,
+    "reviews": 11,
+    "phone": "(863) 452-1208",
+    "website": "http://www.marleyroofingflorida.com/",
+    "address": "4214 Commercial Dr, Sebring, FL 33870, USA",
+    "place_id": "ChIJIZLaBJJX3IgRjL4BtKpGniM",
+    "maps_url": "https://maps.google.com/?cid=2566566536626159244"
+  },
+  {
+    "name": "Signature Roofing & Construction, Inc",
+    "rating": 3.6,
+    "reviews": 31,
+    "phone": "(863) 638-2555",
+    "website": "https://www.sigroof.net/",
+    "address": "249 Wilson Ave, Babson Park, FL 33827, USA",
+    "place_id": "ChIJRfZZl5IH3YgRiLzK4qHe0TI",
+    "maps_url": "https://maps.google.com/?cid=3661952758904962184"
+  },
+  {
+    "name": "Promise Technologies",
+    "rating": 5,
+    "reviews": 1,
+    "phone": "(863) 453-0660",
+    "website": "https://www.promisetechnologies.com/",
+    "address": "157 Wester Ave, Avon Park, FL 33825, USA",
+    "place_id": "ChIJm3eGXXBV3IgRVOAnHnutHLU",
+    "maps_url": "https://maps.google.com/?cid=13050496564511367252"
+  },
+  {
+    "name": "Taylor's Roofing",
+    "rating": 4.8,
+    "reviews": 104,
+    "phone": "(863) 676-2555",
+    "website": "http://taylors-roofing.com/",
+    "address": "108 Dr JA Wiltshire Ave, Lake Wales, FL 33853, USA",
+    "place_id": "ChIJYdx8pCUJ3YgR0uOnUHFcrkQ",
+    "maps_url": "https://maps.google.com/?cid=4948994682280993746"
+  },
+  {
+    "name": "Brehm Roofing & Restoration",
+    "rating": 5,
+    "reviews": 273,
+    "phone": "(352) 664-8585",
+    "website": "https://brehmroofing.com/",
+    "address": "1344 NW 121st Way, Gainesville, FL 32606, USA",
+    "place_id": "ChIJXT-bM05nmUYRWIVbIOpTxbY",
+    "maps_url": "https://maps.google.com/?cid=13170024950345205080"
+  },
+  {
+    "name": "J & S Roofing and Construction Inc.",
+    "rating": 4.9,
+    "reviews": 95,
+    "phone": "(352) 672-2048",
+    "website": "http://www.jandsconstruct.com/",
+    "address": "5216 SW 91st St Suite A, Gainesville, FL 32608, USA",
+    "place_id": "ChIJhRCnF6XD6IgR_435iSXVVic",
+    "maps_url": "https://maps.google.com/?cid=2834687372681645567"
+  },
+  {
+    "name": "Rob The Builder and Associates, LLC",
+    "rating": 4.9,
+    "reviews": 29,
+    "phone": "(863) 221-0364",
+    "website": "https://www.facebook.com/robthebuilderandassociates?mibextid=LQQJ4d",
+    "address": "1970 N Zenith Rd, Avon Park, FL 33825, USA",
+    "place_id": "ChIJ9bEpDKn_3IgRnj3boYo5mlI",
+    "maps_url": "https://maps.google.com/?cid=5952133125107301790"
+  },
+  {
+    "name": "Affordable Roofing (LLC)",
+    "rating": 4.9,
+    "reviews": 85,
+    "phone": "(863) 228-8232",
+    "website": "https://affordableroofingllc.com/",
+    "address": "5387 Baker Dairy Rd, Haines City, FL 33844, USA",
+    "place_id": "ChIJhToqJzJ13YgRRRi4adIcIvc",
+    "maps_url": "https://maps.google.com/?cid=17807827566618744901"
+  }
+]

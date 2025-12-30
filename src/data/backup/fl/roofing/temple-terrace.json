@@ -1,0 +1,92 @@
+[
+  {
+    "name": "Expert Home Service",
+    "rating": 4.9,
+    "reviews": 891,
+    "phone": "(813) 632-8889",
+    "website": "https://experthomeservice.com/",
+    "maps": "https://maps.google.com/?cid=13179160401903091859&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "7320 E Fletcher Ave, Tampa, FL 33637, USA"
+  },
+  {
+    "name": "Hawkins Service Co.",
+    "rating": 4.9,
+    "reviews": 4544,
+    "phone": "(813) 606-5143",
+    "website": "https://www.hawkinsserviceco.com/?utm_source=google&utm_medium=organic&utm_campaign=GMBListing-Riverview-FL",
+    "maps": "https://maps.google.com/?cid=12588527635699658599&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "7601 Industrial Ln, Tampa, FL 33637, USA"
+  },
+  {
+    "name": "Ahoy Cooling and Heating",
+    "rating": 4.9,
+    "reviews": 484,
+    "phone": "(813) 922-3556",
+    "website": "https://callahoy.com/?utm_source=google&utm_medium=organic&utm_campaign=GMBListing-Temple-Terrace-FL",
+    "maps": "https://maps.google.com/?cid=11829570985752612582&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "7604 Industrial Ln #4d, Temple Terrace, FL 33637, USA"
+  },
+  {
+    "name": "HVAC Energy Calculations INC",
+    "rating": 5,
+    "reviews": 1,
+    "phone": "(813) 513-1005",
+    "website": "https://www.templeterracehvac.com/",
+    "maps": "https://maps.google.com/?cid=15410126503190840583&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "5470 E Busch Blvd #202, Temple Terrace, FL 33617, USA"
+  },
+  {
+    "name": "Integrity Home Solutions",
+    "rating": 4.7,
+    "reviews": 8632,
+    "phone": "(813) 575-6500",
+    "website": "https://www.homeofintegrity.com/?utm_source=google-gbp&utm_medium=organic&utm_campaign=*132*integrity-home-solutions-tampa",
+    "maps": "https://maps.google.com/?cid=10322554217350357477&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "5904 Hampton Oaks Pkwy, Tampa, FL 33610, USA"
+  },
+  {
+    "name": "One Hour Air Conditioning & Heating",
+    "rating": 4.6,
+    "reviews": 4150,
+    "phone": "(813) 291-0655",
+    "website": "https://tampaonehour.com/?utm_source=GBP&utm_medium=organic&utm_campaign=tampagbp",
+    "maps": "https://maps.google.com/?cid=15892719192557529366&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "5808 N 56th St, Tampa, FL 33610, USA"
+  },
+  {
+    "name": "Air Masters of Tampa Bay",
+    "rating": 4.7,
+    "reviews": 1543,
+    "phone": "(877) 503-0588",
+    "website": "https://airmasters.net/",
+    "maps": "https://maps.google.com/?cid=12711511985310200780&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "4830 N Florida Ave, Tampa, FL 33603, USA"
+  },
+  {
+    "name": "Tampa AC Repair Guys",
+    "rating": 5,
+    "reviews": 201,
+    "phone": "(813) 670-7958",
+    "website": "http://actampafl.com/",
+    "maps": "https://maps.google.com/?cid=2712352911865987398&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "5317 56th Commerce Park Blvd, Tampa, FL 33610, USA"
+  },
+  {
+    "name": "Del-Air Heating, Air Conditioning and Plumbing",
+    "rating": 4.9,
+    "reviews": 1454,
+    "phone": "(813) 515-0098",
+    "website": "https://www.delair.com/tampa/?utm_source=google&utm_medium=organic&utm_campaign=GMBListing-Tampa",
+    "maps": "https://maps.google.com/?cid=9090538693508430635&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "12302 N Nebraska Ave, Tampa, FL 33612, USA"
+  },
+  {
+    "name": "Air Support Cooling and Heating, LLC",
+    "rating": 5,
+    "reviews": 236,
+    "phone": "(813) 245-4622",
+    "website": "https://airsupportnow.com/",
+    "maps": "https://maps.google.com/?cid=5175673873153025416&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "1031 W Busch Blvd, Tampa, FL 33612, USA"
+  }
+]

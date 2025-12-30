@@ -1,0 +1,252 @@
+[
+  {
+    "name": "Dr. Death Pest Control Inc.",
+    "rating": 4.9,
+    "reviews": 216,
+    "phone": "(786) 468-2847",
+    "website": "http://www.drdeathinc.com/",
+    "address": "7840 SW 197th Terrace, Cutler Bay, FL 33189, USA",
+    "place_id": "ChIJ5UrrOrK42YgRaUJlsFTA8As",
+    "maps_url": "https://maps.google.com/?cid=860398998796976745"
+  },
+  {
+    "name": "Coastal Pest Services",
+    "rating": 5,
+    "reviews": 24,
+    "phone": "(941) 981-9811",
+    "website": "https://coastalpestservices.net/",
+    "address": "3805 89th St E, Palmetto, FL 34221, USA",
+    "place_id": "ChIJq6pO7bEWw4gRNyxzbyW8vRg",
+    "maps_url": "https://maps.google.com/?cid=1782787896478215223"
+  },
+  {
+    "name": "Dade Pest Solutions",
+    "rating": 5,
+    "reviews": 128,
+    "phone": "(305) 330-5565",
+    "website": "https://www.dadepestsolutions.com/",
+    "address": "2611 SE 1st St, Homestead, FL 33033, USA",
+    "place_id": "ChIJxxw9UDI0LyURR8tx42AghYA",
+    "maps_url": "https://maps.google.com/?cid=9260843809262127943"
+  },
+  {
+    "name": "Advent pest control",
+    "rating": 5,
+    "reviews": 57,
+    "phone": "(941) 735-8849",
+    "website": "https://www.adventpestcontrols.com/",
+    "address": "4526 Long Branch Ln, Palmetto, FL 34221, USA",
+    "place_id": "ChIJ7Yg2LeMjw4gRUjO_2B5XdJ0",
+    "maps_url": "https://maps.google.com/?cid=11345789151250166610"
+  },
+  {
+    "name": "Trinity Pest Solutions & Termite",
+    "rating": 4.8,
+    "reviews": 550,
+    "phone": "(305) 745-7938",
+    "website": "https://trinitypestsolutions.net/",
+    "address": "100 NE 15th St Suite: 101-E, Homestead, FL 33033, USA",
+    "place_id": "ChIJ86L4j7Ln2YgRjAmy4E9iJZE",
+    "maps_url": "https://maps.google.com/?cid=10458873804849547660"
+  },
+  {
+    "name": "Florida Pest Control",
+    "rating": 5,
+    "reviews": 553,
+    "phone": "(844) 621-9931",
+    "website": "https://www.flapest.com/locations/miami/?utm_source=google&utm_medium=gbp&utm_campaign=medley",
+    "address": "8600 NW South River Dr Suite 213, Medley, FL 33166, USA",
+    "place_id": "ChIJ-1LwRkW72YgRqL_DGgeyDVQ",
+    "maps_url": "https://maps.google.com/?cid=6056692817466736552"
+  },
+  {
+    "name": "Natural Resources Pest Control Miami",
+    "rating": 4.9,
+    "reviews": 546,
+    "phone": "(305) 946-1815",
+    "website": "https://naturalresourcesfl.com/?utm_source=gmb&utm_medium=organic",
+    "address": "10756 NE 4th Ave, Miami, FL 33161, USA",
+    "place_id": "ChIJDwF2K_Wx2YgRzj0DjHU1c3k",
+    "maps_url": "https://maps.google.com/?cid=8751397279887474126"
+  },
+  {
+    "name": "Target Pest Solutions",
+    "rating": 5,
+    "reviews": 18,
+    "phone": "(941) 725-8769",
+    "website": "https://target-pest-solutions-llc.com/services/",
+    "address": "1201 20th Ave W, Palmetto, FL 34221, USA",
+    "place_id": "ChIJb33uRtsXw4gROEndXzR5emQ",
+    "maps_url": "https://maps.google.com/?cid=7240232616805091640"
+  },
+  {
+    "name": "The Termite Guys",
+    "rating": 4.9,
+    "reviews": 117,
+    "phone": "(305) 964-5880",
+    "website": "http://floridatermiteguys.com/",
+    "address": "10755 SW 190th St #46, Miami, FL 33157, USA",
+    "place_id": "ChIJiRCD4XXD2YgR15XSJyMXT00",
+    "maps_url": "https://maps.google.com/?cid=5570696703839999447"
+  },
+  {
+    "name": "AL-FLEX Exterminators",
+    "rating": 4.6,
+    "reviews": 738,
+    "phone": "(305) 552-0141",
+    "website": "http://alflexexterminators.com/",
+    "address": "4035 SW 98th Ave, Miami, FL 33165, USA",
+    "place_id": "ChIJAUucRaW42YgR2r15J6au458",
+    "maps_url": "https://maps.google.com/?cid=11521244300393954778"
+  },
+  {
+    "name": "NaturePest Holistic Pest Control",
+    "rating": 4.9,
+    "reviews": 172,
+    "phone": "(786) 222-7069",
+    "website": "https://www.naturepest.com/",
+    "address": "4140 NE 24th St, Homestead, FL 33033, USA",
+    "place_id": "ChIJ4YTpRXy52YgRXyAAIXgHAIk",
+    "maps_url": "https://maps.google.com/?cid=9871898595727253599"
+  },
+  {
+    "name": "Southern Greens Pest Control",
+    "rating": 4.1,
+    "reviews": 48,
+    "phone": "(941) 747-6677",
+    "website": "https://southerngreenspestcontrol.com/?utm_source=gmb&utm_medium=organic&utm_campaign=gmb-palmetto",
+    "address": "904 17th St W #101, Palmetto, FL 34221, USA",
+    "place_id": "ChIJYQrTI3k9w4gRm_5WgcS9sDY",
+    "maps_url": "https://maps.google.com/?cid=3940858325630385819"
+  },
+  {
+    "name": "Saturn Pest Control",
+    "rating": 4.5,
+    "reviews": 16,
+    "phone": "(941) 747-5722",
+    "website": "",
+    "address": "1526 5th St W, Palmetto, FL 34221, USA",
+    "place_id": "ChIJz-1OyDcWw4gRYKOB38vH804",
+    "maps_url": "https://maps.google.com/?cid=5689110432741172064"
+  },
+  {
+    "name": "911 Pests Experts",
+    "rating": 4.9,
+    "reviews": 136,
+    "phone": "(855) 886-7378",
+    "website": "https://911homehelps.com/",
+    "address": "9555 SW 175th Terrace, Palmetto Bay, FL 33157, USA",
+    "place_id": "ChIJlRmZ09XF2YgRSdqRepYYIig",
+    "maps_url": "https://maps.google.com/?cid=2891900945305819721"
+  },
+  {
+    "name": "All Dade Exterminators Inc",
+    "rating": 4.8,
+    "reviews": 22,
+    "phone": "(305) 251-9111",
+    "website": "http://www.alldadeexterminators.com/",
+    "address": "8854 SW 129th Terrace, Miami, FL 33176, USA",
+    "place_id": "ChIJCTs8rezG2YgRmegnPSASoYQ",
+    "maps_url": "https://maps.google.com/?cid=9556939813931182233"
+  },
+  {
+    "name": "Monster Pest Control",
+    "rating": 4.6,
+    "reviews": 51,
+    "phone": "(786) 488-7235",
+    "website": "http://miamipestcontrolsolutions.com/",
+    "address": "11800 SW 87th Ave, Miami, FL 33176, USA",
+    "place_id": "ChIJtzh4nRrH2YgRZCYXjnxILrs",
+    "maps_url": "https://maps.google.com/?cid=13487797633818240612"
+  },
+  {
+    "name": "1st Solution Pest Control",
+    "rating": 3.4,
+    "reviews": 60,
+    "phone": "(786) 401-2796",
+    "website": "",
+    "address": "18619 SW 107th Ave, Miami, FL 33157, USA",
+    "place_id": "ChIJG7MzOwHD2YgRlyEsQ8iayyU",
+    "maps_url": "https://maps.google.com/?cid=2723440584586699159"
+  },
+  {
+    "name": "Power X Pest Control",
+    "rating": 4.1,
+    "reviews": 62,
+    "phone": "(800) 555-0170",
+    "website": "https://www.lovepowerx.com/",
+    "address": "8815 SW 129th St, Miami, FL 33176, USA",
+    "place_id": "ChIJgS_Bv-zG2YgRQ1m9Ea5SKF0",
+    "maps_url": "https://maps.google.com/?cid=6712706152171133251"
+  },
+  {
+    "name": "The PEST Group",
+    "rating": 4.8,
+    "reviews": 31,
+    "phone": "(877) 344-3530",
+    "website": "http://www.thepestgroup.com/?utm_source=google&utm_medium=organic&utm_campaign=local-seo&utm_term=miami-website",
+    "address": "10508 SW 185th Terrace, Cutler Bay, FL 33157, USA",
+    "place_id": "ChIJO1TEogHF2YgRbfd3MMZMc6E",
+    "maps_url": "https://maps.google.com/?cid=11633726676528527213"
+  },
+  {
+    "name": "Nature Guard Pest Control",
+    "rating": 4.9,
+    "reviews": 40,
+    "phone": "(855) 405-2345",
+    "website": "https://natureguardusa.com/",
+    "address": "20200 W Dixie Hwy Suite 902 #1068, Aventura, FL 33180, USA",
+    "place_id": "ChIJEarMA52l2YgRzIkQ74C7FC0",
+    "maps_url": "https://maps.google.com/?cid=3248427393682016716"
+  },
+  {
+    "name": "Tonarely Pest Control, Inc.",
+    "rating": 5,
+    "reviews": 8,
+    "phone": "(786) 547-4358",
+    "website": "",
+    "address": "13400 SW 96th Ave, Miami, FL 33176, USA",
+    "place_id": "ChIJbYhiWbnG2YgR6zypM0nre74",
+    "maps_url": "https://maps.google.com/?cid=13725822988973587691"
+  },
+  {
+    "name": "Keller's Pest Control",
+    "rating": 4.9,
+    "reviews": 1318,
+    "phone": "(941) 239-1941",
+    "website": "https://www.kellerspestcontrol.com/",
+    "address": "1510 53rd Ave W, Bradenton, FL 34207, USA",
+    "place_id": "ChIJa8sTIAoWw4gRwybORMRALgg",
+    "maps_url": "https://maps.google.com/?cid=589479812944242371"
+  },
+  {
+    "name": "FreshWave Pest Control",
+    "rating": 0,
+    "reviews": 0,
+    "phone": "(813) 975-1222",
+    "website": "http://freshwavepestcontrol.com/",
+    "address": "8960 Caribbean Blvd, Cutler Bay, FL 33157, USA",
+    "place_id": "ChIJg-M5iPrF2YgRQLdvlby1TeQ",
+    "maps_url": "https://maps.google.com/?cid=16451004835419895616"
+  },
+  {
+    "name": "Pest Control Near Me by PCNMM",
+    "rating": 0,
+    "reviews": 0,
+    "phone": "(645) 238-2810",
+    "website": "https://pestcontrolnearmebypcnmm.com/",
+    "address": "9510 SW 160th St unit 7, Miami, FL 33157, USA",
+    "place_id": "ChIJsxHp_qjF2YgR8um2pY6CAfE",
+    "maps_url": "https://maps.google.com/?cid=17366305187294538226"
+  },
+  {
+    "name": "South Atlantic Pest Management",
+    "rating": 5,
+    "reviews": 7,
+    "phone": "(352) 210-1701",
+    "website": "",
+    "address": "6910 SE 62nd Ct, Trenton, FL 32693, USA",
+    "place_id": "ChIJF1PxworC6IgRwQfO4FJ6N9I",
+    "maps_url": "https://maps.google.com/?cid=15147710368061458369"
+  }
+]

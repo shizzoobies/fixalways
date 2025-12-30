@@ -1,0 +1,82 @@
+[
+  {
+    "name": "Paul Stein Plumbing",
+    "rating": 4.8,
+    "reviews": 247,
+    "phone": "(239) 374-1341",
+    "website": "http://www.paulsteinplumbing.com/",
+    "address": "994 N Barfield Dr #13, Marco Island, FL 34145, USA",
+    "place_id": "ChIJKXjnMqXv2ogRfji09vJV1y4",
+    "maps_url": "https://maps.google.com/?cid=3375260947746928766"
+  },
+  {
+    "name": "Marco Plumbing",
+    "rating": 4.4,
+    "reviews": 120,
+    "phone": "(239) 394-4488",
+    "website": "https://www.marcoplumbing.com/?utm_source=omg-gbp&utm_medium=webclick",
+    "address": "20 Marco Lake Dr #8, Marco Island, FL 34145, USA",
+    "place_id": "ChIJ54jf02sZ24gRibtiwo9k9d0",
+    "maps_url": "https://maps.google.com/?cid=15993800220280535945"
+  },
+  {
+    "name": "Prout's Plumbing",
+    "rating": 3.4,
+    "reviews": 26,
+    "phone": "(239) 394-1668",
+    "website": "https://www.proutsplumbinginc.com/",
+    "address": "881 E Elkcam Cir, Marco Island, FL 34145, USA",
+    "place_id": "ChIJL0frAPnv2ogRGDSgPsE2iaw",
+    "maps_url": "https://maps.google.com/?cid=12432528449940239384"
+  },
+  {
+    "name": "Marco Plumbing",
+    "rating": 4.4,
+    "reviews": 60,
+    "phone": "(239) 529-5397",
+    "website": "https://www.marcoplumbing.com/plumber-naples-fl",
+    "address": "3887 Mannix Dr STE 624, Naples, FL 34114, USA",
+    "place_id": "ChIJdy-qEzIf24gRSudNPyE4b24",
+    "maps_url": "https://maps.google.com/?cid=7957640782034102090"
+  },
+  {
+    "name": "Super Marco Bros Plumbing",
+    "rating": 5,
+    "reviews": 4,
+    "phone": "(708) 670-6648",
+    "website": "https://www.supermarcobros.com/",
+    "address": "1761 San Marco Rd, Marco Island, FL 34145, USA",
+    "place_id": "ChIJ7UyIq7fv2ogRT0Xe2zUTsS4",
+    "maps_url": "https://maps.google.com/?cid=3364491518665442639"
+  },
+  {
+    "name": "AIM Plumbing LLC",
+    "rating": 4.9,
+    "reviews": 261,
+    "phone": "(239) 348-7006",
+    "website": "https://www.aimservicesofswfl.com/?utm_source=GBPlisting&utm_medium=organic",
+    "address": "3558 Plover Ave #4, Naples, FL 34117, USA",
+    "place_id": "ChIJVVVVVXHh2ogRsau1wNgoNYk",
+    "maps_url": "https://maps.google.com/?cid=9886853468372970417"
+  },
+  {
+    "name": "Mike's Plumbing of Southwest Florida",
+    "rating": 4.9,
+    "reviews": 350,
+    "phone": "(239) 208-0274",
+    "website": "https://www.mikesplumbingswfl.com/",
+    "address": "1724 Santa Barbara Blvd unit a, Naples, FL 34116, USA",
+    "place_id": "ChIJG6b6xEMB24gRl7XQKsTUVHk",
+    "maps_url": "https://maps.google.com/?cid=8742846715629974935"
+  },
+  {
+    "name": "Glenn's Plumbing Inc",
+    "rating": 4.3,
+    "reviews": 6,
+    "phone": "(239) 394-2887",
+    "website": "",
+    "address": "994 N Barfield Dr SUITE 29 & 42, Marco Island, FL 34145, USA",
+    "place_id": "ChIJKXjnMqXv2ogRO5ImnH-1GS8",
+    "maps_url": "https://maps.google.com/?cid=3393943353885626939"
+  }
+]

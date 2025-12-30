@@ -1,0 +1,102 @@
+[
+  {
+    "name": "Carlos & Brian Handyman",
+    "rating": 5,
+    "reviews": 274,
+    "phone": "(781) 775-2490",
+    "website": "http://carlosandbrianhandyman.com/",
+    "address": "32003 Sapna Chime Dr, Wesley Chapel, FL 33545, USA",
+    "place_id": "ChIJxRTrtDpeyU0R6Dtv-2wkH1Q",
+    "maps_url": "https://maps.google.com/?cid=6061603673957415912"
+  },
+  {
+    "name": "Handy’s LLC",
+    "rating": 5,
+    "reviews": 10,
+    "phone": "(352) 593-3523",
+    "website": "https://www.handysfla.com/",
+    "address": "33402 Trilby Rd, Dade City, FL 33523, USA",
+    "place_id": "ChIJzeMuqQWrwogRPZAjC3oMyNI",
+    "maps_url": "https://maps.google.com/?cid=15188403461619421245"
+  },
+  {
+    "name": "Ace Handyman Services Greater Wesley Chapel",
+    "rating": 4.9,
+    "reviews": 87,
+    "phone": "(813) 923-1223",
+    "website": "",
+    "address": "5344 9th St Ste 103, Zephyrhills, FL 33542, USA",
+    "place_id": "ChIJu3OiB4hN3YgRjVMXVR5VjUo",
+    "maps_url": "https://maps.google.com/?cid=5372043519287841677"
+  },
+  {
+    "name": "Meridian Home Services",
+    "rating": 4.7,
+    "reviews": 22,
+    "phone": "(941) 228-9657",
+    "website": "",
+    "address": "12032 Carmen Ave, Dade City, FL 33525, USA",
+    "place_id": "ChIJ38Pn7lhT3YgRtCmmQL_3Flc",
+    "maps_url": "https://maps.google.com/?cid=6275475531582810548"
+  },
+  {
+    "name": "Ganesh Construction and Remodeling Pro",
+    "rating": 5,
+    "reviews": 11,
+    "phone": "(813) 419-7457",
+    "website": "https://ganeshhandyman.com/",
+    "address": "37613 Hardwood Ave, Zephyrhills, FL 33541, USA",
+    "place_id": "ChIJt2Dr5XdN3YgRJNotYHf4uXA",
+    "maps_url": "https://maps.google.com/?cid=8122796594537814564"
+  },
+  {
+    "name": "Zephyrhills Handyman",
+    "rating": 5,
+    "reviews": 7,
+    "phone": "(656) 220-4774",
+    "website": "https://www.zephyrhillshandyman.com/",
+    "address": "6321 Beverly Hls Dr, Zephyrhills, FL 33541, USA",
+    "place_id": "ChIJY32Fx2bdwKQRka26GzgSuhI",
+    "maps_url": "https://maps.google.com/?cid=1349411070543572369"
+  },
+  {
+    "name": "Fix It Heroes Handyman Service",
+    "rating": 0,
+    "reviews": 0,
+    "phone": "(352) 424-0518",
+    "website": "https://fixitheroes.com/",
+    "address": "13107 Scharber Rd, Dade City, FL 33525, USA",
+    "place_id": "ChIJo2Us_8Z2OmURln1UYf-x6HI",
+    "maps_url": "https://maps.google.com/?cid=8280063625328360854"
+  },
+  {
+    "name": "Carlos Espinosa Handy Man",
+    "rating": 4.7,
+    "reviews": 14,
+    "phone": "(781) 775-2490",
+    "website": "https://carlos-espinosa-handy-man.ueniweb.com/?utm_campaign=gmb",
+    "address": "32003 Sapna Chime Dr, Wesley Chapel, FL 33545, USA",
+    "place_id": "ChIJt35B9EOtwogRmyOvc9UzvmE",
+    "maps_url": "https://maps.google.com/?cid=7043123859115942811"
+  },
+  {
+    "name": "Andrew Handyman Services",
+    "rating": 4.9,
+    "reviews": 12,
+    "phone": "(656) 231-1836",
+    "website": "https://tampahandymen.blog/",
+    "address": "27380 Bonterra Lp, Wesley Chapel, FL 33544, USA",
+    "place_id": "ChIJ6Uhxrs5lrAcR0a_3O-cX8X4",
+    "maps_url": "https://maps.google.com/?cid=9147118600077160401"
+  },
+  {
+    "name": "Hb Building Solutions LLC",
+    "rating": 5,
+    "reviews": 11,
+    "phone": "(813) 585-2019",
+    "website": "https://hbbuildingsolutionsllc.com/",
+    "address": "8433 Majestic Woodland Blvd, Wesley Chapel, FL 33545, USA",
+    "place_id": "ChIJZaEd9mcH3AwR_H0ghPLV3Ws",
+    "maps_url": "https://maps.google.com/?cid=7772603769486867964"
+  }
+]

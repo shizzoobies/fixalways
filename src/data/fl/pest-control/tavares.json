@@ -1,0 +1,182 @@
+[
+  {
+    "name": "Kipp's",
+    "rating": 5,
+    "reviews": 172,
+    "phone": "(352) 706-5399",
+    "website": "https://www.kippspestcontrol.com/",
+    "address": "1100 E Alfred St Suite 5, Tavares, FL 32778, USA",
+    "place_id": "ChIJrRyN2vKX54gR77F4d38Cbuc",
+    "maps_url": "https://maps.google.com/?cid=16676269216688026095"
+  },
+  {
+    "name": "Eagle Exterminating Co",
+    "rating": 4.7,
+    "reviews": 54,
+    "phone": "(352) 383-7942",
+    "website": "http://www.eagleexterminatingfl.com/",
+    "address": "16129 County Rd 448, Tavares, FL 32778, USA",
+    "place_id": "ChIJM-7VXiqY54gRQNieooj3DDM",
+    "maps_url": "https://maps.google.com/?cid=3678587161870784576"
+  },
+  {
+    "name": "Alliance Pest Management Inc",
+    "rating": 4.7,
+    "reviews": 6,
+    "phone": "(352) 742-2388",
+    "website": "http://alliancepestmanagementinc.com/",
+    "address": "14848 Old US Hwy 441, Tavares, FL 32778, USA",
+    "place_id": "ChIJueGv1Gu954gR233Yq0MB07E",
+    "maps_url": "https://maps.google.com/?cid=12813586754956721627"
+  },
+  {
+    "name": "Above & Beyond Pest Control",
+    "rating": 4.9,
+    "reviews": 155,
+    "phone": "(352) 589-5989",
+    "website": "http://www.aboveandbeyondpestcontrol.com/",
+    "address": "531 N Bay St, Eustis, FL 32726, USA",
+    "place_id": "ChIJhxBUz6q554gR4Yh4-Hk7K-k",
+    "maps_url": "https://maps.google.com/?cid=16801588229881497825"
+  },
+  {
+    "name": "Florida Pest-X",
+    "rating": 4.9,
+    "reviews": 112,
+    "phone": "(888) 557-3789",
+    "website": "http://gopestx.com/",
+    "address": "18848 US-441 #127, Mt Dora, FL 32757, USA",
+    "place_id": "ChIJw0vFd1ei54gRpDHThjEGAtg",
+    "maps_url": "https://maps.google.com/?cid=15565010071931007396"
+  },
+  {
+    "name": "Florida Pest Control",
+    "rating": 4.9,
+    "reviews": 658,
+    "phone": "(352) 227-6961",
+    "website": "https://www.flapest.com/locations/leesburg/?utm_source=google&utm_medium=gbp&utm_campaign=leesburg",
+    "address": "2334 Montclair Rd, Leesburg, FL 34748, USA",
+    "place_id": "ChIJY5QhBt7B54gRNdcfU9gDvmk",
+    "maps_url": "https://maps.google.com/?cid=7619531847199872821"
+  },
+  {
+    "name": "Dean's Services",
+    "rating": 4.9,
+    "reviews": 4855,
+    "phone": "(352) 787-5300",
+    "website": "https://www.deansservices.com/?utm_source=gbp&utm_medium=organic&utm_campaign=leesburg",
+    "address": "31739 Progress Rd, Leesburg, FL 34748, USA",
+    "place_id": "ChIJUeP1G9zB54gR_P9d3C10O0E",
+    "maps_url": "https://maps.google.com/?cid=4700478376410742780"
+  },
+  {
+    "name": "Rowland Pest Management, Inc.",
+    "rating": 4.9,
+    "reviews": 1583,
+    "phone": "(407) 759-7335",
+    "website": "https://www.rowlandpest.com/?utm_source=gbp&utm_medium=organic&utm_campaign=gbp-casselberry",
+    "address": "2609 Wells Ave, Casselberry, FL 32730, USA",
+    "place_id": "ChIJUyGsemhu54gRqU2F24q-V-I",
+    "maps_url": "https://maps.google.com/?cid=16309714079143251369"
+  },
+  {
+    "name": "Massey Services Pest Control",
+    "rating": 4.8,
+    "reviews": 720,
+    "phone": "(352) 243-8875",
+    "website": "https://www.masseyservices.com/service-location/clermont-pest-control/?utm_source=googlemybusiness&utm_medium=search&utm_content=Groveland47&utm_campaign=masseylocalsearch",
+    "address": "20545 Independence Blvd #D, Groveland, FL 34736, USA",
+    "place_id": "ChIJm7ArwfCS54gRXfJIgQDRV50",
+    "maps_url": "https://maps.google.com/?cid=11337760387027759709"
+  },
+  {
+    "name": "Massey Services Pest Control",
+    "rating": 4.7,
+    "reviews": 231,
+    "phone": "(352) 343-7490",
+    "website": "https://www.masseyservices.com/service-location/eustis-pest-control/?utm_source=googlemybusiness&utm_medium=search&utm_content=Eustis64&utm_campaign=masseylocalsearch",
+    "address": "2090 E Burleigh Blvd, Eustis, FL 32726, USA",
+    "place_id": "ChIJXYiebDq954gRW0tA-EnsL-A",
+    "maps_url": "https://maps.google.com/?cid=16154390190842989403"
+  },
+  {
+    "name": "Fox Pest Control Wildwood",
+    "rating": 4.8,
+    "reviews": 1228,
+    "phone": "(407) 972-1892",
+    "website": "https://fox-pest.com/locations/florida/wildwood/?utm_source=google&utm_medium=organic&utm_campaign=gmb-orlando-fl&utm_content=website",
+    "address": "2836 Co Rd 523 Ste F7, Wildwood, FL 34785, USA",
+    "place_id": "ChIJ-UhQwcJx54gRP6R1dCsV-pg",
+    "maps_url": "https://maps.google.com/?cid=11023146314324354111"
+  },
+  {
+    "name": "Cousins USA Pest Control Central Florida",
+    "rating": 5,
+    "reviews": 48,
+    "phone": "(407) 300-3728",
+    "website": "https://cousinsusapestcontrol.com/",
+    "address": "1837 Western Hills Ln, Mascotte, FL 34753, USA",
+    "place_id": "ChIJIwZWg03SdKMRZFwRkvWKwxQ",
+    "maps_url": "https://maps.google.com/?cid=1496192288539368548"
+  },
+  {
+    "name": "South Pest Control",
+    "rating": 5,
+    "reviews": 10,
+    "phone": "",
+    "website": "",
+    "address": "21250 SE Hwy 42, Umatilla, FL 32784, USA",
+    "place_id": "ChIJ24pgbLov5ogRGvgYjC9Zeq4",
+    "maps_url": "https://maps.google.com/?cid=12572459370506942490"
+  },
+  {
+    "name": "Turner Pest Control",
+    "rating": 4.9,
+    "reviews": 294,
+    "phone": "(352) 223-3618",
+    "website": "https://www.turnerpest.com/pest-control/orlando/clermont/?utm_source=gmbclermont&utm_medium=organic&utm_campaign=localsearch",
+    "address": "295 E Hwy 50 Suite 3, Clermont, FL 34711, USA",
+    "place_id": "ChIJ4yrrtPeO54gRZcVlorSznhE",
+    "maps_url": "https://maps.google.com/?cid=1269649733365122405"
+  },
+  {
+    "name": "Massey Services Pest Control",
+    "rating": 4.6,
+    "reviews": 245,
+    "phone": "(352) 326-4201",
+    "website": "https://www.masseyservices.com/service-location/leesburg-pest-control/?utm_source=googlemybusiness&utm_medium=search&utm_content=Leesburg11&utm_campaign=masseylocalsearch",
+    "address": "3609 W Main St, Leesburg, FL 34748, USA",
+    "place_id": "ChIJt9-PPdrB54gRtTfObvwgqOQ",
+    "maps_url": "https://maps.google.com/?cid=16476455505297815477"
+  },
+  {
+    "name": "Luv-A-Lawn and Pest Control",
+    "rating": 4.9,
+    "reviews": 394,
+    "phone": "(844) 838-8015",
+    "website": "https://luvalawn.com/location/north-orlando/?utm_source=gbp&utm_medium=organic&utm_campaign=gbp-listing&utm_content=north-orlando-branch",
+    "address": "510 Marvin C. Zanders Ave, Apopka, FL 32703, USA",
+    "place_id": "ChIJj_BH4lt354gRXhBF8sdRyF8",
+    "maps_url": "https://maps.google.com/?cid=6901856348150239326"
+  },
+  {
+    "name": "Dave's Pest Control - Longwood",
+    "rating": 4.9,
+    "reviews": 700,
+    "phone": "(407) 504-0808",
+    "website": "https://www.davespestcontrol.com/longwood-pest-control/",
+    "address": "400 Commerce Way #128, Longwood, FL 32750, USA",
+    "place_id": "ChIJj_gC-vR154gRCnoZMLZmniE",
+    "maps_url": "https://maps.google.com/?cid=2422486582248962570"
+  },
+  {
+    "name": "Doctor Watson's Pest Control",
+    "rating": 5,
+    "reviews": 2,
+    "phone": "(352) 589-0405",
+    "website": "",
+    "address": "36248 Calhoun Rd, Eustis, FL 32736, USA",
+    "place_id": "ChIJwdGgX_-j54gRlVXqwz9ITSk",
+    "maps_url": "https://maps.google.com/?cid=2976114367468819861"
+  }
+]

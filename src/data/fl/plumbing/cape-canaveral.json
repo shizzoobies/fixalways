@@ -1,0 +1,122 @@
+[
+  {
+    "name": "Tom Walker Plumbing",
+    "rating": 4.3,
+    "reviews": 47,
+    "phone": "(321) 799-0508",
+    "website": "",
+    "address": "102 Columbia Dr # 101, Cape Canaveral, FL 32920, USA",
+    "place_id": "ChIJA5YrS7Sn4IgR_l10AOjwAA4",
+    "maps_url": "https://maps.google.com/?cid=1009071195761696254"
+  },
+  {
+    "name": "Patton Plumbing",
+    "rating": 5,
+    "reviews": 21,
+    "phone": "(321) 366-6714",
+    "website": "https://pattonplumbingcapecanaveral.com/",
+    "address": "7081 Ridgewood Ave APT 1, Cape Canaveral, FL 32920, USA",
+    "place_id": "ChIJ17x8JWXzbSsR86x00s5fBbI",
+    "maps_url": "https://maps.google.com/?cid=12827764455533489395"
+  },
+  {
+    "name": "Dave Kalm Plumbing Inc",
+    "rating": 4.7,
+    "reviews": 32,
+    "phone": "(321) 783-1122",
+    "website": "",
+    "address": "8167 Canaveral Blvd, Cape Canaveral, FL 32920, USA",
+    "place_id": "ChIJsfv3cbOn4IgREnDcJyMI4Vg",
+    "maps_url": "https://maps.google.com/?cid=6404409092183191570"
+  },
+  {
+    "name": "Ken & Carrie's Beach Plumbing",
+    "rating": 4.8,
+    "reviews": 89,
+    "phone": "(321) 799-5499",
+    "website": "https://www.kcplumbingservices.com/",
+    "address": "4815 N Courtenay Pkwy, Merritt Island, FL 32953, USA",
+    "place_id": "ChIJhTUsgPan4IgRQ1EG6Vg0zmE",
+    "maps_url": "https://maps.google.com/?cid=7047628023352676675"
+  },
+  {
+    "name": "EK Coggin Plumbing",
+    "rating": 5,
+    "reviews": 2555,
+    "phone": "(321) 485-7754",
+    "website": "https://www.cogginplumbing.com/",
+    "address": "650 Eyster Blvd, Rockledge, FL 32955, USA",
+    "place_id": "ChIJIStJBdYD3ogRO1Hj0eNKHzM",
+    "maps_url": "https://maps.google.com/?cid=3683745362551722299"
+  },
+  {
+    "name": "CB Plumbing Services, Inc",
+    "rating": 4.7,
+    "reviews": 298,
+    "phone": "(321) 783-6000",
+    "website": "http://cbplumbingservice.com/",
+    "address": "381 Hibiscus Ave, Merritt Island, FL 32953, USA",
+    "place_id": "ChIJl2olBBYd3ogRk772xtwzIAI",
+    "maps_url": "https://maps.google.com/?cid=153179410654477971"
+  },
+  {
+    "name": "Drain Wizard Plumbing & Rooter Service LLC",
+    "rating": 4.7,
+    "reviews": 55,
+    "phone": "(321) 288-7686",
+    "website": "https://www.drainwizardplumbing.com/",
+    "address": "5405 Florida Palm Ave, Cocoa, FL 32927, USA",
+    "place_id": "ChIJGzoRaJZU54gRcC16dSlcyG0",
+    "maps_url": "https://maps.google.com/?cid=7910674078610632048"
+  },
+  {
+    "name": "Atlas Plumbing of Brevard Inc",
+    "rating": 5,
+    "reviews": 68,
+    "phone": "(321) 213-1715",
+    "website": "https://atlasplumbingbrevard.com/",
+    "address": "959 N Cocoa Blvd Suite 1, Cocoa, FL 32922, USA",
+    "place_id": "ChIJP4kbJCWcHIURGdFZCQqLF_I",
+    "maps_url": "https://maps.google.com/?cid=17444564556865720601"
+  },
+  {
+    "name": "Anchor Plumbing Service",
+    "rating": 5,
+    "reviews": 61,
+    "phone": "(321) 848-1196",
+    "website": "http://brevardplumbers.com/",
+    "address": "2140 W King St, Cocoa, FL 32926, USA",
+    "place_id": "ChIJmaOdCCsA3ogRl8dWofyWmM0",
+    "maps_url": "https://maps.google.com/?cid=14814756986017990551"
+  },
+  {
+    "name": "Burton Plumbing",
+    "rating": 4.8,
+    "reviews": 757,
+    "phone": "(321) 477-4383",
+    "website": "https://burtonplumbingfl.com/?utm_source=gmb&utm_medium=organic",
+    "address": "7249 Waelti Dr #7, Melbourne, FL 32940, USA",
+    "place_id": "ChIJH73CPz0fny0RVEjU3Lmhg2w",
+    "maps_url": "https://maps.google.com/?cid=7819271197691234388"
+  },
+  {
+    "name": "Roper Plumbing",
+    "rating": 4.5,
+    "reviews": 175,
+    "phone": "(321) 504-7867",
+    "website": "http://www.roperplumbingfl.com/",
+    "address": "2849 N Banana River Dr, Merritt Island, FL 32952, USA",
+    "place_id": "ChIJ2xGs-fCo4IgRb_1wHMljZbU",
+    "maps_url": "https://maps.google.com/?cid=13070963208929475951"
+  },
+  {
+    "name": "Petro Plumbing Service Inc.",
+    "rating": 4.3,
+    "reviews": 72,
+    "phone": "(321) 783-5422",
+    "website": "http://petroplumbingservices.com/",
+    "address": "160 Venetian Way #102, Merritt Island, FL 32953, USA",
+    "place_id": "ChIJNdfnzHep4IgRj5_ZXrkw7fs",
+    "maps_url": "https://maps.google.com/?cid=18153219245718740879"
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Worry Free Plumbing",
+    "rating": 4.9,
+    "reviews": 190,
+    "phone": "(863) 233-3207",
+    "website": "",
+    "address": "544 E Sugarland Hwy, Clewiston, FL 33440, USA",
+    "place_id": "ChIJe85OX7v724gR_3eKx4Odxfc",
+    "maps_url": "https://maps.google.com/?cid=17853849487094216703"
+  },
+  {
+    "name": "Pam's Plumbing Inc",
+    "rating": 4.4,
+    "reviews": 32,
+    "phone": "(863) 983-7881",
+    "website": "https://www.pamsplumbing.com/",
+    "address": "820 E Trinidad Ave, Clewiston, FL 33440, USA",
+    "place_id": "ChIJmayron7724gRpNOMprzswsc",
+    "maps_url": "https://maps.google.com/?cid=14394327654021780388"
+  },
+  {
+    "name": "SandPoint Plumbing, Inc",
+    "rating": 3.2,
+    "reviews": 13,
+    "phone": "(863) 233-6575",
+    "website": "http://www.sandpointco.com/",
+    "address": "506 E Obispo Ave, Clewiston, FL 33440, USA",
+    "place_id": "ChIJn1Som9z724gRbmr0wXFVF_Y",
+    "maps_url": "https://maps.google.com/?cid=17732736004868303470"
+  }
+]

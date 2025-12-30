@@ -1,0 +1,92 @@
+[
+  {
+    "name": "ROBLES HVAC SERVICE",
+    "rating": 5,
+    "reviews": 11,
+    "phone": "(305) 965-7800",
+    "website": null,
+    "maps": "https://maps.google.com/?cid=16929740341826303998&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "400 SE 3rd Ave, Hallandale Beach, FL 33009, USA"
+  },
+  {
+    "name": "CoolAir AC Repair Aventura",
+    "rating": 5,
+    "reviews": 11,
+    "phone": "(305) 680-3242",
+    "website": "https://aventura.coolair.pro/",
+    "maps": "https://maps.google.com/?cid=8152188098299091286&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "20515 Biscayne Blvd #12, Aventura, FL 33180, USA"
+  },
+  {
+    "name": "Air Conditioning Repair & Heating",
+    "rating": 5,
+    "reviews": 105,
+    "phone": "(954) 526-7875",
+    "website": "https://acrepairandheatingfl.com/",
+    "maps": "https://maps.google.com/?cid=10691568122692397603&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "19800 W Dixie Hwy, Miami, FL 33180, USA"
+  },
+  {
+    "name": "Freezing Mechanical",
+    "rating": 4.7,
+    "reviews": 1366,
+    "phone": "(305) 363-7021",
+    "website": "https://freezingmechanical.com/",
+    "maps": "https://maps.google.com/?cid=8583202408560358266&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "4808 NW 167th St, Miami Gardens, FL 33014, USA"
+  },
+  {
+    "name": "US1 AC REPAIR NORTH MIAMI",
+    "rating": 4.9,
+    "reviews": 40,
+    "phone": "(833) 652-4222",
+    "website": "https://us1air.com/ac-repair-north-miami/",
+    "maps": "https://maps.google.com/?cid=17513726481639777241&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "20200 W Dixie Hwy, Miami, FL 33180, USA"
+  },
+  {
+    "name": "First Cooling & Heating",
+    "rating": 5,
+    "reviews": 10,
+    "phone": "(786) 610-3686",
+    "website": "https://firstforhvac.com/aventura-fl/",
+    "maps": "https://maps.google.com/?cid=9153323932800984715&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "17501 Biscayne Blvd #219, Aventura, FL 33160, USA"
+  },
+  {
+    "name": "Termocool LLC",
+    "rating": 5,
+    "reviews": 10,
+    "phone": "(305) 724-3575",
+    "website": "https://termocoolservice.com/",
+    "maps": "https://maps.google.com/?cid=3328507661580523424&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "20130 W Dixie Hwy, Aventura, FL 33180, USA"
+  },
+  {
+    "name": "Cool Comfort AC Service & Repair/HVAC",
+    "rating": 5,
+    "reviews": 73,
+    "phone": "(645) 239-3990",
+    "website": "https://www.cool-comfort-service.com/",
+    "maps": "https://maps.google.com/?cid=15726827076034794184&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "16900 N Bay Rd, Sunny Isles Beach, FL 33160, USA"
+  },
+  {
+    "name": "HVAC Services: Heating & Air Conditioning",
+    "rating": 5,
+    "reviews": 5,
+    "phone": "(754) 315-0863",
+    "website": null,
+    "maps": "https://maps.google.com/?cid=693010833782978052&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "20801 Biscayne Blvd, Aventura, FL 33180, USA"
+  },
+  {
+    "name": "Duckt Pros Heating & Cooling 🦆",
+    "rating": 4.9,
+    "reviews": 213,
+    "phone": "(754) 254-6626",
+    "website": "http://ducktpros.com/",
+    "maps": "https://maps.google.com/?cid=16875195640649525209&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "3300 NE 192 St, Aventura, FL 33180, USA"
+  }
+]

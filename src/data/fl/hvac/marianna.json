@@ -1,0 +1,72 @@
+[
+  {
+    "name": "Affordable Heat & Air, LLC",
+    "rating": 5,
+    "reviews": 24,
+    "phone": "(850) 482-3892",
+    "website": "http://www.affordablehtgac.com/",
+    "address": "2942 Hunter Fish Camp Rd, Marianna, FL 32446, USA",
+    "place_id": "ChIJrbKLhYwnk4gRZS1GFHYK8Zg",
+    "maps_url": "https://maps.google.com/?cid=11020601265414876517"
+  },
+  {
+    "name": "Woodall's Total Comfort Systems, Inc.",
+    "rating": 4.9,
+    "reviews": 737,
+    "phone": "(850) 482-8802",
+    "website": "https://woodallstotalcomfort.com/",
+    "address": "3608 US-90, Marianna, FL 32446, USA",
+    "place_id": "ChIJ6dP1_r4fk4gRjxqsojf7GF0",
+    "maps_url": "https://maps.google.com/?cid=6708387861339314831"
+  },
+  {
+    "name": "Jemison Heating & Cooling, Inc.",
+    "rating": 4.9,
+    "reviews": 447,
+    "phone": "(850) 482-8100",
+    "website": "https://www.jemisonhvac.com/",
+    "address": "2431 FL-71, Marianna, FL 32448, USA",
+    "place_id": "ChIJQQiRgiY6k4gRIY-q9w1LZBk",
+    "maps_url": "https://maps.google.com/?cid=1829669871981072161"
+  },
+  {
+    "name": "Woods and Sons Air Conditioning and Heating LLC",
+    "rating": 5,
+    "reviews": 3,
+    "phone": "(832) 810-0850",
+    "website": "",
+    "address": "5364 Turk Rd, Marianna, FL 32448, USA",
+    "place_id": "ChIJ36uJFjUkk4gRRJpHzmzysfM",
+    "maps_url": "https://maps.google.com/?cid=17560082971225463364"
+  },
+  {
+    "name": "Sammy's Heating and Cooling LLC",
+    "rating": 4.5,
+    "reviews": 66,
+    "phone": "(850) 573-2084",
+    "website": "https://sammysheatingandcooling.com/",
+    "address": "2982 Sunrise Dr, Marianna, FL 32448, USA",
+    "place_id": "ChIJAfoZPyMgk4gR6zy8asalnFo",
+    "maps_url": "https://maps.google.com/?cid=6529275831393205483"
+  },
+  {
+    "name": "Economy Air Conditioning Inc",
+    "rating": 4.4,
+    "reviews": 35,
+    "phone": "(850) 526-2531",
+    "website": "",
+    "address": "3036 Old Campbellton Rd, Marianna, FL 32446, USA",
+    "place_id": "ChIJpbzgXRUgk4gRv583KrZczx4",
+    "maps_url": "https://maps.google.com/?cid=2220095078779035583"
+  },
+  {
+    "name": "Chumley Services",
+    "rating": 4.9,
+    "reviews": 35,
+    "phone": "(850) 209-4071",
+    "website": "http://www.chcsflorida.com/",
+    "address": "2715 Shirley Ln, Marianna, FL 32446, USA",
+    "place_id": "ChIJSz4Njn8ok4gRSigCgrSbI6w",
+    "maps_url": "https://maps.google.com/?cid=12403928998286075978"
+  }
+]

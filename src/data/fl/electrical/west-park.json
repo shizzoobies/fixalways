@@ -1,0 +1,92 @@
+[
+  {
+    "name": "JEMS Electric Corp",
+    "rating": 5,
+    "reviews": 7,
+    "phone": "(954) 965-0445",
+    "website": "http://jemselectric.com/",
+    "address": "5823 SW 21st St, West Park, FL 33023, USA",
+    "place_id": "ChIJBcOOmeKv2YgRgU5VsjfQ5BI",
+    "maps_url": "https://maps.google.com/?cid=1361441925006446209"
+  },
+  {
+    "name": "1000 Volts Electric LLC",
+    "rating": 4.9,
+    "reviews": 40,
+    "phone": "(305) 904-1066",
+    "website": "https://1000voltselectric.com/",
+    "address": "2490 S Park Rd #108, Hallandale Beach, FL 33009, USA",
+    "place_id": "ChIJ5fI_eHmt2YgRaTXpLNcqf4g",
+    "maps_url": "https://maps.google.com/?cid=9835627214860268905"
+  },
+  {
+    "name": "All Florida Electrical Services",
+    "rating": 3.8,
+    "reviews": 4,
+    "phone": "(954) 962-1002",
+    "website": "",
+    "address": "5751 Dawson St, Hollywood, FL 33023, USA",
+    "place_id": "ChIJUVjdIk-p2YgRgMlkVbxWgEI",
+    "maps_url": "https://maps.google.com/?cid=4791925370408716672"
+  },
+  {
+    "name": "Levin Electric LLC",
+    "rating": 5,
+    "reviews": 9,
+    "phone": "(786) 850-8070",
+    "website": "https://www.levin-electric.com/?utm_campaign=gmb",
+    "address": "5741 Dawson St Unit 9, Hollywood, FL 33023, USA",
+    "place_id": "ChIJsXnZILDyZIoRVZz0ya88hEE",
+    "maps_url": "https://maps.google.com/?cid=4720965035096317013"
+  },
+  {
+    "name": "Electrical Services fl",
+    "rating": 4.9,
+    "reviews": 360,
+    "phone": "(786) 487-7441",
+    "website": "https://electricalservicesfl.com/",
+    "address": "1800 NE 180th St, North Miami Beach, FL 33162, USA",
+    "place_id": "ChIJXW_TXLWt2YgRQVvDcMumxlw",
+    "maps_url": "https://maps.google.com/?cid=6685214089578502977"
+  },
+  {
+    "name": "Hypower - General, Electrical, and Utility Contractor",
+    "rating": 0,
+    "reviews": 0,
+    "phone": "(954) 978-9300",
+    "website": "https://www.hypowerinc.com/",
+    "address": "2301 SW 32 Ave Ste 100, Pembroke Park, FL 33023, USA",
+    "place_id": "ChIJBcwsFRit2YgRprJSlmgaPVQ",
+    "maps_url": "https://maps.google.com/?cid=6070036909266219686"
+  },
+  {
+    "name": "Electric Bull",
+    "rating": 5,
+    "reviews": 24,
+    "phone": "(305) 206-9662",
+    "website": "http://www.electricbullcorp.com/",
+    "address": "21411 San Simeon Way, Miami, FL 33179, USA",
+    "place_id": "ChIJv3oACOdo1EYREaPSUXImomI",
+    "maps_url": "https://maps.google.com/?cid=7107285434384950033"
+  },
+  {
+    "name": "Destiny Electric",
+    "rating": 5,
+    "reviews": 1326,
+    "phone": "(904) 708-9094",
+    "website": "https://www.destinyelectric.net/",
+    "address": "179 College Dr Suite 9, Orange Park, FL 32065, USA",
+    "place_id": "ChIJISZht23E5YgRujsYD9dLtyA",
+    "maps_url": "https://maps.google.com/?cid=2357436316995042234"
+  },
+  {
+    "name": "Rider Electric LLC",
+    "rating": 5,
+    "reviews": 248,
+    "phone": "(904) 237-2800",
+    "website": "http://riderelectricfl.com/",
+    "address": "2944 Tuscarora Tr, Middleburg, FL 32068, USA",
+    "place_id": "ChIJmy1lntrD5YgRsez-jl5Hscc",
+    "maps_url": "https://maps.google.com/?cid=14389360755877014705"
+  }
+]

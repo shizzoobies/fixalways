@@ -1,0 +1,202 @@
+[
+  {
+    "name": "Vista Mechanical Corp",
+    "rating": 5,
+    "reviews": 108,
+    "phone": "(305) 898-6346",
+    "website": "https://vista-mechanical.com/",
+    "address": "1912 NW 94th Ave, Doral, FL 33172, USA",
+    "place_id": "ChIJT54oZkLF2YgRHCkuLaRVrtc",
+    "maps_url": "https://maps.google.com/?cid=15541453527723157788"
+  },
+  {
+    "name": "Taylor'd HVAC Services, Inc.",
+    "rating": 5,
+    "reviews": 25,
+    "phone": "(352) 727-0444",
+    "website": "https://www.taylordhvac.com/",
+    "address": "26253 W U.S. Hwy 27, High Springs, FL 32643, USA",
+    "place_id": "ChIJ_-xuiaGm6IgR0eSvUV70sVo",
+    "maps_url": "https://maps.google.com/?cid=6535273220225885393"
+  },
+  {
+    "name": "Reliable Enterprise Air & HVAC Contractors Group Miami FL",
+    "rating": 5,
+    "reviews": 46,
+    "phone": "(786) 937-7310",
+    "website": "",
+    "address": "1332 SW 93rd Pl, Miami, FL 33174, USA",
+    "place_id": "ChIJ41GBUCi52YgRwV1OSUfXFJU",
+    "maps_url": "https://maps.google.com/?cid=10742447712357998017"
+  },
+  {
+    "name": "Pollux Air Conditioning",
+    "rating": 4.9,
+    "reviews": 549,
+    "phone": "(786) 786-1258",
+    "website": "http://polluxair.com/?utm_campaign=gmb",
+    "address": "14195 SW 139th Ct STE 1, Miami, FL 33186, USA",
+    "place_id": "ChIJPxFvVuG_2YgRHpj5G4vF-gM",
+    "maps_url": "https://maps.google.com/?cid=286758727551916062"
+  },
+  {
+    "name": "Dade Super Cool Air Conditioning",
+    "rating": 4.9,
+    "reviews": 333,
+    "phone": "(305) 233-3915",
+    "website": "https://www.dadesupercool.com/?utm_source=google&utm_medium=organic&utm_campaign=gbp",
+    "address": "13605 SW 149th Ave Suite 13, Miami, FL 33196, USA",
+    "place_id": "ChIJtVdEVvTB2YgR_2ObBYY0Gas",
+    "maps_url": "https://maps.google.com/?cid=12328943205127775231"
+  },
+  {
+    "name": "24/7 Air Conditioning Service",
+    "rating": 4.9,
+    "reviews": 64,
+    "phone": "(305) 554-0911",
+    "website": "https://www.24-7airconditioningservice.com/",
+    "address": "13033 SW 6th St, Miami, FL 33184, USA",
+    "place_id": "ChIJ6cIFMcm_2YgR_Z2OWjqqqPw",
+    "maps_url": "https://maps.google.com/?cid=18205988661249351165"
+  },
+  {
+    "name": "ARS / Rescue Rooter",
+    "rating": 4.5,
+    "reviews": 2287,
+    "phone": "(305) 239-6994",
+    "website": "https://www.ars.com/miami?utm_source=google&utm_medium=gbp&utm_campaign=local_seo&utm_content=gbp_website_click",
+    "address": "10400 NW 33rd St Ste 130, Doral, FL 33172, USA",
+    "place_id": "ChIJC4xrGojD2YgRLBE8jJ37uBs",
+    "maps_url": "https://maps.google.com/?cid=1997623088819999020"
+  },
+  {
+    "name": "Akins Heating & Air Inc",
+    "rating": 4.9,
+    "reviews": 491,
+    "phone": "(352) 463-2380",
+    "website": "http://www.akinsheatingandair.com/?utm_source=google&utm_medium=organic&utm_campaign=gbp-profile",
+    "address": "3248 Bryant Ave, Bell, FL 32619, USA",
+    "place_id": "ChIJq8TIM7XZ6IgRRii6JCYh49k",
+    "maps_url": "https://maps.google.com/?cid=15700429173652334662"
+  },
+  {
+    "name": "Freezing Mechanical",
+    "rating": 4.7,
+    "reviews": 1366,
+    "phone": "(305) 363-7021",
+    "website": "https://freezingmechanical.com/",
+    "address": "4808 NW 167th St, Miami Gardens, FL 33014, USA",
+    "place_id": "ChIJbdYrIJK62YgRenOEZR2pHXc",
+    "maps_url": "https://maps.google.com/?cid=8583202408560358266"
+  },
+  {
+    "name": "ACTL GROUP AIR CONDITIONING",
+    "rating": 4.9,
+    "reviews": 296,
+    "phone": "(786) 229-1297",
+    "website": "https://www.actlgroup.com/",
+    "address": "2123 W 76th St, Hialeah, FL 33016, USA",
+    "place_id": "ChIJv-znfYS62YgRgFN0Zsy4VAg",
+    "maps_url": "https://maps.google.com/?cid=600307838378857344"
+  },
+  {
+    "name": "Radiant Air Conditioning and Comfort Solutions",
+    "rating": 4.9,
+    "reviews": 46,
+    "phone": "(352) 226-3454",
+    "website": "http://www.radianthvacsolutions.com/",
+    "address": "9715 NW 187 Terrace, Alachua, FL 32615, USA",
+    "place_id": "ChIJZwitbwYXdE8RVJx6fhAn4F8",
+    "maps_url": "https://maps.google.com/?cid=6908564780181265492"
+  },
+  {
+    "name": "Picon Air Conditioning",
+    "rating": 4.9,
+    "reviews": 1071,
+    "phone": "(305) 599-8282",
+    "website": "",
+    "address": "1970 NW 129th Ave STE 105, Miami, FL 33182, USA",
+    "place_id": "ChIJKQFn5Du52YgRs5_7C0F14Ms",
+    "maps_url": "https://maps.google.com/?cid=14690870906716921779"
+  },
+  {
+    "name": "Shatto Heating & Air Inc",
+    "rating": 4.5,
+    "reviews": 168,
+    "phone": "(386) 496-8224",
+    "website": "http://www.shattoair.com/",
+    "address": "595 W Main St, Lake Butler, FL 32054, USA",
+    "place_id": "ChIJU8O6mNRT74gR7HMt8LKUhA4",
+    "maps_url": "https://maps.google.com/?cid=1046124509711397868"
+  },
+  {
+    "name": "Excellent Air Solutions LLC",
+    "rating": 5,
+    "reviews": 45,
+    "phone": "(786) 783-8055",
+    "website": "http://excellentairsolutions.com/",
+    "address": "15569 SW 182nd Ln, Miami, FL 33187, USA",
+    "place_id": "ChIJa8WLuWl9uG4R6h2PFRr9rTA",
+    "maps_url": "https://maps.google.com/?cid=3507737973264162282"
+  },
+  {
+    "name": "Florida Cooling Air Conditioning, Inc.",
+    "rating": 5,
+    "reviews": 45,
+    "phone": "(833) 735-2665",
+    "website": "http://www.flcoolingac.com/",
+    "address": "1992 NW 95th Ave, Doral, FL 33172, USA",
+    "place_id": "ChIJrfJhCQi62YgRISdBpivgyq8",
+    "maps_url": "https://maps.google.com/?cid=12667183380010444577"
+  },
+  {
+    "name": "Optimal Air LLC",
+    "rating": 3,
+    "reviews": 2,
+    "phone": "(305) 507-0525",
+    "website": "",
+    "address": "1690 NW 108th Ave Unit 157, Doral, FL 33172, USA",
+    "place_id": "ChIJCQ8tQWO72YgR0dAg8FBHErM",
+    "maps_url": "https://maps.google.com/?cid=12903454295321530577"
+  },
+  {
+    "name": "Wilson Heat & Air Inc",
+    "rating": 5,
+    "reviews": 282,
+    "phone": "(386) 496-9000",
+    "website": "http://www.wilsonheatandair.biz/",
+    "address": "5560 FL-238, Lake Butler, FL 32054, USA",
+    "place_id": "ChIJvfeRImpS74gR_wv04ZEl-QQ",
+    "maps_url": "https://maps.google.com/?cid=358358953844018175"
+  },
+  {
+    "name": "Abrahan Solution",
+    "rating": 5,
+    "reviews": 8,
+    "phone": "(786) 394-3794",
+    "website": "https://abrahansolution.com/",
+    "address": "10239 NW 9th St Cir, Miami, FL 33172, USA",
+    "place_id": "ChIJ_ZbV-0Dmb4wRUSaoONMIQgU",
+    "maps_url": "https://maps.google.com/?cid=378875021934208593"
+  },
+  {
+    "name": "AC contractors Miami",
+    "rating": 0,
+    "reviews": 0,
+    "phone": "(786) 252-8032",
+    "website": "",
+    "address": "11380 W Flagler St #44, Miami, FL 33174, USA",
+    "place_id": "ChIJo8RAcye_2YgRzL4ppXM1gkI",
+    "maps_url": "https://maps.google.com/?cid=4792451724284116684"
+  },
+  {
+    "name": "Pilar Services, Inc.",
+    "rating": 4.8,
+    "reviews": 18,
+    "phone": "(305) 888-2421",
+    "website": "https://www.pilarservices.com/",
+    "address": "10200 NW 25th St #202, Doral, FL 33172, USA",
+    "place_id": "ChIJ2UBv-qi72YgRgCh0dtDpVfM",
+    "maps_url": "https://maps.google.com/?cid=17534177805786687616"
+  }
+]

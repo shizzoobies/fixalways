@@ -1,0 +1,182 @@
+[
+  {
+    "name": "Your Hometown Handyman",
+    "rating": 5,
+    "reviews": 189,
+    "phone": "(321) 355-2201",
+    "website": "https://your321handyman.com/",
+    "address": "1926 Exeter Dr, Cocoa, FL 32922, USA",
+    "place_id": "ChIJ5S_EFDur4IgRJYFW9SvE-fI",
+    "maps_url": "https://maps.google.com/?cid=17508240719458238757"
+  },
+  {
+    "name": "Cocoa Beach Handyman Services",
+    "rating": 5,
+    "reviews": 22,
+    "phone": "(321) 877-8518",
+    "website": "",
+    "address": "274 S Orlando Ave, Cocoa Beach, FL 32931, USA",
+    "place_id": "ChIJK5oWx1kd3ogR9yl6ooxta4w",
+    "maps_url": "https://maps.google.com/?cid=10118301438606715383"
+  },
+  {
+    "name": "J.R.'s Home Repair",
+    "rating": 4.8,
+    "reviews": 37,
+    "phone": "(704) 703-7360",
+    "website": "https://cocoapainter.com/",
+    "address": "2168 Canaveral Groves Blvd, Cocoa, FL 32926, USA",
+    "place_id": "ChIJeWCto_vBVogRhWr8MngPi1c",
+    "maps_url": "https://maps.google.com/?cid=6308152711988406917"
+  },
+  {
+    "name": "Rocket Coast Handyman",
+    "rating": 5,
+    "reviews": 65,
+    "phone": "(321) 209-1771",
+    "website": "http://rocketcoasthandyman.com/",
+    "address": "1709 N Harbor City Blvd PMB 6021, Melbourne, FL 32935, USA",
+    "place_id": "ChIJ1ek-v2cR3ogRmF_RzRqiUHU",
+    "maps_url": "https://maps.google.com/?cid=8453434736580321176"
+  },
+  {
+    "name": "The Friendly Repairman",
+    "rating": 5,
+    "reviews": 110,
+    "phone": "(321) 355-2202",
+    "website": "http://www.thefriendlyrepairman.com/",
+    "address": "5445 Murrell Rd Suite 102 Box 151, Rockledge, FL 32955, USA",
+    "place_id": "ChIJNwskclMB3ogRRvQXivhIUdA",
+    "maps_url": "https://maps.google.com/?cid=15010859265308488774"
+  },
+  {
+    "name": "Trent Of All Trades LLC",
+    "rating": 5,
+    "reviews": 22,
+    "phone": "(407) 242-2304",
+    "website": "",
+    "address": "1114 Abington St, Cocoa, FL 32922, USA",
+    "place_id": "ChIJEwu9biOr4IgRVGW68PoLFro",
+    "maps_url": "https://maps.google.com/?cid=13408918112950707540"
+  },
+  {
+    "name": "Crane Creek Handyman Services",
+    "rating": 5,
+    "reviews": 7,
+    "phone": "(321) 376-2623",
+    "website": "https://cranecreekhm.com/",
+    "address": "1800 Woodberry Cir, Melbourne, FL 32935, USA",
+    "place_id": "ChIJfyLBB1EF3ogREs5w3juH3lo",
+    "maps_url": "https://maps.google.com/?cid=6547819599448034834"
+  },
+  {
+    "name": "Z5 Repair Services LLC",
+    "rating": 4.8,
+    "reviews": 4,
+    "phone": "(321) 591-7572",
+    "website": "https://z5repairs.com/",
+    "address": "135 Griffin Dr Ste 12-255, Cocoa, FL 32926, USA",
+    "place_id": "ChIJo33KgEGr4IgRGSkI2THpcFE",
+    "maps_url": "https://maps.google.com/?cid=5868446714767616281"
+  },
+  {
+    "name": "Precision Home Management Services LLC",
+    "rating": 5,
+    "reviews": 24,
+    "phone": "(321) 626-6223",
+    "website": "https://www.precisionhomems.com/",
+    "address": "3542 Twelve Oaks Cir, Merritt Island, FL 32953, USA",
+    "place_id": "ChIJ244rAw-p4IgRExq4iF6b19g",
+    "maps_url": "https://maps.google.com/?cid=15625128262508222995"
+  },
+  {
+    "name": "MI Pro Services",
+    "rating": 5,
+    "reviews": 7,
+    "phone": "(321) 458-9091",
+    "website": "https://www.miproservices.com/",
+    "address": "555 Margaret St, Merritt Island, FL 32953, USA",
+    "place_id": "ChIJt-OEfMWp4IgR_Sfh4q2MWZA",
+    "maps_url": "https://maps.google.com/?cid=10401499492852508669"
+  },
+  {
+    "name": "Durrance Carpentry & Handyman Service",
+    "rating": 4.8,
+    "reviews": 19,
+    "phone": "(321) 210-3286",
+    "website": "",
+    "address": "3405 Kelly Rd #111, Titusville, FL 32796, USA",
+    "place_id": "ChIJA0anzRDiTiIRV9rXULGnCPc",
+    "maps_url": "https://maps.google.com/?cid=17800661907189258839"
+  },
+  {
+    "name": "JStuds Handyman Service",
+    "rating": 4.5,
+    "reviews": 15,
+    "phone": "(321) 261-6100",
+    "website": "",
+    "address": "200 Linda Ave, Merritt Island, FL 32953, USA",
+    "place_id": "ChIJGQMrWw2p4IgR57kXIw8eQS0",
+    "maps_url": "https://maps.google.com/?cid=3260920655555049959"
+  },
+  {
+    "name": "Joe Handyman 321",
+    "rating": 5,
+    "reviews": 1,
+    "phone": "(321) 458-3220",
+    "website": "",
+    "address": "856 Jamestown Dr, Rockledge, FL 32955, USA",
+    "place_id": "ChIJVfo3U10B3ogRIqqmT8JIYqY",
+    "maps_url": "https://maps.google.com/?cid=11989225157410859554"
+  },
+  {
+    "name": "Cleaning, Painting & Handyman Contractors Dr. House, LLC",
+    "rating": 5,
+    "reviews": 7,
+    "phone": "(352) 871-9542",
+    "website": "https://www.drhouserepairs.com/",
+    "address": "25314 SW 18th Ave, Newberry, FL 32669, USA",
+    "place_id": "ChIJl-gX4h-j6IgRknHo2Pp1m_A",
+    "maps_url": "https://maps.google.com/?cid=17337580910734242194"
+  },
+  {
+    "name": "Hardy In & Out Home Solutions of Brevard LLC",
+    "rating": 5,
+    "reviews": 23,
+    "phone": "(321) 458-5160",
+    "website": "",
+    "address": "820 Mallard Rd, Cocoa, FL 32926, USA",
+    "place_id": "ChIJWwW7nGz_3YgRbPVSGVXEPSA",
+    "maps_url": "https://maps.google.com/?cid=2323228852569175404"
+  },
+  {
+    "name": "Hansen's Construction (Hansen’s Handyman Services)",
+    "rating": 4.4,
+    "reviews": 54,
+    "phone": "(321) 302-9441",
+    "website": "https://www.hansenshomerenovations.com/",
+    "address": "416 Hurst Rd NE, Palm Bay, FL 32907, USA",
+    "place_id": "ChIJKwh0Y-4B3ogRxQ_me0JGKws",
+    "maps_url": "https://maps.google.com/?cid=804814209776226245"
+  },
+  {
+    "name": "Space Coast Handyman Solutions",
+    "rating": 5,
+    "reviews": 1,
+    "phone": "(321) 848-1694",
+    "website": "",
+    "address": "4440 Hog Valley Rd, Mims, FL 32754, USA",
+    "place_id": "ChIJ02saLJJJ54gRis2GMfSFxPs",
+    "maps_url": "https://maps.google.com/?cid=18141772482804632970"
+  },
+  {
+    "name": "Cedric Marquis Handyman Services & Remodels",
+    "rating": 5,
+    "reviews": 8,
+    "phone": "(321) 747-7530",
+    "website": "https://www.cmshandy.com/",
+    "address": "940 Rozen Ave, Titusville, FL 32780, USA",
+    "place_id": "ChIJjUG3BJ1N54gRFY_5Q-BaF54",
+    "maps_url": "https://maps.google.com/?cid=11391673701716561685"
+  }
+]

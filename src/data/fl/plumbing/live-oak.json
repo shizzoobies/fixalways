@@ -1,0 +1,82 @@
+[
+  {
+    "name": "Cochran Plumbing Services, LLC",
+    "rating": 4.5,
+    "reviews": 65,
+    "phone": "(386) 208-8080",
+    "website": "",
+    "address": "14115 Railroad St, Live Oak, FL 32060, USA",
+    "place_id": "ChIJBWdC53Td7ogRpqDaqEfF5kA",
+    "maps_url": "https://maps.google.com/?cid=4676642174637088934"
+  },
+  {
+    "name": "DRC Plumbing Inc",
+    "rating": 3,
+    "reviews": 4,
+    "phone": "(386) 362-7965",
+    "website": "",
+    "address": "12932 92nd St, Live Oak, FL 32060, USA",
+    "place_id": "ChIJgzC19I_e7ogR0_x_xzUd81o",
+    "maps_url": "https://maps.google.com/?cid=6553613999571729619"
+  },
+  {
+    "name": "Aristocrat Plumbing",
+    "rating": 5,
+    "reviews": 2,
+    "phone": "(386) 364-7020",
+    "website": "",
+    "address": "14115 Railroad St, Live Oak, FL 32060, USA",
+    "place_id": "ChIJBWdC53Td7ogRy0aWFSW4lbU",
+    "maps_url": "https://maps.google.com/?cid=13084566761810314955"
+  },
+  {
+    "name": "AAA Well and Pump Repair",
+    "rating": 4.9,
+    "reviews": 11,
+    "phone": "(386) 362-7867",
+    "website": "https://aaapumprepair.com/",
+    "address": "12775 Railroad St, Live Oak, FL 32060, USA",
+    "place_id": "ChIJY1WNn8fd7ogRVDrf61PNydI",
+    "maps_url": "https://maps.google.com/?cid=15188896978606963284"
+  },
+  {
+    "name": "911-crew",
+    "rating": 3.3,
+    "reviews": 3,
+    "phone": "(646) 779-0900",
+    "website": "",
+    "address": "100 Court St SE, Live Oak, FL 32064, USA",
+    "place_id": "ChIJcwUqutzf7ogR-eLkr_yw8vk",
+    "maps_url": "https://maps.google.com/?cid=18010652459137295097"
+  },
+  {
+    "name": "Barrs Plumbing",
+    "rating": 4.8,
+    "reviews": 537,
+    "phone": "(386) 999-4826",
+    "website": "https://barrsplumbingfl.com/?utm_source=gbp&utm_medium=organic&utm_campaign=gbp-website&utm_content=web-cta&utm_term=fort-white-fl",
+    "address": "7075 US-27, Fort White, FL 32038, USA",
+    "place_id": "ChIJ79l_qlLN6IgR5ktNNFvGgzg",
+    "maps_url": "https://maps.google.com/?cid=4072316583094864870"
+  },
+  {
+    "name": "Mike's Pump Repair & Well Drilling Inc.",
+    "rating": 4.6,
+    "reviews": 21,
+    "phone": "(386) 364-5360",
+    "website": "https://www.mikespumpandwell.com/",
+    "address": "13969 86th Terrace, Live Oak, FL 32060, USA",
+    "place_id": "ChIJYdM5EP_c7ogR-fv0aL3NRVk",
+    "maps_url": "https://maps.google.com/?cid=6432773856162020345"
+  },
+  {
+    "name": "Wheeler's Services & Septic Repair",
+    "rating": 4.8,
+    "reviews": 22,
+    "phone": "(386) 249-5179",
+    "website": "",
+    "address": "604 Irvin Ave SW, Live Oak, FL 32064, USA",
+    "place_id": "ChIJnwcqMMe7ZKMRX-dvj6W3qaA",
+    "maps_url": "https://maps.google.com/?cid=11576986238836533087"
+  }
+]

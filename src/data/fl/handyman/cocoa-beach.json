@@ -1,0 +1,142 @@
+[
+  {
+    "name": "Cocoa Beach Handyman Services",
+    "rating": 5,
+    "reviews": 22,
+    "phone": "(321) 877-8518",
+    "website": "",
+    "address": "274 S Orlando Ave, Cocoa Beach, FL 32931, USA",
+    "place_id": "ChIJK5oWx1kd3ogR9yl6ooxta4w",
+    "maps_url": "https://maps.google.com/?cid=10118301438606715383"
+  },
+  {
+    "name": "Your Hometown Handyman",
+    "rating": 5,
+    "reviews": 189,
+    "phone": "(321) 355-2201",
+    "website": "https://your321handyman.com/",
+    "address": "1926 Exeter Dr, Cocoa, FL 32922, USA",
+    "place_id": "ChIJ5S_EFDur4IgRJYFW9SvE-fI",
+    "maps_url": "https://maps.google.com/?cid=17508240719458238757"
+  },
+  {
+    "name": "Rocket Coast Handyman",
+    "rating": 5,
+    "reviews": 65,
+    "phone": "(321) 209-1771",
+    "website": "http://rocketcoasthandyman.com/",
+    "address": "1709 N Harbor City Blvd PMB 6021, Melbourne, FL 32935, USA",
+    "place_id": "ChIJ1ek-v2cR3ogRmF_RzRqiUHU",
+    "maps_url": "https://maps.google.com/?cid=8453434736580321176"
+  },
+  {
+    "name": "J.R.'s Home Repair",
+    "rating": 4.8,
+    "reviews": 37,
+    "phone": "(704) 703-7360",
+    "website": "https://cocoapainter.com/",
+    "address": "2168 Canaveral Groves Blvd, Cocoa, FL 32926, USA",
+    "place_id": "ChIJeWCto_vBVogRhWr8MngPi1c",
+    "maps_url": "https://maps.google.com/?cid=6308152711988406917"
+  },
+  {
+    "name": "Trent Of All Trades LLC",
+    "rating": 5,
+    "reviews": 22,
+    "phone": "(407) 242-2304",
+    "website": "",
+    "address": "1114 Abington St, Cocoa, FL 32922, USA",
+    "place_id": "ChIJEwu9biOr4IgRVGW68PoLFro",
+    "maps_url": "https://maps.google.com/?cid=13408918112950707540"
+  },
+  {
+    "name": "The Friendly Repairman",
+    "rating": 5,
+    "reviews": 110,
+    "phone": "(321) 355-2202",
+    "website": "http://www.thefriendlyrepairman.com/",
+    "address": "5445 Murrell Rd Suite 102 Box 151, Rockledge, FL 32955, USA",
+    "place_id": "ChIJNwskclMB3ogRRvQXivhIUdA",
+    "maps_url": "https://maps.google.com/?cid=15010859265308488774"
+  },
+  {
+    "name": "The Coastal Handyman",
+    "rating": 4.4,
+    "reviews": 24,
+    "phone": "(904) 357-0284",
+    "website": "https://www.thecoastalhandyman.com/",
+    "address": "609 Barbara Ln, Jacksonville Beach, FL 32250, USA",
+    "place_id": "ChIJlfZ_tZ9J5IgRCglDhmmRA7g",
+    "maps_url": "https://maps.google.com/?cid=13259601610319005962"
+  },
+  {
+    "name": "Crane Creek Handyman Services",
+    "rating": 5,
+    "reviews": 7,
+    "phone": "(321) 376-2623",
+    "website": "https://cranecreekhm.com/",
+    "address": "1800 Woodberry Cir, Melbourne, FL 32935, USA",
+    "place_id": "ChIJfyLBB1EF3ogREs5w3juH3lo",
+    "maps_url": "https://maps.google.com/?cid=6547819599448034834"
+  },
+  {
+    "name": "Handyman Network",
+    "rating": 0,
+    "reviews": 0,
+    "phone": "(855) 426-3988",
+    "website": "http://fixitpros.net/",
+    "address": "2021 N Atlantic Ave Suite 238, Cocoa Beach, FL 32931, USA",
+    "place_id": "ChIJ_YgIozQd3ogR2GI8sC4C5Lc",
+    "maps_url": "https://maps.google.com/?cid=13250718403179340504"
+  },
+  {
+    "name": "Home Advisor Handyman",
+    "rating": 2,
+    "reviews": 1,
+    "phone": "(855) 426-3988",
+    "website": "http://handymanhomeadvisor.com/",
+    "address": "2021 N Atlantic Ave Suite 238, Cocoa Beach, FL 32931, USA",
+    "place_id": "ChIJbQF6BV4d3ogR8ibikfJ788g",
+    "maps_url": "https://maps.google.com/?cid=14480053508686096114"
+  },
+  {
+    "name": "Mr Handyman",
+    "rating": 0,
+    "reviews": 0,
+    "phone": "(321) 454-7377",
+    "website": "https://www.mrhandyman.com/",
+    "address": "2023 N Atlantic Ave STE 224, Cocoa Beach, FL 32931, USA",
+    "place_id": "ChIJo2c4rWAd3ogRUaHwd0Xm7LI",
+    "maps_url": "https://maps.google.com/?cid=12892933019294277969"
+  },
+  {
+    "name": "Hansen's Construction (Hansen’s Handyman Services)",
+    "rating": 4.4,
+    "reviews": 54,
+    "phone": "(321) 302-9441",
+    "website": "https://www.hansenshomerenovations.com/",
+    "address": "416 Hurst Rd NE, Palm Bay, FL 32907, USA",
+    "place_id": "ChIJKwh0Y-4B3ogRxQ_me0JGKws",
+    "maps_url": "https://maps.google.com/?cid=804814209776226245"
+  },
+  {
+    "name": "Screens by Wayne and Handyman services",
+    "rating": 5,
+    "reviews": 21,
+    "phone": "(321) 355-8830",
+    "website": "",
+    "address": "509 Madison Ave # a, Cape Canaveral, FL 32920, USA",
+    "place_id": "ChIJoQ-sTIun4IgR65XSoCoPeMc",
+    "maps_url": "https://maps.google.com/?cid=14373254886514136555"
+  },
+  {
+    "name": "Kazman Services",
+    "rating": 4.6,
+    "reviews": 21,
+    "phone": "(321) 626-7787",
+    "website": "",
+    "address": "1490 W Central Ave, Merritt Island, FL 32952, USA",
+    "place_id": "ChIJByG8Otmp4IgRXsOM9Vdw4Zw",
+    "maps_url": "https://maps.google.com/?cid=11304440062760764254"
+  }
+]

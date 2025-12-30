@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Glades Roofing LLC",
+    "rating": 5,
+    "reviews": 5,
+    "phone": "(209) 565-3874",
+    "website": "http://gladesroofingllc.services/",
+    "address": "424 SE Avenue Pl E, Belle Glade, FL 33430, USA",
+    "place_id": "ChIJHWJ0IHdQ2YgRllXLRLOF-bo",
+    "maps_url": "https://maps.google.com/?cid=13472946765255366038"
+  },
+  {
+    "name": "Grace Roofing & Construction",
+    "rating": 5,
+    "reviews": 2,
+    "phone": "(561) 565-5352",
+    "website": "http://gladesroofingllc.services/",
+    "address": "201 NE 2nd St, Belle Glade, FL 33430, USA",
+    "place_id": "ChIJvYdPEXBQ2YgRMn23pNqJH2s",
+    "maps_url": "https://maps.google.com/?cid=7719039858495683890"
+  },
+  {
+    "name": "Player's Roofing",
+    "rating": 0,
+    "reviews": 0,
+    "phone": "(561) 395-6728",
+    "website": "https://playersroofingsvs.com/",
+    "address": "39200 Hooker Hwy Ste.139, Belle Glade, FL 33430, USA",
+    "place_id": "ChIJkYpfXZFR2YgRCmDv5xiR_cQ",
+    "maps_url": "https://maps.google.com/?cid=14194661136698138634"
+  }
+]

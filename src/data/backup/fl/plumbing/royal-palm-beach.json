@@ -1,0 +1,92 @@
+[
+  {
+    "name": "Pro-Tech Corp",
+    "rating": 5,
+    "reviews": 160,
+    "phone": "(561) 793-0504",
+    "website": "http://protechair.com/",
+    "maps": "https://maps.google.com/?cid=8811725255574696863&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "1127 Royal Palm Beach Blvd #104, Royal Palm Beach, FL 33411, USA"
+  },
+  {
+    "name": "Bradley Heating & Air Conditioning, Inc.",
+    "rating": 4.6,
+    "reviews": 83,
+    "phone": "(561) 793-7497",
+    "website": "https://bradleyair.com/",
+    "maps": "https://maps.google.com/?cid=18249940736680580590&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "200 Business Park Way, Royal Palm Beach, FL 33411, USA"
+  },
+  {
+    "name": "Gulfstream Cooling",
+    "rating": 4.8,
+    "reviews": 88,
+    "phone": "(561) 531-3665",
+    "website": "https://gulfstreamcooling.com/",
+    "maps": "https://maps.google.com/?cid=17349568712351530955&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "1510 Newhaven Point Ln, Royal Palm Beach, FL 33411, USA"
+  },
+  {
+    "name": "Royal Palm Beach AC Services",
+    "rating": 5,
+    "reviews": 1,
+    "phone": "(561) 414-2156",
+    "website": "https://www.royalpalmbeachacservices.net/",
+    "maps": "https://maps.google.com/?cid=9724598895772666724&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "1180 Royal Palm Beach Blvd, Royal Palm Beach, FL 33411, USA"
+  },
+  {
+    "name": "FreezeHvac AC Repair Royal Palm Beach",
+    "rating": 4.9,
+    "reviews": 8,
+    "phone": "(561) 763-4947",
+    "website": "https://royalpalmbeach.freezehvac.pro/location/the-comprehensive-guide-to-ac-repairs-in-royal-palm-beach",
+    "maps": "https://maps.google.com/?cid=10554727268071520405&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "10100 Fox Trail Rd S #21, Royal Palm Beach, FL 33411, USA"
+  },
+  {
+    "name": "Hopkins Air Conditioning",
+    "rating": 4.9,
+    "reviews": 2642,
+    "phone": "(561) 656-4870",
+    "website": "https://hopkinsair.com/",
+    "maps": "https://maps.google.com/?cid=2745868234018833061&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "5403 N Haverhill Rd #231, West Palm Beach, FL 33407, USA"
+  },
+  {
+    "name": "First Degree Air Conditioning, Inc.",
+    "rating": 4.9,
+    "reviews": 277,
+    "phone": "(561) 461-7411",
+    "website": "https://firstdegreeairconditioning.com/",
+    "maps": "https://maps.google.com/?cid=8319242181624558352&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "5487 Avocado Blvd, West Palm Beach, FL 33411, USA"
+  },
+  {
+    "name": "Service Max Pro",
+    "rating": 5,
+    "reviews": 94,
+    "phone": "(954) 774-1850",
+    "website": "http://servicemaxpro.net/",
+    "maps": "https://maps.google.com/?cid=5290306051214969266&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "11981 Cypress Key Way, Royal Palm Beach, FL 33411, USA"
+  },
+  {
+    "name": "ROYAL HVAC LLC",
+    "rating": 5,
+    "reviews": 37,
+    "phone": "(561) 316-0172",
+    "website": "https://www.royalhvacllc.com/",
+    "maps": "https://maps.google.com/?cid=13504491550593474060&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "238 SW 10th Ave, Delray Beach, FL 33444, USA"
+  },
+  {
+    "name": "SERVSOUTH LLC",
+    "rating": 5,
+    "reviews": 18,
+    "phone": "(561) 850-5812",
+    "website": "https://www.servsouthfl.com/",
+    "maps": "https://maps.google.com/?cid=10023661418011672818&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "83 Santa Monica Ct, Royal Palm Beach, FL 33411, USA"
+  }
+]

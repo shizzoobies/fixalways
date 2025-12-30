@@ -1,0 +1,252 @@
+[
+  {
+    "name": "Tampa Bay Plumbing LLC",
+    "rating": 4.9,
+    "reviews": 974,
+    "phone": "(727) 223-6400",
+    "website": "http://www.tampabayplumber.com/",
+    "address": "613 S Missouri Ave, Clearwater, FL 33756, USA",
+    "place_id": "ChIJMTIodnPlwogRYHCi0UVb_Fw",
+    "maps_url": "https://maps.google.com/?cid=6700330701048410208"
+  },
+  {
+    "name": "Gulf Coast Plumbing Clearwater, Inc.",
+    "rating": 4.9,
+    "reviews": 188,
+    "phone": "(727) 401-0511",
+    "website": "https://gulfcoastplumber.com/",
+    "address": "2580 Elderberry Dr, Clearwater, FL 33761, USA",
+    "place_id": "ChIJv39JFaPtwogRjUwdT1ZvcGY",
+    "maps_url": "https://maps.google.com/?cid=7381522205745433741"
+  },
+  {
+    "name": "Scotto's Plumbing",
+    "rating": 4.7,
+    "reviews": 452,
+    "phone": "(727) 581-5828",
+    "website": "http://www.scottoplumbing.com/",
+    "address": "1761 Carnegie Ave, Clearwater, FL 33756, USA",
+    "place_id": "ChIJS6sN1prwwogR4wforupZOtg",
+    "maps_url": "https://maps.google.com/?cid=15580864725333313507"
+  },
+  {
+    "name": "Clearwater Plumbing Inc",
+    "rating": 4.2,
+    "reviews": 124,
+    "phone": "(727) 446-8355",
+    "website": "http://clearwaterplumbing.com/",
+    "address": "2101 Calumet St, Clearwater, FL 33765, USA",
+    "place_id": "ChIJne3t-N_wwogR63rSko3reeQ",
+    "maps_url": "https://maps.google.com/?cid=16463448906115742443"
+  },
+  {
+    "name": "Home Love Plumbing",
+    "rating": 4.9,
+    "reviews": 317,
+    "phone": "(727) 810-7341",
+    "website": "https://homeloveplumbing.com/",
+    "address": "51 S Main Ave #301, Clearwater, FL 33765, USA",
+    "place_id": "ChIJ-Qqpid_xwogRhMCgisIRfy8",
+    "maps_url": "https://maps.google.com/?cid=3422473769071984772"
+  },
+  {
+    "name": "On Tap Plumbing",
+    "rating": 4.8,
+    "reviews": 153,
+    "phone": "(727) 313-4266",
+    "website": "https://otplumbing.com/",
+    "address": "1055 N Hercules Ave Suite C, Clearwater, FL 33765, USA",
+    "place_id": "ChIJCXc5KFXxwogREk2296DGesM",
+    "maps_url": "https://maps.google.com/?cid=14085789179207634194"
+  },
+  {
+    "name": "Bearded Plumber",
+    "rating": 4.9,
+    "reviews": 173,
+    "phone": "(866) 882-3273",
+    "website": "http://www.beardedplumber.com/",
+    "address": "3066 Augusta Dr W, Clearwater, FL 33761, USA",
+    "place_id": "ChIJX_JUU7Vib4QRt9mEPY2LKsM",
+    "maps_url": "https://maps.google.com/?cid=14063206225156561335"
+  },
+  {
+    "name": "Clearwater Plumbing Wiz",
+    "rating": 5,
+    "reviews": 48,
+    "phone": "(727) 496-3025",
+    "website": "http://clearwaterplumbingwiz.com/",
+    "address": "931 Cleveland St, Clearwater, FL 33755, USA",
+    "place_id": "ChIJcyUPoanxwogRju05U6RkiGU",
+    "maps_url": "https://maps.google.com/?cid=7316208251597090190"
+  },
+  {
+    "name": "Able Plumbing, Inc",
+    "rating": 4.9,
+    "reviews": 186,
+    "phone": "",
+    "website": "",
+    "address": "14445 US Hwy 19 N suite b, Clearwater, FL 33764, USA",
+    "place_id": "ChIJ7UU8iavlwogRoEYwAfo-hz0",
+    "maps_url": "https://maps.google.com/?cid=4433581601652229792"
+  },
+  {
+    "name": "Joe's Family Plumbing Inc.",
+    "rating": 4.4,
+    "reviews": 207,
+    "phone": "(727) 723-8626",
+    "website": "https://www.joesfamilyplumbing.com/",
+    "address": "1715 N Hercules Ave, Clearwater, FL 33755, USA",
+    "place_id": "ChIJG7VmxS_ywogRmapvR7xZ8y4",
+    "maps_url": "https://maps.google.com/?cid=3383146410272598681"
+  },
+  {
+    "name": "Gulfview Plumbing & Water Treatment",
+    "rating": 5,
+    "reviews": 122,
+    "phone": "(727) 371-5487",
+    "website": "https://gulfviewplumbing.com/",
+    "address": "2028 Diplomat Dr, Clearwater, FL 33764, USA",
+    "place_id": "ChIJhYgrBU7xwogRmqQGF3iZmmU",
+    "maps_url": "https://maps.google.com/?cid=7321332885305599130"
+  },
+  {
+    "name": "All County Plumbing & Leak",
+    "rating": 4.9,
+    "reviews": 366,
+    "phone": "(727) 761-2348",
+    "website": "https://www.allcountyplumbingandleak.com/",
+    "address": "1143 Eldridge St Unit A2, Clearwater, FL 33755, USA",
+    "place_id": "ChIJ9wIZ71_5wogR-9VPUvgWvbE",
+    "maps_url": "https://maps.google.com/?cid=12807418171100222971"
+  },
+  {
+    "name": "Roto-Rooter Plumbing & Water Cleanup",
+    "rating": 4.8,
+    "reviews": 1928,
+    "phone": "(727) 544-1518",
+    "website": "https://www.rotorooter.com/clearwaterfl/?utm_source=Google&utm_medium=organic&utm_campaign=gmb&utm_content=website",
+    "address": "18544 US Hwy 19 N, Clearwater, FL 33764, USA",
+    "place_id": "ChIJrc_V3uDvwogRonyIRFMG1CQ",
+    "maps_url": "https://maps.google.com/?cid=2653753035129912482"
+  },
+  {
+    "name": "Benjamin Franklin Plumbing",
+    "rating": 4.8,
+    "reviews": 810,
+    "phone": "(727) 219-9004",
+    "website": "https://clearwaterbenjaminfranklin.com/?utm_source=GBP&utm_medium=organic&utm_campaign=clearwatergbp",
+    "address": "12345 Starkey Rd Suite B, Largo, FL 33773, USA",
+    "place_id": "ChIJq-kj0T6NwogRE_UymM0Vshc",
+    "maps_url": "https://maps.google.com/?cid=1707451181492794643"
+  },
+  {
+    "name": "Dynamic Plumbing Plus",
+    "rating": 5,
+    "reviews": 102,
+    "phone": "(727) 616-7066",
+    "website": "https://dynamicplumbingplus.com/",
+    "address": "21955 US Hwy 19 N, Clearwater, FL 33765, USA",
+    "place_id": "ChIJGxiRqhbvwogR-cTf0NpqSNA",
+    "maps_url": "https://maps.google.com/?cid=15008363246251918585"
+  },
+  {
+    "name": "Jones & Sons Plumbing",
+    "rating": 4.7,
+    "reviews": 608,
+    "phone": "(727) 304-3599",
+    "website": "https://www.jonesandsonsplumbing.com/?utm_source=google&utm_medium=gmb&utm_campaign=GoogleBusinessProfile",
+    "address": "1201 Cedar St C, Safety Harbor, FL 34695, USA",
+    "place_id": "ChIJZfzMn2XuwogRXNJPl8SImkw",
+    "maps_url": "https://maps.google.com/?cid=5519874671229522524"
+  },
+  {
+    "name": "B&B Professional Plumbing & Air",
+    "rating": 4.7,
+    "reviews": 175,
+    "phone": "(727) 472-4786",
+    "website": "http://bbproplumbing.com/",
+    "address": "707 Belleair Rd, Clearwater, FL 33756, USA",
+    "place_id": "ChIJGYWG35bwwogRALtofq_liYc",
+    "maps_url": "https://maps.google.com/?cid=9766589808832461568"
+  },
+  {
+    "name": "Gulfview Plumbing & Water Treatment",
+    "rating": 4.9,
+    "reviews": 485,
+    "phone": "(727) 351-4700",
+    "website": "https://gulfviewplumbing.com/",
+    "address": "3861 68th Ave N, Pinellas Park, FL 33781, USA",
+    "place_id": "ChIJlVXapcPxwogRTPf15SJqGrk",
+    "maps_url": "https://maps.google.com/?cid=13338089944530679628"
+  },
+  {
+    "name": "PluMax Plumbing / Handyman Service",
+    "rating": 5,
+    "reviews": 63,
+    "phone": "(727) 358-8678",
+    "website": "",
+    "address": "2009 Healy Dr, Clearwater, FL 33763, USA",
+    "place_id": "ChIJiQzB4qfxwogRAcqFq8mRSoI",
+    "maps_url": "https://maps.google.com/?cid=9388476668559346177"
+  },
+  {
+    "name": "Apex Plumbing",
+    "rating": 4.9,
+    "reviews": 64,
+    "phone": "(727) 477-0857",
+    "website": "https://apexdoyourplumbing.com/service-areas/plumbers-clearwater-fl/?utm_source=gmb&utm_medium=organic&utm_campaign=listing",
+    "address": "13750 49th Street N Suite 1, Clearwater, FL 33762, USA",
+    "place_id": "ChIJD8t2hVDlwogRjYzg1rh_MIU",
+    "maps_url": "https://maps.google.com/?cid=9597311237782277261"
+  },
+  {
+    "name": "Friends Plumbing",
+    "rating": 4.9,
+    "reviews": 2995,
+    "phone": "(727) 314-5763",
+    "website": "https://friendsplumbing.com/",
+    "address": "325 Mears Blvd, Oldsmar, FL 34677, USA",
+    "place_id": "ChIJRQvM6kbswogRchv54onsSlw",
+    "maps_url": "https://maps.google.com/?cid=6650387876728609650"
+  },
+  {
+    "name": "Denny's Plumbing",
+    "rating": 4.5,
+    "reviews": 91,
+    "phone": "(727) 530-1391",
+    "website": "https://dennysplumbingservice.com/",
+    "address": "1786 N Hercules Ave, Clearwater, FL 33765, USA",
+    "place_id": "ChIJd1_HDPLxwogRXAQgO4L8kDg",
+    "maps_url": "https://maps.google.com/?cid=4076035299038200924"
+  },
+  {
+    "name": "Dunedin Plumbing Inc",
+    "rating": 4.4,
+    "reviews": 518,
+    "phone": "(727) 734-2879",
+    "website": "http://www.dunedinplumbing.com/",
+    "address": "483 Patricia Ave, Dunedin, FL 34698, USA",
+    "place_id": "ChIJDSPp4YLxwogRFxCTGic088s",
+    "maps_url": "https://maps.google.com/?cid=14696147351594274839"
+  },
+  {
+    "name": "Mr. Rooter Plumbing of Clearwater",
+    "rating": 4.6,
+    "reviews": 296,
+    "phone": "(727) 835-5840",
+    "website": "https://www.mrrooter.com/clearwater/?cid=LSTL_MRR000199&utm_source=gmb&utm_campaign=local&utm_medium=organic",
+    "address": "13790 Roosevelt Blvd Ste D, Clearwater, FL 33762, USA",
+    "place_id": "ChIJAQAAAJT6wogRe9cvxrsTARk",
+    "maps_url": "https://maps.google.com/?cid=1801743023129745275"
+  },
+  {
+    "name": "Apex Plumbing - Pipelining, Leak and Drain Repair in St. Petersburg FL",
+    "rating": 4.9,
+    "reviews": 801,
+    "phone": "(727) 477-0857",
+    "website": "https://www.apexdoyourplumbing.com/?utm_source=gmb&utm_medium=organic",
+    "address": "1624 4th St S, St. Petersburg, FL 33701, USA",
+    "place_id": "ChIJldvuRfXlwogR_1Z7sW91hW4",
+    "maps_url": "https://maps.google.com/?cid=7963900638654060287"
+  }
+]

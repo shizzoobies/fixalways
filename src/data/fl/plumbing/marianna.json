@@ -1,0 +1,92 @@
+[
+  {
+    "name": "Harrison's Plumbing and Septic Tank Service",
+    "rating": 3.9,
+    "reviews": 48,
+    "phone": "(850) 526-2852",
+    "website": "",
+    "address": "3976 US-90, Marianna, FL 32446, USA",
+    "place_id": "ChIJ4zSIWyIgk4gRszGCRJTWGqc",
+    "maps_url": "https://maps.google.com/?cid=12041172486021329331"
+  },
+  {
+    "name": "Jokey's Plumbing and Septic LLC",
+    "rating": 4.3,
+    "reviews": 45,
+    "phone": "(850) 209-0452",
+    "website": "",
+    "address": "2081 Taylor Rd, Cottondale, FL 32431, USA",
+    "place_id": "ChIJ1axUg94ck4gR8VC5XTvtU6k",
+    "maps_url": "https://maps.google.com/?cid=12201356654708084977"
+  },
+  {
+    "name": "Lewis Smith Supply Corporation",
+    "rating": 4.6,
+    "reviews": 58,
+    "phone": "(850) 482-3033",
+    "website": "https://www.lewis-smithsupply.com/",
+    "address": "4072 Lafayette St, Marianna, FL 32446, USA",
+    "place_id": "ChIJMW9Q-xUgk4gRO9pkQzUlefQ",
+    "maps_url": "https://maps.google.com/?cid=17616152328130583099"
+  },
+  {
+    "name": "Skipper Plumbing",
+    "rating": 3,
+    "reviews": 5,
+    "phone": "(850) 482-4838",
+    "website": "",
+    "address": "2995 Park St, Marianna, FL 32446, USA",
+    "place_id": "ChIJ-YBvG_Mgk4gR4LcctOWX4f0",
+    "maps_url": "https://maps.google.com/?cid=18294070174180751328"
+  },
+  {
+    "name": "Triple J Plumbing LLC",
+    "rating": 4.3,
+    "reviews": 32,
+    "phone": "(850) 303-5483",
+    "website": "https://triplejplumbingservice.com/",
+    "address": "14318 SW, FL-73, Clarksville, FL 32430, USA",
+    "place_id": "ChIJdSnINydBk4gR1RlnRXTJEcM",
+    "maps_url": "https://maps.google.com/?cid=14056237413217802709"
+  },
+  {
+    "name": "ENFINGER PLUMBING COMPANY, Inc",
+    "rating": 4.6,
+    "reviews": 28,
+    "phone": "(850) 557-9311",
+    "website": "http://www.enfingerplumberinc.com/",
+    "address": "890 Blueberry Dr, Grand Ridge, FL 32442, USA",
+    "place_id": "ChIJS0Y_-u8FaSQROaZMdrnMmEY",
+    "maps_url": "https://maps.google.com/?cid=5087040876040726073"
+  },
+  {
+    "name": "L & A Plumbing",
+    "rating": 2,
+    "reviews": 1,
+    "phone": "(850) 526-5087",
+    "website": "",
+    "address": "5087 Blue Springs Rd, Marianna, FL 32446, USA",
+    "place_id": "ChIJUWyB4j4nk4gR2Px3TtGYP4M",
+    "maps_url": "https://maps.google.com/?cid=9457445767233404120"
+  },
+  {
+    "name": "J's Precision Plumbing LLC",
+    "rating": 3.9,
+    "reviews": 7,
+    "phone": "(850) 387-9222",
+    "website": "https://www.facebook.com/JsPrecisionPlumbing/",
+    "address": "16644 NE Tom Kimbrel Ln, Altha, FL 32421, USA",
+    "place_id": "ChIJnXxZweY5k4gResOs2pkYW2c",
+    "maps_url": "https://maps.google.com/?cid=7447573457865065338"
+  },
+  {
+    "name": "Jemison Heating & Cooling, Inc.",
+    "rating": 4.9,
+    "reviews": 447,
+    "phone": "(850) 482-8100",
+    "website": "https://www.jemisonhvac.com/",
+    "address": "2431 FL-71, Marianna, FL 32448, USA",
+    "place_id": "ChIJQQiRgiY6k4gRIY-q9w1LZBk",
+    "maps_url": "https://maps.google.com/?cid=1829669871981072161"
+  }
+]

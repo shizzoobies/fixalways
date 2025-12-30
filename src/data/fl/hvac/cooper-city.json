@@ -1,0 +1,252 @@
+[
+  {
+    "name": "HI-VAC Air Conditioning Service",
+    "rating": 4.9,
+    "reviews": 1073,
+    "phone": "(954) 738-2908",
+    "website": "http://hivacair.com/",
+    "address": "1671 NW 144th Terrace STE 111, Sunrise, FL 33323, USA",
+    "place_id": "ChIJtw7ZXacJ2YgRwSpmsP1VWMU",
+    "maps_url": "https://maps.google.com/?cid=14220210371496913601"
+  },
+  {
+    "name": "Fleming Brothers Services",
+    "rating": 5,
+    "reviews": 139,
+    "phone": "(954) 981-9480",
+    "website": "",
+    "address": "5202 SW 90th Terrace, Cooper City, FL 33328, USA",
+    "place_id": "ChIJaygGDnqo2YgRtydfAOSXBOg",
+    "maps_url": "https://maps.google.com/?cid=16718654722220697527"
+  },
+  {
+    "name": "ACCO LLC",
+    "rating": 4.9,
+    "reviews": 94,
+    "phone": "(954) 505-1062",
+    "website": "https://accollc.com/",
+    "address": "10600 SW 47th St, Davie, FL 33328, USA",
+    "place_id": "ChIJZeWJvlHJ8WARgGElK-QjKg8",
+    "maps_url": "https://maps.google.com/?cid=1092725322474152320"
+  },
+  {
+    "name": "City Air Conditioning Solutions",
+    "rating": 5,
+    "reviews": 65,
+    "phone": "(561) 592-5540",
+    "website": "http://www.cityacs.com/",
+    "address": "6630 Meade St, Hollywood, FL 33024, USA",
+    "place_id": "ChIJ4cYQU5RZ1GoRhWFVrEdD7Ss",
+    "maps_url": "https://maps.google.com/?cid=3165260088224342405"
+  },
+  {
+    "name": "Airfresh AC & Mechanical",
+    "rating": 4.9,
+    "reviews": 68,
+    "phone": "(754) 210-2750",
+    "website": "https://airfreshac.com/",
+    "address": "12555 Orange Dr Suite 4090, Davie, FL 33330, USA",
+    "place_id": "ChIJE-6uls_LLIcReKpQmkw-05w",
+    "maps_url": "https://maps.google.com/?cid=11300444388730120824"
+  },
+  {
+    "name": "Cusano Air Conditioning and Heating, Inc",
+    "rating": 4.8,
+    "reviews": 37,
+    "phone": "(954) 472-8002",
+    "website": "https://www.cusanoairconditioning.com/",
+    "address": "4153 SW 47th Ave Suite 150-152, Davie, FL 33314, USA",
+    "place_id": "ChIJZdgluMGp2YgRCG6VRB6SFBo",
+    "maps_url": "https://maps.google.com/?cid=1879287603217657352"
+  },
+  {
+    "name": "Two Brothers Heating & Air Conditioning",
+    "rating": 5,
+    "reviews": 5,
+    "phone": "(754) 946-5222",
+    "website": "",
+    "address": "9301 SW 55th St, Cooper City, FL 33328, USA",
+    "place_id": "ChIJUV1DZfux2YgRKtLjPyneclA",
+    "maps_url": "https://maps.google.com/?cid=5796939939126170154"
+  },
+  {
+    "name": "Burke Air Conditioning",
+    "rating": 5,
+    "reviews": 27,
+    "phone": "(954) 501-2509",
+    "website": "https://burkeacdavie.com/",
+    "address": "12555 Orange Dr Suite 41, Davie, FL 33330, USA",
+    "place_id": "ChIJzwdN5H2n2YgRkaJyhaq0pmU",
+    "maps_url": "https://maps.google.com/?cid=7324740488441012881"
+  },
+  {
+    "name": "Davie HVAC Repair Expert",
+    "rating": 5,
+    "reviews": 1,
+    "phone": "(754) 703-7079",
+    "website": "",
+    "address": "5220 S University Dr C102, Davie, FL 33328, USA",
+    "place_id": "ChIJX9ChElup2YgRFJTxxR6GhLU",
+    "maps_url": "https://maps.google.com/?cid=13079726684518847508"
+  },
+  {
+    "name": "Air Anytime",
+    "rating": 4.9,
+    "reviews": 497,
+    "phone": "(954) 569-5155",
+    "website": "https://www.airanytime.com/",
+    "address": "960 NW 36th St, Oakland Park, FL 33309, USA",
+    "place_id": "ChIJmYUa_FEA2YgRJj1ZgPoPWDY",
+    "maps_url": "https://maps.google.com/?cid=3915897444568218918"
+  },
+  {
+    "name": "Pembroke Pines AC Repair Gurus",
+    "rating": 4.9,
+    "reviews": 29,
+    "phone": "(954) 250-6635",
+    "website": "http://pembrokepinesacrepairgurus.com/",
+    "address": "8405 Pines Blvd, Pembroke Pines, FL 33024, USA",
+    "place_id": "ChIJ84yFbOm32YgR-8toxOP1Cbw",
+    "maps_url": "https://maps.google.com/?cid=13549631312522431483"
+  },
+  {
+    "name": "Cool It Air Conditioning Repair",
+    "rating": 4.9,
+    "reviews": 36,
+    "phone": "(954) 697-4836",
+    "website": "https://coolitairconditioning.com/locations/top-rated-ac-repair-services-pembroke-pines-fl/",
+    "address": "201 N Hiatus Rd, Pembroke Pines, FL 33026, USA",
+    "place_id": "ChIJs-x0Xm6n2YgRFgkLs3fAgmw",
+    "maps_url": "https://maps.google.com/?cid=7819023523406088470"
+  },
+  {
+    "name": "Fix AC Today",
+    "rating": 5,
+    "reviews": 1,
+    "phone": "(954) 973-6199",
+    "website": "",
+    "address": "4791 SW 83rd Terrace, Cooper City, FL 33328, USA",
+    "place_id": "ChIJYSMblGuo2YgRVOof5FTirUM",
+    "maps_url": "https://maps.google.com/?cid=4876802825744542292"
+  },
+  {
+    "name": "DS Air Conditioning and Heating LLC",
+    "rating": 5,
+    "reviews": 78,
+    "phone": "(786) 428-4677",
+    "website": "https://dsairco.com/",
+    "address": "7180 Raleigh St, Hollywood, FL 33024, USA",
+    "place_id": "ChIJUUU1ycOp2YgR4l_mLljGlQs",
+    "maps_url": "https://maps.google.com/?cid=834791387993366498"
+  },
+  {
+    "name": "Technical AC Repair",
+    "rating": 4.7,
+    "reviews": 14,
+    "phone": "",
+    "website": "",
+    "address": "12179 SW 50th Ct, Cooper City, FL 33330, USA",
+    "place_id": "ChIJl0oXjQqn2YgR_lMh8Z8ErKY",
+    "maps_url": "https://maps.google.com/?cid=12009979391282074622"
+  },
+  {
+    "name": "Lindstrom Air Conditioning & Plumbing",
+    "rating": 4.7,
+    "reviews": 11118,
+    "phone": "(800) 775-8691",
+    "website": "https://www.lindstromair.com/?csdni=gmb&utm_campaign=Google+My+Business&utm_source=GMB&utm_medium=organic&utm_content=Website",
+    "address": "3581 W McNab Rd, Pompano Beach, FL 33069, USA",
+    "place_id": "ChIJ9RrsyZAD2YgR6HQ_-QAw2VQ",
+    "maps_url": "https://maps.google.com/?cid=6113970749871977704"
+  },
+  {
+    "name": "ONC Air",
+    "rating": 4.9,
+    "reviews": 101,
+    "phone": "(954) 607-6993",
+    "website": "https://www.oncair.com/",
+    "address": "11894 NW 11th St, Pembroke Pines, FL 33026, USA",
+    "place_id": "ChIJCVfT4m6n2YgRldDwxWQOFBs",
+    "maps_url": "https://maps.google.com/?cid=1951200364538679445"
+  },
+  {
+    "name": "ACTL GROUP AIR CONDITIONING",
+    "rating": 4.9,
+    "reviews": 296,
+    "phone": "(786) 229-1297",
+    "website": "https://www.actlgroup.com/",
+    "address": "2123 W 76th St, Hialeah, FL 33016, USA",
+    "place_id": "ChIJv-znfYS62YgRgFN0Zsy4VAg",
+    "maps_url": "https://maps.google.com/?cid=600307838378857344"
+  },
+  {
+    "name": "CONCRETE KICKS, LLC",
+    "rating": 0,
+    "reviews": 0,
+    "phone": "",
+    "website": "",
+    "address": "5054 SW 123rd Terrace, Cooper City, FL 33330, USA",
+    "place_id": "ChIJU5abBtGn2YgRHRvmKveQSm4",
+    "maps_url": "https://maps.google.com/?cid=7947323883699706653"
+  },
+  {
+    "name": "Prime Cooling & Heating",
+    "rating": 5,
+    "reviews": 8,
+    "phone": "(954) 947-6171",
+    "website": "https://primehvaconline.com/pembroke-pines-fl/",
+    "address": "700 N Hiatus Rd #7, Pembroke Pines, FL 33026, USA",
+    "place_id": "ChIJWYiTi4yn2YgRhZ4Hqtq74uo",
+    "maps_url": "https://maps.google.com/?cid=16925296897441635973"
+  },
+  {
+    "name": "Cool Air Techs INC",
+    "rating": 0,
+    "reviews": 0,
+    "phone": "(786) 517-7569",
+    "website": "https://coolairtechs.com/",
+    "address": "5249 SW 117th Ave, Cooper City, FL 33330, USA",
+    "place_id": "ChIJ9XxMsc2n2YgRr1XZ8e917TM",
+    "maps_url": "https://maps.google.com/?cid=3741776538829936047"
+  },
+  {
+    "name": "Apex Heating & Cooling",
+    "rating": 0,
+    "reviews": 0,
+    "phone": "(989) 248-1444",
+    "website": "",
+    "address": "12229 SW 53rd St #304, Cooper City, FL 33330, USA",
+    "place_id": "ChIJnwu73q2n2YgRNS9zBzn_9Pc",
+    "maps_url": "https://maps.google.com/?cid=17867186242088808245"
+  },
+  {
+    "name": "Exceptional Cooling LLC",
+    "rating": 5,
+    "reviews": 5,
+    "phone": "(954) 998-2261",
+    "website": "",
+    "address": "10020 Sheridan St, Pembroke Pines, FL 33024, USA",
+    "place_id": "ChIJ28dAeOlodUoRNr5SCNvJm6s",
+    "maps_url": "https://maps.google.com/?cid=12365699144450489910"
+  },
+  {
+    "name": "Air Rightaway Inc.",
+    "rating": 4.7,
+    "reviews": 39,
+    "phone": "(754) 423-2319",
+    "website": "http://www.air-rightawayinc.com/",
+    "address": "2909 Stockholm Ave, Hollywood, FL 33026, USA",
+    "place_id": "ChIJC5tT7v6l2YgRiwPPEsmLyLk",
+    "maps_url": "https://maps.google.com/?cid=13387103588079043467"
+  },
+  {
+    "name": "Apex HVAC LLC",
+    "rating": 0,
+    "reviews": 0,
+    "phone": "(954) 250-9162",
+    "website": "",
+    "address": "5220 S University Dr, Davie, FL 33328, USA",
+    "place_id": "ChIJNUsu_EKo2YgRLyvejtliqq8",
+    "maps_url": "https://maps.google.com/?cid=12658038389222550319"
+  }
+]

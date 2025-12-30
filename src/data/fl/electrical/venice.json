@@ -1,0 +1,252 @@
+[
+  {
+    "name": "Venice Electric",
+    "rating": 4.9,
+    "reviews": 158,
+    "phone": "(941) 484-8900",
+    "website": "https://www.veniceelectric.com/",
+    "address": "257 Grove St, Venice, FL 34285, USA",
+    "place_id": "ChIJOVgiLk5bw4gRot8DVZ2vgmc",
+    "maps_url": "https://maps.google.com/?cid=7458717023150006178"
+  },
+  {
+    "name": "Sunshine Electrical Services",
+    "rating": 5,
+    "reviews": 108,
+    "phone": "(941) 441-9300",
+    "website": "https://sunshinevenice.com/",
+    "address": "Sunshine Electrical Services Inc, 2227 S Tamiami Trl, Venice, FL 34293, USA",
+    "place_id": "ChIJ7Yrad3tQw4gRQ3VCEiaV5qg",
+    "maps_url": "https://maps.google.com/?cid=12170579033762985283"
+  },
+  {
+    "name": "AK Electrical",
+    "rating": 5,
+    "reviews": 63,
+    "phone": "(941) 376-8681",
+    "website": "https://www.akelectricalfl.com/",
+    "address": "239 Center Ct, Venice, FL 34285, USA",
+    "place_id": "ChIJezsGAxSTDAkRLiPFB2Ukwk0",
+    "maps_url": "https://maps.google.com/?cid=5603080902742975278"
+  },
+  {
+    "name": "Bentley & Sons Electric Inc.",
+    "rating": 4.9,
+    "reviews": 178,
+    "phone": "(941) 525-4678",
+    "website": "https://bentleyandsonselectrical.com/",
+    "address": "12161 Mercado Dr #241, Venice, FL 34293, USA",
+    "place_id": "ChIJ75LoiW5Rw4gRKhhrsr2TVb4",
+    "maps_url": "https://maps.google.com/?cid=13715030683178178602"
+  },
+  {
+    "name": "Barrett's Electrical Solutions, LLC",
+    "rating": 5,
+    "reviews": 34,
+    "phone": "(941) 303-2293",
+    "website": "https://barrettselectricalsolutions.com/",
+    "address": "1312 Poplar Ave, Venice, FL 34285, USA",
+    "place_id": "ChIJAwEvyUxbw4gR5kC96KEHbck",
+    "maps_url": "https://maps.google.com/?cid=14514265566060822758"
+  },
+  {
+    "name": "Ferriso Electric LLC",
+    "rating": 5,
+    "reviews": 39,
+    "phone": "(941) 330-3007",
+    "website": "http://www.ferrisoelectric.com/",
+    "address": "265 Seaboard Ave, La Gorce Dr Unit 68 560, Venice, FL 34285, USA",
+    "place_id": "ChIJvVqDCVtbw4gRAwQ81Xfyc6w",
+    "maps_url": "https://maps.google.com/?cid=12426542393337840643"
+  },
+  {
+    "name": "Mr. Electric of Venice",
+    "rating": 5,
+    "reviews": 25,
+    "phone": "(941) 270-4155",
+    "website": "https://mrelectric.com/venice?cid=LSTL_MRE000196&utm_source=gmb&utm_campaign=local&utm_medium=organic",
+    "address": "1101 S Tamiami Trl Ste 215A3, Venice, FL 34285, USA",
+    "place_id": "ChIJE1nsCDJbw4gR3dAfgIq5fLg",
+    "maps_url": "https://maps.google.com/?cid=13293704204597055709"
+  },
+  {
+    "name": "Sherlock Ohms Electric",
+    "rating": 5,
+    "reviews": 41,
+    "phone": "(321) 697-8700",
+    "website": "https://sherlockohmselectric.com/",
+    "address": "115 Ventosa Pl, Nokomis, FL 34275, USA",
+    "place_id": "ChIJfwASQxyCLCgRFBNYmHaVmMg",
+    "maps_url": "https://maps.google.com/?cid=14454467340640195348"
+  },
+  {
+    "name": "Best Electric of Sarasota",
+    "rating": 4.9,
+    "reviews": 52,
+    "phone": "(941) 484-8167",
+    "website": "",
+    "address": "144 Triple Diamond Blvd Unit E, Nokomis, FL 34275, USA",
+    "place_id": "ChIJycSypQdbw4gRG3a8pU_hHes",
+    "maps_url": "https://maps.google.com/?cid=16941945105436931611"
+  },
+  {
+    "name": "Sergeant's Electric",
+    "rating": 4.9,
+    "reviews": 882,
+    "phone": "(941) 373-5658",
+    "website": "https://sgtelect.com/",
+    "address": "1075 Innovation Ave Unit 111, North Port, FL 34289, USA",
+    "place_id": "ChIJC5TGTtFSw4gRnBGF8J7q3dM",
+    "maps_url": "https://maps.google.com/?cid=15266616280216834460"
+  },
+  {
+    "name": "Murphy Electric",
+    "rating": 4.1,
+    "reviews": 27,
+    "phone": "(941) 484-6410",
+    "website": "http://www.murphyelectricvenice.com/",
+    "address": "121 Corporation Way # E, Venice, FL 34285, USA",
+    "place_id": "ChIJpamBlTdaw4gRDtRKhWJrJ7A",
+    "maps_url": "https://maps.google.com/?cid=12693232145654273038"
+  },
+  {
+    "name": "Graham Electric",
+    "rating": 4.9,
+    "reviews": 74,
+    "phone": "(941) 486-8190",
+    "website": "http://www.grahamelectricfl.com/",
+    "address": "314 Laurel Rd E, Nokomis, FL 34275, USA",
+    "place_id": "ChIJX2YleD9bw4gRUHbLsGh8Q2c",
+    "maps_url": "https://maps.google.com/?cid=7440927798430758480"
+  },
+  {
+    "name": "Circuit City Electric LLC",
+    "rating": 5,
+    "reviews": 7,
+    "phone": "(941) 313-3445",
+    "website": "http://www.circuit-city-electric.com/",
+    "address": "12400 Cinqueterre Dr, Venice, FL 34293, USA",
+    "place_id": "ChIJJ1LD3UVRw4gRHApmOOibhyE",
+    "maps_url": "https://maps.google.com/?cid=2416071146788489756"
+  },
+  {
+    "name": "Hoops Electric Service, Inc",
+    "rating": 4.7,
+    "reviews": 18,
+    "phone": "(941) 485-2111",
+    "website": "",
+    "address": "738 E Venice Ave a, Venice, FL 34285, USA",
+    "place_id": "ChIJqc1GrlJaw4gRXwsod5eL8-8",
+    "maps_url": "https://maps.google.com/?cid=17290316877060901727"
+  },
+  {
+    "name": "Lone Star Electrical Services LLC",
+    "rating": 4.3,
+    "reviews": 6,
+    "phone": "(941) 313-5839",
+    "website": "https://www.lonestarelectricalservices.net/",
+    "address": "312 E Venice Ave #119, Venice, FL 34285, USA",
+    "place_id": "ChIJU03FmGdbw4gR0cE2dQzzsUU",
+    "maps_url": "https://maps.google.com/?cid=5022062294326493649"
+  },
+  {
+    "name": "Venice Electric Inc.",
+    "rating": 4.7,
+    "reviews": 19,
+    "phone": "(941) 484-8900",
+    "website": "http://www.veniceelectric.com/",
+    "address": "871 Dartmoor Cir, Nokomis, FL 34275, USA",
+    "place_id": "ChIJMZJIYTtbw4gRQyHtCsiVMwA",
+    "maps_url": "https://maps.google.com/?cid=14519910221553987"
+  },
+  {
+    "name": "JC Phase Electrical Contractor, Inc.",
+    "rating": 4.7,
+    "reviews": 15,
+    "phone": "(941) 412-5285",
+    "website": "",
+    "address": "312 E Venice Ave #119, Venice, FL 34285, USA",
+    "place_id": "ChIJtUpUSOVZw4gR3xRrgoVSSJ4",
+    "maps_url": "https://maps.google.com/?cid=11405456789687964895"
+  },
+  {
+    "name": "Luminous Electric",
+    "rating": 4.8,
+    "reviews": 1106,
+    "phone": "(941) 727-0272",
+    "website": "http://lumelect.com/",
+    "address": "3165 Lakewood Ranch Blvd #103, Bradenton, FL 34211, USA",
+    "place_id": "ChIJo1YU7ug7w4gRFPodij6WD1s",
+    "maps_url": "https://maps.google.com/?cid=6561628377451461140"
+  },
+  {
+    "name": "Glint Volt Electrician",
+    "rating": 5,
+    "reviews": 5,
+    "phone": "(941) 241-2699",
+    "website": "https://sites.google.com/view/glintvoltelectrician/home",
+    "address": "405 Venice Bypass, Venice, FL 34285, USA",
+    "place_id": "ChIJ2Vkd1lJbw4gRWpHNcdMvsiQ",
+    "maps_url": "https://maps.google.com/?cid=2644228516413804890"
+  },
+  {
+    "name": "Mister Sparky",
+    "rating": 4.8,
+    "reviews": 3873,
+    "phone": "(941) 208-3095",
+    "website": "https://sarasotamistersparky.com/?utm_source=GBP&utm_medium=organic&utm_campaign=sarasotagbp",
+    "address": "410 22nd St E, Bradenton, FL 34208, USA",
+    "place_id": "ChIJ98Y6Dw5Hw4gRUavuTxVIHkU",
+    "maps_url": "https://maps.google.com/?cid=4980497494290901841"
+  },
+  {
+    "name": "Venice Electricians Repair",
+    "rating": 4.9,
+    "reviews": 62,
+    "phone": "(424) 341-6673",
+    "website": "http://venice-electricians.com/",
+    "address": "513 Victoria Ave, Venice, CA 90291, USA",
+    "place_id": "ChIJeyyrLmT5lIcRHjDfx_-zDtY",
+    "maps_url": "https://maps.google.com/?cid=15424463684941852702"
+  },
+  {
+    "name": "Halo Electric LLC",
+    "rating": 4.5,
+    "reviews": 67,
+    "phone": "(941) 460-8948",
+    "website": "https://www.halogivesback.com/",
+    "address": "2610 Avenue of the Americas Unit 4, Englewood, FL 34224, USA",
+    "place_id": "ChIJOR-cbCuqxIgRUBj2M0ok-uk",
+    "maps_url": "https://maps.google.com/?cid=16859828056132819024"
+  },
+  {
+    "name": "Michael J Looney Inc",
+    "rating": 4.7,
+    "reviews": 205,
+    "phone": "(941) 474-3104",
+    "website": "http://www.michaeljlooney.com/",
+    "address": "150 N Indiana Ave, Englewood, FL 34223, USA",
+    "place_id": "ChIJe7pXfOWpxIgRfLz4kakdc-8",
+    "maps_url": "https://maps.google.com/?cid=17254167211522178172"
+  },
+  {
+    "name": "The Original Electrician",
+    "rating": 4.9,
+    "reviews": 230,
+    "phone": "(941) 413-1925",
+    "website": "http://my-elect.com/",
+    "address": "2212 Lime Oak Ct, Sarasota, FL 34232, USA",
+    "place_id": "ChIJuwBm2ldBw4gROTbmzujiY2k",
+    "maps_url": "https://maps.google.com/?cid=7594162886208271929"
+  },
+  {
+    "name": "Gulf Coast Electrical",
+    "rating": 5,
+    "reviews": 2,
+    "phone": "(941) 488-3513",
+    "website": "",
+    "address": "740 Commerce Dr STE 12, Venice, FL 34292, USA",
+    "place_id": "ChIJsWl817Fbw4gReSYVkbOYmRg",
+    "maps_url": "https://maps.google.com/?cid=1772615825347651193"
+  }
+]

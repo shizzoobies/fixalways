@@ -1,0 +1,65 @@
+[
+  {
+    "name": "Key West Cooling Company",
+    "rating": 4.9,
+    "reviews": 169,
+    "phone": "(305) 912-2293",
+    "website": "http://keywestcoolingcompany.com/",
+    "maps": "https://maps.google.com/?cid=16580813627403691012&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "410 Avenue E, Key West, FL 33040, USA"
+  },
+  {
+    "name": "American Cooling Service LLC",
+    "rating": 4.8,
+    "reviews": 39,
+    "phone": "(305) 407-6259",
+    "website": "https://americancoolingservice.com/",
+    "maps": "https://maps.google.com/?cid=3452769479544756355&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "5585 2nd Ave #1, Key West, FL 33040, USA"
+  },
+  {
+    "name": "5 Star Air",
+    "rating": 4.8,
+    "reviews": 73,
+    "phone": "(305) 500-5555",
+    "website": "https://www.5starair.com/",
+    "maps": "https://maps.google.com/?cid=6119690627422885435&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "5625 2nd Ave Unit 7, Key West, FL 33040, USA"
+  },
+  {
+    "name": "Open Air Cooling",
+    "rating": 4.8,
+    "reviews": 19,
+    "phone": "(305) 509-7588",
+    "website": "http://openaircooling.com/",
+    "maps": "https://maps.google.com/?cid=16963508797807764705&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "905 18th Terrace, Key West, FL 33040, USA"
+  },
+  {
+    "name": "Sub Zero AC & Refrigeration",
+    "rating": 4.5,
+    "reviews": 94,
+    "phone": "(305) 294-9243",
+    "website": "http://www.subzerokeywest.com/",
+    "maps": "https://maps.google.com/?cid=12296087801267623329&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "805 Peacock Plaza, Key West, FL 33040, USA"
+  },
+  {
+    "name": "Smartway AC & Heating",
+    "rating": 5,
+    "reviews": 2,
+    "phone": "(305) 842-2293",
+    "website": "https://smartwayhvac.com/key-west-fl/",
+    "maps": "https://maps.google.com/?cid=17581832913334101041&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "1111 12th St #421, Key West, FL 33040, USA"
+  },
+  {
+    "name": "Island Refrigeration & AC.",
+    "rating": 4.1,
+    "reviews": 20,
+    "phone": "(305) 294-7246",
+    "website": "https://licensedtochill1.com/",
+    "maps": "https://maps.google.com/?cid=17227412316751383305&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "3201 Flagler Ave STE 510, Key West, FL 33040, USA"
+  }
+]

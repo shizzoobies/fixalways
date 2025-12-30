@@ -1,0 +1,92 @@
+[
+  {
+    "name": "UV Air Solutions (HVAC Service & AC Repair)",
+    "rating": 5,
+    "reviews": 150,
+    "phone": "(786) 501-0587",
+    "website": "https://www.uvairsolution.com/",
+    "maps": "https://maps.google.com/?cid=9007900427931917127&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "3021 W 76th St apt C110, Hialeah, FL 33018, USA"
+  },
+  {
+    "name": "Ivannova HVAC, Electrical, Plumbing",
+    "rating": 4.7,
+    "reviews": 320,
+    "phone": "(305) 713-6033",
+    "website": "https://www.ivannova.com/",
+    "maps": "https://maps.google.com/?cid=2137368861536209911&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "2545 W 80th St Unit 2, Hialeah, FL 33016, USA"
+  },
+  {
+    "name": "AC Repair Hialeah",
+    "rating": 5,
+    "reviews": 23,
+    "phone": "(239) 456-0440",
+    "website": null,
+    "maps": "https://maps.google.com/?cid=16063801024380638899&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "671 W 49th St #251, Hialeah, FL 33012, USA"
+  },
+  {
+    "name": "Comfort SOS Corporation",
+    "rating": 4.9,
+    "reviews": 95,
+    "phone": "(833) 302-4080",
+    "website": null,
+    "maps": "https://maps.google.com/?cid=5557720486324680121&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "2345 W 80th St unit 14, Hialeah, FL 33016, USA"
+  },
+  {
+    "name": "Cool Running Air, Inc.",
+    "rating": 4.8,
+    "reviews": 183,
+    "phone": "(305) 417-6322",
+    "website": "https://www.coolrunningsair.com/?utm_campaign=gmb",
+    "maps": "https://maps.google.com/?cid=10285063127961597843&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "2125 W 76th St, Hialeah, FL 33016, USA"
+  },
+  {
+    "name": "South Cooling LLC",
+    "rating": 4.6,
+    "reviews": 637,
+    "phone": "(305) 463-8866",
+    "website": "http://southcooling.com/",
+    "maps": "https://maps.google.com/?cid=20767136886976067&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "7880 W 25th Ave, Hialeah, FL 33016, USA"
+  },
+  {
+    "name": "Direct Air Conditioning",
+    "rating": 4.8,
+    "reviews": 2546,
+    "phone": "(786) 884-5021",
+    "website": "https://www.directac123.com/?utm_source=google-gbp&utm_medium=organic&utm_campaign=*79*direct-air-miami",
+    "maps": "https://maps.google.com/?cid=6169356906860664659&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "12200 SW 129th Ct, Miami, FL 33186, USA"
+  },
+  {
+    "name": "Trusted Hialeah HVAC Techs",
+    "rating": 5,
+    "reviews": 49,
+    "phone": "(786) 937-7015",
+    "website": null,
+    "maps": "https://maps.google.com/?cid=9036648679735946811&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "1300 W 29th St #1, Hialeah, FL 33012, USA"
+  },
+  {
+    "name": "Hialeah Air Conditioning Company",
+    "rating": 4.9,
+    "reviews": 27,
+    "phone": "(786) 981-0440",
+    "website": null,
+    "maps": "https://maps.google.com/?cid=10136407031777849677&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "3818 W 16th Ave, Hialeah, FL 33012, USA"
+  },
+  {
+    "name": "Aircon Management",
+    "rating": 5,
+    "reviews": 41,
+    "phone": "(786) 216-6870",
+    "website": "https://www.airconmgt.com/",
+    "maps": "https://maps.google.com/?cid=5883092576837150275&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "1015 W 50th Pl, Hialeah, FL 33012, USA"
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Anything Man",
+    "rating": 5,
+    "reviews": 3,
+    "phone": "(561) 975-3816",
+    "website": "",
+    "address": "512 SW 9th St #4, Belle Glade, FL 33430, USA",
+    "place_id": "ChIJk9FIUsFR2YgRGhp4yroIeNg",
+    "maps_url": "https://maps.google.com/?cid=15598226907751520794"
+  },
+  {
+    "name": "EMI Handyman Services LLC",
+    "rating": 4.7,
+    "reviews": 13,
+    "phone": "(305) 815-7011",
+    "website": "",
+    "address": "309 Bald Cypress Ave, Clewiston, FL 33440, USA",
+    "place_id": "ChIJUUg23IHd2YgRqGsDbdAB6KU",
+    "maps_url": "https://maps.google.com/?cid=11954807205548747688"
+  },
+  {
+    "name": "H Brown handyman Services",
+    "rating": 5,
+    "reviews": 1,
+    "phone": "(561) 983-2493",
+    "website": "",
+    "address": "418 Avenida Del Lechuga, South Bay, FL 33493, USA",
+    "place_id": "ChIJK9VF8Zlb2YgREI3HeWQX0nE",
+    "maps_url": "https://maps.google.com/?cid=8201643591702383888"
+  }
+]

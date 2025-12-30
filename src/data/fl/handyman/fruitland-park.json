@@ -1,0 +1,52 @@
+[
+  {
+    "name": "GBR Handyman Service",
+    "rating": 4.9,
+    "reviews": 53,
+    "phone": "(352) 234-4494",
+    "website": "http://gbrhandyman.com/",
+    "address": "126 Shenandoah Ave B, Lady Lake, FL 32159, USA",
+    "place_id": "ChIJkXlX-juIBkoR-vPu5jsLEeM",
+    "maps_url": "https://maps.google.com/?cid=16361871273119118330"
+  },
+  {
+    "name": "Robbins Family Services",
+    "rating": 5,
+    "reviews": 22,
+    "phone": "(352) 396-5846",
+    "website": "",
+    "address": "1847 Leesburg Blvd, Fruitland Park, FL 34731, USA",
+    "place_id": "ChIJq6qPFxDB54gRZC78rOYw5PE",
+    "maps_url": "https://maps.google.com/?cid=17430110225133481572"
+  },
+  {
+    "name": "M. Wenzel Handyman Services LLC",
+    "rating": 5,
+    "reviews": 35,
+    "phone": "(352) 661-8725",
+    "website": "",
+    "address": "1624 W. Schwartz Blvd Lady Lake, The Villages, FL 32159, USA",
+    "place_id": "ChIJgZtal7ePcgURw_vW26fgBiQ",
+    "maps_url": "https://maps.google.com/?cid=2596009246778129347"
+  },
+  {
+    "name": "Ace Handyman Services The Villages",
+    "rating": 4.8,
+    "reviews": 381,
+    "phone": "(352) 234-8874",
+    "website": "https://www.acehandymanservices.com/offices/the-villages",
+    "address": "17860 SE 109th Ave Suite 604, Summerfield, FL 34491, USA",
+    "place_id": "ChIJO5D9uR_F54gRSVYSykKAVoQ",
+    "maps_url": "https://maps.google.com/?cid=9535950285350000201"
+  },
+  {
+    "name": "Pauls Handyman Services",
+    "rating": 5,
+    "reviews": 3,
+    "phone": "(352) 460-5076",
+    "website": "https://paulshandymanserv.wixsite.com/willies-handyman-ser",
+    "address": "830 E Magnolia St, Leesburg, FL 34748, USA",
+    "place_id": "ChIJbX3gjkDB54gR6SHP6tzymQE",
+    "maps_url": "https://maps.google.com/?cid=115390296120828393"
+  }
+]

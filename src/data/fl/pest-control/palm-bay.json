@@ -1,0 +1,252 @@
+[
+  {
+    "name": "ASAP Pest Solutions",
+    "rating": 4.9,
+    "reviews": 333,
+    "phone": "(321) 557-2100",
+    "website": "http://www.asappestsolutions.com/",
+    "address": "Billiar Ave NE, Palm Bay, FL 32907, USA",
+    "place_id": "ChIJZxtzql0N3ogRajIU84yeVhY",
+    "maps_url": "https://maps.google.com/?cid=1609648245042328170"
+  },
+  {
+    "name": "Protek Pest and Lawn, Inc.",
+    "rating": 4.9,
+    "reviews": 566,
+    "phone": "(321) 399-0030",
+    "website": "https://www.protekpestcontrol.org/",
+    "address": "360 Thor Ave SE unit 8, Palm Bay, FL 32909, USA",
+    "place_id": "ChIJ3zjukqo2GSkRQ6PgJT6zIOM",
+    "maps_url": "https://maps.google.com/?cid=16366278125369205571"
+  },
+  {
+    "name": "Turner Pest Control",
+    "rating": 4.8,
+    "reviews": 272,
+    "phone": "(321) 329-9500",
+    "website": "https://www.turnerpest.com/pest-control/melbourne-fl/?utm_source=gmbmelbourne&utm_medium=organic&utm_campaign=localsearch",
+    "address": "360 Thor Ave SE #7, Palm Bay, FL 32909, USA",
+    "place_id": "ChIJ03zyZ_MT3ogRZcdIBl51kkg",
+    "maps_url": "https://maps.google.com/?cid=5229371164023375717"
+  },
+  {
+    "name": "AmeriPest",
+    "rating": 4.9,
+    "reviews": 153,
+    "phone": "(321) 775-5390",
+    "website": "http://ameripest-palmbay.com/",
+    "address": "1805 Canova St SE Suite #7, Palm Bay, FL 32907, USA",
+    "place_id": "ChIJF-PT1roM3ogR0wCaAsqv5s4",
+    "maps_url": "https://maps.google.com/?cid=14908796898618507475"
+  },
+  {
+    "name": "Sandpiper Pest Control",
+    "rating": 5,
+    "reviews": 1026,
+    "phone": "(772) 494-2290",
+    "website": "https://www.sandpiperpestcontrol.com/",
+    "address": "9350 US-1 Suite A, Sebastian, FL 32976, USA",
+    "place_id": "ChIJJ-alojBo3ogRebtlE3iYDH0",
+    "maps_url": "https://maps.google.com/?cid=9010744595950451577"
+  },
+  {
+    "name": "Humphries Pest Control Inc",
+    "rating": 5,
+    "reviews": 49,
+    "phone": "(321) 759-7378",
+    "website": "",
+    "address": "751 Highland Ave NW, Palm Bay, FL 32907, USA",
+    "place_id": "ChIJbQeCQNMR3ogR4gtAd0zfVjg",
+    "maps_url": "https://maps.google.com/?cid=4059677633632275426"
+  },
+  {
+    "name": "Price Termite & Pest Control",
+    "rating": 4.8,
+    "reviews": 1078,
+    "phone": "(321) 541-4811",
+    "website": "https://www.pricetermite.com/services-area/west-melbourne?utm_source=gbp&utm_medium=organic&utm_campaign=gbp-west-melbourne",
+    "address": "4356 Fortune Pl #C, West Melbourne, FL 32904, USA",
+    "place_id": "ChIJzx1uG74O3ogRAQFMI9eLims",
+    "maps_url": "https://maps.google.com/?cid=7749159864970772737"
+  },
+  {
+    "name": "Slug-A-Bug",
+    "rating": 5,
+    "reviews": 2725,
+    "phone": "(321) 233-6741",
+    "website": "https://slugabug.com/",
+    "address": "2091 N Harbor City Blvd, Melbourne, FL 32935, USA",
+    "place_id": "ChIJuT-77t8P3ogRsOswW6SKk4g",
+    "maps_url": "https://maps.google.com/?cid=9841362049243868080"
+  },
+  {
+    "name": "Slug-A-Bug",
+    "rating": 5,
+    "reviews": 905,
+    "phone": "(321) 259-7844",
+    "website": "http://www.slugabug.com/",
+    "address": "695 Malabar Rd SW, Palm Bay, FL 32907, USA",
+    "place_id": "ChIJYWwvWecN3ogR0f9Lt-8KRuw",
+    "maps_url": "https://maps.google.com/?cid=17025307466009411537"
+  },
+  {
+    "name": "HomeTeam Pest Defense",
+    "rating": 4.9,
+    "reviews": 1536,
+    "phone": "(321) 409-8489",
+    "website": "https://pestdefense.com/melbourne/?utm_source=google&utm_medium=googlelisting&utm_campaign=location",
+    "address": "4341 Fortune Pl, West Melbourne, FL 32904, USA",
+    "place_id": "ChIJK8ofAL4O3ogRt8h1xygAGno",
+    "maps_url": "https://maps.google.com/?cid=8798344997166762167"
+  },
+  {
+    "name": "Orange Pest Control",
+    "rating": 4.9,
+    "reviews": 647,
+    "phone": "(321) 878-8297",
+    "website": "https://goorangepest.com/?utm_source=gmb&utm_medium=organic&utm_campaign=gmb-titusville",
+    "address": "580 Cox Rd, Cocoa, FL 32926, USA",
+    "place_id": "ChIJM-U-wrQP3ogRBVvpHAU2qJA",
+    "maps_url": "https://maps.google.com/?cid=10423640733136804613"
+  },
+  {
+    "name": "Treasure Coast Pest Control",
+    "rating": 4.4,
+    "reviews": 7,
+    "phone": "(772) 692-9300",
+    "website": "http://www.tcbugs.com/",
+    "address": "953 Ray Rd SE, Palm Bay, FL 32909, USA",
+    "place_id": "ChIJ6xIhoe_n3ogRR0akvKuzxb4",
+    "maps_url": "https://maps.google.com/?cid=13746590987803969095"
+  },
+  {
+    "name": "All County Pest Control",
+    "rating": 5,
+    "reviews": 2,
+    "phone": "",
+    "website": "",
+    "address": "1218 Coral Reef Ave NW, Palm Bay, FL 32907, USA",
+    "place_id": "ChIJAQCsuYcM3ogRmvcrjb59Phw",
+    "maps_url": "https://maps.google.com/?cid=2035202338983770010"
+  },
+  {
+    "name": "All U Need Pest Control",
+    "rating": 5,
+    "reviews": 2562,
+    "phone": "(321) 358-2082",
+    "website": "https://alluneedpest.com/",
+    "address": "310 N Wickham Rd Unit 117, Melbourne, FL 32935, USA",
+    "place_id": "ChIJ0-apI8gP3ogRlAoHDeWt-wg",
+    "maps_url": "https://maps.google.com/?cid=647302170735479444"
+  },
+  {
+    "name": "Honor Services",
+    "rating": 5,
+    "reviews": 1817,
+    "phone": "(321) 327-2950",
+    "website": "https://honorservices.com/",
+    "address": "205 West Dr STE 8, Melbourne, FL 32904, USA",
+    "place_id": "ChIJ3f5GA90M3ogRt5LAleMTd1k",
+    "maps_url": "https://maps.google.com/?cid=6446643259795083959"
+  },
+  {
+    "name": "Royal Palm Pest Control",
+    "rating": 4.9,
+    "reviews": 180,
+    "phone": "(386) 264-6704",
+    "website": "https://www.royalpalmpest.com/",
+    "address": "21 Florida Park Dr N, Palm Coast, FL 32137, USA",
+    "place_id": "ChIJ83h3oc2V5ogRB8x3tedm-SY",
+    "maps_url": "https://maps.google.com/?cid=2808388988010220551"
+  },
+  {
+    "name": "Lady Bugs Pest Control",
+    "rating": 4.4,
+    "reviews": 10,
+    "phone": "(321) 243-6568",
+    "website": "",
+    "address": "2890 Township Rd, Malabar, FL 32950, USA",
+    "place_id": "ChIJzwODrbeq4IgRalPT_eYR-Qc",
+    "maps_url": "https://maps.google.com/?cid=574510111265084266"
+  },
+  {
+    "name": "Total Pest control Palm Bay",
+    "rating": 5,
+    "reviews": 1,
+    "phone": "(321) 344-9835",
+    "website": "",
+    "address": "1040 Malabar Rd SE, Palm Bay, FL 32907, USA",
+    "place_id": "ChIJgy2vT9sN3ogRaLxznV_pZzU",
+    "maps_url": "https://maps.google.com/?cid=3848301003484150888"
+  },
+  {
+    "name": "Premium Pest Control",
+    "rating": 4.8,
+    "reviews": 60,
+    "phone": "(321) 254-1900",
+    "website": "https://premiumpestcontrol.com/",
+    "address": "1472 Guava Ave, Melbourne, FL 32935, USA",
+    "place_id": "ChIJsy21PCYQ3ogRFlsvjkFBGlE",
+    "maps_url": "https://maps.google.com/?cid=5844055216280787734"
+  },
+  {
+    "name": "C B & S Pest Control",
+    "rating": 5,
+    "reviews": 4,
+    "phone": "(321) 779-5060",
+    "website": "http://www.cbspest.com/",
+    "address": "168 Gold Coast Rd NE, Palm Bay, FL 32907, USA",
+    "place_id": "ChIJq6qqqhoS3ogRUYtLVJawOSs",
+    "maps_url": "https://maps.google.com/?cid=3114714777009228625"
+  },
+  {
+    "name": "Truly Nolen Pest & Termite Control",
+    "rating": 4.4,
+    "reviews": 377,
+    "phone": "(321) 242-8800",
+    "website": "https://locations.trulynolen.com/fl/melbourne/melbourne-095.html?utm_source=local&utm_medium=organic&utm_campaign=googlemybusiness",
+    "address": "1595 N Harbor City Blvd, Melbourne, FL 32935, USA",
+    "place_id": "ChIJ2cObnicQ3ogRUoQzZ91Cdts",
+    "maps_url": "https://maps.google.com/?cid=15813900660244710482"
+  },
+  {
+    "name": "Tropic Pest Control Inc",
+    "rating": 4.6,
+    "reviews": 13,
+    "phone": "(321) 485-6047",
+    "website": "",
+    "address": "1435 Baytree Dr, Palm Bay, FL 32905, USA",
+    "place_id": "ChIJ3XZiWE5Qw4gRVWjQQQ3dtoU",
+    "maps_url": "https://maps.google.com/?cid=9635131501814245461"
+  },
+  {
+    "name": "U-Kill'Em Pest Control Supplies",
+    "rating": 4.8,
+    "reviews": 311,
+    "phone": "(321) 327-5961",
+    "website": "",
+    "address": "1612 S Harbor City Blvd, Melbourne, FL 32901, USA",
+    "place_id": "ChIJ91xVBpIR3ogR6amIDCsekcM",
+    "maps_url": "https://maps.google.com/?cid=14092077879261702633"
+  },
+  {
+    "name": "Halo's Pest Arrest",
+    "rating": 4.9,
+    "reviews": 106,
+    "phone": "(772) 584-1716",
+    "website": "http://www.halospestarrest.org/",
+    "address": "712 Jackson St, Sebastian, FL 32958, USA",
+    "place_id": "ChIJey4Tn0po3ogRiR1S3jE_QM8",
+    "maps_url": "https://maps.google.com/?cid=14934005847776435593"
+  },
+  {
+    "name": "Florida Wildlife and Pest Management",
+    "rating": 5,
+    "reviews": 129,
+    "phone": "(321) 474-4813",
+    "website": "https://www.floridawildlifemanagement.com/",
+    "address": "3185 New York Ave #103, Melbourne, FL 32934, USA",
+    "place_id": "ChIJ7c2k1YJTM0wRb7SrNNWf8Ao",
+    "maps_url": "https://maps.google.com/?cid=788305672850355311"
+  }
+]

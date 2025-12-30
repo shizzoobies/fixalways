@@ -1,0 +1,92 @@
+[
+  {
+    "name": "Agape AC & Heating",
+    "rating": 5,
+    "reviews": 150,
+    "phone": "(727) 351-0780",
+    "website": "http://agapeacandheating.com/",
+    "maps": "https://maps.google.com/?cid=15386272187305839335&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "7178 Seminole Blvd, Seminole, FL 33772, USA"
+  },
+  {
+    "name": "Gulf Coast",
+    "rating": 4.9,
+    "reviews": 598,
+    "phone": "(727) 329-6696",
+    "website": "https://www.makeitcold.com/",
+    "maps": "https://maps.google.com/?cid=9910832109342065865&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "6331 39th St N Ste 100, Pinellas Park, FL 33781, USA"
+  },
+  {
+    "name": "AireWave Heating and Cooling",
+    "rating": 5,
+    "reviews": 134,
+    "phone": "(727) 688-0814",
+    "website": "https://airewaveflorida.com/",
+    "maps": "https://maps.google.com/?cid=3321358908990659699&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "10035 86th St, Seminole, FL 33777, USA"
+  },
+  {
+    "name": "Fahrenheit Heating & AC LLC",
+    "rating": 5,
+    "reviews": 32,
+    "phone": "(727) 228-2152",
+    "website": "https://fahrenheitheatac.com/",
+    "maps": "https://maps.google.com/?cid=17479136899574708284&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "8941 90th Terrace, Seminole, FL 33777, USA"
+  },
+  {
+    "name": "Cool-Aide Air Conditioning & Heating",
+    "rating": 4.8,
+    "reviews": 49,
+    "phone": "(727) 954-8875",
+    "website": "https://www.sunupservices.com/service-area/seminole-fl-heating-cooling-services/",
+    "maps": "https://maps.google.com/?cid=13434425642251831071&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "11000 70th Ave Unit 1, Seminole, FL 33772, USA"
+  },
+  {
+    "name": "MASON AIR CONDITIONING & HEATING INC",
+    "rating": 4.9,
+    "reviews": 526,
+    "phone": "(727) 616-0064",
+    "website": "https://masonairconditioning.com/",
+    "maps": "https://maps.google.com/?cid=15520617278785157049&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "8999 66th Ct Unit 102, Pinellas Park, FL 33781, USA"
+  },
+  {
+    "name": "Harrington Air Conditioning",
+    "rating": 4.9,
+    "reviews": 1153,
+    "phone": "(727) 477-1004",
+    "website": "https://www.harringtonac.com/",
+    "maps": "https://maps.google.com/?cid=2437287134144741343&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "7840 62nd St N, Pinellas Park, FL 33781, USA"
+  },
+  {
+    "name": "Total Air Inc.",
+    "rating": 4.8,
+    "reviews": 1753,
+    "phone": "(727) 888-2922",
+    "website": "https://totalairinc.net/?utm_source=gmb&utm_medium=organic",
+    "maps": "https://maps.google.com/?cid=6847829630878700834&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "3100 39th Ave N, St. Petersburg, FL 33714, USA"
+  },
+  {
+    "name": "Viking Air Services, LLC",
+    "rating": 5,
+    "reviews": 693,
+    "phone": "(727) 777-5200",
+    "website": "https://www.vikingcoldair.com/",
+    "maps": "https://maps.google.com/?cid=8672965573054511663&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "4801 58th Ave N, St. Petersburg, FL 33714, USA"
+  },
+  {
+    "name": "Veterans AC & Heat Inc.",
+    "rating": 4.9,
+    "reviews": 1494,
+    "phone": "(727) 607-2080",
+    "website": "https://veteranshvac.com/?utm_campaign=gmb-tarpon",
+    "maps": "https://maps.google.com/?cid=18342532464510392572&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "125 E Lime St, Tarpon Springs, FL 34689, USA"
+  }
+]

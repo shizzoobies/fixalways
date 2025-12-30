@@ -1,0 +1,83 @@
+[
+  {
+    "name": "Cool Air ASAP",
+    "rating": 4.9,
+    "reviews": 295,
+    "phone": "(754) 304-3489",
+    "website": "https://coolairasap.com/",
+    "maps": "https://maps.google.com/?cid=12708140232476788939&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "3521 W Sunrise Blvd, Lauderhill, FL 33311, USA"
+  },
+  {
+    "name": "Cool Air USA",
+    "rating": 4.9,
+    "reviews": 4644,
+    "phone": "(877) 230-2448",
+    "website": "http://coolairusa.com/?utm_campaign=gmb",
+    "maps": "https://maps.google.com/?cid=2293311518134502792&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "3901 NW 16th St, Lauderhill, FL 33311, USA"
+  },
+  {
+    "name": "Air Conditioning & Refrigeration Specialist Plantation FL",
+    "rating": 5,
+    "reviews": 37,
+    "phone": "(754) 484-1814",
+    "website": null,
+    "maps": "https://maps.google.com/?cid=5156309723866259263&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "7161 W Broward Blvd, Plantation, FL 33317, USA"
+  },
+  {
+    "name": "Conway Heating & Cooling",
+    "rating": 5,
+    "reviews": 26,
+    "phone": "(954) 902-5731",
+    "website": "https://conwayheatinglauderhill.com/",
+    "maps": "https://maps.google.com/?cid=8878408257002944152&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "4200 NW 16th St ste 283, Lauderhill, FL 33313, USA"
+  },
+  {
+    "name": "Macgyver Air & Heat",
+    "rating": 5,
+    "reviews": 30,
+    "phone": "(561) 762-6560",
+    "website": "http://www.macgyverac.com/",
+    "maps": "https://maps.google.com/?cid=6725609781721281646&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "3800 Inverrary Blvd Suit 401-R, Lauderhill, FL 33319, USA"
+  },
+  {
+    "name": "All Services Air Conditioning, Inc.",
+    "rating": 4.6,
+    "reviews": 59,
+    "phone": "(954) 749-0800",
+    "website": "http://allservicesairconditioning.com/",
+    "maps": "https://maps.google.com/?cid=10008588271130035199&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "4846 N University Dr #305, Lauderhill, FL 33351, USA"
+  },
+  {
+    "name": "Quality Air Conditioning Company",
+    "rating": 4.9,
+    "reviews": 916,
+    "phone": "(954) 504-6314",
+    "website": "https://www.qualityac.com/",
+    "maps": "https://maps.google.com/?cid=2652943894188034941&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "720 W McNab Rd, Fort Lauderdale, FL 33309, USA"
+  },
+  {
+    "name": "Frozen Hvac",
+    "rating": 4.7,
+    "reviews": 237,
+    "phone": "(800) 283-7450",
+    "website": "https://www.frozenhvac.com/",
+    "maps": "https://maps.google.com/?cid=3004975985635628755&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "1000 S State Rd 7 Suite 1, Plantation, FL 33317, USA"
+  },
+  {
+    "name": "HVAC PRO LAB LLC",
+    "rating": 5,
+    "reviews": 32,
+    "phone": "(954) 758-9088",
+    "website": "http://lauderdalelakesflhvac.com/",
+    "maps": "https://maps.google.com/?cid=3714548825296955525&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "4757 NW 24th Ct, Lauderdale Lakes, FL 33313, USA"
+  }
+]

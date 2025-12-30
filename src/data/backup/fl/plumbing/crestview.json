@@ -1,0 +1,56 @@
+[
+  {
+    "name": "AC by DC LLC",
+    "rating": 5,
+    "reviews": 526,
+    "phone": "(850) 840-0044",
+    "website": "https://www.acbydc.com/",
+    "maps": "https://maps.google.com/?cid=17353206830022029524&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "301 S Main St, Crestview, FL 32536, USA"
+  },
+  {
+    "name": "Ohana Heating and Air LLC",
+    "rating": 5,
+    "reviews": 417,
+    "phone": "(850) 612-9047",
+    "website": "http://www.ohanaair.com/",
+    "maps": "https://maps.google.com/?cid=12623194286083566925&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "1278 S Ferdon Blvd, Crestview, FL 32536, USA"
+  },
+  {
+    "name": "Gordon Air Conditioning",
+    "rating": 4.8,
+    "reviews": 553,
+    "phone": "(850) 682-5214",
+    "website": "https://www.gordonair.com/",
+    "maps": "https://maps.google.com/?cid=3666135166932262612&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "3182 E James Lee Blvd, Crestview, FL 32539, USA"
+  },
+  {
+    "name": "All In Heating and Air, LLC",
+    "rating": 4.9,
+    "reviews": 84,
+    "phone": "(850) 641-7725",
+    "website": "https://allinheatingandair.com/",
+    "maps": "https://maps.google.com/?cid=11358341676924061894&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "6024 Appaloosa Way, Crestview, FL 32536, USA"
+  },
+  {
+    "name": "Elite Heating and Air LLC",
+    "rating": 4.9,
+    "reviews": 35,
+    "phone": "(850) 398-9633",
+    "website": "https://www.eliteheatingandairllc.com/",
+    "maps": "https://maps.google.com/?cid=337030098026587338&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "745 Lime Ln, Crestview, FL 32536, USA"
+  },
+  {
+    "name": "Crestview Air Conditioning and Heating",
+    "rating": 5,
+    "reviews": 20,
+    "phone": "(239) 456-0475",
+    "website": null,
+    "maps": "https://maps.google.com/?cid=6977867854448226115&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "345 S Wilson St, Crestview, FL 32536, USA"
+  }
+]

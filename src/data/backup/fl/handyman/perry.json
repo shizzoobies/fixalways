@@ -1,0 +1,74 @@
+[
+  {
+    "name": "Advanced Refrigeration & AC",
+    "rating": 4.5,
+    "reviews": 92,
+    "phone": "(850) 584-3626",
+    "website": "http://www.thepenguinpeople.com/",
+    "maps": "https://maps.google.com/?cid=3436039085693253960&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "520 W Hampton Springs Ave, Perry, FL 32347, USA"
+  },
+  {
+    "name": "Reynolds Air Conditioning & Heating",
+    "rating": 3.7,
+    "reviews": 3,
+    "phone": "(850) 584-4686",
+    "website": null,
+    "maps": "https://maps.google.com/?cid=8477969653709438846&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "Keaton Beach Rd, Perry, FL 32347, USA"
+  },
+  {
+    "name": "Miller's Air Care",
+    "rating": 5,
+    "reviews": 150,
+    "phone": "(850) 320-7915",
+    "website": "https://millersaircare.com/",
+    "maps": "https://maps.google.com/?cid=7454634606313801171&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "19455 US-90, Greenville, FL 32331, USA"
+  },
+  {
+    "name": "Wilson Heat & Air Inc",
+    "rating": 5,
+    "reviews": 282,
+    "phone": "(386) 496-9000",
+    "website": "http://www.wilsonheatandair.biz/",
+    "maps": "https://maps.google.com/?cid=358358953844018175&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "5560 FL-238, Lake Butler, FL 32054, USA"
+  },
+  {
+    "name": "Tony Kelly Heating & Air Conditioning",
+    "rating": 5,
+    "reviews": 1609,
+    "phone": "(850) 385-3774",
+    "website": "http://www.tonykellyinc.com/?utm_source=google&utm_medium=organic&utm_campaign=google_business_profile",
+    "maps": "https://maps.google.com/?cid=328327876251136520&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "870 Blountstown St Ste. 9, Tallahassee, FL 32304, USA"
+  },
+  {
+    "name": "O'Dell Construction Services LLC",
+    "rating": 4.3,
+    "reviews": 4,
+    "phone": "(850) 223-2522",
+    "website": "https://www.facebook.com/ODellConstruction/",
+    "maps": "https://maps.google.com/?cid=2639577679516936766&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "1885 US-27, Perry, FL 32347, USA"
+  },
+  {
+    "name": "Kellar Mechanical Inc.",
+    "rating": 4.9,
+    "reviews": 59,
+    "phone": "(850) 977-4742",
+    "website": "https://www.kellarmechanical.com/",
+    "maps": "https://maps.google.com/?cid=4110337264501921647&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "1724 Woodville Hwy, Crawfordville, FL 32327, USA"
+  },
+  {
+    "name": "Honesty A.C. And Mechanical Services L.L.C.",
+    "rating": 5,
+    "reviews": 312,
+    "phone": "(352) 922-0249",
+    "website": "http://www.honestyac.com/",
+    "maps": "https://maps.google.com/?cid=9672366222984608453&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "19685 SE Hwy 19, Old Town, FL 32680, USA"
+  }
+]

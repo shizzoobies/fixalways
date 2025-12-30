@@ -1,0 +1,112 @@
+[
+  {
+    "name": "Jantz Electric",
+    "rating": 4.8,
+    "reviews": 45,
+    "phone": "(863) 458-5758",
+    "website": "http://www.jantzelectric.com/",
+    "address": "4395 NE Cubitis Ave, Arcadia, FL 34266, USA",
+    "place_id": "ChIJz7RbjHNmsSoREwiOJt9396M",
+    "maps_url": "https://maps.google.com/?cid=11815043947738040339"
+  },
+  {
+    "name": "Arcadia Electric Company, Inc.",
+    "rating": 4.4,
+    "reviews": 37,
+    "phone": "(863) 494-2665",
+    "website": "http://www.arcadiaelectriccompany.com/",
+    "address": "440 N Brevard Ave, Arcadia, FL 34266, USA",
+    "place_id": "ChIJqY1Tt_yV3IgRFPXIlPYsCss",
+    "maps_url": "https://maps.google.com/?cid=14630555777036252436"
+  },
+  {
+    "name": "Arcadia Electric",
+    "rating": 5,
+    "reviews": 16,
+    "phone": "(626) 400-6475",
+    "website": "http://arcadia-electric.com/",
+    "address": "122 E Foothill Blvd, Arcadia, CA 91006, USA",
+    "place_id": "ChIJ7bnyHeXbwoAR6OnEa4ZxVyY",
+    "maps_url": "https://maps.google.com/?cid=2762801718562712040"
+  },
+  {
+    "name": "Caliber Electric, LLC",
+    "rating": 4.8,
+    "reviews": 142,
+    "phone": "(863) 473-7877",
+    "website": "https://caliberelectricswfl.com/?utm_campaign=gmb",
+    "address": "1475 Collingswood Blvd, Port Charlotte, FL 33948, USA",
+    "place_id": "ChIJofEg3rGt3IgR6mMK78tuHPo",
+    "maps_url": "https://maps.google.com/?cid=18022401630997734378"
+  },
+  {
+    "name": "Bryan Hindman Electric, LLC",
+    "rating": 5,
+    "reviews": 2055,
+    "phone": "(813) 672-4084",
+    "website": "http://www.bryanhindmanelectric.com/",
+    "address": "10021 Carr Rd, Riverview, FL 33569, USA",
+    "place_id": "ChIJDUYWCEvXwogRa3uQ8OqqXbQ",
+    "maps_url": "https://maps.google.com/?cid=12996732025696189291"
+  },
+  {
+    "name": "B&D Electric, Inc.",
+    "rating": 4.9,
+    "reviews": 529,
+    "phone": "(352) 472-1966",
+    "website": "http://www.bdelectric.com/",
+    "address": "24462 NW 9th Pl, Newberry, FL 32669, USA",
+    "place_id": "ChIJUV2Az9jA6IgRvezOQSXBh3w",
+    "maps_url": "https://maps.google.com/?cid=8973353148321033405"
+  },
+  {
+    "name": "Ray's Electric of Keystone Inc",
+    "rating": 4.9,
+    "reviews": 201,
+    "phone": "(352) 475-1713",
+    "website": "https://callrayselectric.com/",
+    "address": "2638 State Rd 21, Melrose, FL 32666, USA",
+    "place_id": "ChIJSWRevc4F5ogRtbSkm7DfeJw",
+    "maps_url": "https://maps.google.com/?cid=11275007616740537525"
+  },
+  {
+    "name": "Davis Electric Services LLC",
+    "rating": 5,
+    "reviews": 203,
+    "phone": "(386) 972-3633",
+    "website": "https://daviselectricservices.com/",
+    "address": "615 N Palm Ave STE 102, Palatka, FL 32177, USA",
+    "place_id": "ChIJZy-T-_9df2QRgbvkszxysh4",
+    "maps_url": "https://maps.google.com/?cid=2211955972034050945"
+  },
+  {
+    "name": "Prestige Electric, Inc.",
+    "rating": 4.8,
+    "reviews": 50,
+    "phone": "(352) 745-0650",
+    "website": "",
+    "address": "15345 NW 194th St, Lake Butler, FL 32054, USA",
+    "place_id": "ChIJ-Wejx8lV74gRrgdRXJCsJoo",
+    "maps_url": "https://maps.google.com/?cid=9954833762373142446"
+  },
+  {
+    "name": "F.Fabian LLC",
+    "rating": 5,
+    "reviews": 93,
+    "phone": "(484) 951-2970",
+    "website": "",
+    "address": "16635 Kingman Reef St, Wimauma, FL 33598, USA",
+    "place_id": "ChIJrQyXNoE5xIkR25O5mfdw4JM",
+    "maps_url": "https://maps.google.com/?cid=10655640927096902619"
+  },
+  {
+    "name": "North Port Electric Services",
+    "rating": 0,
+    "reviews": 0,
+    "phone": "(863) 494-1209",
+    "website": "",
+    "address": "2230 SE Hwy 70, Arcadia, FL 34266, USA",
+    "place_id": "ChIJBbocF3GW3IgROp5wS7nfZwA",
+    "maps_url": "https://maps.google.com/?cid=29237909528813114"
+  }
+]

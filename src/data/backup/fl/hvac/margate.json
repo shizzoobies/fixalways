@@ -1,0 +1,92 @@
+[
+  {
+    "name": "Dr. HVAC",
+    "rating": 4.8,
+    "reviews": 375,
+    "phone": "(954) 800-8457",
+    "website": null,
+    "maps": "https://maps.google.com/?cid=6979428131951332758&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "5441 NW 15th St, Margate, FL 33063, USA"
+  },
+  {
+    "name": "The A/C Guy Inc.",
+    "rating": 4.6,
+    "reviews": 375,
+    "phone": "(954) 970-0888",
+    "website": "http://acguyinc.com/",
+    "maps": "https://maps.google.com/?cid=4664620125426945129&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "311 FL-7, Margate, FL 33063, USA"
+  },
+  {
+    "name": "Luma Air Conditioning and Heating LLC",
+    "rating": 5,
+    "reviews": 110,
+    "phone": "(954) 861-9927",
+    "website": null,
+    "maps": "https://maps.google.com/?cid=8652080868553227793&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "1657 Banks Rd, Margate, FL 33063, USA"
+  },
+  {
+    "name": "Vital A/C Solutions, Inc.",
+    "rating": 4.9,
+    "reviews": 634,
+    "phone": "(954) 821-8640",
+    "website": "http://www.vitalacsolutions.com/",
+    "maps": "https://maps.google.com/?cid=14427053500621513169&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "5451 NW 24th St STE 2, Margate, FL 33063, USA"
+  },
+  {
+    "name": "Expert Cool Air Conditioning Services",
+    "rating": 5,
+    "reviews": 245,
+    "phone": "(954) 326-3466",
+    "website": "http://www.expertcoolac.com/",
+    "maps": "https://maps.google.com/?cid=425320473028973570&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "7384 Pinewalk Dr S, Margate, FL 33063, USA"
+  },
+  {
+    "name": "Glacial Air Services, LLC",
+    "rating": 5,
+    "reviews": 13,
+    "phone": "(754) 220-6446",
+    "website": "https://glacialairservices.com/",
+    "maps": "https://maps.google.com/?cid=2928450774388300697&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "5218 NW 15th St, Margate, FL 33063, USA"
+  },
+  {
+    "name": "Big C & Sons",
+    "rating": 4.9,
+    "reviews": 151,
+    "phone": "(754) 235-9918",
+    "website": "https://bigcandsons.com/",
+    "maps": "https://maps.google.com/?cid=2900499733640438766&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "590 SW 49th Terrace, Margate, FL 33068, USA"
+  },
+  {
+    "name": "HI-VAC Air Conditioning Service",
+    "rating": 4.9,
+    "reviews": 1073,
+    "phone": "(954) 738-2908",
+    "website": "http://hivacair.com/",
+    "maps": "https://maps.google.com/?cid=14220210371496913601&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "1671 NW 144th Terrace STE 111, Sunrise, FL 33323, USA"
+  },
+  {
+    "name": "SJS Mechanical LLC",
+    "rating": 5,
+    "reviews": 307,
+    "phone": "(786) 783-4050",
+    "website": "http://www.sjs-mechanical.com/",
+    "maps": "https://maps.google.com/?cid=15008239496119085927&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "4570 Glenwood Dr, Coconut Creek, FL 33066, USA"
+  },
+  {
+    "name": "Lindstrom Air Conditioning & Plumbing",
+    "rating": 4.7,
+    "reviews": 11118,
+    "phone": "(800) 775-8691",
+    "website": "https://www.lindstromair.com/?csdni=gmb&utm_campaign=Google+My+Business&utm_source=GMB&utm_medium=organic&utm_content=Website",
+    "maps": "https://maps.google.com/?cid=6113970749871977704&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "3581 W McNab Rd, Pompano Beach, FL 33069, USA"
+  }
+]

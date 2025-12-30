@@ -1,0 +1,92 @@
+[
+  {
+    "name": "Grimes Heating & Air Conditioning",
+    "rating": 4.9,
+    "reviews": 1578,
+    "phone": "(772) 800-6416",
+    "website": "https://grimesacinc.com/",
+    "maps": "https://maps.google.com/?cid=300448262041478767&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "3054 US-1, Fort Pierce, FL 34946, USA"
+  },
+  {
+    "name": "Sea Coast Air Conditioning & Sheet Metal Inc.",
+    "rating": 5,
+    "reviews": 2836,
+    "phone": "(772) 466-2400",
+    "website": "https://www.seacoastair.com/",
+    "maps": "https://maps.google.com/?cid=9384451444496826451&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "3108 Industrial 31st St, Fort Pierce, FL 34946, USA"
+  },
+  {
+    "name": "NisAir Air Conditioning & Heating",
+    "rating": 4.9,
+    "reviews": 355,
+    "phone": "(772) 280-3806",
+    "website": "http://www.nisair.com/",
+    "maps": "https://maps.google.com/?cid=15259425780540477347&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "3700 S US Hwy 1, Fort Pierce, FL 34982, USA"
+  },
+  {
+    "name": "Fast Ac Repair",
+    "rating": 4.9,
+    "reviews": 251,
+    "phone": "(772) 678-6676",
+    "website": "https://www.fastacrepair.com/",
+    "maps": "https://maps.google.com/?cid=4644057890522476085&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "3701 Okeechobee Rd, Fort Pierce, FL 34947, USA"
+  },
+  {
+    "name": "One Hour Air Conditioning & Heating",
+    "rating": 5,
+    "reviews": 935,
+    "phone": "(772) 238-6590",
+    "website": "https://www.onehourheatandair.com/treasure-coast/?utm_source=gbp&utm_medium=organic&utm_campaign=638811_-OH0616-",
+    "maps": "https://maps.google.com/?cid=7888785949851816870&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "2713 Peters Rd, Fort Pierce, FL 34945, USA"
+  },
+  {
+    "name": "Tru Air Cooling and Heating, LLC",
+    "rating": 5,
+    "reviews": 284,
+    "phone": "(772) 293-1513",
+    "website": "http://www.truaircooling.com/",
+    "maps": "https://maps.google.com/?cid=2712115697991562413&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "8430 Andrews Ave. #34945-3101, Fort Pierce, FL 34945, USA"
+  },
+  {
+    "name": "Snyder's Cooling & Heating, Inc",
+    "rating": 4.8,
+    "reviews": 66,
+    "phone": "(772) 528-3377",
+    "website": "http://snyderscooling.com/",
+    "maps": "https://maps.google.com/?cid=17476974792226153110&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "2304 US-1, Fort Pierce, FL 34946, USA"
+  },
+  {
+    "name": "Cool Air Solutions of Florida, Inc.",
+    "rating": 4.9,
+    "reviews": 202,
+    "phone": "(772) 940-8985",
+    "website": "http://www.coolairsol.com/",
+    "maps": "https://maps.google.com/?cid=13572844661492604375&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "7901 Santana Ave, Fort Pierce, FL 34951, USA"
+  },
+  {
+    "name": "Steve Smith Air Conditioning",
+    "rating": 4.9,
+    "reviews": 233,
+    "phone": "(772) 461-1425",
+    "website": "https://stevesmithac.com/",
+    "maps": "https://maps.google.com/?cid=231367268897307293&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "8001 Eden Rd, Fort Pierce, FL 34951, USA"
+  },
+  {
+    "name": "Elite Electric, Plumbing & Air",
+    "rating": 4.8,
+    "reviews": 4975,
+    "phone": "(772) 356-1735",
+    "website": "https://www.eliteelectricandair.com/",
+    "maps": "https://maps.google.com/?cid=2350138827958196979&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "1691 SW South Macedo Blvd, Port St. Lucie, FL 34984, USA"
+  }
+]

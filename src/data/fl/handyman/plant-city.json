@@ -1,0 +1,112 @@
+[
+  {
+    "name": "Martinsville Maintenance LLC",
+    "rating": 5,
+    "reviews": 11,
+    "phone": "(813) 534-2082",
+    "website": "http://martinsvillemaintenance.com/",
+    "address": "407 Vining St, Plant City, FL 33563, USA",
+    "place_id": "ChIJm3iSOJU33YgRaixL7e6ds6E",
+    "maps_url": "https://maps.google.com/?cid=11651830310446509162"
+  },
+  {
+    "name": "Charles Handyman Services And More LLC",
+    "rating": 4.9,
+    "reviews": 14,
+    "phone": "(813) 843-8600",
+    "website": "",
+    "address": "3012 Country Trails Dr, Plant City, FL 33567, USA",
+    "place_id": "ChIJ20UMqQPqFQIRKzv5WEC5xJs",
+    "maps_url": "https://maps.google.com/?cid=11224299857335892779"
+  },
+  {
+    "name": "Home Solutions Handyman Experts LLC",
+    "rating": 5,
+    "reviews": 12,
+    "phone": "(813) 502-7912",
+    "website": "http://homesolutionshandymanexpertsllc.com/",
+    "address": "3015 S Northview Rd, Plant City, FL 33566, USA",
+    "place_id": "ChIJdXFTc58z3YgRARtNkdw_WcQ",
+    "maps_url": "https://maps.google.com/?cid=14148409920924228353"
+  },
+  {
+    "name": "Rowan brothers handyman services",
+    "rating": 5,
+    "reviews": 1,
+    "phone": "(813) 603-0120",
+    "website": "",
+    "address": "7202 1/2, 7202 W Knights Griffin Rd, Plant City, FL 33565, USA",
+    "place_id": "ChIJUSvD4pS8-QoRWnz-MQZaZaQ",
+    "maps_url": "https://maps.google.com/?cid=11845973377523022938"
+  },
+  {
+    "name": "Lakeland Handyman Services, LLC",
+    "rating": 4.9,
+    "reviews": 118,
+    "phone": "(863) 703-0073",
+    "website": "http://www.lakelandhandymanservice.com/",
+    "address": "4030 Kidron Rd Suite #5, Lakeland, FL 33811, USA",
+    "place_id": "ChIJ56q6N-sk_AkRFXxIUjdBU0Y",
+    "maps_url": "https://maps.google.com/?cid=5067465711581428757"
+  },
+  {
+    "name": "Mr. Handyman serving Brandon to Bradenton Beach",
+    "rating": 4.8,
+    "reviews": 366,
+    "phone": "(813) 680-3438",
+    "website": "https://www.mrhandyman.com/brandon-valrico-plant-city/?cid=LSTL_MHM000197&utm_source=gmb&utm_campaign=local&utm_medium=organic",
+    "address": "4327 Lynx Paw Trail, Valrico, FL 33596, USA",
+    "place_id": "ChIJB9aH7nbTwogRO2UKoMFQfYE",
+    "maps_url": "https://maps.google.com/?cid=9330702795525481787"
+  },
+  {
+    "name": "JSR Handyman Service, INC.",
+    "rating": 4.7,
+    "reviews": 30,
+    "phone": "(863) 265-1613",
+    "website": "http://jsrhandymanservice.com/",
+    "address": "3616 Century Blvd Suite D-03, Lakeland, FL 33811, USA",
+    "place_id": "ChIJMy5JIAo-3YgRET0ItLdjmTo",
+    "maps_url": "https://maps.google.com/?cid=4222515766287154449"
+  },
+  {
+    "name": "Ace Handyman Services Lakeland",
+    "rating": 4.8,
+    "reviews": 429,
+    "phone": "(863) 777-2343",
+    "website": "https://www.acehandymanservices.com/offices/lakeland",
+    "address": "2225 E Edgewood Dr STE 14, Lakeland, FL 33803, USA",
+    "place_id": "ChIJ6bNpBoE_3YgROSr_1JOKrbY",
+    "maps_url": "https://maps.google.com/?cid=13163329653412145721"
+  },
+  {
+    "name": "Fenelon Handyman Services",
+    "rating": 4.8,
+    "reviews": 63,
+    "phone": "(786) 509-5555",
+    "website": "https://fenelonhandymanservices.com/",
+    "address": "421 Montrose Ave, Tampa, FL 33617, USA",
+    "place_id": "ChIJUdN3VT735ysR2ovXLOeIfKU",
+    "maps_url": "https://maps.google.com/?cid=11924556439841377242"
+  },
+  {
+    "name": "The Handyman Company Tampa Home & Repair Remodeling",
+    "rating": 4.3,
+    "reviews": 162,
+    "phone": "(813) 626-3663",
+    "website": "https://the-handyman-company.com/our-services/handyman-services/?utm_source=google&utm_medium=organic&utm_campaign=gmbwebsite-tampa",
+    "address": "5314 N Falkenburg Rd, Tampa, FL 33610, USA",
+    "place_id": "ChIJjfuSbi3JwogRN_lMyM8aKsw",
+    "maps_url": "https://maps.google.com/?cid=14711600612480186679"
+  },
+  {
+    "name": "Gorilla Handyman Services",
+    "rating": 4.8,
+    "reviews": 42,
+    "phone": "(813) 952-0906",
+    "website": "https://gorillahandymanservices.com/",
+    "address": "9225 Bay Plaza Blvd #417, Tampa, FL 33619, USA",
+    "place_id": "ChIJVfM2IAhac4wRfOlHv1SUa_E",
+    "maps_url": "https://maps.google.com/?cid=17396161077355997564"
+  }
+]

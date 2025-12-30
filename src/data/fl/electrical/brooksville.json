@@ -1,0 +1,202 @@
+[
+  {
+    "name": "Kennedy Electric",
+    "rating": 4.8,
+    "reviews": 439,
+    "phone": "(352) 251-2795",
+    "website": "https://www.kennedyelectricfl.com/",
+    "address": "1160 Ponce De Leon Blvd, Brooksville, FL 34601, USA",
+    "place_id": "ChIJganhGk8b6IgRvedOd_lkk3k",
+    "maps_url": "https://maps.google.com/?cid=8760456722777040829"
+  },
+  {
+    "name": "Rivera's Electric Inc.",
+    "rating": 4.9,
+    "reviews": 85,
+    "phone": "(352) 410-1040",
+    "website": "https://www.riveraselectric.com/",
+    "address": "19235 Cortez Blvd, Brooksville, FL 34601, USA",
+    "place_id": "ChIJv-upZM4d6IgRXoEZuiW_2yA",
+    "maps_url": "https://maps.google.com/?cid=2367696197870256478"
+  },
+  {
+    "name": "Nuts and Volts Electric LLC",
+    "rating": 4.9,
+    "reviews": 190,
+    "phone": "(352) 410-8658",
+    "website": "https://www.nutsandvoltselectricllc.com/",
+    "address": "12057 Lark Sparrow Rd, Brooksville, FL 34614, USA",
+    "place_id": "ChIJzX8eU46cnUERpLfdeOhimEU",
+    "maps_url": "https://maps.google.com/?cid=5014866935676778404"
+  },
+  {
+    "name": "Taddeo Electrical Contractors, Inc.",
+    "rating": 4.9,
+    "reviews": 723,
+    "phone": "(352) 556-5276",
+    "website": "https://taddeoelectric.com/",
+    "address": "18739 Sakera Rd, Hudson, FL 34667, USA",
+    "place_id": "ChIJJZLMtCEe6IgRTbVbFywGF5E",
+    "maps_url": "https://maps.google.com/?cid=10454831846404109645"
+  },
+  {
+    "name": "Gulf Coast Electric Service Inc",
+    "rating": 4.9,
+    "reviews": 19,
+    "phone": "(352) 796-9117",
+    "website": "",
+    "address": "1121 Ponce De Leon Blvd, Brooksville, FL 34601, USA",
+    "place_id": "ChIJweG2mE8b6IgRnBQom0SShsA",
+    "maps_url": "https://maps.google.com/?cid=13872936525519918236"
+  },
+  {
+    "name": "24/7 Electric LLC",
+    "rating": 4.9,
+    "reviews": 105,
+    "phone": "(727) 470-0091",
+    "website": "http://www.poweranytime.net/",
+    "address": "17204 Akins Dr, Spring Hill, FL 34610, USA",
+    "place_id": "ChIJ3xNNmGyfwogRgs-8FFwBEiI",
+    "maps_url": "https://maps.google.com/?cid=2455026241866878850"
+  },
+  {
+    "name": "Turning Point Electric",
+    "rating": 4.6,
+    "reviews": 49,
+    "phone": "(813) 446-0650",
+    "website": "http://www.turningpointelectric.com/",
+    "address": "18624 Cortez Blvd, Brooksville, FL 34601, USA",
+    "place_id": "ChIJc0wD4SMg6IgRGdeoMpgSdcY",
+    "maps_url": "https://maps.google.com/?cid=14300356636679132953"
+  },
+  {
+    "name": "ATR Electrical Services LLC",
+    "rating": 4.7,
+    "reviews": 171,
+    "phone": "(352) 247-8750",
+    "website": "",
+    "address": "4135 Lamson Ave, Spring Hill, FL 34608, USA",
+    "place_id": "ChIJMcbXx1cd6IgRZFzBgnYNE7Y",
+    "maps_url": "https://maps.google.com/?cid=13119844942111399012"
+  },
+  {
+    "name": "Professional Electrical LLC",
+    "rating": 5,
+    "reviews": 45,
+    "phone": "",
+    "website": "https://professionalelectrical.services/",
+    "address": "1451 Mariner Blvd, Spring Hill, FL 34609, USA",
+    "place_id": "ChIJqSciU7bRw68Rbjk1v4p5gV4",
+    "maps_url": "https://maps.google.com/?cid=6809857748381284718"
+  },
+  {
+    "name": "B&D Electric, Inc.",
+    "rating": 4.9,
+    "reviews": 529,
+    "phone": "(352) 472-1966",
+    "website": "http://www.bdelectric.com/",
+    "address": "24462 NW 9th Pl, Newberry, FL 32669, USA",
+    "place_id": "ChIJUV2Az9jA6IgRvezOQSXBh3w",
+    "maps_url": "https://maps.google.com/?cid=8973353148321033405"
+  },
+  {
+    "name": "Premier Electric",
+    "rating": 4.9,
+    "reviews": 183,
+    "phone": "(352) 794-6925",
+    "website": "https://www.mypremierelectric.com/",
+    "address": "1075 W Gulf to Lake Hwy, Lecanto, FL 34461, USA",
+    "place_id": "ChIJsy8v8bhB6IgRMgrnhqvFZ0g",
+    "maps_url": "https://maps.google.com/?cid=5217356033825376818"
+  },
+  {
+    "name": "Electrical Titans, LLC.",
+    "rating": 5,
+    "reviews": 24,
+    "phone": "(352) 277-1418",
+    "website": "",
+    "address": "11485 Labrador Duck Rd, Brooksville, FL 34614, USA",
+    "place_id": "ChIJZ9DIuS0frW4RfeOuvJ7WjaI",
+    "maps_url": "https://maps.google.com/?cid=11713254183119283069"
+  },
+  {
+    "name": "City Electric Supply Brooksville",
+    "rating": 4.7,
+    "reviews": 36,
+    "phone": "(352) 799-0038",
+    "website": "https://www.cityelectricsupply.com/branches/fl/brooksville/brooksville",
+    "address": "300 W Jefferson St, Brooksville, FL 34601, USA",
+    "place_id": "ChIJba67AlUb6IgR7QxUwmUIRuc",
+    "maps_url": "https://maps.google.com/?cid=16665016704276106477"
+  },
+  {
+    "name": "Amped Electric, LLC",
+    "rating": 4.7,
+    "reviews": 23,
+    "phone": "(352) 398-3363",
+    "website": "",
+    "address": "16315 Cortez Blvd, Mailing :, 8114 Madrid Rd, Brooksville, FL 34601, USA",
+    "place_id": "ChIJlRbQBgcn6IgRsgAp3JvNBu8",
+    "maps_url": "https://maps.google.com/?cid=17223679894222340274"
+  },
+  {
+    "name": "Small Jobs Electric, Inc.",
+    "rating": 4.8,
+    "reviews": 2061,
+    "phone": "(813) 303-0052",
+    "website": "https://www.smalljobselectric.com/",
+    "address": "5002 W Linebaugh Ave Ste C, Tampa, FL 33624, USA",
+    "place_id": "ChIJD6hInM3NwogRPl5VKcgM5ko",
+    "maps_url": "https://maps.google.com/?cid=5397015257276571198"
+  },
+  {
+    "name": "Electrix, Inc.",
+    "rating": 5,
+    "reviews": 240,
+    "phone": "(352) 344-0098",
+    "website": "https://electrixinc.com/",
+    "address": "3466 E Gulf to Lake Hwy, Inverness, FL 34453, USA",
+    "place_id": "ChIJoePa0Dtz6IgRIFQgWeYB4jw",
+    "maps_url": "https://maps.google.com/?cid=4387071075861681184"
+  },
+  {
+    "name": "Mr. Electric of Citrus & Marion County",
+    "rating": 4.8,
+    "reviews": 984,
+    "phone": "(352) 364-4895",
+    "website": "https://mrelectric.com/citrus-and-marion-county/?cid=LSTL_MRE000196&utm_source=gmb&utm_campaign=local&utm_medium=organic",
+    "address": "6575 W Gulf to Lake Hwy, Crystal River, FL 34429, USA",
+    "place_id": "ChIJ9yB7dYpq6IgRJbF1tscibdY",
+    "maps_url": "https://maps.google.com/?cid=15451044137733042469"
+  },
+  {
+    "name": "David Bryan Electric LLC",
+    "rating": 5,
+    "reviews": 24,
+    "phone": "(352) 573-5156",
+    "website": "http://davidbryanelectric.com/",
+    "address": "250 Spring Time St, Spring Hill, FL 34608, USA",
+    "place_id": "ChIJBQ_3BvMCOKsRSBrPim-vJZk",
+    "maps_url": "https://maps.google.com/?cid=11035419355546327624"
+  },
+  {
+    "name": "Tru-Line Electric",
+    "rating": 4.8,
+    "reviews": 1522,
+    "phone": "(727) 308-6680",
+    "website": "https://www.trulineelectric.com/?utm_source=GMB&utm_medium=organic&utm_campaign=New_Port_Richey",
+    "address": "6740 Madison St, New Port Richey, FL 34652, USA",
+    "place_id": "ChIJ8XjGiZGNwogR4p3S5LD_dNY",
+    "maps_url": "https://maps.google.com/?cid=15453257356633349602"
+  },
+  {
+    "name": "In Charge Electric, Inc",
+    "rating": 4.9,
+    "reviews": 1552,
+    "phone": "(352) 350-7878",
+    "website": "https://www.inchargeelectric.com/?utm_source=google&utm_medium=organic&utm_campaign=google_business_profile",
+    "address": "1000 E N Blvd, Leesburg, FL 34748, USA",
+    "place_id": "ChIJyYOw34a954gR53Hsm2UIODA",
+    "maps_url": "https://maps.google.com/?cid=3474536345017020903"
+  }
+]

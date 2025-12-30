@@ -1,0 +1,82 @@
+[
+  {
+    "name": "MY BEST HANDYMAN LLC",
+    "rating": 5,
+    "reviews": 27,
+    "phone": "(407) 603-5076",
+    "website": "https://instagram.com/mybesthandyman",
+    "address": "3588 Millenia Blvd, Orlando, FL 32839, USA",
+    "place_id": "ChIJNaAepi4_8KARjHssPoPpIZU",
+    "maps_url": "https://maps.google.com/?cid=10746126935775804300"
+  },
+  {
+    "name": "R&S Handyman Services LLC",
+    "rating": 5,
+    "reviews": 26,
+    "phone": "(407) 591-9301",
+    "website": "",
+    "address": "7737 Greytwig Ln, Orlando, FL 32818, USA",
+    "place_id": "ChIJL-piAjl554gRoDJk206lRzQ",
+    "maps_url": "https://maps.google.com/?cid=3767161371425518240"
+  },
+  {
+    "name": "Bixno Handy LLC",
+    "rating": 4.9,
+    "reviews": 27,
+    "phone": "(817) 475-0491",
+    "website": "http://bixnohandy.com/",
+    "address": "4409 Hoffner Ave Ste 538, Orlando, FL 32812, USA",
+    "place_id": "ChIJCaMXK9HVTYYRDNsUdNwJ72U",
+    "maps_url": "https://maps.google.com/?cid=7345100359709547276"
+  },
+  {
+    "name": "K Hood Handyman Services LLC",
+    "rating": 4.9,
+    "reviews": 20,
+    "phone": "(317) 263-4633",
+    "website": "https://keiths-handyman-services.ueniweb.com/?utm_campaign=gmb",
+    "address": "Azalea Park, FL 32807, USA",
+    "place_id": "ChIJ-xwqqnVl54gR_PO_a7apvdY",
+    "maps_url": "https://maps.google.com/?cid=15473710495671776252"
+  },
+  {
+    "name": "Blake's handyman restoration",
+    "rating": 5,
+    "reviews": 2,
+    "phone": "(813) 367-6983",
+    "website": "",
+    "address": "#138, Fort White, FL 32038, USA",
+    "place_id": "ChIJw_iHVKPP6IgR_vGE4MoEnCM",
+    "maps_url": "https://maps.google.com/?cid=2565931157091054078"
+  },
+  {
+    "name": "Millers Customer Carpentry and Handyman Services",
+    "rating": 5,
+    "reviews": 1,
+    "phone": "(865) 308-8474",
+    "website": "",
+    "address": "16481 NE 141st Ave, Fort McCoy, FL 32134, USA",
+    "place_id": "ChIJl30nmXM55ogRCUJL4G_Ky9U",
+    "maps_url": "https://maps.google.com/?cid=15405629532204122633"
+  },
+  {
+    "name": "Quality Services The King LLC",
+    "rating": 5,
+    "reviews": 29,
+    "phone": "(352) 281-9137",
+    "website": "",
+    "address": "136 SW 145th Dr, Newberry, FL 32669, USA",
+    "place_id": "ChIJExTqCJi_6IgRQQ7KBy5DN_c",
+    "maps_url": "https://maps.google.com/?cid=17813780716065525313"
+  },
+  {
+    "name": "Mr. Handyman serving Windermere, W and S Orlando",
+    "rating": 4.9,
+    "reviews": 191,
+    "phone": "(689) 210-4336",
+    "website": "https://www.mrhandyman.com/windermere-w-s-orlando/?cid=LSTL_MHM000197&utm_source=gmb&utm_campaign=local&utm_medium=organic",
+    "address": "2488 E Michigan St Suite 212, Orlando, FL 32806, USA",
+    "place_id": "ChIJ1URwAX9754gR2Mk4UzOBv00",
+    "maps_url": "https://maps.google.com/?cid=5602338518911732184"
+  }
+]

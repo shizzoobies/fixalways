@@ -1,0 +1,42 @@
+[
+  {
+    "name": "KW Handyman Miami",
+    "rating": 4.8,
+    "reviews": 32,
+    "phone": "(305) 614-5237",
+    "website": "https://www.kwhandymanmiami.com/",
+    "address": "851 NE 1st Ave #1403, Miami, FL 33132, USA",
+    "place_id": "ChIJz6Ox8sW32YgR8c6C1M8Yuqs",
+    "maps_url": "https://maps.google.com/?cid=12374230207056498417"
+  },
+  {
+    "name": "RDS Handyman Services",
+    "rating": 4.9,
+    "reviews": 50,
+    "phone": "(951) 415-1628",
+    "website": "",
+    "address": "2498 Hobblebrush Dr, North Port, FL 34289, USA",
+    "place_id": "ChIJMT-m3LUt2YgRTs5BEEaa_iU",
+    "maps_url": "https://maps.google.com/?cid=2737795249198976590"
+  },
+  {
+    "name": "Handyman services Steel-Gates",
+    "rating": 5,
+    "reviews": 34,
+    "phone": "(786) 679-1553",
+    "website": "https://steel-gates.com/",
+    "address": "1919 Van Buren St, Hollywood, FL 33020, USA",
+    "place_id": "ChIJeX1_okLpRokR_VQKQ3RrVbM",
+    "maps_url": "https://maps.google.com/?cid=12922352852894635261"
+  },
+  {
+    "name": "Miami Handy Man",
+    "rating": 0,
+    "reviews": 0,
+    "phone": "(941) 268-7927",
+    "website": "http://miamihandyman.weebly.com/index.html",
+    "address": "2195 Bay Dr, Miami Beach, FL 33141, USA",
+    "place_id": "ChIJXTCq3VWy2YgRQSCFjhvCwLU",
+    "maps_url": "https://maps.google.com/?cid=13096681140004397121"
+  }
+]

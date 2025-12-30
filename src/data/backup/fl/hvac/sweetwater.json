@@ -1,0 +1,29 @@
+[
+  {
+    "name": "Taylor'd HVAC Services, Inc.",
+    "rating": 5,
+    "reviews": 25,
+    "phone": "(352) 727-0444",
+    "website": "https://www.taylordhvac.com/",
+    "maps": "https://maps.google.com/?cid=6535273220225885393&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "26253 W U.S. Hwy 27, High Springs, FL 32643, USA"
+  },
+  {
+    "name": "Wilson Heat & Air Inc",
+    "rating": 5,
+    "reviews": 282,
+    "phone": "(386) 496-9000",
+    "website": "http://www.wilsonheatandair.biz/",
+    "maps": "https://maps.google.com/?cid=358358953844018175&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "5560 FL-238, Lake Butler, FL 32054, USA"
+  },
+  {
+    "name": "Shatto Heating & Air Inc",
+    "rating": 4.5,
+    "reviews": 168,
+    "phone": "(386) 496-8224",
+    "website": "http://www.shattoair.com/",
+    "maps": "https://maps.google.com/?cid=1046124509711397868&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "595 W Main St, Lake Butler, FL 32054, USA"
+  }
+]

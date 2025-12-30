@@ -1,71 +1,248 @@
 ---
 import BaseLayout from "../layouts/BaseLayout.astro";
 import { floridaCities } from "../data/fl-cities.js";
+import { services, defaultServiceKey } from "../data/services.js";
 
-const toSlug = (city) => city.toLowerCase().trim().replace(/\s+/g, "-");
+const FORMSPREE_ENDPOINT = "https://formspree.io/f/mdaorwgo";
+
+function toSlug(city) {
+  return city
+    .toLowerCase()
+    .trim()
+    .replace(/\s+/g, "-")
+    .replace(/[^a-z0-9-]/g, "");
+}
+
+// Popular cities you want to feature at top
+const popularCities = [
+  "Jacksonville",
+  "Miami",
+  "Tampa",
+  "Orlando",
+  "St. Petersburg",
+  "Hialeah",
+  "Tallahassee",
+  "Fort Lauderdale",
+  "Cape Coral",
+  "Pembroke Pines",
+];
+
+const defaultService = services.find((s) => s.key === defaultServiceKey) || services[0];
+const defaultServiceFolder = defaultService?.key || "hvac";
 ---
 
 <BaseLayout
-  title="FixAlways – Florida HVAC"
-  description="Find HVAC companies across Florida. Start with a city, then browse local listings."
-  badge="Florida • HVAC"
+  title="FixAlways | Florida Home Services"
+  description="Find top-rated HVAC, plumbing, electrical, roofing, and more across Florida. Browse cities, compare listings, and request quotes."
+  badge="Florida • Home Services"
 >
-  <section class="hero">
-    <div class="heroMedia">
-      <img class="heroBase" src="/assets/hero/desktop.webp" alt="" aria-hidden="true" />
-
-      <picture>
-        <source srcset="/assets/hero/accent-right.webp" type="image/webp" />
-        <img
-          class="heroAccentRight"
-          src="/assets/hero/accent-right.png"
-          alt=""
-          aria-hidden="true"
-          loading="lazy"
-        />
-      </picture>
-
-      <img class="heroOverlaySvg" src="/assets/hero/hero-overlay.svg" alt="" aria-hidden="true" loading="lazy" />
-      <div class="heroOverlay" aria-hidden="true"></div>
-
-      <div class="heroPanel">
-        <div class="heroEyebrow">Florida • HVAC</div>
-        <h1>Florida HVAC listings</h1>
-        <p>
-          Pick a city to see local HVAC companies pulled from Google Places. We’ll keep expanding coverage and
-          refreshing data.
+  <section class="section sectionTight">
+    <div class="heroWrap">
+      <div class="heroLeft">
+        <h1 class="heroTitle">Find top-rated home service pros in Florida</h1>
+        <p class="heroSubtitle">
+          HVAC today, expanding into plumbing, electrical, roofing, and more. Built to scale into a high-trust lead marketplace.
         </p>
+
+        <div class="heroBadges">
+          <span class="badge">Top rated picks</span>
+          <span class="badge">Fast comparisons</span>
+          <span class="badge">Quote requests</span>
+        </div>
+
+        <div class="heroActions">
+          <a class="btn btnPrimary" href="#quote">Get free quotes</a>
+          <a class="btn btnGhost" href="#cities">Browse cities</a>
+        </div>
       </div>
+
+      <aside class="heroRight" id="quote">
+        <div class="panel">
+          <div class="panelHeader">
+            <div class="panelTitle">Get free quotes</div>
+            <div class="panelSubtitle">Start with the basics — expand for details</div>
+          </div>
+
+          <!-- Compact first, expand on click -->
+          <details class="quoteDetails">
+            <summary class="quoteSummary">
+              <div class="quoteMini">
+                <div class="field">
+                  <label class="label" for="qServiceMini">Service</label>
+                  <select id="qServiceMini" class="input">
+                    {services.map((s) => (
+                      <option value={s.label} selected={s.key === defaultServiceKey}>
+                        {s.label}
+                      </option>
+                    ))}
+                  </select>
+                </div>
+
+                <div class="field">
+                  <label class="label" for="qCityZipMini">City or ZIP</label>
+                  <input
+                    id="qCityZipMini"
+                    class="input"
+                    type="text"
+                    placeholder="Tampa, 33602"
+                  />
+                </div>
+
+                <div class="quoteMiniActions">
+                  <span class="quoteHint">Takes 30 seconds</span>
+                  <span class="btn btnPrimary btnFull">Continue</span>
+                </div>
+              </div>
+            </summary>
+
+            <!-- Full form -->
+            <form class="form" action={FORMSPREE_ENDPOINT} method="POST">
+              <input type="hidden" name="_redirect" value="/thanks" />
+              <input type="hidden" name="source" value="fixalways" />
+              <input type="hidden" name="page" value={Astro.url.pathname} />
+
+              <div class="field">
+                <label class="label" for="qService">Service</label>
+                <select id="qService" class="input" name="service" required>
+                  {services.map((s) => (
+                    <option value={s.label} selected={s.key === defaultServiceKey}>
+                      {s.label}
+                    </option>
+                  ))}
+                </select>
+              </div>
+
+              <div class="field">
+                <label class="label" for="qCityZip">City or ZIP</label>
+                <input
+                  id="qCityZip"
+                  class="input"
+                  name="city_or_zip"
+                  type="text"
+                  placeholder="Tampa, 33602"
+                  required
+                />
+              </div>
+
+              <div class="field">
+                <label class="label" for="qName">Name</label>
+                <input id="qName" class="input" name="name" type="text" placeholder="Alex" required />
+              </div>
+
+              <div class="field">
+                <label class="label" for="qPhone">Phone</label>
+                <input id="qPhone" class="input" name="phone" type="tel" placeholder="(555) 555-5555" required />
+              </div>
+
+              <div class="field">
+                <label class="label" for="qEmail">Email (optional)</label>
+                <input id="qEmail" class="input" name="email" type="email" placeholder="alex@email.com" />
+              </div>
+
+              <div class="field">
+                <label class="label" for="qTiming">When do you need help?</label>
+                <select id="qTiming" class="select" name="timing" required>
+                  <option value="" disabled selected>Select one</option>
+                  <option value="asap">ASAP</option>
+                  <option value="this_week">This week</option>
+                  <option value="flexible">Flexible</option>
+                </select>
+              </div>
+
+              <div class="field">
+                <label class="label" for="qDetails">Project details</label>
+                <textarea
+                  id="qDetails"
+                  class="input inputArea"
+                  name="details"
+                  placeholder="Ex: AC not cooling, need someone today"
+                  required
+                ></textarea>
+              </div>
+
+              <div class="field consentRow">
+                <input id="qConsent" name="consent" type="checkbox" required />
+                <label for="qConsent">
+                  I agree FixAlways and up to 3 service providers may contact me about this request.
+                </label>
+              </div>
+
+              <button class="btn btnPrimary btnFull" type="submit">
+                Get free quotes
+              </button>
+
+              <p class="finePrint">No obligation. Usually replies within 10–15 minutes.</p>
+
+              <button
+                class="btn btnGhost btnFull quoteCollapse"
+                type="button"
+                onclick="this.closest('details').open=false"
+              >
+                Collapse
+              </button>
+            </form>
+          </details>
+        </div>
+      </aside>
     </div>
   </section>
 
-  <div class="grid">
-    <section class="card">
-      <div class="cardHeader">
-        <h2>Browse cities</h2>
-        <div class="meta">{floridaCities.length} cities in list</div>
+  <section class="section" id="cities">
+    <div class="sectionHeader">
+      <h2 class="sectionTitle">Browse Florida cities</h2>
+      <p class="sectionSubtitle">Search a city, or pick from popular ones.</p>
+    </div>
+
+    <div class="card cityPanel">
+      <div class="cityTools">
+        <div class="cityCount">
+          <span id="cityCount">{floridaCities.length}</span> cities
+        </div>
+
+        <div class="citySearchRow">
+          <input
+            id="cityFilter"
+            class="input"
+            type="text"
+            placeholder="Filter cities… (ex: Tampa, Miami, Orl)"
+            autocomplete="off"
+          />
+          <button id="clearCityFilter" class="btn btnGhost" type="button">
+            Clear
+          </button>
+        </div>
       </div>
 
-      <!-- ✅ MUST be cityList -->
-      <ul class="list cityGrid" id="cityList">
-        {floridaCities.map((city) => {
-          const href = `/fl/${toSlug(city)}/hvac`;
-          return (
-            <li class="item" data-city={city} data-href={href}>
-              <div class="left">
-                <div class="name">{city}</div>
-                <div class="sub">See HVAC companies, ratings, and contact info</div>
-              </div>
+      <div class="citySectionLabel">Popular</div>
+      <div class="cityGrid" id="popularCities">
+        {popularCities.map((city) => (
+          <a class="cityCard" href={`/fl/${toSlug(city)}/${defaultServiceFolder}`} data-city={city.toLowerCase()}>
+            <span>{city}</span>
+            <span class="cityCardMeta">Browse →</span>
+          </a>
+        ))}
+      </div>
 
-              <div class="right">
-                <div class="btnRow">
-                  <a class="btn" href={href}>View listings</a>
-                </div>
-              </div>
-            </li>
-          );
-        })}
-      </ul>
-    </section>
-  </div>
+      <details class="cityDetails">
+        <summary class="citySummary">
+          <span>All cities</span>
+          <span class="citySummaryHint">tap to expand</span>
+        </summary>
+
+        <div class="cityList" id="cityList">
+          {floridaCities.map((city) => (
+            <a class="cityRow" href={`/fl/${toSlug(city)}/${defaultServiceFolder}`} data-city={city.toLowerCase()}>
+              {city}
+            </a>
+          ))}
+        </div>
+
+        <div class="cityEmpty" id="cityEmpty" hidden>No matches. Try a different spelling.</div>
+
+        <p class="cityHint">Tip: use the service dropdown in the header to switch services.</p>
+      </details>
+    </div>
+
+    <script type="module" src="/js/city-list.js"></script>
+  </section>
 </BaseLayout>

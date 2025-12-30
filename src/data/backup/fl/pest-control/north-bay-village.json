@@ -1,0 +1,83 @@
+[
+  {
+    "name": "Acree Air Miami",
+    "rating": 5,
+    "reviews": 38,
+    "phone": "(305) 763-2788",
+    "website": "https://www.acreeairmiami.com/",
+    "maps": "https://maps.google.com/?cid=13038636706161846086&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "1790 79th Street Causeway, Miami Beach, FL 33141, USA"
+  },
+  {
+    "name": "Local AC",
+    "rating": 5,
+    "reviews": 3,
+    "phone": "(305) 901-0534",
+    "website": "https://www.localaccompany.com/",
+    "maps": "https://maps.google.com/?cid=13427353257832249736&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "2901 NE 1st Ave UNIT 2913, Miami, FL 33137, USA"
+  },
+  {
+    "name": "Excellent Air Solutions LLC",
+    "rating": 5,
+    "reviews": 45,
+    "phone": "(786) 783-8055",
+    "website": "http://excellentairsolutions.com/",
+    "maps": "https://maps.google.com/?cid=3507737973264162282&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "15569 SW 182nd Ln, Miami, FL 33187, USA"
+  },
+  {
+    "name": "Air 95 AC Repair Company",
+    "rating": 5,
+    "reviews": 132,
+    "phone": "(954) 827-9797",
+    "website": "http://www.air95ac.com/",
+    "maps": "https://maps.google.com/?cid=8767376596306328206&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "3440 Hollywood Blvd, Hollywood, FL 33021, USA"
+  },
+  {
+    "name": "Miami Portable Cooling",
+    "rating": 5,
+    "reviews": 17,
+    "phone": "(305) 330-4809",
+    "website": "https://www.miamiportablecooling.com/",
+    "maps": "https://maps.google.com/?cid=1814262482229675450&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "7900 Harbor Island Dr, North Bay Village, FL 33141, USA"
+  },
+  {
+    "name": "BUILCORE, INC.",
+    "rating": 4.8,
+    "reviews": 18,
+    "phone": "(305) 751-1511",
+    "website": "https://www.builcore.com/",
+    "maps": "https://maps.google.com/?cid=9659781250848286011&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "1666 John F Kennedy Causeway Suite #705, North Bay Village, FL 33141, USA"
+  },
+  {
+    "name": "Freezing Mechanical",
+    "rating": 4.7,
+    "reviews": 1366,
+    "phone": "(305) 363-7021",
+    "website": "https://freezingmechanical.com/",
+    "maps": "https://maps.google.com/?cid=8583202408560358266&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "4808 NW 167th St, Miami Gardens, FL 33014, USA"
+  },
+  {
+    "name": "US1 Air Conditioning",
+    "rating": 4.8,
+    "reviews": 68,
+    "phone": "(305) 680-5456",
+    "website": "https://www.us1air.com/",
+    "maps": "https://maps.google.com/?cid=16839732189604259848&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "20161 NE 16th Pl, Miami, FL 33179, USA"
+  },
+  {
+    "name": "Direct Air Conditioning",
+    "rating": 4.8,
+    "reviews": 2546,
+    "phone": "(786) 884-5021",
+    "website": "https://www.directac123.com/?utm_source=google-gbp&utm_medium=organic&utm_campaign=*79*direct-air-miami",
+    "maps": "https://maps.google.com/?cid=6169356906860664659&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "12200 SW 129th Ct, Miami, FL 33186, USA"
+  }
+]

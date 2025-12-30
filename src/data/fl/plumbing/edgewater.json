@@ -1,0 +1,92 @@
+[
+  {
+    "name": "Armitage Plumbing and Gas",
+    "rating": 4.9,
+    "reviews": 388,
+    "phone": "(386) 423-5800",
+    "website": "http://armitageplumbingandgas.com/",
+    "address": "1502 Industrial Dr, Edgewater, FL 32132, USA",
+    "place_id": "ChIJCwW1AIQu54gRmZRYuw2Tjmk",
+    "maps_url": "https://maps.google.com/?cid=7606178507862348953"
+  },
+  {
+    "name": "Coleman Plumbing",
+    "rating": 4.5,
+    "reviews": 98,
+    "phone": "(386) 428-1838",
+    "website": "http://www.colemanplumbing.net/",
+    "address": "1812 Hibiscus Dr, Edgewater, FL 32132, USA",
+    "place_id": "ChIJdTuSpYAu54gRlPZmiq36JSU",
+    "maps_url": "https://maps.google.com/?cid=2676821176799917716"
+  },
+  {
+    "name": "Sun Plumbing & Mechanical Inc",
+    "rating": 5,
+    "reviews": 6,
+    "phone": "(386) 423-0273",
+    "website": "",
+    "address": "153 Cheeta Dr, Edgewater, FL 32132, USA",
+    "place_id": "ChIJa01VCrsu54gRtTS_JCQSmsg",
+    "maps_url": "https://maps.google.com/?cid=14454885900443661493"
+  },
+  {
+    "name": "B & L Plumbing",
+    "rating": 4,
+    "reviews": 12,
+    "phone": "(386) 427-2322",
+    "website": "",
+    "address": "209 Parktowne Blvd, Edgewater, FL 32132, USA",
+    "place_id": "ChIJU_9G6Cks54gRsmXv3ppT5Xw",
+    "maps_url": "https://maps.google.com/?cid=8999691355000104370"
+  },
+  {
+    "name": "Advanced Air Home Services",
+    "rating": 4.7,
+    "reviews": 4287,
+    "phone": "(386) 260-2330",
+    "website": "https://www.advancedairandheat.com/",
+    "address": "1939 W Park Ave, Edgewater, FL 32132, USA",
+    "place_id": "ChIJwzugm_ou54gRz4yA8qlap8Y",
+    "maps_url": "https://maps.google.com/?cid=14314509626584894671"
+  },
+  {
+    "name": "Howell Plumbing",
+    "rating": 4.4,
+    "reviews": 119,
+    "phone": "(386) 423-9456",
+    "website": "http://howellplumbingfl.com/",
+    "address": "554 Julia St, New Smyrna Beach, FL 32168, USA",
+    "place_id": "ChIJm52dOjEp54gRPJaqHOpC1hg",
+    "maps_url": "https://maps.google.com/?cid=1789691475197072956"
+  },
+  {
+    "name": "All Florida Plumbing & Electrical Supply",
+    "rating": 4.2,
+    "reviews": 43,
+    "phone": "(386) 424-0177",
+    "website": "",
+    "address": "1103 S Ridgewood Ave, Edgewater, FL 32132, USA",
+    "place_id": "ChIJTbQf1YIu54gRwlULbC8lkyU",
+    "maps_url": "https://maps.google.com/?cid=2707548686586172866"
+  },
+  {
+    "name": "Alternate Design Plumbing, Inc.",
+    "rating": 4.9,
+    "reviews": 367,
+    "phone": "(386) 774-8080",
+    "website": "http://www.alternatedesignplumbing.com/",
+    "address": "600 S Volusia Ave, Orange City, FL 32763, USA",
+    "place_id": "ChIJXbqvrX0Q54gRkYCAL3JgYNo",
+    "maps_url": "https://maps.google.com/?cid=15735683141572001937"
+  },
+  {
+    "name": "Tyler Plumbing",
+    "rating": 4.5,
+    "reviews": 72,
+    "phone": "(386) 424-1450",
+    "website": "https://www.tylerplumbing.net/",
+    "address": "508 Downing St, New Smyrna Beach, FL 32168, USA",
+    "place_id": "ChIJV0MDLyEm54gRexVq7IRoKh0",
+    "maps_url": "https://maps.google.com/?cid=2101607096233104763"
+  }
+]

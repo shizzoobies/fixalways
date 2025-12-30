@@ -1,0 +1,92 @@
+[
+  {
+    "name": "Heating & Cooling Co.",
+    "rating": 5,
+    "reviews": 19,
+    "phone": "(954) 329-2910",
+    "website": null,
+    "maps": "https://maps.google.com/?cid=7127654454962679651&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "2032 Sample Rd, Lighthouse Point, FL 33064, USA"
+  },
+  {
+    "name": "2nd Chance HVAC Repair Services",
+    "rating": 5,
+    "reviews": 1,
+    "phone": "(754) 297-7099",
+    "website": null,
+    "maps": "https://maps.google.com/?cid=920755723824291231&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "2012 Sample Rd #21, Lighthouse Point, FL 33064, USA"
+  },
+  {
+    "name": "United A/C & Refrigeration",
+    "rating": 4.7,
+    "reviews": 493,
+    "phone": "(954) 212-9646",
+    "website": "https://www.gounitedac.com/?utm_campaign=gmb&utm_medium=gbp_listing&utm_source=organic",
+    "maps": "https://maps.google.com/?cid=1213499659378370836&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "1471 SW 30th Ave #6, Deerfield Beach, FL 33442, USA"
+  },
+  {
+    "name": "Cool by Design AC Repair & Heating",
+    "rating": 5,
+    "reviews": 374,
+    "phone": "(954) 710-9252",
+    "website": "https://coolbydesignfl.com/furnace-repair-oakland-park-fl/?utm_source=google&utm_medium=organic&utm_campaign=gmb",
+    "maps": "https://maps.google.com/?cid=2927041229801703242&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "4812 NE 12th Ave, Oakland Park, FL 33334, USA"
+  },
+  {
+    "name": "AC SQUAD CORP",
+    "rating": 5,
+    "reviews": 153,
+    "phone": "(561) 944-2665",
+    "website": "https://www.acsquad.pro/?utm_source=gmb&utm_medium=organic",
+    "maps": "https://maps.google.com/?cid=12215391515623060720&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "1230 NE 39th St, Pompano Beach, FL 33064, USA"
+  },
+  {
+    "name": "East Coast Services, Inc",
+    "rating": 4.9,
+    "reviews": 331,
+    "phone": "(954) 941-7822",
+    "website": "http://eastcoastservicesinc.net/",
+    "maps": "https://maps.google.com/?cid=10215998158582979408&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "1101 S Rogers Cir #13, Boca Raton, FL 33487, USA"
+  },
+  {
+    "name": "Mainline Plumbing, AC & Electric Repair",
+    "rating": 4.8,
+    "reviews": 805,
+    "phone": "(954) 710-8373",
+    "website": "https://mainlineplumbingservice.com/emergency-plumber/pompano-beach-fl/?utm_source=GMB&utm_medium=organic&utm_campaign=Pompano+Beach",
+    "maps": "https://maps.google.com/?cid=4805331551623904715&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "1051 NW 31st Ave, Pompano Beach, FL 33069, USA"
+  },
+  {
+    "name": "A/C Services",
+    "rating": 5,
+    "reviews": 4,
+    "phone": "(754) 310-8759",
+    "website": null,
+    "maps": "https://maps.google.com/?cid=16131660721042340369&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "NE 45th St, Lighthouse Point, FL 33064, USA"
+  },
+  {
+    "name": "Pride Air Conditioning & Appliance, Inc.",
+    "rating": 4.6,
+    "reviews": 2471,
+    "phone": "(844) 550-8491",
+    "website": "https://www.prideac.com/?utm_source=google&utm_medium=organic&utm_campaign=gbp",
+    "maps": "https://maps.google.com/?cid=8477433200724848224&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "2150 NW 18th St, Pompano Beach, FL 33069, USA"
+  },
+  {
+    "name": "Wilson Heat & Air Inc",
+    "rating": 5,
+    "reviews": 282,
+    "phone": "(386) 496-9000",
+    "website": "http://www.wilsonheatandair.biz/",
+    "maps": "https://maps.google.com/?cid=358358953844018175&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "5560 FL-238, Lake Butler, FL 32054, USA"
+  }
+]

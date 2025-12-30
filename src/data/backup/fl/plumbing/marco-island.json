@@ -1,0 +1,92 @@
+[
+  {
+    "name": "Dor-Mar Marco Island Service",
+    "rating": 4.9,
+    "reviews": 221,
+    "phone": "(239) 382-7077",
+    "website": "https://www.dormarhvac.com/locations/collier-county-fl/marco-island-fl/",
+    "maps": "https://maps.google.com/?cid=12822292984982124655&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "950 N Collier Blvd STE 400, Marco Island, FL 34145, USA"
+  },
+  {
+    "name": "Accurate Comfort Services - Marco Island, FL",
+    "rating": 4.8,
+    "reviews": 96,
+    "phone": "(239) 389-9600",
+    "website": "https://accuratecomfortservices.com/",
+    "maps": "https://maps.google.com/?cid=7465546144849897615&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "118 S Barfield Dr, Marco Island, FL 34145, USA"
+  },
+  {
+    "name": "Condee Cooling & Electric, Inc.",
+    "rating": 4.8,
+    "reviews": 691,
+    "phone": "(239) 394-5121",
+    "website": "http://condee.com/",
+    "maps": "https://maps.google.com/?cid=7451148704079672136&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "25 Front St, Marco Island, FL 34145, USA"
+  },
+  {
+    "name": "Service Professionals Of Florida",
+    "rating": 5,
+    "reviews": 23,
+    "phone": "(239) 642-6003",
+    "website": "https://serviceprofl.com/",
+    "maps": "https://maps.google.com/?cid=16436871241435467483&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "939 Chalmer Dr # 3, Marco Island, FL 34145, USA"
+  },
+  {
+    "name": "26 Degree HVAC LLC",
+    "rating": 5,
+    "reviews": 83,
+    "phone": "(239) 264-0324",
+    "website": "http://www.26degreehvac.com/",
+    "maps": "https://maps.google.com/?cid=9235661999875160051&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "101 S Heathwood Dr, Marco Island, FL 34145, USA"
+  },
+  {
+    "name": "Southern Comfort Air",
+    "rating": 4.8,
+    "reviews": 52,
+    "phone": "(239) 642-6642",
+    "website": "http://www.southerncomfortairllc.com/",
+    "maps": "https://maps.google.com/?cid=16069361992557491341&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "994 N Barfield Dr STE 35, Marco Island, FL 34145, USA"
+  },
+  {
+    "name": "Family Air Conditioning and Heating, Inc.",
+    "rating": 5,
+    "reviews": 542,
+    "phone": "(239) 354-4326",
+    "website": "https://www.familyairconditioning.net/",
+    "maps": "https://maps.google.com/?cid=11428560738763952268&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "3899 Mannix Dr Unit 422, Naples, FL 34114, USA"
+  },
+  {
+    "name": "Florida Comfort Systems",
+    "rating": 4.9,
+    "reviews": 89,
+    "phone": "(239) 774-5501",
+    "website": "http://acbyfcs.com/",
+    "maps": "https://maps.google.com/?cid=17160680953362797337&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "3887 Mannix Dr STE 625, Naples, FL 34114, USA"
+  },
+  {
+    "name": "Air O'Space Mechanical LLC",
+    "rating": 5,
+    "reviews": 5,
+    "phone": null,
+    "website": "http://airospacemechanical.com/",
+    "maps": "https://maps.google.com/?cid=11465505163059941662&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "1392 Trinidad Ave, Marco Island, FL 34145, USA"
+  },
+  {
+    "name": "FosterCare Heating and Air",
+    "rating": 5,
+    "reviews": 15,
+    "phone": "(239) 572-1693",
+    "website": "http://www.fostercareair.com/",
+    "maps": "https://maps.google.com/?cid=8477789440184329157&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "256 Tahiti Rd, Marco Island, FL 34145, USA"
+  }
+]

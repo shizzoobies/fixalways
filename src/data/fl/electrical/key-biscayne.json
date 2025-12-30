@@ -1,0 +1,72 @@
+[
+  {
+    "name": "True Tint Electrician",
+    "rating": 5,
+    "reviews": 3,
+    "phone": "(305) 912-2141",
+    "website": "",
+    "address": "650 Crandon Blvd, Key Biscayne, FL 33149, USA",
+    "place_id": "ChIJBdGZZ_bL2YgRUYMmNGKu-tA",
+    "maps_url": "https://maps.google.com/?cid=15058540040871641937"
+  },
+  {
+    "name": "Fast Electric Experts",
+    "rating": 5,
+    "reviews": 1,
+    "phone": "(305) 614-3714",
+    "website": "",
+    "address": "88 W McIntyre St, Key Biscayne, FL 33149, USA",
+    "place_id": "ChIJH7PmtvzL2YgRIkTLdxnLq3k",
+    "maps_url": "https://maps.google.com/?cid=8767324409851233314"
+  },
+  {
+    "name": "Pro-Precision Electrical Contracting LLC",
+    "rating": 4.9,
+    "reviews": 51,
+    "phone": "(305) 439-1784",
+    "website": "https://proprecisionelectric.com/",
+    "address": "9730 SW 220th St, Cutler Bay, FL 33190, USA",
+    "place_id": "ChIJH86wi5PE2YgROExMulginWI",
+    "maps_url": "https://maps.google.com/?cid=7105873551538539576"
+  },
+  {
+    "name": "Elekron Electric Inc",
+    "rating": 5,
+    "reviews": 209,
+    "phone": "(786) 423-5230",
+    "website": "http://www.elekronelectric.com/",
+    "address": "2332 Galiano St Second Floor, Coral Gables, FL 33134, USA",
+    "place_id": "ChIJ3xpi3L232YgRgtKQ59YyICk",
+    "maps_url": "https://maps.google.com/?cid=2963424453399204482"
+  },
+  {
+    "name": "Electrical Services fl",
+    "rating": 4.9,
+    "reviews": 360,
+    "phone": "(786) 487-7441",
+    "website": "https://electricalservicesfl.com/",
+    "address": "1800 NE 180th St, North Miami Beach, FL 33162, USA",
+    "place_id": "ChIJXW_TXLWt2YgRQVvDcMumxlw",
+    "maps_url": "https://maps.google.com/?cid=6685214089578502977"
+  },
+  {
+    "name": "Tomkins Electric LLC",
+    "rating": 5,
+    "reviews": 18,
+    "phone": "(305) 300-8451",
+    "website": "http://www.tomkinselectric.com/",
+    "address": "1665 Narcissus Ave, Big Pine Key, FL 33043, USA",
+    "place_id": "ChIJDYx5I5b90IgR4bAi8XKCDyo",
+    "maps_url": "https://maps.google.com/?cid=3030784504427098337"
+  },
+  {
+    "name": "HB1 Data Cabling & Network Wiring",
+    "rating": 5,
+    "reviews": 4,
+    "phone": "(786) 628-8234",
+    "website": "https://sites.google.com/view/hb1-data-cabling/home",
+    "address": "104 Crandon Blvd Suite 129, Key Biscayne, FL 33149, USA",
+    "place_id": "ChIJI8e5DTm32YgRf7KWk7ObxNc",
+    "maps_url": "https://maps.google.com/?cid=15547723009167372927"
+  }
+]

@@ -1,0 +1,252 @@
+[
+  {
+    "name": "Dr. HVAC",
+    "rating": 4.8,
+    "reviews": 375,
+    "phone": "(954) 800-8457",
+    "website": "",
+    "address": "5441 NW 15th St, Margate, FL 33063, USA",
+    "place_id": "ChIJN1Uh-tId2YgRls1TTOjo22A",
+    "maps_url": "https://maps.google.com/?cid=6979428131951332758"
+  },
+  {
+    "name": "The A/C Guy Inc.",
+    "rating": 4.6,
+    "reviews": 375,
+    "phone": "(954) 970-0888",
+    "website": "http://acguyinc.com/",
+    "address": "311 FL-7, Margate, FL 33063, USA",
+    "place_id": "ChIJjV12OowE2YgRaQw2NEoPvEA",
+    "maps_url": "https://maps.google.com/?cid=4664620125426945129"
+  },
+  {
+    "name": "Luma Air Conditioning and Heating LLC",
+    "rating": 5,
+    "reviews": 111,
+    "phone": "(954) 861-9927",
+    "website": "",
+    "address": "1657 Banks Rd, Margate, FL 33063, USA",
+    "place_id": "ChIJMf44FWAF2YgREX4RkrVdEng",
+    "maps_url": "https://maps.google.com/?cid=8652080868553227793"
+  },
+  {
+    "name": "Vital A/C Solutions, Inc.",
+    "rating": 4.9,
+    "reviews": 634,
+    "phone": "(954) 821-8640",
+    "website": "http://www.vitalacsolutions.com/",
+    "address": "5451 NW 24th St STE 2, Margate, FL 33063, USA",
+    "place_id": "ChIJPd1k8Tod2YgR0eEZlLgwN8g",
+    "maps_url": "https://maps.google.com/?cid=14427053500621513169"
+  },
+  {
+    "name": "Barton FL AC Services",
+    "rating": 5,
+    "reviews": 114,
+    "phone": "(561) 299-8890",
+    "website": "https://bartonhvacservices.com/",
+    "address": "6109 SW 1st St, Margate, FL 33068, USA",
+    "place_id": "ChIJT8hOJANnraER0LJHT-n6mdY",
+    "maps_url": "https://maps.google.com/?cid=15463666675517731536"
+  },
+  {
+    "name": "Big C & Sons",
+    "rating": 4.9,
+    "reviews": 151,
+    "phone": "(754) 235-9918",
+    "website": "https://bigcandsons.com/",
+    "address": "590 SW 49th Terrace, Margate, FL 33068, USA",
+    "place_id": "ChIJLZHHcn4E2YgR7uPA5iOlQCg",
+    "maps_url": "https://maps.google.com/?cid=2900499733640438766"
+  },
+  {
+    "name": "Expert Cool Air Conditioning Services",
+    "rating": 5,
+    "reviews": 245,
+    "phone": "(954) 326-3466",
+    "website": "http://www.expertcoolac.com/",
+    "address": "7384 Pinewalk Dr S, Margate, FL 33063, USA",
+    "place_id": "ChIJd1jKC8MxRG0RAtSXfrcK5wU",
+    "maps_url": "https://maps.google.com/?cid=425320473028973570"
+  },
+  {
+    "name": "SJS Mechanical LLC",
+    "rating": 5,
+    "reviews": 308,
+    "phone": "(786) 783-4050",
+    "website": "http://www.sjs-mechanical.com/",
+    "address": "4570 Glenwood Dr, Coconut Creek, FL 33066, USA",
+    "place_id": "ChIJZ66Eu6QD2YgRZ2sq_k36R9A",
+    "maps_url": "https://maps.google.com/?cid=15008239496119085927"
+  },
+  {
+    "name": "Air-Tech HVAC Corp.",
+    "rating": 4.9,
+    "reviews": 51,
+    "phone": "(954) 951-7062",
+    "website": "http://airtechhvaccorp.com/",
+    "address": "1427 Banks Rd, Margate, FL 33063, USA",
+    "place_id": "ChIJX8sC4ZgE2YgRTMexQBR5kzs",
+    "maps_url": "https://maps.google.com/?cid=4292907997705914188"
+  },
+  {
+    "name": "Glacial Air Services, LLC",
+    "rating": 5,
+    "reviews": 14,
+    "phone": "(754) 220-6446",
+    "website": "https://glacialairservices.com/",
+    "address": "5218 NW 15th St, Margate, FL 33063, USA",
+    "place_id": "ChIJI_5sB9EF2YgRmduhtXbyoyg",
+    "maps_url": "https://maps.google.com/?cid=2928450774388300697"
+  },
+  {
+    "name": "Sunshine Air Conditioning Solutions LLC",
+    "rating": 5,
+    "reviews": 23,
+    "phone": "(561) 507-1747",
+    "website": "http://www.sunshineairfl.com/",
+    "address": "1915 Banks Rd, Margate, FL 33063, USA",
+    "place_id": "ChIJjfcmN_Pky4cRNmjfM8ldDGw",
+    "maps_url": "https://maps.google.com/?cid=7785700974556833846"
+  },
+  {
+    "name": "Lindstrom Air Conditioning & Plumbing",
+    "rating": 4.7,
+    "reviews": 11119,
+    "phone": "(800) 775-8691",
+    "website": "https://www.lindstromair.com/?csdni=gmb&utm_campaign=Google+My+Business&utm_source=GMB&utm_medium=organic&utm_content=Website",
+    "address": "3581 W McNab Rd, Pompano Beach, FL 33069, USA",
+    "place_id": "ChIJ9RrsyZAD2YgR6HQ_-QAw2VQ",
+    "maps_url": "https://maps.google.com/?cid=6113970749871977704"
+  },
+  {
+    "name": "SereneAir AC Repair Margate",
+    "rating": 5,
+    "reviews": 3,
+    "phone": "(954) 833-7791",
+    "website": "https://margate.sereneair.net/location/ac-repairs-margate-your-comprehensive-guide",
+    "address": "5401 W Copans Rd Unit 301, Margate, FL 33063, USA",
+    "place_id": "ChIJ-zTz2k0F2YgR090g_ByN0Qc",
+    "maps_url": "https://maps.google.com/?cid=563386584026635731"
+  },
+  {
+    "name": "Mechanical Cooling Air Conditioning & Refrigeration",
+    "rating": 4.6,
+    "reviews": 24,
+    "phone": "(954) 397-2527",
+    "website": "https://mechanicalcoolingac.com/",
+    "address": "5615 NW 8th St #20, Margate, FL 33063, USA",
+    "place_id": "ChIJrycH7ZEE2YgRM2_I184k6Bk",
+    "maps_url": "https://maps.google.com/?cid=1866782516347170611"
+  },
+  {
+    "name": "HI-VAC Air Conditioning Service",
+    "rating": 4.9,
+    "reviews": 1073,
+    "phone": "(954) 738-2908",
+    "website": "http://hivacair.com/",
+    "address": "1671 NW 144th Terrace STE 111, Sunrise, FL 33323, USA",
+    "place_id": "ChIJtw7ZXacJ2YgRwSpmsP1VWMU",
+    "maps_url": "https://maps.google.com/?cid=14220210371496913601"
+  },
+  {
+    "name": "Ice C Cool Air Conditioning",
+    "rating": 4.9,
+    "reviews": 180,
+    "phone": "(954) 957-9577",
+    "website": "https://iceccool.com/",
+    "address": "1847 Banks Rd, Margate, FL 33063, USA",
+    "place_id": "ChIJdRxasqME2YgRCVTPPGZyeGQ",
+    "maps_url": "https://maps.google.com/?cid=7239662184430523401"
+  },
+  {
+    "name": "Beat The Heat Air Conditioning Corporation",
+    "rating": 4.8,
+    "reviews": 220,
+    "phone": "(954) 394-2164",
+    "website": "https://beattheheatcorp.com/",
+    "address": "2700 W Atlantic Blvd Ste 115, Pompano Beach, FL 33069, USA",
+    "place_id": "ChIJ0VEkJK6rmwkRT7AWLjDFmbk",
+    "maps_url": "https://maps.google.com/?cid=13373937379175739471"
+  },
+  {
+    "name": "Aura America HVAC, LLC",
+    "rating": 4.9,
+    "reviews": 552,
+    "phone": "(754) 270-5434",
+    "website": "https://auraamericahvac.com/",
+    "address": "945 NW 31st Ave, Pompano Beach, FL 33069, USA",
+    "place_id": "ChIJ6S9EbecD2YgRsfMJG7nTNRk",
+    "maps_url": "https://maps.google.com/?cid=1816590816689910705"
+  },
+  {
+    "name": "Likir HVAC Solutions Coral Springs",
+    "rating": 5,
+    "reviews": 11,
+    "phone": "(239) 510-2878",
+    "website": "http://likirhvacsolutionscoralsprings.online/",
+    "address": "10271 W Sample Rd, Coral Springs, FL 33065, USA",
+    "place_id": "ChIJWRXGczUF2YgRSgegpOTjgew",
+    "maps_url": "https://maps.google.com/?cid=17042153036100667210"
+  },
+  {
+    "name": "Margate AC Expert",
+    "rating": 5,
+    "reviews": 2,
+    "phone": "(954) 366-9079",
+    "website": "http://www.margateacexpert.com/",
+    "address": "5885 Margate Blvd, Margate, FL 33063, USA",
+    "place_id": "ChIJH7fac5QE2YgROh9rfWAuXXk",
+    "maps_url": "https://maps.google.com/?cid=8745197043379281722"
+  },
+  {
+    "name": "Blake Air Conditioning Repair",
+    "rating": 5,
+    "reviews": 22,
+    "phone": "(954) 932-2506",
+    "website": "https://blakeaccoralsprings.com/",
+    "address": "10200 W Sample Rd suite #416, Coral Springs, FL 33065, USA",
+    "place_id": "ChIJYz3DA2MF2YgRtg4Waq__lmk",
+    "maps_url": "https://maps.google.com/?cid=7608549749353221814"
+  },
+  {
+    "name": "Ron's Heating & Air Conditioning",
+    "rating": 4.9,
+    "reviews": 10,
+    "phone": "(954) 371-2721",
+    "website": "",
+    "address": "6026 NW 3rd St, Margate, FL 33063, USA",
+    "place_id": "ChIJXdNv5h6x2YgRFQ__u-D9Dyk",
+    "maps_url": "https://maps.google.com/?cid=2958862621874261781"
+  },
+  {
+    "name": "HVAC Troopers",
+    "rating": 5,
+    "reviews": 161,
+    "phone": "(484) 935-8194",
+    "website": "https://www.hvactroopers.com/",
+    "address": "8657 NW 25th Ct, Coral Springs, FL 33065, USA",
+    "place_id": "ChIJua7lNFkw5KURzzD5HFOQnNI",
+    "maps_url": "https://maps.google.com/?cid=15176163530974507215"
+  },
+  {
+    "name": "Happy AC Inc",
+    "rating": 5,
+    "reviews": 8,
+    "phone": "(844) 427-7922",
+    "website": "http://www.happyac.com/",
+    "address": "5425 NW 24th St Unit 212, Margate, FL 33063, USA",
+    "place_id": "ChIJSd3DKcQF2YgRlFTH2SWPX2o",
+    "maps_url": "https://maps.google.com/?cid=7665002483538154644"
+  },
+  {
+    "name": "Snell Precision Cooling, Inc.",
+    "rating": 4.9,
+    "reviews": 27,
+    "phone": "(954) 726-8883",
+    "website": "http://www.snellac.com/",
+    "address": "1449 Banks Rd, Margate, FL 33063, USA",
+    "place_id": "ChIJKx9KTEwF2YgRuQRp3-LmxN8",
+    "maps_url": "https://maps.google.com/?cid=16124266427978417337"
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Pest-Tech of Marianna Inc",
+    "rating": 5,
+    "reviews": 8,
+    "phone": "(850) 526-2464",
+    "website": "",
+    "address": "2867 State Correctional Rd, Marianna, FL 32448, USA",
+    "place_id": "ChIJRQjorKMfk4gRM841c0OhwA8",
+    "maps_url": "https://maps.google.com/?cid=1135084417165151795"
+  },
+  {
+    "name": "Panhandle Pest Control Inc",
+    "rating": 5,
+    "reviews": 30,
+    "phone": "(850) 209-8893",
+    "website": "https://panhandlepests.com/",
+    "address": "5015 Whitetail Dr, Marianna, FL 32448, USA",
+    "place_id": "ChIJCVVehiMnk4gRigWDhjVn60Q",
+    "maps_url": "https://maps.google.com/?cid=4966176493693765002"
+  },
+  {
+    "name": "A & J Pest Service Inc",
+    "rating": 5,
+    "reviews": 29,
+    "phone": "(850) 526-5455",
+    "website": "http://ajpestservice.com/",
+    "address": "2372 Curlee Rd, Sneads, FL 32460, USA",
+    "place_id": "ChIJh9iT1zsrk4gR94xaRj5KmQo",
+    "maps_url": "https://maps.google.com/?cid=763723243144776951"
+  }
+]

@@ -1,0 +1,83 @@
+[
+  {
+    "name": "Kabran Air Conditioning & Heating",
+    "rating": 4.9,
+    "reviews": 987,
+    "phone": "(321) 784-0127",
+    "website": "https://kabran.com/",
+    "maps": "https://maps.google.com/?cid=14272295523582463403&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "62 S Atlantic Ave, Cocoa Beach, FL 32931, USA"
+  },
+  {
+    "name": "Page Air Inc",
+    "rating": 4.9,
+    "reviews": 151,
+    "phone": "(321) 735-4162",
+    "website": "https://pageairinc.com/",
+    "maps": "https://maps.google.com/?cid=8944120659190915481&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "166 Center St, Cape Canaveral, FL 32920, USA"
+  },
+  {
+    "name": "Freedom Air and Plumbing",
+    "rating": 4.8,
+    "reviews": 6630,
+    "phone": "(321) 200-0907",
+    "website": "https://freedomairheat.com/?utm_source=GMB&utm_medium=organic&utm_campaign=GMBListing-Rockledge-FL",
+    "maps": "https://maps.google.com/?cid=6121574884934315385&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "4851 US-1, Rockledge, FL 32955, USA"
+  },
+  {
+    "name": "Dial Duron Service Company",
+    "rating": 4.8,
+    "reviews": 2364,
+    "phone": "(321) 341-3625",
+    "website": "https://www.dialduron.com/",
+    "maps": "https://maps.google.com/?cid=9589656183987149793&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "290 Paint St Suite 101, Rockledge, FL 32955, USA"
+  },
+  {
+    "name": "Cocoa Beach Air Conditioning, Inc.",
+    "rating": 4.8,
+    "reviews": 21,
+    "phone": "(321) 784-7944",
+    "website": "http://www.cocoabeachairconditioninginc.com/",
+    "maps": "https://maps.google.com/?cid=12080970127574719070&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "43 S Atlantic Ave, Cocoa Beach, FL 32931, USA"
+  },
+  {
+    "name": "EnergyWize Air Conditioning & Refrigeration, Inc.",
+    "rating": 5,
+    "reviews": 134,
+    "phone": "(321) 507-4355",
+    "website": "https://www.energywizeair.com/",
+    "maps": "https://maps.google.com/?cid=3645187457423631697&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "6640 Cecil Rd, Cocoa, FL 32927, USA"
+  },
+  {
+    "name": "Altman's Air Conditioning & Heating Repair",
+    "rating": 4.9,
+    "reviews": 1755,
+    "phone": "(321) 248-1118",
+    "website": "https://www.altmansac.com/furnace-repair/?utm_campaign=gmb",
+    "maps": "https://maps.google.com/?cid=14633677941683657600&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "3485 S Hopkins Ave, Titusville, FL 32780, USA"
+  },
+  {
+    "name": "Brevard Cooling And Heating Inc.",
+    "rating": 4.8,
+    "reviews": 502,
+    "phone": "(321) 757-9008",
+    "website": "https://brevardcooling.com/",
+    "maps": "https://maps.google.com/?cid=14966966376730621139&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "5255 Corporate Ct, Melbourne, FL 32940, USA"
+  },
+  {
+    "name": "EnergyWize Air Conditioning & Refrigeration",
+    "rating": 4.9,
+    "reviews": 54,
+    "phone": "(321) 266-0179",
+    "website": "https://www.energywizeac.com/",
+    "maps": "https://maps.google.com/?cid=2574681115906796719&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "6640 Cecil Rd, Cocoa, FL 32927, USA"
+  }
+]

@@ -1,0 +1,152 @@
+[
+  {
+    "name": "The Friendly Repairman",
+    "rating": 5,
+    "reviews": 110,
+    "phone": "(321) 355-2202",
+    "website": "http://www.thefriendlyrepairman.com/",
+    "address": "5445 Murrell Rd Suite 102 Box 151, Rockledge, FL 32955, USA",
+    "place_id": "ChIJNwskclMB3ogRRvQXivhIUdA",
+    "maps_url": "https://maps.google.com/?cid=15010859265308488774"
+  },
+  {
+    "name": "Your Hometown Handyman",
+    "rating": 5,
+    "reviews": 189,
+    "phone": "(321) 355-2201",
+    "website": "https://your321handyman.com/",
+    "address": "1926 Exeter Dr, Cocoa, FL 32922, USA",
+    "place_id": "ChIJ5S_EFDur4IgRJYFW9SvE-fI",
+    "maps_url": "https://maps.google.com/?cid=17508240719458238757"
+  },
+  {
+    "name": "Rocket Coast Handyman",
+    "rating": 5,
+    "reviews": 65,
+    "phone": "(321) 209-1771",
+    "website": "http://rocketcoasthandyman.com/",
+    "address": "1709 N Harbor City Blvd PMB 6021, Melbourne, FL 32935, USA",
+    "place_id": "ChIJ1ek-v2cR3ogRmF_RzRqiUHU",
+    "maps_url": "https://maps.google.com/?cid=8453434736580321176"
+  },
+  {
+    "name": "Trent Of All Trades LLC",
+    "rating": 5,
+    "reviews": 22,
+    "phone": "(407) 242-2304",
+    "website": "",
+    "address": "1114 Abington St, Cocoa, FL 32922, USA",
+    "place_id": "ChIJEwu9biOr4IgRVGW68PoLFro",
+    "maps_url": "https://maps.google.com/?cid=13408918112950707540"
+  },
+  {
+    "name": "Joe Handyman 321",
+    "rating": 5,
+    "reviews": 1,
+    "phone": "(321) 458-3220",
+    "website": "",
+    "address": "856 Jamestown Dr, Rockledge, FL 32955, USA",
+    "place_id": "ChIJVfo3U10B3ogRIqqmT8JIYqY",
+    "maps_url": "https://maps.google.com/?cid=11989225157410859554"
+  },
+  {
+    "name": "J.R.'s Home Repair",
+    "rating": 4.8,
+    "reviews": 37,
+    "phone": "(704) 703-7360",
+    "website": "https://cocoapainter.com/",
+    "address": "2168 Canaveral Groves Blvd, Cocoa, FL 32926, USA",
+    "place_id": "ChIJeWCto_vBVogRhWr8MngPi1c",
+    "maps_url": "https://maps.google.com/?cid=6308152711988406917"
+  },
+  {
+    "name": "Z5 Repair Services LLC",
+    "rating": 4.8,
+    "reviews": 4,
+    "phone": "(321) 591-7572",
+    "website": "https://z5repairs.com/",
+    "address": "135 Griffin Dr Ste 12-255, Cocoa, FL 32926, USA",
+    "place_id": "ChIJo33KgEGr4IgRGSkI2THpcFE",
+    "maps_url": "https://maps.google.com/?cid=5868446714767616281"
+  },
+  {
+    "name": "Crane Creek Handyman Services",
+    "rating": 5,
+    "reviews": 7,
+    "phone": "(321) 376-2623",
+    "website": "https://cranecreekhm.com/",
+    "address": "1800 Woodberry Cir, Melbourne, FL 32935, USA",
+    "place_id": "ChIJfyLBB1EF3ogREs5w3juH3lo",
+    "maps_url": "https://maps.google.com/?cid=6547819599448034834"
+  },
+  {
+    "name": "Flexible Chore Handlers",
+    "rating": 4.8,
+    "reviews": 20,
+    "phone": "(321) 549-9824",
+    "website": "",
+    "address": "1072 Martha Lee Ave, Rockledge, FL 32955, USA",
+    "place_id": "ChIJ7Xpuw0jcLE0RSf5Yn2BQtHU",
+    "maps_url": "https://maps.google.com/?cid=8481492374165978697"
+  },
+  {
+    "name": "Hansen's Construction (Hansen’s Handyman Services)",
+    "rating": 4.4,
+    "reviews": 54,
+    "phone": "(321) 302-9441",
+    "website": "https://www.hansenshomerenovations.com/",
+    "address": "416 Hurst Rd NE, Palm Bay, FL 32907, USA",
+    "place_id": "ChIJKwh0Y-4B3ogRxQ_me0JGKws",
+    "maps_url": "https://maps.google.com/?cid=804814209776226245"
+  },
+  {
+    "name": "Proway Home Services LLC",
+    "rating": 0,
+    "reviews": 0,
+    "phone": "(321) 987-8000",
+    "website": "https://prowayhomeservices.com/",
+    "address": "831 Aloe Ct, Rockledge, FL 32955, USA",
+    "place_id": "ChIJCewvnWwB3ogRJFulGAftbPM",
+    "maps_url": "https://maps.google.com/?cid=17540655263435283236"
+  },
+  {
+    "name": "JStuds Handyman Service",
+    "rating": 4.5,
+    "reviews": 15,
+    "phone": "(321) 261-6100",
+    "website": "",
+    "address": "200 Linda Ave, Merritt Island, FL 32953, USA",
+    "place_id": "ChIJGQMrWw2p4IgR57kXIw8eQS0",
+    "maps_url": "https://maps.google.com/?cid=3260920655555049959"
+  },
+  {
+    "name": "Blake's handyman restoration",
+    "rating": 5,
+    "reviews": 2,
+    "phone": "(813) 367-6983",
+    "website": "",
+    "address": "#138, Fort White, FL 32038, USA",
+    "place_id": "ChIJw_iHVKPP6IgR_vGE4MoEnCM",
+    "maps_url": "https://maps.google.com/?cid=2565931157091054078"
+  },
+  {
+    "name": "Quality Services The King LLC",
+    "rating": 5,
+    "reviews": 29,
+    "phone": "(352) 281-9137",
+    "website": "",
+    "address": "136 SW 145th Dr, Newberry, FL 32669, USA",
+    "place_id": "ChIJExTqCJi_6IgRQQ7KBy5DN_c",
+    "maps_url": "https://maps.google.com/?cid=17813780716065525313"
+  },
+  {
+    "name": "The Handyman Company Melbourne Home & Repair Remodeling",
+    "rating": 3.9,
+    "reviews": 97,
+    "phone": "(321) 800-5005",
+    "website": "https://the-handyman-company.com/melbourne-florida-handyman-drywall-repair-near-you/?utm_source=google&utm_medium=organic&utm_campaign=gmbwebsite-melbourne",
+    "address": "1600 Sarno Rd #119-G, Melbourne, FL 32935, USA",
+    "place_id": "ChIJD8eRCs0P3ogR4VmXr1DVCVw",
+    "maps_url": "https://maps.google.com/?cid=6632066468799797729"
+  }
+]

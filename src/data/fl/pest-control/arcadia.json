@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Cox Pest Control Management INC",
+    "rating": 4.4,
+    "reviews": 24,
+    "phone": "(800) 673-3291",
+    "website": "https://coxpest.com/",
+    "address": "5344 SW Provau Ave, Arcadia, FL 34266, USA",
+    "place_id": "ChIJ3bOxEUO93IgRidJ4Z4vGBeY",
+    "maps_url": "https://maps.google.com/?cid=16574872305645703817"
+  },
+  {
+    "name": "Clarke Pest Control",
+    "rating": 4.7,
+    "reviews": 6,
+    "phone": "(863) 491-5656",
+    "website": "https://clarkepestcontrol.com/",
+    "address": "Arcadia, FL 34266, USA",
+    "place_id": "ChIJ-bOQ_QaW3IgROmmQr0EeAAo",
+    "maps_url": "https://maps.google.com/?cid=720609207846463802"
+  },
+  {
+    "name": "Total Pest Control Inc",
+    "rating": 3,
+    "reviews": 2,
+    "phone": "(863) 494-7173",
+    "website": "",
+    "address": "233 N Brevard Ave, Arcadia, FL 34266, USA",
+    "place_id": "ChIJKYp5fP2V3IgRLZJ2tqxs7AU",
+    "maps_url": "https://maps.google.com/?cid=426835553744753197"
+  },
+  {
+    "name": "A Bug's Life Pest Management Inc.",
+    "rating": 4.9,
+    "reviews": 103,
+    "phone": "(941) 794-0400",
+    "website": "https://www.abugslifepest.com/?utm_source=GBP&utm_medium=organic&utm_campaign=office",
+    "address": "2260 Bengal Ct, Punta Gorda, FL 33983, USA",
+    "place_id": "ChIJ9bEKFUum3IgRf1PU-LZbIA0",
+    "maps_url": "https://maps.google.com/?cid=945856763164644223"
+  },
+  {
+    "name": "Mity Mole",
+    "rating": 3.5,
+    "reviews": 2,
+    "phone": "(863) 491-0137",
+    "website": "",
+    "address": "3501 Washington St, Arcadia, FL 34266, USA",
+    "place_id": "ChIJXxWn4U2U3IgRvpRvxKp2JNQ",
+    "maps_url": "https://maps.google.com/?cid=15286473511014470846"
+  },
+  {
+    "name": "Truly Nolan",
+    "rating": 4.7,
+    "reviews": 6,
+    "phone": "(863) 266-4492",
+    "website": "",
+    "address": "Arcadia, FL 34266, USA",
+    "place_id": "ChIJ-bOQ_QaW3IgR0hPKdU63ldY",
+    "maps_url": "https://maps.google.com/?cid=15462466443257975762"
+  }
+]

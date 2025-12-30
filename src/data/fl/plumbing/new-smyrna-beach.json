@@ -1,0 +1,252 @@
+[
+  {
+    "name": "Tyler Plumbing",
+    "rating": 4.5,
+    "reviews": 72,
+    "phone": "(386) 424-1450",
+    "website": "https://www.tylerplumbing.net/",
+    "address": "508 Downing St, New Smyrna Beach, FL 32168, USA",
+    "place_id": "ChIJV0MDLyEm54gRexVq7IRoKh0",
+    "maps_url": "https://maps.google.com/?cid=2101607096233104763"
+  },
+  {
+    "name": "Howell Plumbing",
+    "rating": 4.4,
+    "reviews": 119,
+    "phone": "(386) 423-9456",
+    "website": "http://howellplumbingfl.com/",
+    "address": "554 Julia St, New Smyrna Beach, FL 32168, USA",
+    "place_id": "ChIJm52dOjEp54gRPJaqHOpC1hg",
+    "maps_url": "https://maps.google.com/?cid=1789691475197072956"
+  },
+  {
+    "name": "Armitage Plumbing and Gas",
+    "rating": 4.9,
+    "reviews": 388,
+    "phone": "(386) 423-5800",
+    "website": "http://armitageplumbingandgas.com/",
+    "address": "1502 Industrial Dr, Edgewater, FL 32132, USA",
+    "place_id": "ChIJCwW1AIQu54gRmZRYuw2Tjmk",
+    "maps_url": "https://maps.google.com/?cid=7606178507862348953"
+  },
+  {
+    "name": "Coleman Plumbing",
+    "rating": 4.5,
+    "reviews": 98,
+    "phone": "(386) 428-1838",
+    "website": "http://www.colemanplumbing.net/",
+    "address": "1812 Hibiscus Dr, Edgewater, FL 32132, USA",
+    "place_id": "ChIJdTuSpYAu54gRlPZmiq36JSU",
+    "maps_url": "https://maps.google.com/?cid=2676821176799917716"
+  },
+  {
+    "name": "Lutz Plumbing",
+    "rating": 4.3,
+    "reviews": 39,
+    "phone": "(386) 428-4746",
+    "website": "",
+    "address": "107 Park Blvd, New Smyrna Beach, FL 32168, USA",
+    "place_id": "ChIJk-ZTfi0p54gRFvPrDWCXSX4",
+    "maps_url": "https://maps.google.com/?cid=9099970960885019414"
+  },
+  {
+    "name": "Holland Plumbing, Inc.",
+    "rating": 4.4,
+    "reviews": 62,
+    "phone": "(407) 284-0723",
+    "website": "",
+    "address": "1168 State Rte 415, New Smyrna Beach, FL 32168, USA",
+    "place_id": "ChIJiQj61FJv54gRzOosWs3fKx4",
+    "maps_url": "https://maps.google.com/?cid=2174077318210579148"
+  },
+  {
+    "name": "Super Rooter and Backflow Services",
+    "rating": 4.9,
+    "reviews": 36,
+    "phone": "(386) 747-4631",
+    "website": "",
+    "address": "720 Phyllis Ave, New Smyrna Beach, FL 32168, USA",
+    "place_id": "ChIJ8Z2jm1Md54gRT_DS-xMIrb0",
+    "maps_url": "https://maps.google.com/?cid=13667589326061629519"
+  },
+  {
+    "name": "Certified Plumbing Services Inc.",
+    "rating": 4.8,
+    "reviews": 50,
+    "phone": "(386) 252-1000",
+    "website": "http://www.certifiedplumbingservice.com/",
+    "address": "175 Brookside Dr, Port Orange, FL 32128, USA",
+    "place_id": "ChIJkyN0bsMm54gRi34SS088zcQ",
+    "maps_url": "https://maps.google.com/?cid=14181057112919146123"
+  },
+  {
+    "name": "Luke Webb Plumbing",
+    "rating": 4.7,
+    "reviews": 13,
+    "phone": "(386) 424-1719",
+    "website": "",
+    "address": "640 S Pine St, New Smyrna Beach, FL 32169, USA",
+    "place_id": "ChIJzcuY_Fgp54gR_-mxZbWYLao",
+    "maps_url": "https://maps.google.com/?cid=12262625265262389759"
+  },
+  {
+    "name": "Andy's Plumbing",
+    "rating": 4.9,
+    "reviews": 145,
+    "phone": "(386) 356-2388",
+    "website": "https://www.andysplumbing.com/",
+    "address": "5811 S Ridgewood Ave suite b, Port Orange, FL 32127, USA",
+    "place_id": "ChIJRS6hQVm-P4oRO_5FdYpDAbI",
+    "maps_url": "https://maps.google.com/?cid=12826607475679952443"
+  },
+  {
+    "name": "Sun Plumbing & Mechanical Inc",
+    "rating": 5,
+    "reviews": 6,
+    "phone": "(386) 423-0273",
+    "website": "",
+    "address": "153 Cheeta Dr, Edgewater, FL 32132, USA",
+    "place_id": "ChIJa01VCrsu54gRtTS_JCQSmsg",
+    "maps_url": "https://maps.google.com/?cid=14454885900443661493"
+  },
+  {
+    "name": "B & L Plumbing",
+    "rating": 4,
+    "reviews": 12,
+    "phone": "(386) 427-2322",
+    "website": "",
+    "address": "209 Parktowne Blvd, Edgewater, FL 32132, USA",
+    "place_id": "ChIJU_9G6Cks54gRsmXv3ppT5Xw",
+    "maps_url": "https://maps.google.com/?cid=8999691355000104370"
+  },
+  {
+    "name": "Advanced Air Home Services",
+    "rating": 4.7,
+    "reviews": 4287,
+    "phone": "(386) 260-2330",
+    "website": "https://www.advancedairandheat.com/",
+    "address": "1939 W Park Ave, Edgewater, FL 32132, USA",
+    "place_id": "ChIJwzugm_ou54gRz4yA8qlap8Y",
+    "maps_url": "https://maps.google.com/?cid=14314509626584894671"
+  },
+  {
+    "name": "Integrity Plumbing",
+    "rating": 4.8,
+    "reviews": 91,
+    "phone": "(386) 237-2954",
+    "website": "https://www.integrityplumbingportorange.com/",
+    "address": "5889 S Williamson Blvd #1404, Port Orange, FL 32127, USA",
+    "place_id": "ChIJ2cp6pzR_P6ERZB6yRIW92d8",
+    "maps_url": "https://maps.google.com/?cid=16130131920484965988"
+  },
+  {
+    "name": "Mr. Rooter Plumbing of Daytona Beach",
+    "rating": 4.8,
+    "reviews": 928,
+    "phone": "(386) 516-2594",
+    "website": "https://www.mrrooter.com/daytona-beach/?cid=LSTL_MRR000199&utm_source=gmb&utm_campaign=local&utm_medium=organic",
+    "address": "700 Ridgewood Ave UNIT 103, Holly Hill, FL 32117, USA",
+    "place_id": "ChIJAQAAAHDZ5ogROObELRcD9OY",
+    "maps_url": "https://maps.google.com/?cid=16641929921127835192"
+  },
+  {
+    "name": "Holman Plumbing",
+    "rating": 5,
+    "reviews": 1,
+    "phone": "(386) 423-0872",
+    "website": "",
+    "address": "721 Phyllis Ave, New Smyrna Beach, FL 32168, USA",
+    "place_id": "ChIJT9U9sCYp54gR6Bfh7CPkueA",
+    "maps_url": "https://maps.google.com/?cid=16193224778136492008"
+  },
+  {
+    "name": "Benjamin Franklin Plumbing",
+    "rating": 4.8,
+    "reviews": 1519,
+    "phone": "(386) 221-4118",
+    "website": "https://daytonabenjaminfranklin.com/?utm_source=GBP&utm_medium=organic&utm_campaign=daytonagbp",
+    "address": "2444 S Nova Rd, Daytona Beach, FL 32119, USA",
+    "place_id": "ChIJcUMlny7Y5ogRJulqAIgCA08",
+    "maps_url": "https://maps.google.com/?cid=5693397137072253222"
+  },
+  {
+    "name": "Kraken Plumbing",
+    "rating": 4.9,
+    "reviews": 141,
+    "phone": "(386) 868-3013",
+    "website": "http://www.krakenplumbingcompany.com/",
+    "address": "386 S Atlantic Ave #4, Ormond Beach, FL 32176, USA",
+    "place_id": "ChIJUU3PKQLb5ogRSJdcn0Wu2mE",
+    "maps_url": "https://maps.google.com/?cid=7051139780651554632"
+  },
+  {
+    "name": "Davis Plumbing, LLC",
+    "rating": 5,
+    "reviews": 18,
+    "phone": "(386) 205-3294",
+    "website": "",
+    "address": "5780 Stewart Ave, Port Orange, FL 32127, USA",
+    "place_id": "ChIJg82e0ODHGioRhEPYQgMMjBo",
+    "maps_url": "https://maps.google.com/?cid=1912917149871522692"
+  },
+  {
+    "name": "My Favorite Handyman",
+    "rating": 4.9,
+    "reviews": 52,
+    "phone": "(386) 538-1428",
+    "website": "http://www.myfavoritehandymanfl.com/",
+    "address": "469 N Samsula Dr, New Smyrna Beach, FL 32168, USA",
+    "place_id": "ChIJZ2KBBA3suGwRQnhovLUP1Fc",
+    "maps_url": "https://maps.google.com/?cid=6328700649586849858"
+  },
+  {
+    "name": "King's Plumbing",
+    "rating": 3.2,
+    "reviews": 6,
+    "phone": "(386) 426-0620",
+    "website": "",
+    "address": "2026 Pioneer Trail, New Smyrna Beach, FL 32168, USA",
+    "place_id": "ChIJIwZr5tMo54gRLJPtrnWl_tg",
+    "maps_url": "https://maps.google.com/?cid=15636116881141502764"
+  },
+  {
+    "name": "L & P Mechanical Plumbing",
+    "rating": 4,
+    "reviews": 2,
+    "phone": "(386) 427-6326",
+    "website": "",
+    "address": "709 Edward St, New Smyrna Beach, FL 32168, USA",
+    "place_id": "ChIJPaKGCCUp54gRk6DpOtCUbGk",
+    "maps_url": "https://maps.google.com/?cid=7596610293529682067"
+  },
+  {
+    "name": "Boen Plumbing Inc",
+    "rating": 4.5,
+    "reviews": 8,
+    "phone": "(386) 427-9191",
+    "website": "",
+    "address": "312 Crawford Rd, New Smyrna Beach, FL 32169, USA",
+    "place_id": "ChIJ4bGx62Ep54gRqwxI5FY7ykA",
+    "maps_url": "https://maps.google.com/?cid=4668609208106093739"
+  },
+  {
+    "name": "Drain Masters Sewer & Drain",
+    "rating": 4.8,
+    "reviews": 10,
+    "phone": "(386) 427-0011",
+    "website": "",
+    "address": "New Smyrna Beach, FL 32168, USA",
+    "place_id": "ChIJX8IxoZYu54gRZR1bdwtGaWA",
+    "maps_url": "https://maps.google.com/?cid=6947160915256745317"
+  },
+  {
+    "name": "Dempsey Plumbing",
+    "rating": 3.4,
+    "reviews": 5,
+    "phone": "(386) 423-4462",
+    "website": "",
+    "address": "817 South Jimmy Buffett Mem Hwy, New Smyrna Beach, FL 32169, USA",
+    "place_id": "ChIJ3UzByeQr54gRPf_B7bzKtq8",
+    "maps_url": "https://maps.google.com/?cid=12661530315190304573"
+  }
+]

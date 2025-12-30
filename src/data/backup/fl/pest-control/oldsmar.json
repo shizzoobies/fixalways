@@ -1,0 +1,92 @@
+[
+  {
+    "name": "ACHV Services",
+    "rating": 5,
+    "reviews": 358,
+    "phone": "(727) 453-2432",
+    "website": "https://www.achvservices.com/",
+    "maps": "https://maps.google.com/?cid=7223405524968128675&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "144 Douglas Rd W Apt A, Oldsmar, FL 34677, USA"
+  },
+  {
+    "name": "Superior Heating and Cooling Management., Inc.",
+    "rating": 4.5,
+    "reviews": 1030,
+    "phone": "(813) 854-3449",
+    "website": "http://superiorhvacfl.com/",
+    "maps": "https://maps.google.com/?cid=2258340535443401791&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "MAIN OFFICE, 785 Dunbar Ave, Oldsmar, FL 34677, USA"
+  },
+  {
+    "name": "Vinson Heating & Cooling",
+    "rating": 4.9,
+    "reviews": 927,
+    "phone": "(727) 816-9040",
+    "website": "http://vinsonair.com/",
+    "maps": "https://maps.google.com/?cid=7781160202761149028&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "31515 US Hwy 19 N, Palm Harbor, FL 34684, USA"
+  },
+  {
+    "name": "Harbor Air",
+    "rating": 4.9,
+    "reviews": 217,
+    "phone": "(727) 315-2274",
+    "website": "https://harborairac.net/",
+    "maps": "https://maps.google.com/?cid=15187681090631223347&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "485 Douglas Rd E E C, Oldsmar, FL 34677, USA"
+  },
+  {
+    "name": "The AC Guy of Tampa Bay Inc",
+    "rating": 4.7,
+    "reviews": 765,
+    "phone": "(727) 286-3170",
+    "website": "https://www.acguyoftampa.com/",
+    "maps": "https://maps.google.com/?cid=18324461657742603580&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "2070 Calumet St, Clearwater, FL 33765, USA"
+  },
+  {
+    "name": "Cooling Tampa Bay | Air Conditioning & Repair",
+    "rating": 4.1,
+    "reviews": 131,
+    "phone": "(727) 744-4848",
+    "website": "https://www.coolingtampabay.com/",
+    "maps": "https://maps.google.com/?cid=6546043574820576074&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "5301 44th Ave N, St. Petersburg, FL 33709, USA"
+  },
+  {
+    "name": "I Know A Guy AC",
+    "rating": 5,
+    "reviews": 125,
+    "phone": "(813) 797-6577",
+    "website": "https://iknowaguyac.com/",
+    "maps": "https://maps.google.com/?cid=4452107705728540273&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "380 Douglas Rd E Ste. 6, Oldsmar, FL 34677, USA"
+  },
+  {
+    "name": "Veterans AC & Heat Inc.",
+    "rating": 4.9,
+    "reviews": 1494,
+    "phone": "(727) 607-2080",
+    "website": "https://veteranshvac.com/?utm_campaign=gmb-tarpon",
+    "maps": "https://maps.google.com/?cid=18342532464510392572&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "125 E Lime St, Tarpon Springs, FL 34689, USA"
+  },
+  {
+    "name": "Veterans AC & Heat Inc.",
+    "rating": 4.9,
+    "reviews": 512,
+    "phone": "(727) 604-8585",
+    "website": "https://veteranshvac.com/?utm_campaign=gmb-dunedin",
+    "maps": "https://maps.google.com/?cid=12548414929427555026&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "1120 Suemar Rd Suite 101, Dunedin, FL 34698, USA"
+  },
+  {
+    "name": "Comfort All-Stars",
+    "rating": 4.8,
+    "reviews": 486,
+    "phone": "(813) 280-5071",
+    "website": "https://comfortallstars.com/?utm_source=google&utm_medium=organic&utm_campaign=gbp&utm_content=website",
+    "maps": "https://maps.google.com/?cid=4285962894750264400&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "13347 W Hillsborough Ave Suite 101, Tampa, FL 33635, USA"
+  }
+]

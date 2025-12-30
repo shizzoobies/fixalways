@@ -1,0 +1,92 @@
+[
+  {
+    "name": "Unit HVAC Solutions",
+    "rating": 5,
+    "reviews": 69,
+    "phone": "(786) 751-7415",
+    "website": "https://www.unithvacsolutions.com/",
+    "maps": "https://maps.google.com/?cid=9445694761959744973&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "102 Crandon Blvd, Key Biscayne, FL 33149, USA"
+  },
+  {
+    "name": "AirEase AC Repair Key Biscayne",
+    "rating": 5,
+    "reviews": 11,
+    "phone": "(786) 705-3491",
+    "website": "https://keybiscayne.airease.net/",
+    "maps": "https://maps.google.com/?cid=14958104831021885435&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "104 Crandon Blvd #57, Key Biscayne, FL 33149, USA"
+  },
+  {
+    "name": "CoolPros AC Repair",
+    "rating": 5,
+    "reviews": 5,
+    "phone": "(786) 686-7630",
+    "website": "https://coolprosacrepair.com/",
+    "maps": "https://maps.google.com/?cid=5925742408536595705&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "604 Crandon Blvd #12, Key Biscayne, FL 33149, USA"
+  },
+  {
+    "name": "Key Biscayne AC Services",
+    "rating": null,
+    "reviews": null,
+    "phone": "(786) 540-9613",
+    "website": "https://www.keybiscayneacservices.com/",
+    "maps": "https://maps.google.com/?cid=10856024729597556059&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "604 Crandon Blvd #12c, Key Biscayne, FL 33149, USA"
+  },
+  {
+    "name": "Florida Clean Air Plus",
+    "rating": 5,
+    "reviews": 555,
+    "phone": "(800) 695-1815",
+    "website": "https://floridacleanairplus.com/",
+    "maps": "https://maps.google.com/?cid=18237235937785586173&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "15251 NE 18th Ave Suite #3, North Miami Beach, FL 33162, USA"
+  },
+  {
+    "name": "Local AC",
+    "rating": 5,
+    "reviews": 3,
+    "phone": "(305) 901-0534",
+    "website": "https://www.localaccompany.com/",
+    "maps": "https://maps.google.com/?cid=13427353257832249736&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "2901 NE 1st Ave UNIT 2913, Miami, FL 33137, USA"
+  },
+  {
+    "name": "Excellent Air Solutions LLC",
+    "rating": 5,
+    "reviews": 45,
+    "phone": "(786) 783-8055",
+    "website": "http://excellentairsolutions.com/",
+    "maps": "https://maps.google.com/?cid=3507737973264162282&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "15569 SW 182nd Ln, Miami, FL 33187, USA"
+  },
+  {
+    "name": "Air Conditioning & Heating and HVAC Duct Cleaning Service",
+    "rating": 4.5,
+    "reviews": 11,
+    "phone": null,
+    "website": null,
+    "maps": "https://maps.google.com/?cid=13348980899295506560&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "5150 Wylly Rd, Cedar Key, FL 32625, USA"
+  },
+  {
+    "name": "Expert AC Repair",
+    "rating": null,
+    "reviews": null,
+    "phone": "(786) 384-5324",
+    "website": null,
+    "maps": "https://maps.google.com/?cid=13927126009467572943&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "328 Crandon Blvd, Key Biscayne, FL 33149, USA"
+  },
+  {
+    "name": "ACTL GROUP AIR CONDITIONING",
+    "rating": 4.9,
+    "reviews": 296,
+    "phone": "(786) 229-1297",
+    "website": "https://www.actlgroup.com/",
+    "maps": "https://maps.google.com/?cid=600307838378857344&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "2123 W 76th St, Hialeah, FL 33016, USA"
+  }
+]

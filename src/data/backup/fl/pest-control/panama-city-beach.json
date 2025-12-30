@@ -1,0 +1,92 @@
+[
+  {
+    "name": "A Superior Air Conditioning Company",
+    "rating": 4.9,
+    "reviews": 990,
+    "phone": "(850) 258-3225",
+    "website": "https://www.asuperiorac.com/",
+    "maps": "https://maps.google.com/?cid=3332368930677982702&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "17728 Beach Park Trail, Panama City Beach, FL 32413, USA"
+  },
+  {
+    "name": "Modern Air Solutions",
+    "rating": 4.8,
+    "reviews": 752,
+    "phone": "(850) 249-2999",
+    "website": "https://www.modernairsolutionsllc.com/",
+    "maps": "https://maps.google.com/?cid=7274663881565013900&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "19407 Panama City Beach Pkwy, Panama City Beach, FL 32413, USA"
+  },
+  {
+    "name": "Arctic Air and Refrigeration LLC",
+    "rating": 4.9,
+    "reviews": 334,
+    "phone": "(850) 276-0744",
+    "website": "http://www.arcticairandrefrigeration.com/",
+    "maps": "https://maps.google.com/?cid=9473901029427273641&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "1885 Pointe Dr, Panama City Beach, FL 32407, USA"
+  },
+  {
+    "name": "Holiday Beach Mechanical, Inc.",
+    "rating": 4.9,
+    "reviews": 306,
+    "phone": "(850) 271-5999",
+    "website": "https://www.holidaybeachmechanical.com/",
+    "maps": "https://maps.google.com/?cid=8716081911469725128&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "151 Griffin Blvd, Panama City Beach, FL 32413, USA"
+  },
+  {
+    "name": "Peaden Air Conditioning, Plumbing & Electrical",
+    "rating": 4.8,
+    "reviews": 8518,
+    "phone": "(850) 757-0074",
+    "website": "https://www.peaden.com/panama-city?loc=panama-city&utm_source=gbp&utm_medium=organic&utm_campaign=panama-city-fl&utm_content=web-cta",
+    "maps": "https://maps.google.com/?cid=15188265586784817389&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "618 W Baldwin Rd, Panama City, FL 32405, USA"
+  },
+  {
+    "name": "Gulf Coast Air Conditioning",
+    "rating": 4.9,
+    "reviews": 64,
+    "phone": "(850) 832-0690",
+    "website": "http://gulfcoastairpc.com/",
+    "maps": "https://maps.google.com/?cid=4064497775792455588&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "7729 Franklin Ave, Panama City, FL 32409, USA"
+  },
+  {
+    "name": "A&H Heating And Air LLC",
+    "rating": 5,
+    "reviews": 113,
+    "phone": "(850) 381-9939",
+    "website": "https://www.ahheatingandairllc.com/",
+    "maps": "https://maps.google.com/?cid=5575453585032428853&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "326 W 34th Ct, Panama City, FL 32405, USA"
+  },
+  {
+    "name": "Southeastern Cooling",
+    "rating": 5,
+    "reviews": 111,
+    "phone": "(850) 307-5257",
+    "website": "https://southeasterncooling.com/locations/panama-city-fl/#utm_source=GBP&utm_medium=GBP&utm_campaign=panama-city&utm_id=GBP",
+    "maps": "https://maps.google.com/?cid=1846109051621273265&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "17618 Ashley Dr Suite c101, Panama City Beach, FL 32413, USA"
+  },
+  {
+    "name": "Bones Heating & Cooling, LLC",
+    "rating": 5,
+    "reviews": 106,
+    "phone": "(850) 247-5133",
+    "website": "http://www.bonesheatingandcooling.com/",
+    "maps": "https://maps.google.com/?cid=11120915408001569783&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "5606 Dune Creek Trail, Panama City, FL 32404, USA"
+  },
+  {
+    "name": "K.L. Skaggs Heating & Air LLC",
+    "rating": 5,
+    "reviews": 102,
+    "phone": "(850) 238-5414",
+    "website": null,
+    "maps": "https://maps.google.com/?cid=4421621322705336729&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "330 Lake Pl, Panama City Beach, FL 32413, USA"
+  }
+]

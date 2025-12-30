@@ -1,118 +1,128 @@
-(() => {
-  function parseNum(v) {
-    const n = Number(v);
-    return Number.isFinite(n) ? n : 0;
-  }
+/**
+ * City/Service listing page filters + sorting
+ * Supports URL state:
+ *   ?sort=rating
+ *   ?minRating=4.5
+ *   ?minReviews=100
+ *   ?hasWebsite=1
+ *
+ * This keeps filters sticky when switching trades.
+ */
 
-  function score(item) {
-    const rating = parseNum(item.dataset.rating);
-    const reviews = parseNum(item.dataset.reviews);
-    const website = item.dataset.website === "1" ? 1 : 0;
-    return rating * 100 + Math.min(90, Math.sqrt(reviews) * 7) + (website ? 18 : 0);
-  }
+function qs() {
+  return new URLSearchParams(window.location.search);
+}
 
-  function initCityFilters() {
-    const list = document.getElementById("listingList");
-    if (!list) return;
-
-    const items = Array.from(list.querySelectorAll(".listingItem"));
-    if (!items.length) return;
-
-    const sortSelect = document.getElementById("sortSelect");
-    const filterRating45 = document.getElementById("filterRating45");
-    const filterReviews100 = document.getElementById("filterReviews100");
-    const filterWebsite = document.getElementById("filterWebsite");
-
-    const meta = document.getElementById("resultsMeta");
-
-    const state = {
-      sort: "recommended",
-      rating45: false,
-      reviews100: false,
-      website: false,
-    };
-
-    function setPressed(btn, pressed) {
-      if (!btn) return;
-      btn.setAttribute("aria-pressed", pressed ? "true" : "false");
+function setQS(params) {
+  const url = new URL(window.location.href);
+  Object.entries(params).forEach(([k, v]) => {
+    if (v === null || v === undefined || v === "" || v === false) {
+      url.searchParams.delete(k);
+    } else {
+      url.searchParams.set(k, String(v));
     }
+  });
+  window.history.replaceState({}, "", url.toString());
+}
 
-    function passesFilters(item) {
-      const rating = parseNum(item.dataset.rating);
-      const reviews = parseNum(item.dataset.reviews);
-      const website = item.dataset.website === "1";
+function getListings() {
+  return Array.from(document.querySelectorAll("#listingList .listingItem"));
+}
 
-      if (state.rating45 && rating < 4.5) return false;
-      if (state.reviews100 && reviews < 100) return false;
-      if (state.website && !website) return false;
+function getNum(el, attr) {
+  return Number(el.getAttribute(attr) || "0");
+}
 
-      return true;
-    }
+function apply() {
+  const params = qs();
 
-    function apply() {
-      let visibleCount = 0;
+  const sort = params.get("sort") || "recommended";
+  const minRating = Number(params.get("minRating") || 0);
+  const minReviews = Number(params.get("minReviews") || 0);
+  const hasWebsite = params.get("hasWebsite") === "1";
 
-      items.forEach((item) => {
-        const show = passesFilters(item);
-        item.style.display = show ? "" : "none";
-        if (show) visibleCount++;
-      });
+  const listEl = document.querySelector("#listingList");
+  if (!listEl) return;
 
-      const visibleItems = items.filter((it) => it.style.display !== "none");
+  const items = getListings();
 
-      visibleItems.sort((a, b) => {
-        if (state.sort === "recommended") return score(b) - score(a);
-        if (state.sort === "rating") return parseNum(b.dataset.rating) - parseNum(a.dataset.rating);
-        if (state.sort === "reviews") return parseNum(b.dataset.reviews) - parseNum(a.dataset.reviews);
-        if (state.sort === "name") return (a.dataset.name || "").localeCompare(b.dataset.name || "");
-        return 0;
-      });
+  // Filter
+  items.forEach((el) => {
+    const rating = getNum(el, "data-rating");
+    const reviews = getNum(el, "data-reviews");
+    const website = el.getAttribute("data-website") === "1";
 
-      // Re-append visible items first, in sorted order
-      visibleItems.forEach((node) => list.appendChild(node));
+    let show = true;
+    if (minRating && rating < minRating) show = false;
+    if (minReviews && reviews < minReviews) show = false;
+    if (hasWebsite && !website) show = false;
 
-      if (meta) meta.textContent = visibleCount ? `${visibleCount} found` : "No matching results";
-    }
+    el.style.display = show ? "" : "none";
+  });
 
-    // Wire events
-    if (sortSelect) {
-      sortSelect.addEventListener("change", (e) => {
-        state.sort = e.target.value || "recommended";
-        apply();
-      });
-    }
+  // Sort visible items
+  const visible = items.filter((el) => el.style.display !== "none");
 
-    if (filterRating45) {
-      filterRating45.addEventListener("click", () => {
-        state.rating45 = !state.rating45;
-        setPressed(filterRating45, state.rating45);
-        apply();
-      });
-    }
+  const by = {
+    recommended: (a, b) =>
+      (getNum(b, "data-rating") - getNum(a, "data-rating")) ||
+      (getNum(b, "data-reviews") - getNum(a, "data-reviews")),
+    rating: (a, b) => getNum(b, "data-rating") - getNum(a, "data-rating"),
+    reviews: (a, b) => getNum(b, "data-reviews") - getNum(a, "data-reviews"),
+    name: (a, b) =>
+      (a.getAttribute("data-name") || "").localeCompare(b.getAttribute("data-name") || ""),
+  }[sort] || ((a, b) => 0);
 
-    if (filterReviews100) {
-      filterReviews100.addEventListener("click", () => {
-        state.reviews100 = !state.reviews100;
-        setPressed(filterReviews100, state.reviews100);
-        apply();
-      });
-    }
+  visible.sort(by).forEach((el) => listEl.appendChild(el));
 
-    if (filterWebsite) {
-      filterWebsite.addEventListener("click", () => {
-        state.website = !state.website;
-        setPressed(filterWebsite, state.website);
-        apply();
-      });
-    }
+  // Update count
+  const meta = document.querySelector("#resultsMeta");
+  if (meta) meta.textContent = `${visible.length} found`;
 
-    // Initial run
-    apply();
-  }
+  // Sync UI controls
+  const sortSelect = document.querySelector("#sortSelect");
+  if (sortSelect) sortSelect.value = sort;
 
-  if (document.readyState === "loading") {
-    document.addEventListener("DOMContentLoaded", initCityFilters);
+  const btn45 = document.querySelector("#filterRating45");
+  const btn100 = document.querySelector("#filterReviews100");
+  const btnWeb = document.querySelector("#filterWebsite");
+
+  if (btn45) btn45.setAttribute("aria-pressed", minRating >= 4.5 ? "true" : "false");
+  if (btn100) btn100.setAttribute("aria-pressed", minReviews >= 100 ? "true" : "false");
+  if (btnWeb) btnWeb.setAttribute("aria-pressed", hasWebsite ? "true" : "false");
+}
+
+function toggleChip(key, valueOn, valueOff = "") {
+  const params = qs();
+  const current = params.get(key);
+
+  if (current === String(valueOn)) {
+    setQS({ [key]: valueOff });
   } else {
-    initCityFilters();
+    setQS({ [key]: valueOn });
   }
-})();
+
+  apply();
+}
+
+function init() {
+  const sortSelect = document.querySelector("#sortSelect");
+  if (sortSelect) {
+    sortSelect.addEventListener("change", (e) => {
+      setQS({ sort: e.target.value });
+      apply();
+    });
+  }
+
+  const btn45 = document.querySelector("#filterRating45");
+  const btn100 = document.querySelector("#filterReviews100");
+  const btnWeb = document.querySelector("#filterWebsite");
+
+  if (btn45) btn45.addEventListener("click", () => toggleChip("minRating", "4.5", ""));
+  if (btn100) btn100.addEventListener("click", () => toggleChip("minReviews", "100", ""));
+  if (btnWeb) btnWeb.addEventListener("click", () => toggleChip("hasWebsite", "1", ""));
+
+  apply();
+}
+
+document.addEventListener("DOMContentLoaded", init);

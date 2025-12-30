@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Reno Plumbing Co",
+    "rating": 5,
+    "reviews": 1,
+    "phone": "(352) 376-6808",
+    "website": "",
+    "address": "4114 NW 178 Terrace, Newberry, FL 32669, USA",
+    "place_id": "ChIJiRdkaMK46IgRJ8eVif1f07g",
+    "maps_url": "https://maps.google.com/?cid=13318094065604347687"
+  },
+  {
+    "name": "Jerry's Plumbing, LLC",
+    "rating": 5,
+    "reviews": 3,
+    "phone": "(352) 538-2502",
+    "website": "",
+    "address": "5723 SW 298th St, Newberry, FL 32669, USA",
+    "place_id": "ChIJiV7kUxvC6IgRGATG8bDx1wg",
+    "maps_url": "https://maps.google.com/?cid=637243614569038872"
+  },
+  {
+    "name": "Coleman's Plumbing Inc",
+    "rating": 3.8,
+    "reviews": 6,
+    "phone": "(352) 472-4114",
+    "website": "",
+    "address": "19921 W Newberry Rd, Newberry, FL 32669, USA",
+    "place_id": "ChIJPzxHMUG_6IgRKwf5Et2OrCQ",
+    "maps_url": "https://maps.google.com/?cid=2642644161516865323"
+  },
+  {
+    "name": "ASAP Plumbing & Drain Cleaning",
+    "rating": 4.1,
+    "reviews": 9,
+    "phone": "(352) 472-1362",
+    "website": "",
+    "address": "Newberry, FL 32669, USA",
+    "place_id": "ChIJp4TR3x3B6IgRQUAcQCWxC2I",
+    "maps_url": "https://maps.google.com/?cid=7064935214008254529"
+  }
+]

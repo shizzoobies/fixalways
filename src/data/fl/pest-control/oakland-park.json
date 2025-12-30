@@ -1,0 +1,252 @@
+[
+  {
+    "name": "AAA Pest Control",
+    "rating": 4.7,
+    "reviews": 1088,
+    "phone": "(954) 771-3400",
+    "website": "https://www.tripleapestcontrol.com/",
+    "address": "1395 E Oakland Park Blvd, Fort Lauderdale, FL 33334, USA",
+    "place_id": "ChIJryx5J48B2YgRqiQe9spSkaY",
+    "maps_url": "https://maps.google.com/?cid=12002465513585124522"
+  },
+  {
+    "name": "Manning Brothers Pest Control",
+    "rating": 4.6,
+    "reviews": 67,
+    "phone": "(954) 772-3077",
+    "website": "https://manningpest.com/",
+    "address": "944 Prospect Rd, Oakland Park, FL 33309, USA",
+    "place_id": "ChIJk-EtkNkD2YgRBgLrYhPxJ8Q",
+    "maps_url": "https://maps.google.com/?cid=14134531021091832326"
+  },
+  {
+    "name": "All Florida Pest Control",
+    "rating": 4.8,
+    "reviews": 687,
+    "phone": "(754) 216-8659",
+    "website": "https://www.allfloridapests.com/?utm_source=google&utm_medium=gbp&utm_campaign=fort_lauderdale",
+    "address": "1883 Marina Mile Blvd #106, Fort Lauderdale, FL 33315, USA",
+    "place_id": "ChIJsYWk0zer2YgR5umw8N2SrRY",
+    "maps_url": "https://maps.google.com/?cid=1634123721728911846"
+  },
+  {
+    "name": "In Touch Pest Control",
+    "rating": 5,
+    "reviews": 482,
+    "phone": "(888) 292-1108",
+    "website": "http://intouchpestcontrol.com/",
+    "address": "3489 NW 24th St, Lauderdale Lakes, FL 33311, USA",
+    "place_id": "ChIJC69w6ghDtqoRtZ7IX_iMla8",
+    "maps_url": "https://maps.google.com/?cid=12652173726554037941"
+  },
+  {
+    "name": "High-T Pest Control Services Oakland Park, FL",
+    "rating": 3.9,
+    "reviews": 22,
+    "phone": "(954) 564-0037",
+    "website": "",
+    "address": "840 NW 33rd St, Oakland Park, FL 33309, USA",
+    "place_id": "ChIJrUfyymQB2YgR_SOgW_S67KE",
+    "maps_url": "https://maps.google.com/?cid=11667906293282120701"
+  },
+  {
+    "name": "Petri Pest Control Services",
+    "rating": 4.6,
+    "reviews": 1159,
+    "phone": "(954) 951-2512",
+    "website": "https://www.petrispestcontrol.com/?utm_source=google&utm_medium=gbp&utm_campaign=pompano_beach",
+    "address": "737 SW 9th Terrace, Pompano Beach, FL 33069, USA",
+    "place_id": "ChIJ9fmU_FUC2YgRqoqsdoAGETE",
+    "maps_url": "https://maps.google.com/?cid=3535614331279149738"
+  },
+  {
+    "name": "Hoffer Pest Solutions",
+    "rating": 4.9,
+    "reviews": 437,
+    "phone": "(305) 526-4210",
+    "website": "https://www.hofferpest.com/?utm_source=GBPFortLauderdale&utm_medium=organic&utm_campaign=LocalSearch",
+    "address": "1975 E Sunrise Blvd #503, Fort Lauderdale, FL 33304, USA",
+    "place_id": "ChIJg0uPrpgF2YgRD8avwPrX7y4",
+    "maps_url": "https://maps.google.com/?cid=3382159317153072655"
+  },
+  {
+    "name": "Native Pest Management",
+    "rating": 5,
+    "reviews": 3126,
+    "phone": "(954) 892-6451",
+    "website": "https://www.nativepestmanagement.com/contact-us/?utm_campaign=gbp-fort-lauderdale&utm_medium=organic&utm_source=google",
+    "address": "110 SE 6th St Suite 1716, Fort Lauderdale, FL 33301, USA",
+    "place_id": "ChIJu22TDyy_2YgR1K4CRxN7POE",
+    "maps_url": "https://maps.google.com/?cid=16229982479862378196"
+  },
+  {
+    "name": "ProForce Pest Control - Ft Lauderdale",
+    "rating": 4.5,
+    "reviews": 2128,
+    "phone": "(954) 271-0959",
+    "website": "https://proforcepest.com/where-we-service/fort-lauderdale-fl-pest-control/?utm_source=gmb&utm_medium=organic&utm_campaign=gbp&utm_content=fort_lauderdale_fl",
+    "address": "1500 NW 62nd St Ste 501 & 502, Fort Lauderdale, FL 33309, USA",
+    "place_id": "ChIJKS4-UAAD2YgRWrF-pKVqHIM",
+    "maps_url": "https://maps.google.com/?cid=9447543377978372442"
+  },
+  {
+    "name": "Hoffer Pest Solutions",
+    "rating": 4.9,
+    "reviews": 1428,
+    "phone": "(954) 590-0477",
+    "website": "https://www.hofferpest.com/broward-county-pest-control/coral-springs-pest-control/?utm_source=GBPCoralSprings&utm_medium=organic&utm_campaign=LocalSearch",
+    "address": "12329 NW 35th St, Coral Springs, FL 33065, USA",
+    "place_id": "ChIJawQgCeMP2YgRpK0PSfz5SdI",
+    "maps_url": "https://maps.google.com/?cid=15152917283217583524"
+  },
+  {
+    "name": "Swat It Pest Control",
+    "rating": 5,
+    "reviews": 1410,
+    "phone": "(954) 231-5900",
+    "website": "https://swatitpest.com/service-areas/florida/",
+    "address": "3033 NW 28th St, Lauderdale Lakes, FL 33311, USA",
+    "place_id": "ChIJf6UzPqwCsAURWv7-ZIb0M-w",
+    "maps_url": "https://maps.google.com/?cid=17020216274820464218"
+  },
+  {
+    "name": "EcoShield Pest Solutions",
+    "rating": 4.7,
+    "reviews": 3972,
+    "phone": "(305) 330-4755",
+    "website": "https://www.ecoshieldpest.com/locations/miami-fl/?utm_source=GMB&utm_medium=organic&utm_campaign=local",
+    "address": "5101 NW 21st Ave Suite 142, Fort Lauderdale, FL 33309, USA",
+    "place_id": "ChIJZc_ZHfwC2YgRUxAykLxYQ8E",
+    "maps_url": "https://maps.google.com/?cid=13926072039656001619"
+  },
+  {
+    "name": "Evergreen Lawn & Pest Control",
+    "rating": 4.7,
+    "reviews": 287,
+    "phone": "(954) 994-2571",
+    "website": "https://www.evergreenpc.com/",
+    "address": "141 NE 32nd Ct, Oakland Park, FL 33334, USA",
+    "place_id": "ChIJP31h2XgB2YgROwdcSOU9QyE",
+    "maps_url": "https://maps.google.com/?cid=2396827481662031675"
+  },
+  {
+    "name": "Thompson Pest Control, Inc",
+    "rating": 5,
+    "reviews": 3,
+    "phone": "(954) 772-1988",
+    "website": "http://thompsonpestcontrol.net/",
+    "address": "4911 NE 9th Ave C, Oakland Park, FL 33334, USA",
+    "place_id": "ChIJg5Kmd40D2YgRPqnTgkeXujY",
+    "maps_url": "https://maps.google.com/?cid=3943630757109672254"
+  },
+  {
+    "name": "Bug Off Exterminators Inc",
+    "rating": 4.1,
+    "reviews": 122,
+    "phone": "(954) 772-8338",
+    "website": "https://bugoffexterminatorsflorida.com/",
+    "address": "1064 NW 54th St, Fort Lauderdale, FL 33309, USA",
+    "place_id": "ChIJuwIDnsYD2YgR5u6NodcSZCo",
+    "maps_url": "https://maps.google.com/?cid=3054587164601741030"
+  },
+  {
+    "name": "East Coast Pest Control",
+    "rating": 4.9,
+    "reviews": 44,
+    "phone": "(954) 299-7491",
+    "website": "https://ecpestcontrol.com/?utm_source=gbp&utm_medium=organic&utm_campaign=gbp-fort-lauderdale",
+    "address": "4949 Tradewinds Ter, Fort Lauderdale, FL 33312, USA",
+    "place_id": "ChIJ4_jEaFgA2YgRo-03hk0op6w",
+    "maps_url": "https://maps.google.com/?cid=12440956809063689635"
+  },
+  {
+    "name": "Rebel Exterminators",
+    "rating": 3.8,
+    "reviews": 17,
+    "phone": "(954) 491-3759",
+    "website": "https://slammy1.wixsite.com/rebelexterminators",
+    "address": "4911 NE 9th Ave A, Oakland Park, FL 33334, USA",
+    "place_id": "ChIJ5-1uvzEC2YgRQ9-CHRh439s",
+    "maps_url": "https://maps.google.com/?cid=15843514059082358595"
+  },
+  {
+    "name": "Zunex Pest Control",
+    "rating": 5,
+    "reviews": 46,
+    "phone": "(954) 671-0634",
+    "website": "https://www.zunexpestcontrol.com/",
+    "address": "535A NE 32nd St, Oakland Park, FL 33334, USA",
+    "place_id": "ChIJewo6k840RYwRNaO9s_dflL4",
+    "maps_url": "https://maps.google.com/?cid=13732706681236595509"
+  },
+  {
+    "name": "FLO grown pest control",
+    "rating": 5,
+    "reviews": 9,
+    "phone": "(954) 210-3149",
+    "website": "",
+    "address": "5449 NE 2nd Ave, Oakland Park, FL 33334, USA",
+    "place_id": "ChIJn4TsU7AD2YgRwWdavilcRxM",
+    "maps_url": "https://maps.google.com/?cid=1389180344424097729"
+  },
+  {
+    "name": "Abell Pest Control",
+    "rating": 4.4,
+    "reviews": 67,
+    "phone": "(954) 660-6150",
+    "website": "https://www.abellpestcontrol.com/en-fl/locations/broward",
+    "address": "1234 NE 7th Ave, Fort Lauderdale, FL 33304, USA",
+    "place_id": "ChIJscodNrcB2YgRMVILEe4IG0g",
+    "maps_url": "https://maps.google.com/?cid=5195756413683192369"
+  },
+  {
+    "name": "Command Pest Control",
+    "rating": 4.9,
+    "reviews": 332,
+    "phone": "(954) 943-0008",
+    "website": "http://commandpestcontrol.com/",
+    "address": "2195 N Andrews Ave STE 11, Pompano Beach, FL 33069, USA",
+    "place_id": "ChIJJR3Vk9cC2YgRoNGZG3jZkHQ",
+    "maps_url": "https://maps.google.com/?cid=8399452414928343456"
+  },
+  {
+    "name": "Native Pest Management",
+    "rating": 5,
+    "reviews": 7016,
+    "phone": "(561) 767-8713",
+    "website": "https://www.nativepestmanagement.com/contact-us/?utm_campaign=gbp-west-palm-beach&utm_medium=organic&utm_source=google",
+    "address": "2731 Vista Pkwy Unit D5, West Palm Beach, FL 33411, USA",
+    "place_id": "ChIJgUdLUn7W2IgRhxB7FhgJSQ4",
+    "maps_url": "https://maps.google.com/?cid=1029363988891897991"
+  },
+  {
+    "name": "​Mackintosh Pest Control",
+    "rating": 4.8,
+    "reviews": 27,
+    "phone": "(954) 934-7128",
+    "website": "http://www.mackintoshpestcontrol.com/contact.html",
+    "address": "5200 NW 31st Ave, Fort Lauderdale, FL 33309, USA",
+    "place_id": "ChIJv3g0jvcD2YgRtolaMC6CEYY",
+    "maps_url": "https://maps.google.com/?cid=9660645810577770934"
+  },
+  {
+    "name": "Orkin",
+    "rating": 4.6,
+    "reviews": 375,
+    "phone": "(954) 488-5044",
+    "website": "https://www.orkin.com/locations/florida-fl/ft-lauderdale-pest-control/branch-685?utm_source=local&utm_medium=local&utm_campaign=LCL0227",
+    "address": "3540 NW 56th St #208, Fort Lauderdale, FL 33309, USA",
+    "place_id": "ChIJ2TCdIoAA2YgRUgMKghO0930",
+    "maps_url": "https://maps.google.com/?cid=9076921569867596626"
+  },
+  {
+    "name": "Gump Termite and Pest Control Inc.",
+    "rating": 3.9,
+    "reviews": 11,
+    "phone": "(954) 601-1117",
+    "website": "",
+    "address": "4427 N Andrews Ave, Oakland Park, FL 33309, USA",
+    "place_id": "ChIJ0_HnSRUD2YgR-hsk7daq1pA",
+    "maps_url": "https://maps.google.com/?cid=10436717026555993082"
+  }
+]

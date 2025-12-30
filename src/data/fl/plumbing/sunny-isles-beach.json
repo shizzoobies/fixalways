@@ -1,0 +1,102 @@
+[
+  {
+    "name": "Sunny Bliss Plumbing & Air",
+    "rating": 4.8,
+    "reviews": 503,
+    "phone": "(305) 440-0621",
+    "website": "https://sunnybliss.com/",
+    "address": "605 Lincoln Rd Suite 250B, Miami Beach, FL 33139, USA",
+    "place_id": "ChIJA6vG5FG12YgR2z_Bc72KBZU",
+    "maps_url": "https://maps.google.com/?cid=10738141432830312411"
+  },
+  {
+    "name": "Oasis Plumbing",
+    "rating": 4.9,
+    "reviews": 540,
+    "phone": "(786) 767-5810",
+    "website": "https://calloasis.com/?utm_campaign=gmb",
+    "address": "1987 NE 147th Ln, North Miami, FL 33181, USA",
+    "place_id": "ChIJD-gDHXpbwokRscAgchnOoGw",
+    "maps_url": "https://maps.google.com/?cid=7827482761054175409"
+  },
+  {
+    "name": "Mr. Rooter Plumbing of North Miami Beach",
+    "rating": 5,
+    "reviews": 89,
+    "phone": "(786) 214-7997",
+    "website": "https://www.mrrooter.com/north-miami-beach/?cid=LSTL_MRR000199&utm_source=gmb&utm_campaign=local&utm_medium=organic",
+    "address": "1963 NE 147th Ln, North Miami, FL 33181, USA",
+    "place_id": "ChIJ8QFC0dOt2YgRsAkgVeEHo4A",
+    "maps_url": "https://maps.google.com/?cid=9269261122435811760"
+  },
+  {
+    "name": "A to Z Statewide Plumbing Inc.",
+    "rating": 4.8,
+    "reviews": 661,
+    "phone": "(954) 981-2133",
+    "website": "https://www.atozstatewideplumbing.com/?utm_source=gbp&utm_medium=organic&utm_campaign=gbp-listing",
+    "address": "2215 SW 58th Terrace, West Park, FL 33023, USA",
+    "place_id": "ChIJxxk7abOu2YgRPBMyx7-XBPE",
+    "maps_url": "https://maps.google.com/?cid=17367172912983970620"
+  },
+  {
+    "name": "Father and Son Plumbing",
+    "rating": 4.9,
+    "reviews": 140,
+    "phone": "(954) 440-7640",
+    "website": "https://fsplumbers.com/",
+    "address": "612 SW 4th Ct, Hallandale Beach, FL 33009, USA",
+    "place_id": "ChIJJXCumMnlG6YRRalT_PQ5WcI",
+    "maps_url": "https://maps.google.com/?cid=14004288240653412677"
+  },
+  {
+    "name": "Unclog Plumbing Services 24/7",
+    "rating": 4.6,
+    "reviews": 10,
+    "phone": "(786) 244-7226",
+    "website": "",
+    "address": "20100 W Country Club Dr APT 709, Aventura, FL 33180, USA",
+    "place_id": "ChIJHfdjaJSt2YgRe7unzgMMNkk",
+    "maps_url": "https://maps.google.com/?cid=5275417224002648955"
+  },
+  {
+    "name": "Pro Aventura Plumbing",
+    "rating": 5,
+    "reviews": 5,
+    "phone": "(239) 893-1354",
+    "website": "",
+    "address": "2952 NE 199th St #150, Aventura, FL 33180, USA",
+    "place_id": "ChIJVW4Pjq0D9YgRyluBnptTZXM",
+    "maps_url": "https://maps.google.com/?cid=8315144214853802954"
+  },
+  {
+    "name": "Sparky Plumbing",
+    "rating": 5,
+    "reviews": 132,
+    "phone": "(754) 704-0373",
+    "website": "https://sparkyplumbing.com/",
+    "address": "4839 Pembroke Rd, Hollywood, FL 33021, USA",
+    "place_id": "ChIJ1bYu9Gas2YgRFIOue-6Tm6o",
+    "maps_url": "https://maps.google.com/?cid=12293582260324434708"
+  },
+  {
+    "name": "Gold Hand Home Improvement",
+    "rating": 5,
+    "reviews": 6,
+    "phone": "(786) 521-7334",
+    "website": "",
+    "address": "19370 Collins Ave APT 616, Sunny Isles Beach, FL 33160, USA",
+    "place_id": "ChIJI30juOms2YgRd8XR-4YAQ6E",
+    "maps_url": "https://maps.google.com/?cid=11620132043296458103"
+  },
+  {
+    "name": "Total Appliance & AC Sunny Isles",
+    "rating": 4.8,
+    "reviews": 200,
+    "phone": "(305) 949-0325",
+    "website": "",
+    "address": "17395 N Bay Rd #206, Sunny Isles Beach, FL 33160, USA",
+    "place_id": "ChIJeep7nWit2YgRzd_uWz6ojoo",
+    "maps_url": "https://maps.google.com/?cid=9984102409710788557"
+  }
+]

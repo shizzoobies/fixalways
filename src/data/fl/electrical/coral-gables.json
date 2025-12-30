@@ -1,0 +1,252 @@
+[
+  {
+    "name": "Elekron Electric Inc",
+    "rating": 5,
+    "reviews": 209,
+    "phone": "(786) 423-5230",
+    "website": "http://www.elekronelectric.com/",
+    "address": "2332 Galiano St Second Floor, Coral Gables, FL 33134, USA",
+    "place_id": "ChIJ3xpi3L232YgRgtKQ59YyICk",
+    "maps_url": "https://maps.google.com/?cid=2963424453399204482"
+  },
+  {
+    "name": "Trusted Electrical Solutions",
+    "rating": 5,
+    "reviews": 215,
+    "phone": "(786) 342-9582",
+    "website": "https://www.trustedelectricalsolutions.com/",
+    "address": "13700 Jefferson St, Miami, FL 33176, USA",
+    "place_id": "ChIJ4TcjiJnB2YgRHeFHoNY9NMk",
+    "maps_url": "https://maps.google.com/?cid=14498281092433830173"
+  },
+  {
+    "name": "Alex All Electric",
+    "rating": 4.9,
+    "reviews": 112,
+    "phone": "(786) 362-9679",
+    "website": "https://electricianformiami.com/",
+    "address": "8710 SW 42nd Terrace, Miami, FL 33165, USA",
+    "place_id": "ChIJFyFeRJq42YgRZ3zQ7PiJq1M",
+    "maps_url": "https://maps.google.com/?cid=6029064228383521895"
+  },
+  {
+    "name": "First Choice Electrical of Miami",
+    "rating": 5,
+    "reviews": 21,
+    "phone": "(786) 315-8688",
+    "website": "https://www.facebook.com/p/First-Choice-Electrical-Of-Miami-Corp-100065525651475/",
+    "address": "7401 NW 7th St #3, Miami, FL 33126, USA",
+    "place_id": "ChIJMXfYCiO52YgR5F-wlGC41J0",
+    "maps_url": "https://maps.google.com/?cid=11372917683968303076"
+  },
+  {
+    "name": "Xmart Power Electric",
+    "rating": 5,
+    "reviews": 34,
+    "phone": "(800) 741-5257",
+    "website": "https://xmartpower.com/",
+    "address": "1430 S Dixie Hwy unit 105 1167, Coral Gables, FL 33146, USA",
+    "place_id": "ChIJxXwHbCex2YgRlWJcok5-JbA",
+    "maps_url": "https://maps.google.com/?cid=12692690001010123413"
+  },
+  {
+    "name": "Mister Sparky",
+    "rating": 4.7,
+    "reviews": 1902,
+    "phone": "(305) 203-0964",
+    "website": "https://miamimistersparky.com/?utm_source=GBP&utm_medium=organic&utm_campaign=miamigbp",
+    "address": "12155 SW 114th Pl Bay 22, Miami, FL 33176, USA",
+    "place_id": "ChIJH-UzNonB2YgR6Pl9dVkOi3c",
+    "maps_url": "https://maps.google.com/?cid=8613994489662274024"
+  },
+  {
+    "name": "Miami Electrical Services",
+    "rating": 4.7,
+    "reviews": 20,
+    "phone": "(844) 987-9393",
+    "website": "",
+    "address": "1410 SW 22nd Ave, Miami, FL 33145, USA",
+    "place_id": "ChIJ2zYAZ5e52YgRhNWmRoPVEc0",
+    "maps_url": "https://maps.google.com/?cid=14776826612182078852"
+  },
+  {
+    "name": "Full Service Home Electrician",
+    "rating": 5,
+    "reviews": 20,
+    "phone": "(786) 432-5225",
+    "website": "",
+    "address": "6259 Sunset Dr, South Miami, FL 33143, USA",
+    "place_id": "ChIJkW1OKZDH2YgRIrWJ3v1bJi4",
+    "maps_url": "https://maps.google.com/?cid=3325446520778110242"
+  },
+  {
+    "name": "My Angel Service",
+    "rating": 5,
+    "reviews": 18,
+    "phone": "(305) 399-4211",
+    "website": "https://www.myangelservice.com/",
+    "address": "231 NW 24th Ave, Miami, FL 33125, USA",
+    "place_id": "ChIJ-7SiGZDMiSMRH3bBMBHGtJY",
+    "maps_url": "https://maps.google.com/?cid=10859522378631837215"
+  },
+  {
+    "name": "Electrician Service Pros",
+    "rating": 5,
+    "reviews": 20,
+    "phone": "(786) 265-0219",
+    "website": "",
+    "address": "3000 SW 3rd Ave, Miami, FL 33129, USA",
+    "place_id": "ChIJjZzg5tO32YgRYDyZVHyPe6E",
+    "maps_url": "https://maps.google.com/?cid=11636051826399853664"
+  },
+  {
+    "name": "Full Service Home Electrics Miami",
+    "rating": 5,
+    "reviews": 22,
+    "phone": "(786) 567-9834",
+    "website": "",
+    "address": "87044 SW 26th Rd, Miami, FL 33129, USA",
+    "place_id": "ChIJI71UP3W32YgRA9uzUdaTkSs",
+    "maps_url": "https://maps.google.com/?cid=3139452963956972291"
+  },
+  {
+    "name": "OnCall Electric",
+    "rating": 5,
+    "reviews": 11,
+    "phone": "(786) 597-7574",
+    "website": "https://www.oncallelectric.net/",
+    "address": "7875 Bird Rd # 220, Miami, FL 33155, USA",
+    "place_id": "ChIJ5YF3rPS52YgROQPiFxFEUUg",
+    "maps_url": "https://maps.google.com/?cid=5211021084050195257"
+  },
+  {
+    "name": "Electrician Contractor Pros",
+    "rating": 5,
+    "reviews": 16,
+    "phone": "(786) 265-0185",
+    "website": "https://electricianpromiami.wixsite.com/electrician-contract",
+    "address": "3900 NW 7th St, Miami, FL 33126, USA",
+    "place_id": "ChIJhXg3AFi32YgRL_hAOySmZ5Q",
+    "maps_url": "https://maps.google.com/?cid=10693698514757679151"
+  },
+  {
+    "name": "ARC Electrical Services Corp.",
+    "rating": 5,
+    "reviews": 61,
+    "phone": "(305) 456-7038",
+    "website": "https://arcelectricalcorp.com/",
+    "address": "2061 NW 112th Ave #142, Doral, FL 33172, USA",
+    "place_id": "ChIJSfV8yXLF2YgRV19bXOIEZwQ",
+    "maps_url": "https://maps.google.com/?cid=317227669011521367"
+  },
+  {
+    "name": "Road Runner Electric Inc",
+    "rating": 4.4,
+    "reviews": 34,
+    "phone": "(305) 267-1013",
+    "website": "http://www.roadrunnerelectric.us/",
+    "address": "4735 SW 74th Ave, Miami, FL 33155, USA",
+    "place_id": "ChIJh0dznHu42YgRGxtuAy9KqTk",
+    "maps_url": "https://maps.google.com/?cid=4154933697007459099"
+  },
+  {
+    "name": "CPS Electric Inc",
+    "rating": 4.7,
+    "reviews": 12,
+    "phone": "(786) 224-9656",
+    "website": "http://cpselectricgroup.com/",
+    "address": "1600 NW 28th Ave, Miami, FL 33125, USA",
+    "place_id": "ChIJz-tNdBC62YgRUY-Gr743Ebw",
+    "maps_url": "https://maps.google.com/?cid=13551674045862678353"
+  },
+  {
+    "name": "B&D Electric, Inc.",
+    "rating": 4.9,
+    "reviews": 529,
+    "phone": "(352) 472-1966",
+    "website": "http://www.bdelectric.com/",
+    "address": "24462 NW 9th Pl, Newberry, FL 32669, USA",
+    "place_id": "ChIJUV2Az9jA6IgRvezOQSXBh3w",
+    "maps_url": "https://maps.google.com/?cid=8973353148321033405"
+  },
+  {
+    "name": "First Choice Home Electrician Miami",
+    "rating": 5,
+    "reviews": 9,
+    "phone": "(305) 317-4197",
+    "website": "",
+    "address": "2170 NW 11th St, Miami, FL 33125, USA",
+    "place_id": "ChIJv_iE20a32YgRbLqEE6cVaQ8",
+    "maps_url": "https://maps.google.com/?cid=1110442590454725228"
+  },
+  {
+    "name": "Electric Service & Repair, Inc.",
+    "rating": 4.7,
+    "reviews": 60,
+    "phone": "(305) 256-9793",
+    "website": "http://www.electricserviceandrepair.net/",
+    "address": "13335 SW 88th Ave, Miami, FL 33176, USA",
+    "place_id": "ChIJ8UXqpJPG2YgRMpyghQ7agiY",
+    "maps_url": "https://maps.google.com/?cid=2775020076319939634"
+  },
+  {
+    "name": "J & J Electrical Contractors, LLC",
+    "rating": 4.7,
+    "reviews": 12,
+    "phone": "(305) 710-2623",
+    "website": "",
+    "address": "Miami, FL 33125, USA",
+    "place_id": "ChIJw6go8Lm32YgRURurDFnTHlo",
+    "maps_url": "https://maps.google.com/?cid=6493860092132924241"
+  },
+  {
+    "name": "1st Choice Electrician",
+    "rating": 5,
+    "reviews": 8,
+    "phone": "(786) 434-7322",
+    "website": "https://1stchoiceelectricianwa.blogspot.com/",
+    "address": "1895 SW 22nd Terrace, Miami, FL 33145, USA",
+    "place_id": "ChIJ0yKaF3q32YgR-UqUX7RXRlw",
+    "maps_url": "https://maps.google.com/?cid=6649098332068399865"
+  },
+  {
+    "name": "Vintage Electric, Inc.",
+    "rating": 4.9,
+    "reviews": 365,
+    "phone": "(352) 371-8021",
+    "website": "http://www.vintageelectric.net/",
+    "address": "2421 NW 71st Pl, Gainesville, FL 32653, USA",
+    "place_id": "ChIJcXQYYRCl6IgREq90JtM_6jM",
+    "maps_url": "https://maps.google.com/?cid=3740872616600448786"
+  },
+  {
+    "name": "York Electric Corporation.",
+    "rating": 5,
+    "reviews": 2,
+    "phone": "(305) 815-2735",
+    "website": "http://www.yorkelectriccorp.com/",
+    "address": "2517 SW 13th St, Miami, FL 33145, USA",
+    "place_id": "ChIJX3GPrwC32YgR622Bgi8ue9I",
+    "maps_url": "https://maps.google.com/?cid=15166766951688138219"
+  },
+  {
+    "name": "Archer Electric Services Co",
+    "rating": 4.9,
+    "reviews": 272,
+    "phone": "(352) 371-2580",
+    "website": "http://www.archerelectricservice.com/",
+    "address": "4504 SW 29th Ave, Gainesville, FL 32608, USA",
+    "place_id": "ChIJ653lYtK86IgRDdQbJ1J0RNs",
+    "maps_url": "https://maps.google.com/?cid=15799881288914818061"
+  },
+  {
+    "name": "Full Service Electrician",
+    "rating": 4.6,
+    "reviews": 20,
+    "phone": "(786) 265-0187",
+    "website": "",
+    "address": "933 NW 4th St, Miami, FL 33128, USA",
+    "place_id": "ChIJxU9ALJK32YgRFvh6V-DMz4A",
+    "maps_url": "https://maps.google.com/?cid=9281862620946298902"
+  }
+]

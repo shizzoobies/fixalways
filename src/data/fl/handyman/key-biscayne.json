@@ -1,0 +1,32 @@
+[
+  {
+    "name": "KW Handyman Miami",
+    "rating": 4.8,
+    "reviews": 32,
+    "phone": "(305) 614-5237",
+    "website": "https://www.kwhandymanmiami.com/",
+    "address": "851 NE 1st Ave #1403, Miami, FL 33132, USA",
+    "place_id": "ChIJz6Ox8sW32YgR8c6C1M8Yuqs",
+    "maps_url": "https://maps.google.com/?cid=12374230207056498417"
+  },
+  {
+    "name": "HomeForge Handyman Experts",
+    "rating": 0,
+    "reviews": 0,
+    "phone": "(201) 245-9321",
+    "website": "",
+    "address": "710 Curtiswood Dr, Key Biscayne, FL 33149, USA",
+    "place_id": "ChIJJf9eAwDL2YgR_B1K3-N54wk",
+    "maps_url": "https://maps.google.com/?cid=712547185665383932"
+  },
+  {
+    "name": "IronWay Handyperson Services",
+    "rating": 0,
+    "reviews": 0,
+    "phone": "(201) 245-9321",
+    "website": "",
+    "address": "640 Fernwood Rd, Key Biscayne, FL 33149, USA",
+    "place_id": "ChIJZddddgDL2YgRP06_ppoIIkw",
+    "maps_url": "https://maps.google.com/?cid=5485956756406226495"
+  }
+]

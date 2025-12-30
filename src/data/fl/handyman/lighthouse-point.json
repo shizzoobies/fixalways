@@ -1,0 +1,152 @@
+[
+  {
+    "name": "Sparky The Handyman",
+    "rating": 5,
+    "reviews": 6,
+    "phone": "(954) 469-5695",
+    "website": "http://sparkythehandyman.com/",
+    "address": "2661 NE 53rd Ct, Lighthouse Point, FL 33064, USA",
+    "place_id": "ChIJeR-O63Tj2IgRuI0BcBURuHY",
+    "maps_url": "https://maps.google.com/?cid=8554606275961392568"
+  },
+  {
+    "name": "Handyman Fl",
+    "rating": 5,
+    "reviews": 1,
+    "phone": "(954) 907-3978",
+    "website": "https://www.handyfl.com/",
+    "address": "4451 N Federal Hwy apt 302, Pompano Beach, FL 33064, USA",
+    "place_id": "ChIJjcax_P_j2IgRobTKCS73Mv4",
+    "maps_url": "https://maps.google.com/?cid=18316974411574064289"
+  },
+  {
+    "name": "Blake's handyman restoration",
+    "rating": 5,
+    "reviews": 2,
+    "phone": "(813) 367-6983",
+    "website": "",
+    "address": "#138, Fort White, FL 32038, USA",
+    "place_id": "ChIJw_iHVKPP6IgR_vGE4MoEnCM",
+    "maps_url": "https://maps.google.com/?cid=2565931157091054078"
+  },
+  {
+    "name": "Chavez Handyman",
+    "rating": 4.5,
+    "reviews": 15,
+    "phone": "(561) 598-0681",
+    "website": "",
+    "address": "Pompano Beach, FL 33064, USA",
+    "place_id": "ChIJ2xcUlLUd2YgRVwBF1vlSVwQ",
+    "maps_url": "https://maps.google.com/?cid=312809932120719447"
+  },
+  {
+    "name": "Handyman services Steel-Gates",
+    "rating": 5,
+    "reviews": 34,
+    "phone": "(786) 679-1553",
+    "website": "https://steel-gates.com/",
+    "address": "1919 Van Buren St, Hollywood, FL 33020, USA",
+    "place_id": "ChIJeX1_okLpRokR_VQKQ3RrVbM",
+    "maps_url": "https://maps.google.com/?cid=12922352852894635261"
+  },
+  {
+    "name": "Mikes Home Improvement and Handyman Services",
+    "rating": 0,
+    "reviews": 0,
+    "phone": "(954) 629-4641",
+    "website": "http://mikeshomeimprovementandhandymanservices.com/",
+    "address": "2214 S Cypress Bend Dr, Pompano Beach, FL 33069, USA",
+    "place_id": "ChIJNbirL0MD2YgR97CHloxVwLc",
+    "maps_url": "https://maps.google.com/?cid=13240676966778515703"
+  },
+  {
+    "name": "Cleaning, Painting & Handyman Contractors Dr. House, LLC",
+    "rating": 5,
+    "reviews": 7,
+    "phone": "(352) 871-9542",
+    "website": "https://www.drhouserepairs.com/",
+    "address": "25314 SW 18th Ave, Newberry, FL 32669, USA",
+    "place_id": "ChIJl-gX4h-j6IgRknHo2Pp1m_A",
+    "maps_url": "https://maps.google.com/?cid=17337580910734242194"
+  },
+  {
+    "name": "Alford's Affordable Services",
+    "rating": 4.7,
+    "reviews": 85,
+    "phone": "(352) 870-9862",
+    "website": "https://alfordservice.com/",
+    "address": "2410 NE 17th Ter, Gainesville, FL 32609, USA",
+    "place_id": "ChIJ69yOwm6k6IgRBZ2ZlgGRwtk",
+    "maps_url": "https://maps.google.com/?cid=15691263487719873797"
+  },
+  {
+    "name": "Ace Handyman Services Gainesville",
+    "rating": 4.9,
+    "reviews": 92,
+    "phone": "(352) 888-6680",
+    "website": "",
+    "address": "214 W University Ave Suite H, Gainesville, FL 32601, USA",
+    "place_id": "ChIJNW2kIhKj6IgRNAXKODbAig4",
+    "maps_url": "https://maps.google.com/?cid=1047861202430592308"
+  },
+  {
+    "name": "Big Dog's Handyman Services LLC",
+    "rating": 4.8,
+    "reviews": 37,
+    "phone": "(904) 629-6915",
+    "website": "http://bigdogshandymanservicesllc.com/",
+    "address": "181 County Rd Lakeview Dr, Melrose, FL 32666, USA",
+    "place_id": "ChIJ8b2syscb5ogR5YKjnxUEMXE",
+    "maps_url": "https://maps.google.com/?cid=8156304891063796453"
+  },
+  {
+    "name": "Handyman repair today",
+    "rating": 4.8,
+    "reviews": 16,
+    "phone": "(954) 231-2966",
+    "website": "http://handymanrepairtoday.com/",
+    "address": "955 Federal Hwy #590, Fort Lauderdale, FL 33316, USA",
+    "place_id": "ChIJ8f6NcfoB2YgRUDj-umLWV94",
+    "maps_url": "https://maps.google.com/?cid=16021509918926190672"
+  },
+  {
+    "name": "Handyman Repair It",
+    "rating": 4.7,
+    "reviews": 31,
+    "phone": "(954) 378-9926",
+    "website": "https://www.handymanrepairit.com/",
+    "address": "1 E Broward Blvd, Fort Lauderdale, FL 33301, USA",
+    "place_id": "ChIJCYIOVJoB2YgRZdgPt6FrF3k",
+    "maps_url": "https://maps.google.com/?cid=8725561145358800997"
+  },
+  {
+    "name": "Handyman Repair",
+    "rating": 4.4,
+    "reviews": 7,
+    "phone": "(954) 519-7289",
+    "website": "http://handymanrepairtoday.com/",
+    "address": "955 Federal Hwy #592, Fort Lauderdale, FL 33316, USA",
+    "place_id": "ChIJFZB2OY0B2YgRGph36WFDtQ4",
+    "maps_url": "https://maps.google.com/?cid=1059827375123437594"
+  },
+  {
+    "name": "Quality Services The King LLC",
+    "rating": 5,
+    "reviews": 29,
+    "phone": "(352) 281-9137",
+    "website": "",
+    "address": "136 SW 145th Dr, Newberry, FL 32669, USA",
+    "place_id": "ChIJExTqCJi_6IgRQQ7KBy5DN_c",
+    "maps_url": "https://maps.google.com/?cid=17813780716065525313"
+  },
+  {
+    "name": "My Buddy James LLC",
+    "rating": 5,
+    "reviews": 7,
+    "phone": "(786) 894-6656",
+    "website": "https://mybuddyjames.com/",
+    "address": "925 SE 20th Ave, Deerfield Beach, FL 33441, USA",
+    "place_id": "ChIJE0743Y7j2IgRKnhSc3DifIk",
+    "maps_url": "https://maps.google.com/?cid=9907042252907247658"
+  }
+]

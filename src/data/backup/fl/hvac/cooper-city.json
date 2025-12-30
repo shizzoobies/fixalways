@@ -1,0 +1,83 @@
+[
+  {
+    "name": "Fleming Brothers Services",
+    "rating": 5,
+    "reviews": 139,
+    "phone": "(954) 981-9480",
+    "website": null,
+    "maps": "https://maps.google.com/?cid=16718654722220697527&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "5202 SW 90th Terrace, Cooper City, FL 33328, USA"
+  },
+  {
+    "name": "ACCO LLC",
+    "rating": 4.9,
+    "reviews": 94,
+    "phone": "(954) 505-1062",
+    "website": "https://accollc.com/",
+    "maps": "https://maps.google.com/?cid=1092725322474152320&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "10600 SW 47th St, Davie, FL 33328, USA"
+  },
+  {
+    "name": "HI-VAC Air Conditioning Service",
+    "rating": 4.9,
+    "reviews": 1073,
+    "phone": "(954) 738-2908",
+    "website": "http://hivacair.com/",
+    "maps": "https://maps.google.com/?cid=14220210371496913601&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "1671 NW 144th Terrace STE 111, Sunrise, FL 33323, USA"
+  },
+  {
+    "name": "Cusano Air Conditioning and Heating, Inc",
+    "rating": 4.8,
+    "reviews": 37,
+    "phone": "(954) 472-8002",
+    "website": "https://www.cusanoairconditioning.com/",
+    "maps": "https://maps.google.com/?cid=1879287603217657352&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "4153 SW 47th Ave Suite 150-152, Davie, FL 33314, USA"
+  },
+  {
+    "name": "City Air Conditioning Solutions",
+    "rating": 5,
+    "reviews": 65,
+    "phone": "(561) 592-5540",
+    "website": "http://www.cityacs.com/",
+    "maps": "https://maps.google.com/?cid=3165260088224342405&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "6630 Meade St, Hollywood, FL 33024, USA"
+  },
+  {
+    "name": "Two Brothers Heating & Air Conditioning",
+    "rating": 5,
+    "reviews": 5,
+    "phone": "(754) 946-5222",
+    "website": null,
+    "maps": "https://maps.google.com/?cid=5796939939126170154&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "9301 SW 55th St, Cooper City, FL 33328, USA"
+  },
+  {
+    "name": "Burke Air Conditioning",
+    "rating": 5,
+    "reviews": 28,
+    "phone": "(954) 501-2509",
+    "website": "https://burkeacdavie.com/",
+    "maps": "https://maps.google.com/?cid=7324740488441012881&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "12555 Orange Dr Suite 41, Davie, FL 33330, USA"
+  },
+  {
+    "name": "Airfresh AC & Mechanical",
+    "rating": 4.9,
+    "reviews": 68,
+    "phone": "(754) 210-2750",
+    "website": "https://airfreshac.com/",
+    "maps": "https://maps.google.com/?cid=11300444388730120824&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "12555 Orange Dr Suite 4090, Davie, FL 33330, USA"
+  },
+  {
+    "name": "Air Anytime",
+    "rating": 4.9,
+    "reviews": 497,
+    "phone": "(954) 569-5155",
+    "website": "https://www.airanytime.com/",
+    "maps": "https://maps.google.com/?cid=3915897444568218918&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "960 NW 36th St, Oakland Park, FL 33309, USA"
+  }
+]

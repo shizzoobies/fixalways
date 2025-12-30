@@ -1,0 +1,82 @@
+[
+  {
+    "name": "Steves Handyman Services",
+    "rating": 4.4,
+    "reviews": 8,
+    "phone": "(772) 218-0860",
+    "website": "http://www.steveshandymanservices.com/",
+    "address": "1347 Damask Ln, Sebastian, FL 32958, USA",
+    "place_id": "ChIJ_c5s4TFn3ogR6szBwAYPfd0",
+    "maps_url": "https://maps.google.com/?cid=15959929176149052650"
+  },
+  {
+    "name": "Andy's Honest Service",
+    "rating": 5,
+    "reviews": 10,
+    "phone": "(772) 480-5655",
+    "website": "",
+    "address": "10953 US-1 Unit #15B, Sebastian, FL 32958, USA",
+    "place_id": "ChIJY8o5l7WYB4cRjb_Yy9eMMRQ",
+    "maps_url": "https://maps.google.com/?cid=1455099013083217805"
+  },
+  {
+    "name": "Big J's Handyman Services",
+    "rating": 4,
+    "reviews": 4,
+    "phone": "(772) 742-2208",
+    "website": "http://bigjhandy.com/",
+    "address": "485 Azine Terrace, Sebastian, FL 32958, USA",
+    "place_id": "ChIJJcIVEhRZWKQReLr0CR7EQwM",
+    "maps_url": "https://maps.google.com/?cid=235247238848494200"
+  },
+  {
+    "name": "Jeamac Handyman Services",
+    "rating": 4.2,
+    "reviews": 6,
+    "phone": "(772) 321-7684",
+    "website": "",
+    "address": "1236 Whitmore St, Sebastian, FL 32958, USA",
+    "place_id": "ChIJ785Qr2ln3ogRjUQvqbuPbBk",
+    "maps_url": "https://maps.google.com/?cid=1831997184593052813"
+  },
+  {
+    "name": "Your Hometown Handyman",
+    "rating": 5,
+    "reviews": 189,
+    "phone": "(321) 355-2201",
+    "website": "https://your321handyman.com/",
+    "address": "1926 Exeter Dr, Cocoa, FL 32922, USA",
+    "place_id": "ChIJ5S_EFDur4IgRJYFW9SvE-fI",
+    "maps_url": "https://maps.google.com/?cid=17508240719458238757"
+  },
+  {
+    "name": "Home Repair Maintenance",
+    "rating": 5,
+    "reviews": 61,
+    "phone": "(772) 206-9786",
+    "website": "https://m.facebook.com/100417128776140/",
+    "address": "8415 59th Ave, Vero Beach, FL 32967, USA",
+    "place_id": "ChIJE1i1-kld3ogRAIkpe11qVwY",
+    "maps_url": "https://maps.google.com/?cid=456950836932217088"
+  },
+  {
+    "name": "Indian River Handyman Services LLC",
+    "rating": 0,
+    "reviews": 0,
+    "phone": "(863) 447-3364",
+    "website": "https://www.facebook.com/indianriverhandyman/",
+    "address": "250 Main St, Sebastian, FL 32958, USA",
+    "place_id": "ChIJD9_CXMn-xK4Rvs_Z7p8NtrI",
+    "maps_url": "https://maps.google.com/?cid=12877495165070725054"
+  },
+  {
+    "name": "Big Dog's Handyman Services LLC",
+    "rating": 4.8,
+    "reviews": 37,
+    "phone": "(904) 629-6915",
+    "website": "http://bigdogshandymanservicesllc.com/",
+    "address": "181 County Rd Lakeview Dr, Melrose, FL 32666, USA",
+    "place_id": "ChIJ8b2syscb5ogR5YKjnxUEMXE",
+    "maps_url": "https://maps.google.com/?cid=8156304891063796453"
+  }
+]

@@ -1,0 +1,83 @@
+[
+  {
+    "name": "Miami Beach HVAC",
+    "rating": 5,
+    "reviews": 46,
+    "phone": "(954) 674-5108",
+    "website": null,
+    "maps": "https://maps.google.com/?cid=10743144745548827708&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "844 Euclid Ave, Miami Beach, FL 33139, USA"
+  },
+  {
+    "name": "AC Repair Miami Beach",
+    "rating": 5,
+    "reviews": 23,
+    "phone": "(305) 760-4336",
+    "website": "https://acrepairmiamibeachflorida.com/",
+    "maps": "https://maps.google.com/?cid=771083522277132393&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "1680 Michigan Ave Suite 700, Miami Beach, FL 33139, USA"
+  },
+  {
+    "name": "Reliable Air Conditioning",
+    "rating": 4.5,
+    "reviews": 132,
+    "phone": "(305) 325-9283",
+    "website": "https://www.acreliable.com/",
+    "maps": "https://maps.google.com/?cid=8548379081487662596&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "20 Island Ave, Miami Beach, FL 33139, USA"
+  },
+  {
+    "name": "Heating & Air Conditioning Miami Beach",
+    "rating": 5,
+    "reviews": 12,
+    "phone": "(786) 434-8847",
+    "website": null,
+    "maps": "https://maps.google.com/?cid=12005734397115203682&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "1629 Jimmy Buffett Mem Hwy, Miami Beach, FL 33139, USA"
+  },
+  {
+    "name": "Rams Air Conditioning INC",
+    "rating": 4.5,
+    "reviews": 30,
+    "phone": "(305) 861-7267",
+    "website": "http://ramsair.com/",
+    "maps": "https://maps.google.com/?cid=2350062133035937481&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "826 Euclid Ave #14, Miami Beach, FL 33139, USA"
+  },
+  {
+    "name": "Emergency AC Corp",
+    "rating": 4.8,
+    "reviews": 1141,
+    "phone": "(833) 514-1414",
+    "website": "https://www.emergencyaccorp.com/?utm_source=googlebusinessprofile&utm_medium=organic&utm_campaign=miamigbp",
+    "maps": "https://maps.google.com/?cid=7966610203396425310&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "20725 NE 16th Ave A6, Miami, FL 33179, USA"
+  },
+  {
+    "name": "Best Heating & Air Conditioning",
+    "rating": 4.9,
+    "reviews": 29,
+    "phone": "(645) 220-0081",
+    "website": null,
+    "maps": "https://maps.google.com/?cid=15736551452280444508&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "7745 Harding Ave, Miami Beach, FL 33141, USA"
+  },
+  {
+    "name": "Heating & Air Conditioning Miami Beach",
+    "rating": 5,
+    "reviews": 9,
+    "phone": "(645) 225-1047",
+    "website": null,
+    "maps": "https://maps.google.com/?cid=13299229881649519345&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "1634 Euclid Ave, Miami Beach, FL 33139, USA"
+  },
+  {
+    "name": "ECO AC Repair Miami",
+    "rating": 4.6,
+    "reviews": 312,
+    "phone": "(305) 444-3646",
+    "website": "https://ecoacflorida.com/",
+    "maps": "https://maps.google.com/?cid=12239984578173949514&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "20161 NE 16th Pl, Miami, FL 33179, USA"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Hughes Exterminators",
+    "rating": 4.7,
+    "reviews": 229,
+    "phone": "(352) 567-2395",
+    "website": "https://www.hughes-exterminators.com/florida/dade-city-service-center",
+    "address": "15534 US-301, Dade City, FL 33523, USA",
+    "place_id": "ChIJ7xEmBupU3YgRx_6TWtNqggU",
+    "maps_url": "https://maps.google.com/?cid=396997173152317127"
+  },
+  {
+    "name": "PestBear of Dade City, Inc.",
+    "rating": 4.7,
+    "reviews": 74,
+    "phone": "(888) 998-1845",
+    "website": "https://www.pestbear.com/locations/pest-control-dade-city-fl?utm_source=gbp&utm_medium=organic&utm_campaign=gbp-dade-city",
+    "address": "37939 Church Ave, Dade City, FL 33525, USA",
+    "place_id": "ChIJH6Mh7pFV3YgRak21TZRj6xc",
+    "maps_url": "https://maps.google.com/?cid=1723580771009383786"
+  }
+]

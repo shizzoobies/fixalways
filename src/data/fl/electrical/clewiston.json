@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Taylor Electric And Air Conditioning",
+    "rating": 4.9,
+    "reviews": 61,
+    "phone": "(863) 805-8724",
+    "website": "",
+    "address": "509 E Sagamore Ave, Clewiston, FL 33440, USA",
+    "place_id": "ChIJu6awJlL624gRAuzMGp7MILk",
+    "maps_url": "https://maps.google.com/?cid=13339887075697945602"
+  },
+  {
+    "name": "Central Electric Co",
+    "rating": 4.8,
+    "reviews": 4,
+    "phone": "(863) 983-9209",
+    "website": "https://centralelectriccorp.com/",
+    "address": "336 E Ave Del Rio, Clewiston, FL 33440, USA",
+    "place_id": "ChIJCfLjYrn724gRgUwcD0rZZpw",
+    "maps_url": "https://maps.google.com/?cid=11269934029645565057"
+  },
+  {
+    "name": "Quality Electric Contracting",
+    "rating": 4.3,
+    "reviews": 8,
+    "phone": "(863) 983-4101",
+    "website": "",
+    "address": "1377 Evercane Rd, Clewiston, FL 33440, USA",
+    "place_id": "ChIJmayron7724gRUmXS2e-Bi3E",
+    "maps_url": "https://maps.google.com/?cid=8181776015200249170"
+  },
+  {
+    "name": "Best Electric Co",
+    "rating": 5,
+    "reviews": 2,
+    "phone": "(863) 983-5233",
+    "website": "",
+    "address": "521 E Obispo Ave, Clewiston, FL 33440, USA",
+    "place_id": "ChIJJVdHYqT724gRff3MjfMeA3A",
+    "maps_url": "https://maps.google.com/?cid=8071328988582968701"
+  },
+  {
+    "name": "Jimmy Pittman Electrical, Inc",
+    "rating": 4.5,
+    "reviews": 4,
+    "phone": "(863) 983-5450",
+    "website": "http://www.jimmypittmanelectrical.com/",
+    "address": "501 S Francisco St, Clewiston, FL 33440, USA",
+    "place_id": "ChIJQYHMdaT724gR2F-HInlnqeU",
+    "maps_url": "https://maps.google.com/?cid=16548872075717599192"
+  },
+  {
+    "name": "Mc Duffie Electric & Air Conditioning",
+    "rating": 0,
+    "reviews": 0,
+    "phone": "(863) 983-9197",
+    "website": "",
+    "address": "509 E Sagamore Ave, Clewiston, FL 33440, USA",
+    "place_id": "ChIJrTLhSbv724gRTNc6iooFQJo",
+    "maps_url": "https://maps.google.com/?cid=11114889972933121868"
+  }
+]

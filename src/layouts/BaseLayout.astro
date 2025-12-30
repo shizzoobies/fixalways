@@ -1,59 +1,88 @@
 ---
-import "../styles/global.css";
-
 const {
   title = "FixAlways",
-  description = "Find trusted home service pros.",
-  badge = "Florida • HVAC (beta)",
+  description = "Find top-rated home service pros in Florida.",
+  badge = "Florida • Home Services",
 } = Astro.props;
 ---
 
+<!doctype html>
 <html lang="en">
   <head>
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width,initial-scale=1" />
+
     <title>{title}</title>
     <meta name="description" content={description} />
+
+    <!-- ✅ MUST be absolute path because it's served from /public -->
+    <link rel="stylesheet" href="/styles/global.css" />
+
+    <link rel="icon" href="/favicon.ico" />
+    <link rel="icon" href="/favicon.svg" type="image/svg+xml" />
+    <link rel="apple-touch-icon" href="/apple-touch-icon.png" />
+    <link rel="manifest" href="/site.webmanifest" />
   </head>
 
   <body>
-    <div class="container">
-      <header class="topbar">
-        <a href="/" class="brandBlock" aria-label="FixAlways home">
-          <img
-            class="brandLogoImg"
-            src="/assets/logos/logo-horizontal.svg"
-            alt="FixAlways"
-            loading="eager"
-          />
-          <span class="brandTagline">Fast local directories that stay updated</span>
-        </a>
-
-        <div class="topbarRight">
-          <div class="topSearch" role="search">
-            <img class="topSearchIcon" src="/assets/icons/search.svg" alt="" aria-hidden="true" />
-            <input
-              id="topSearch"
-              type="search"
-              placeholder="Search city…"
-              autocomplete="off"
-            />
-          </div>
-
-          <div class="badge">{badge}</div>
+    <header class="siteHeader">
+      <div class="headerInner">
+        <div class="brand">
+          <a class="brandLink" href="/">
+            <span class="brandMark">FA</span>
+            <span class="brandName">FixAlways</span>
+          </a>
+          <span class="brandBadge">{badge}</span>
         </div>
-      </header>
 
-      <main>
-        <slot />
-      </main>
+        <nav class="nav">
+          <a class="navLink" href="/#cities">Browse Cities</a>
+          <a class="navLink" href="/#quote">Get Quotes</a>
+        </nav>
 
-      <footer class="footer">
-        Built with real listings. Updates roll in over time.
-      </footer>
-    </div>
+        <div class="headerSearch">
+          <select id="topService" class="select selectPill">
+            <option value="hvac" selected>HVAC</option>
+            <option value="plumbing">Plumbing</option>
+            <option value="electrical">Electrical</option>
+            <option value="roofing">Roofing</option>
+            <option value="pest-control">Pest Control</option>
+            <option value="handyman">Handyman</option>
+          </select>
 
-    <!-- ✅ Reliable JS (not inline) -->
-    <script src="/js/top-search.js" defer></script>
+          <input
+            id="topCity"
+            class="input inputPill"
+            type="text"
+            placeholder="Search Florida city..."
+            autocomplete="off"
+          />
+
+          <button id="topSearchBtn" class="btn btnPrimary btnPill" type="button">
+            Search
+          </button>
+        </div>
+      </div>
+    </header>
+
+    <main class="siteMain">
+      <slot />
+    </main>
+
+    <footer class="siteFooter">
+      <div class="footerInner">
+        <div class="footerLeft">
+          <div class="footerLogo">FixAlways</div>
+          <div class="footerMeta">© {new Date().getFullYear()} • Florida Home Services</div>
+        </div>
+        <div class="footerRight">
+          <a class="footerLink" href="/#quote">Get Quotes</a>
+          <a class="footerLink" href="/#cities">Browse Cities</a>
+        </div>
+      </div>
+    </footer>
+
+    <!-- ✅ if your top-search.js exists -->
+    <script type="module" src="/js/top-search.js"></script>
   </body>
 </html>

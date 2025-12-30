@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Fenelon Handyman Services",
+    "rating": 4.8,
+    "reviews": 63,
+    "phone": "(786) 509-5555",
+    "website": "https://fenelonhandymanservices.com/",
+    "address": "421 Montrose Ave, Tampa, FL 33617, USA",
+    "place_id": "ChIJUdN3VT735ysR2ovXLOeIfKU",
+    "maps_url": "https://maps.google.com/?cid=11924556439841377242"
+  },
+  {
+    "name": "Handyman Can Help",
+    "rating": 4.9,
+    "reviews": 194,
+    "phone": "(813) 761-3421",
+    "website": "http://www.handymancanhelp.com/",
+    "address": "11622 Hidden Hollow Cir, Tampa, FL 33635, USA",
+    "place_id": "ChIJzebrC-FliqER0ADa5ufFXw8",
+    "maps_url": "https://maps.google.com/?cid=1107821633157595344"
+  },
+  {
+    "name": "Tampa Works Handyman",
+    "rating": 4.9,
+    "reviews": 226,
+    "phone": "(813) 205-5822",
+    "website": "http://tampaworkshandyman.com/",
+    "address": "109 W Fortune St, Tampa, FL 33602, USA",
+    "place_id": "ChIJu2GsrYLFwogRRvstp2RwtJ4",
+    "maps_url": "https://maps.google.com/?cid=11435888931404380998"
+  },
+  {
+    "name": "Best of Tampa Bay Handyman Services",
+    "rating": 5,
+    "reviews": 253,
+    "phone": "(855) 466-7923",
+    "website": "http://www.besttampahandyman.com/",
+    "address": "13266 Byrd Dr STE 500, Odessa, FL 33556, USA",
+    "place_id": "ChIJsSmyXTWXwogRP8ZK3ERNa8c",
+    "maps_url": "https://maps.google.com/?cid=14369663994204702271"
+  },
+  {
+    "name": "Morton Handyman Services LLC",
+    "rating": 4.8,
+    "reviews": 19,
+    "phone": "(813) 507-4880",
+    "website": "http://www.facebook.com/mortonhandymanservices",
+    "address": "9703 Linda Pl, Tampa, FL 33610, USA",
+    "place_id": "ChIJM5jER7DPwogR6h7dzPsF0FY",
+    "maps_url": "https://maps.google.com/?cid=6255506461449592554"
+  },
+  {
+    "name": "Sunpro Handyman",
+    "rating": 5,
+    "reviews": 17,
+    "phone": "(727) 396-6614",
+    "website": "http://sunprohandyman.com/?utm_source=gmb&utm_medium=referral",
+    "address": "4300 E Bay Dr lot 427, Clearwater, FL 33764, USA",
+    "place_id": "ChIJwYDBT7lQUg0RHp1wHVYku5A",
+    "maps_url": "https://maps.google.com/?cid=10428969314386222366"
+  }
+]

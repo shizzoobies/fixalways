@@ -1,0 +1,102 @@
+[
+  {
+    "name": "Florida Handy LLC",
+    "rating": 4.9,
+    "reviews": 39,
+    "phone": "(786) 307-8280",
+    "website": "https://www.flhandy.com/",
+    "address": "3001 Northland Rd, Mt Dora, FL 32757, USA",
+    "place_id": "ChIJH16rhT-j54gR3fI_TRm_xQY",
+    "maps_url": "https://maps.google.com/?cid=488006250030691037"
+  },
+  {
+    "name": "Jones Homes",
+    "rating": 5,
+    "reviews": 12,
+    "phone": "(407) 394-5836",
+    "website": "http://joneshomesfl.com/",
+    "address": "407 Plaza Dr, Eustis, FL 32726, USA",
+    "place_id": "ChIJGS-QJ2Oi54gRBuoyxNQnMKU",
+    "maps_url": "https://maps.google.com/?cid=11903057609918441990"
+  },
+  {
+    "name": "Barnes Concepts",
+    "rating": 4.9,
+    "reviews": 31,
+    "phone": "(352) 739-0862",
+    "website": "",
+    "address": "1608 Orange Dr, Eustis, FL 32726, USA",
+    "place_id": "ChIJ-4L_JQDg3igRpPMYD0wjI5Q",
+    "maps_url": "https://maps.google.com/?cid=10674414351375987620"
+  },
+  {
+    "name": "America's Best Services",
+    "rating": 4.8,
+    "reviews": 165,
+    "phone": "",
+    "website": "https://www.americasbestservices.online/",
+    "address": "1919 E Orange Ave, Eustis, FL 32726, USA",
+    "place_id": "ChIJoSTcsD2j54gRiv8JiXd60m4",
+    "maps_url": "https://maps.google.com/?cid=7985579743100141450"
+  },
+  {
+    "name": "OSEE HONESTY HANDYMAN SERVICES, LLC.",
+    "rating": 5,
+    "reviews": 15,
+    "phone": "(407) 879-6431",
+    "website": "https://oseehonestyhandyman.com/",
+    "address": "457 Dominish Estates Dr, Apopka, FL 32712, USA",
+    "place_id": "ChIJzeC-nL5354gRnRncwG164Dw",
+    "maps_url": "https://maps.google.com/?cid=4386640648864536989"
+  },
+  {
+    "name": "P Fagan Handyman Services",
+    "rating": 5,
+    "reviews": 8,
+    "phone": "(321) 278-9668",
+    "website": "https://pfaganhandymanservicesllc.com/",
+    "address": "2197 Robert D Rd, Mt Dora, FL 32757, USA",
+    "place_id": "ChIJb37RtFZ554gRZ1GpIttrQFw",
+    "maps_url": "https://maps.google.com/?cid=6647431638922383719"
+  },
+  {
+    "name": "Mr. Perfect Handyman Services inc",
+    "rating": 5,
+    "reviews": 7,
+    "phone": "(352) 434-2535",
+    "website": "",
+    "address": "19342 Sunfish Ln, Altoona, FL 32702, USA",
+    "place_id": "ChIJNd3FWX6v54gRfr7MXAdKrAo",
+    "maps_url": "https://maps.google.com/?cid=769071031855660670"
+  },
+  {
+    "name": "Fred White Handyman",
+    "rating": 4.8,
+    "reviews": 5,
+    "phone": "(352) 669-7416",
+    "website": "",
+    "address": "38127 Church St, Umatilla, FL 32784, USA",
+    "place_id": "ChIJ1ZSrer-k54gRlfte1Sj-LIc",
+    "maps_url": "https://maps.google.com/?cid=9740439545427458965"
+  },
+  {
+    "name": "Jd house repair services llc",
+    "rating": 4.5,
+    "reviews": 8,
+    "phone": "(407) 668-2768",
+    "website": "",
+    "address": "25444 FL-46 unit 1, Sorrento, FL 32776, USA",
+    "place_id": "ChIJX4Y5Ylp354gRvm4eB3uaJ80",
+    "maps_url": "https://maps.google.com/?cid=14782954155058032318"
+  },
+  {
+    "name": "New's Handyman Service, LLC",
+    "rating": 4.8,
+    "reviews": 22,
+    "phone": "",
+    "website": "http://www.newshandymanservicellc.com/",
+    "address": "105 W Magnolia St, Apopka, FL 32703, USA",
+    "place_id": "ChIJIUUE3Fk2sUYRJFOnXT1h590",
+    "maps_url": "https://maps.google.com/?cid=15989855918194381604"
+  }
+]

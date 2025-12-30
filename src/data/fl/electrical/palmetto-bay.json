@@ -1,0 +1,202 @@
+[
+  {
+    "name": "McGuire Electric Inc.",
+    "rating": 5,
+    "reviews": 41,
+    "phone": "(941) 722-7504",
+    "website": "http://www.mcguireelectricinc.com/",
+    "address": "2000 14th Ave E #101, Palmetto, FL 34221, USA",
+    "place_id": "ChIJBRlRO6Iiw4gRKwVwExk992w",
+    "maps_url": "https://maps.google.com/?cid=7851811653253334315"
+  },
+  {
+    "name": "Tim's Electric LLC",
+    "rating": 5,
+    "reviews": 48,
+    "phone": "(941) 228-5267",
+    "website": "",
+    "address": "3223 49th Ct E, Palmetto, FL 34221, USA",
+    "place_id": "ChIJ_d7BPJEjw4gRzdR-1QMnGik",
+    "maps_url": "https://maps.google.com/?cid=2961722602369766605"
+  },
+  {
+    "name": "Pro-Precision Electrical Contracting LLC",
+    "rating": 4.9,
+    "reviews": 51,
+    "phone": "(305) 439-1784",
+    "website": "https://proprecisionelectric.com/",
+    "address": "9730 SW 220th St, Cutler Bay, FL 33190, USA",
+    "place_id": "ChIJH86wi5PE2YgROExMulginWI",
+    "maps_url": "https://maps.google.com/?cid=7105873551538539576"
+  },
+  {
+    "name": "Kilby Electric Company",
+    "rating": 5,
+    "reviews": 13,
+    "phone": "(305) 233-2965",
+    "website": "http://www.kilbyelectric.com/",
+    "address": "18720 SW 107th Ave, Miami, FL 33157, USA",
+    "place_id": "ChIJ1T4Lk3fE2YgR2JuSBWNcC_I",
+    "maps_url": "https://maps.google.com/?cid=17441135562287389656"
+  },
+  {
+    "name": "Stevenson's Electric Service Company | Affordable Electrician Near Me | All Electric Services",
+    "rating": 4.8,
+    "reviews": 20,
+    "phone": "(786) 344-7679",
+    "website": "https://stevenson-electric.com/",
+    "address": "19710 SW 99th Ct, Cutler Bay, FL 33157, USA",
+    "place_id": "ChIJ18LuaQ_dKi0RkHQaSiozLHY",
+    "maps_url": "https://maps.google.com/?cid=8515237252175656080"
+  },
+  {
+    "name": "Trusted Electrical Solutions",
+    "rating": 5,
+    "reviews": 215,
+    "phone": "(786) 342-9582",
+    "website": "https://www.trustedelectricalsolutions.com/",
+    "address": "13700 Jefferson St, Miami, FL 33176, USA",
+    "place_id": "ChIJ4TcjiJnB2YgRHeFHoNY9NMk",
+    "maps_url": "https://maps.google.com/?cid=14498281092433830173"
+  },
+  {
+    "name": "Cityline Electric Inc",
+    "rating": 5,
+    "reviews": 223,
+    "phone": "(786) 663-3985",
+    "website": "http://www.citylineelectric.com/",
+    "address": "8921 Caribbean Blvd, Cutler Bay, FL 33157, USA",
+    "place_id": "ChIJR6F3jKDF2YgRjOfx3PeWpyY",
+    "maps_url": "https://maps.google.com/?cid=2785360885859870604"
+  },
+  {
+    "name": "Wiremasters Electric Inc",
+    "rating": 4.4,
+    "reviews": 35,
+    "phone": "(305) 378-4011",
+    "website": "https://www.wiremasterselectric.com/",
+    "address": "8862 SW 129th Terrace, Miami, FL 33176, USA",
+    "place_id": "ChIJfd3As2vB2YgRonBDGdiHg3s",
+    "maps_url": "https://maps.google.com/?cid=8900106650820767906"
+  },
+  {
+    "name": "Electric Service & Repair, Inc.",
+    "rating": 4.7,
+    "reviews": 60,
+    "phone": "(305) 256-9793",
+    "website": "http://www.electricserviceandrepair.net/",
+    "address": "13335 SW 88th Ave, Miami, FL 33176, USA",
+    "place_id": "ChIJ8UXqpJPG2YgRMpyghQ7agiY",
+    "maps_url": "https://maps.google.com/?cid=2775020076319939634"
+  },
+  {
+    "name": "Leading Electric and Lighting Inc.",
+    "rating": 5,
+    "reviews": 19,
+    "phone": "(786) 295-3736",
+    "website": "https://leading-electric.com/",
+    "address": "8885 SW 196th Terrace, Cutler Bay, FL 33157, USA",
+    "place_id": "ChIJOWB8TI7F2YgRwLDr5sJy3PM",
+    "maps_url": "https://maps.google.com/?cid=17572046027516260544"
+  },
+  {
+    "name": "Puentes Electrical Services inc",
+    "rating": 5,
+    "reviews": 1,
+    "phone": "(786) 739-9340",
+    "website": "",
+    "address": "17830 SW 107th Ave, Miami, FL 33157, USA",
+    "place_id": "ChIJr6f0fRLF2YgRdMTnz73nXmg",
+    "maps_url": "https://maps.google.com/?cid=7520703230178215028"
+  },
+  {
+    "name": "Sawdy Electric",
+    "rating": 4,
+    "reviews": 4,
+    "phone": "(941) 722-4321",
+    "website": "",
+    "address": "606 17th St E STE C, Palmetto, FL 34221, USA",
+    "place_id": "ChIJHfgyR0M9w4gRX4JAzDzm-Ls",
+    "maps_url": "https://maps.google.com/?cid=13544829028115972703"
+  },
+  {
+    "name": "Palmetto Electric Inc",
+    "rating": 4.4,
+    "reviews": 29,
+    "phone": "(386) 437-3068",
+    "website": "http://www.palmettoelectricinc.com/",
+    "address": "1150 W Moody Blvd, Bunnell, FL 32110, USA",
+    "place_id": "ChIJaYQfqIns5ogREEpltCPhzr4",
+    "maps_url": "https://maps.google.com/?cid=13749174255875344912"
+  },
+  {
+    "name": "Elekron Electric Inc",
+    "rating": 5,
+    "reviews": 209,
+    "phone": "(786) 423-5230",
+    "website": "http://www.elekronelectric.com/",
+    "address": "2332 Galiano St Second Floor, Coral Gables, FL 33134, USA",
+    "place_id": "ChIJ3xpi3L232YgRgtKQ59YyICk",
+    "maps_url": "https://maps.google.com/?cid=2963424453399204482"
+  },
+  {
+    "name": "Benson Electric",
+    "rating": 4.6,
+    "reviews": 11,
+    "phone": "(305) 235-6741",
+    "website": "http://www.bensonelectricmiami.net/",
+    "address": "10475 SW 186th St, Miami, FL 33157, USA",
+    "place_id": "ChIJh5yO6XbE2YgRp3n6jx0cJ04",
+    "maps_url": "https://maps.google.com/?cid=5631500772345280935"
+  },
+  {
+    "name": "Thecon Electric,Inc.",
+    "rating": 5,
+    "reviews": 2,
+    "phone": "",
+    "website": "",
+    "address": "19727 SW 84th Pl, Miami, FL 33189, USA",
+    "place_id": "ChIJ3YTzwtHF2YgRPW-XoLypgG8",
+    "maps_url": "https://maps.google.com/?cid=8034608362842189629"
+  },
+  {
+    "name": "Clarke Electrical Contracting",
+    "rating": 1,
+    "reviews": 1,
+    "phone": "(305) 235-4695",
+    "website": "https://clarkeec.com/",
+    "address": "12973 SW 85th Avenue Rd, Miami, FL 33156, USA",
+    "place_id": "ChIJDb69Vu3G2YgR8-yu-9KRMKo",
+    "maps_url": "https://maps.google.com/?cid=12263462120681565427"
+  },
+  {
+    "name": "Billy Santerfeit Electric Inc",
+    "rating": 3.3,
+    "reviews": 9,
+    "phone": "(352) 472-5511",
+    "website": "",
+    "address": "305 SW 250th St, Newberry, FL 32669, USA",
+    "place_id": "ChIJl9jC7ATB6IgRkvcxjysZFwI",
+    "maps_url": "https://maps.google.com/?cid=150616787416905618"
+  },
+  {
+    "name": "Luminous Electric",
+    "rating": 4.8,
+    "reviews": 1106,
+    "phone": "(941) 727-0272",
+    "website": "http://lumelect.com/",
+    "address": "3165 Lakewood Ranch Blvd #103, Bradenton, FL 34211, USA",
+    "place_id": "ChIJo1YU7ug7w4gRFPodij6WD1s",
+    "maps_url": "https://maps.google.com/?cid=6561628377451461140"
+  },
+  {
+    "name": "Luminous Electric",
+    "rating": 4.7,
+    "reviews": 533,
+    "phone": "(727) 954-4666",
+    "website": "https://lumelect.com/",
+    "address": "3350 Ulmerton Rd ste 20, Clearwater, FL 33762, USA",
+    "place_id": "ChIJPbJdyorjwogRMR-EbunCWIg",
+    "maps_url": "https://maps.google.com/?cid=9824816894946058033"
+  }
+]

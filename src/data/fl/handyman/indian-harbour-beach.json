@@ -1,0 +1,72 @@
+[
+  {
+    "name": "All American Handyman",
+    "rating": 5,
+    "reviews": 3,
+    "phone": "(321) 525-6778",
+    "website": "",
+    "address": "2272 Jimmy Buffett Mem Hwy, Indian Harbour Beach, FL 32937, USA",
+    "place_id": "ChIJB45D3tHr9IgRD_QnPMTzvJ4",
+    "maps_url": "https://maps.google.com/?cid=11438285177762608143"
+  },
+  {
+    "name": "Rocket Coast Handyman",
+    "rating": 5,
+    "reviews": 65,
+    "phone": "(321) 209-1771",
+    "website": "http://rocketcoasthandyman.com/",
+    "address": "1709 N Harbor City Blvd PMB 6021, Melbourne, FL 32935, USA",
+    "place_id": "ChIJ1ek-v2cR3ogRmF_RzRqiUHU",
+    "maps_url": "https://maps.google.com/?cid=8453434736580321176"
+  },
+  {
+    "name": "Anytime Handyman LLC",
+    "rating": 0,
+    "reviews": 0,
+    "phone": "(407) 780-1990",
+    "website": "",
+    "address": "201 Harbor City Pkwy apt A204, Indian Harbour Beach, FL 32937, USA",
+    "place_id": "ChIJiZvfQYkR3ogRNUKwWLtrP1s",
+    "maps_url": "https://maps.google.com/?cid=6575092433375216181"
+  },
+  {
+    "name": "Affordable Home Services Space Coast LLC",
+    "rating": 5,
+    "reviews": 5,
+    "phone": "(321) 499-5624",
+    "website": "",
+    "address": "1170 S Patrick Dr, Satellite Beach, FL 32937, USA",
+    "place_id": "ChIJmQXk-AksnwAR3bJZcYcNOSs",
+    "maps_url": "https://maps.google.com/?cid=3114535492676858589"
+  },
+  {
+    "name": "Robert W Goodman Handyman",
+    "rating": 5,
+    "reviews": 1,
+    "phone": "(321) 626-1726",
+    "website": "",
+    "address": "1193 Yacht Club Blvd, Indian Harbour Beach, FL 32937, USA",
+    "place_id": "ChIJ2y_h3mMQ3ogRd6-fr53wjlU",
+    "maps_url": "https://maps.google.com/?cid=6165129499963797367"
+  },
+  {
+    "name": "Cocoa Beach Handyman Services",
+    "rating": 5,
+    "reviews": 22,
+    "phone": "(321) 877-8518",
+    "website": "",
+    "address": "274 S Orlando Ave, Cocoa Beach, FL 32931, USA",
+    "place_id": "ChIJK5oWx1kd3ogR9yl6ooxta4w",
+    "maps_url": "https://maps.google.com/?cid=10118301438606715383"
+  },
+  {
+    "name": "Your Hometown Handyman",
+    "rating": 5,
+    "reviews": 189,
+    "phone": "(321) 355-2201",
+    "website": "https://your321handyman.com/",
+    "address": "1926 Exeter Dr, Cocoa, FL 32922, USA",
+    "place_id": "ChIJ5S_EFDur4IgRJYFW9SvE-fI",
+    "maps_url": "https://maps.google.com/?cid=17508240719458238757"
+  }
+]

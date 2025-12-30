@@ -1,0 +1,62 @@
+[
+  {
+    "name": "M. Wenzel Handyman Services LLC",
+    "rating": 5,
+    "reviews": 35,
+    "phone": "(352) 661-8725",
+    "website": "",
+    "address": "1624 W. Schwartz Blvd Lady Lake, The Villages, FL 32159, USA",
+    "place_id": "ChIJgZtal7ePcgURw_vW26fgBiQ",
+    "maps_url": "https://maps.google.com/?cid=2596009246778129347"
+  },
+  {
+    "name": "Ace Handyman Services The Villages",
+    "rating": 4.8,
+    "reviews": 381,
+    "phone": "(352) 234-8874",
+    "website": "https://www.acehandymanservices.com/offices/the-villages",
+    "address": "17860 SE 109th Ave Suite 604, Summerfield, FL 34491, USA",
+    "place_id": "ChIJO5D9uR_F54gRSVYSykKAVoQ",
+    "maps_url": "https://maps.google.com/?cid=9535950285350000201"
+  },
+  {
+    "name": "GBR Handyman Service",
+    "rating": 4.9,
+    "reviews": 53,
+    "phone": "(352) 234-4494",
+    "website": "http://gbrhandyman.com/",
+    "address": "126 Shenandoah Ave B, Lady Lake, FL 32159, USA",
+    "place_id": "ChIJkXlX-juIBkoR-vPu5jsLEeM",
+    "maps_url": "https://maps.google.com/?cid=16361871273119118330"
+  },
+  {
+    "name": "Dwayne Dillon Handyman Service",
+    "rating": 4,
+    "reviews": 1,
+    "phone": "(352) 643-0252",
+    "website": "",
+    "address": "Wildwood Ave, Wildwood, FL 34785, USA",
+    "place_id": "ChIJBTwCmNLn54gRmKp_U2Obphg",
+    "maps_url": "https://maps.google.com/?cid=1776277953949182616"
+  },
+  {
+    "name": "Hardman The Handyman",
+    "rating": 4.3,
+    "reviews": 3,
+    "phone": "(352) 460-3306",
+    "website": "",
+    "address": "3553 Crate Mill Rd, Coleman, FL 33521, USA",
+    "place_id": "ChIJbRxisW3m54gRa57459fqglA",
+    "maps_url": "https://maps.google.com/?cid=5801457483037318763"
+  },
+  {
+    "name": "Tropical Handyman",
+    "rating": 5,
+    "reviews": 9,
+    "phone": "(352) 221-3002",
+    "website": "https://tropicalhandyman.com/",
+    "address": "3000 SE 143rd Pl, Summerfield, FL 34491, USA",
+    "place_id": "ChIJP7ZZG4PP54gR9KNdaAhrdN0",
+    "maps_url": "https://maps.google.com/?cid=15957497063535387636"
+  }
+]

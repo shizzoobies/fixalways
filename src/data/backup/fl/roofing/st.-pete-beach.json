@@ -1,0 +1,92 @@
+[
+  {
+    "name": "Gulf Coast",
+    "rating": 4.9,
+    "reviews": 598,
+    "phone": "(727) 329-6696",
+    "website": "https://www.makeitcold.com/",
+    "maps": "https://maps.google.com/?cid=9910832109342065865&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "6331 39th St N Ste 100, Pinellas Park, FL 33781, USA"
+  },
+  {
+    "name": "Viking Air Services, LLC",
+    "rating": 5,
+    "reviews": 693,
+    "phone": "(727) 777-5200",
+    "website": "https://www.vikingcoldair.com/",
+    "maps": "https://maps.google.com/?cid=8672965573054511663&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "4801 58th Ave N, St. Petersburg, FL 33714, USA"
+  },
+  {
+    "name": "Smart Heating & Cooling",
+    "rating": 4.9,
+    "reviews": 913,
+    "phone": "(855) 682-0402",
+    "website": "https://smartheatandcool.com/?utm_source=google&utm_campaign=gmb",
+    "maps": "https://maps.google.com/?cid=9315897716272643381&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "4255 73rd Ave N, Pinellas Park, FL 33781, USA"
+  },
+  {
+    "name": "Air Bros Air Conditioning & Electrical",
+    "rating": 5,
+    "reviews": 1190,
+    "phone": "(727) 217-6142",
+    "website": "https://theairbros.com/",
+    "maps": "https://maps.google.com/?cid=2981710312629478057&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "1579 Delaware Ave NE, St. Petersburg, FL 33703, USA"
+  },
+  {
+    "name": "Total Air Inc.",
+    "rating": 4.8,
+    "reviews": 1753,
+    "phone": "(727) 888-2922",
+    "website": "https://totalairinc.net/?utm_source=gmb&utm_medium=organic",
+    "maps": "https://maps.google.com/?cid=6847829630878700834&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "3100 39th Ave N, St. Petersburg, FL 33714, USA"
+  },
+  {
+    "name": "The Service Pros AC Repair St Petersburg",
+    "rating": 5,
+    "reviews": 213,
+    "phone": "(727) 222-0237",
+    "website": "http://theservicepros.com/",
+    "maps": "https://maps.google.com/?cid=10342156825796400079&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "1700 4th St S Unit C, St. Petersburg, FL 33701, USA"
+  },
+  {
+    "name": "Phillips Air Conditioning & Heating",
+    "rating": 4.9,
+    "reviews": 397,
+    "phone": "(727) 709-7979",
+    "website": "https://airphillips.com/",
+    "maps": "https://maps.google.com/?cid=3596429442853762373&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "1427 4th St S, St. Petersburg, FL 33701, USA"
+  },
+  {
+    "name": "Value Air and Heat HVAC St Petersburg",
+    "rating": 5,
+    "reviews": 276,
+    "phone": "(727) 418-3211",
+    "website": "https://www.valueairandheat.com/",
+    "maps": "https://maps.google.com/?cid=6275481739558733937&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "146 2nd St N #305, St. Petersburg, FL 33701, USA"
+  },
+  {
+    "name": "Harrington Air Conditioning",
+    "rating": 4.9,
+    "reviews": 1153,
+    "phone": "(727) 477-1004",
+    "website": "https://www.harringtonac.com/",
+    "maps": "https://maps.google.com/?cid=2437287134144741343&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "7840 62nd St N, Pinellas Park, FL 33781, USA"
+  },
+  {
+    "name": "Forest Air Conditioning & Heating",
+    "rating": 4.8,
+    "reviews": 663,
+    "phone": "(727) 865-6004",
+    "website": "https://www.forestairac.com/",
+    "maps": "https://maps.google.com/?cid=18006246853279627620&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "2990 32nd St S, St. Petersburg, FL 33712, USA"
+  }
+]

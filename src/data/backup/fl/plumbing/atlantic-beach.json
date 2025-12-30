@@ -1,0 +1,92 @@
+[
+  {
+    "name": "Charlie's Tropic",
+    "rating": 4.9,
+    "reviews": 320,
+    "phone": "(904) 867-8480",
+    "website": "https://tropicheatandac.com/?UTM_source=GMB_listing&UTM_medium=organic",
+    "maps": "https://maps.google.com/?cid=14471322088627717328&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "750 Mayport Rd, Atlantic Beach, FL 32233, USA"
+  },
+  {
+    "name": "Ocean State Air Conditioning & Heating",
+    "rating": 4.9,
+    "reviews": 954,
+    "phone": "(904) 574-5619",
+    "website": "https://oceanstateac.com/",
+    "maps": "https://maps.google.com/?cid=1673311690286738197&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "1476 Atlantic Blvd, Neptune Beach, FL 32266, USA"
+  },
+  {
+    "name": "One Hour Air Conditioning & Heating",
+    "rating": 4.6,
+    "reviews": 925,
+    "phone": "(904) 257-5070",
+    "website": "https://jacksonvilleonehour.com/?utm_source=GBP&utm_medium=organic&utm_campaign=jacksonvillegbp",
+    "maps": "https://maps.google.com/?cid=10322107400288195573&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "1198 Mayport Rd #1, Atlantic Beach, FL 32233, USA"
+  },
+  {
+    "name": "Buehler Air Conditioning & Plumbing",
+    "rating": 5,
+    "reviews": 5162,
+    "phone": "(904) 605-0332",
+    "website": "https://buehlerair.com/?utm_source=google&utm_medium=organic&utm_campaign=GMBListing-Jacksonville-Beach-FL",
+    "maps": "https://maps.google.com/?cid=6825623857772508963&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "207 20th St N, Jacksonville Beach, FL 32250, USA"
+  },
+  {
+    "name": "CABRERA & SONS SERVICES",
+    "rating": 4.8,
+    "reviews": 102,
+    "phone": "(904) 590-5350",
+    "website": "https://cabrerasonsroofingconstruction.com/jacksonville-beach-fl/",
+    "maps": "https://maps.google.com/?cid=11146505368396587952&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "14185 Beach Blvd, Jacksonville Beach, FL 32250, USA"
+  },
+  {
+    "name": "Donovan Air, Electric & Plumbing",
+    "rating": 4.9,
+    "reviews": 7035,
+    "phone": "(904) 241-3785",
+    "website": "https://www.donovanac.com/?utm_campaign=Google+My+Business&utm_source=GMB&utm_medium=organic&utm_content=Website",
+    "maps": "https://maps.google.com/?cid=13812409927775457182&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "315 6th Ave S, Jacksonville Beach, FL 32250, USA"
+  },
+  {
+    "name": "A1A Heat & Air",
+    "rating": 5,
+    "reviews": 311,
+    "phone": "(904) 808-2888",
+    "website": "http://www.a1aheatandair.com/",
+    "maps": "https://maps.google.com/?cid=8884643878896606450&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "388 33rd Ave S, Jacksonville Beach, FL 32250, USA"
+  },
+  {
+    "name": "Coastal Heating & Cooling, LLC",
+    "rating": 4.8,
+    "reviews": 76,
+    "phone": "(904) 241-2030",
+    "website": "https://www.coastal911.com/",
+    "maps": "https://maps.google.com/?cid=1684717561058222047&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "922 9th St S, Jacksonville Beach, FL 32250, USA"
+  },
+  {
+    "name": "Duval Air Conditioning LLC",
+    "rating": 5,
+    "reviews": 81,
+    "phone": "(904) 652-4795",
+    "website": "http://duvalac.com/",
+    "maps": "https://maps.google.com/?cid=11072327680690578785&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "1103 12th St N, Jacksonville Beach, FL 32250, USA"
+  },
+  {
+    "name": "Best AC LLC",
+    "rating": 5,
+    "reviews": 5,
+    "phone": "(904) 883-9133",
+    "website": "https://bestacllc.com/",
+    "maps": "https://maps.google.com/?cid=13141479250274028783&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "address": "9951 Atlantic Blvd #461, Jacksonville, FL 32246, USA"
+  }
+]

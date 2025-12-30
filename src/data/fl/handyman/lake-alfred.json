@@ -1,0 +1,32 @@
+[
+  {
+    "name": "D&K Handyman Solutions",
+    "rating": 4.8,
+    "reviews": 16,
+    "phone": "(863) 364-4030",
+    "website": "https://www.facebook.com/profile.php?id=61571541401533",
+    "address": "941 Gotthard Pass Dr., Winter Haven, FL 33881, USA",
+    "place_id": "ChIJU1D3KVJz3YgR0I5Teek3f4g",
+    "maps_url": "https://maps.google.com/?cid=9835641587102879440"
+  },
+  {
+    "name": "Torres Projects & Repairs",
+    "rating": 5,
+    "reviews": 14,
+    "phone": "(863) 585-4409",
+    "website": "http://torrespr863.com/",
+    "address": "1229 8th St NW, Winter Haven, FL 33881, USA",
+    "place_id": "ChIJOQsWsqHmW4kReEIJz_tAWS0",
+    "maps_url": "https://maps.google.com/?cid=3267714454888465016"
+  },
+  {
+    "name": "Foster Home Renovations",
+    "rating": 5,
+    "reviews": 13,
+    "phone": "(863) 606-2348",
+    "website": "",
+    "address": "2105 US-92, Auburndale, FL 33823, USA",
+    "place_id": "ChIJZbTuuy1r3YgRzFZwbj_2SLo",
+    "maps_url": "https://maps.google.com/?cid=13423249441673991884"
+  }
+]

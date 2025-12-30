@@ -1,0 +1,330 @@
+---
+import BaseLayout from "../../../../layouts/BaseLayout.astro";
+import { services, getServiceByKey, defaultServiceKey } from "../../../../data/services.js";
+import { floridaCities } from "../../../../data/fl-cities.js";
+
+/** Build-time: pre-render all city/service routes */
+export async function getStaticPaths() {
+  const paths = [];
+
+  for (const cityName of floridaCities) {
+    const citySlug = cityName
+      .toLowerCase()
+      .trim()
+      .replace(/\s+/g, "-")
+      .replace(/[^a-z0-9-]/g, "");
+
+    for (const svc of services) {
+      paths.push({ params: { city: citySlug, service: svc.key } });
+    }
+  }
+
+  return paths;
+}
+
+const { city, service } = Astro.params;
+
+const serviceKey = service || defaultServiceKey;
+const serviceConfig = getServiceByKey(serviceKey);
+
+if (!serviceConfig) {
+  return Astro.redirect(`/fl/${city}/${defaultServiceKey}`);
+}
+
+const cityTitle = city
+  ? city.replace(/-/g, " ").replace(/\b\w/g, (m) => m.toUpperCase())
+  : "City";
+
+/**
+ * ✅ Load all JSON at build time:
+ * src/data/fl/{serviceFolder}/{city}.json
+ */
+const dataModules = import.meta.glob("../../../../data/fl/*/*.json", { eager: true });
+
+const dataKey = `../../../../data/fl/${serviceConfig.folder}/${city}.json`;
+const mod = dataModules[dataKey];
+
+let listingsRaw = [];
+let dataFound = true;
+
+if (mod) {
+  listingsRaw = mod?.default || mod || [];
+} else {
+  listingsRaw = [];
+  dataFound = false;
+}
+
+const listings = (listingsRaw || []).map((x) => ({
+  name: x?.name || "",
+  rating: Number(x?.rating || 0),
+  reviews: Number(x?.reviews || x?.user_ratings_total || 0),
+  address: x?.address || x?.vicinity || "",
+  website: x?.website || "",
+  phone: x?.phone || x?.formatted_phone_number || "",
+}));
+
+const serviceLabel = serviceConfig.label;
+
+const pageTitle = `${cityTitle} ${serviceLabel} Listings | FixAlways`;
+const pageDesc = `Top rated ${serviceLabel.toLowerCase()} companies in ${cityTitle}. Compare reviews, websites and phone numbers.`;
+
+const currentQueryString = Astro.url.searchParams.toString();
+const qs = currentQueryString ? `?${currentQueryString}` : "";
+
+const relatedTrades = services.filter((s) => s.key !== serviceKey).slice(0, 6);
+
+const FORMSPREE_ENDPOINT = "https://formspree.io/f/mdaorwgo";
+---
+
+<BaseLayout title={pageTitle} description={pageDesc} badge={`Florida • ${serviceLabel}`}>
+  <section class="section sectionTight">
+    <div class="pageHeader">
+      <div>
+        <div class="crumbs">
+          <a class="crumbLink" href="/">Home</a>
+          <span class="crumbSep">/</span>
+          <a class="crumbLink" href="/#cities">Florida</a>
+          <span class="crumbSep">/</span>
+          <span>{cityTitle}</span>
+          <span class="crumbSep">/</span>
+          <span>{serviceLabel}</span>
+        </div>
+
+        <h1 class="pageTitle">{cityTitle} {serviceLabel} listings</h1>
+        <p class="pageSubtitle">
+          Compare top-rated picks, filter by rating/reviews, and request free quotes.
+        </p>
+
+        <div class="tradeTabsWrap">
+          <div class="tradeTabs" role="navigation" aria-label="Trades">
+            {services.map((s) => {
+              const isActive = s.key === serviceKey;
+              const href = `/fl/${city}/${s.key}${qs}`;
+
+              return (
+                <a
+                  class={`tradeTab ${isActive ? "isActive" : ""}`}
+                  href={href}
+                  aria-current={isActive ? "page" : undefined}
+                >
+                  {s.label}
+                </a>
+              );
+            })}
+          </div>
+        </div>
+      </div>
+
+      <div class="pageHeaderRight">
+        <a class="btn btnPrimary" href="#quote">Get free quotes</a>
+      </div>
+    </div>
+  </section>
+
+  <section class="section sectionSplit listingsWrap">
+    <div class="splitLeft">
+      <div class="toolbar card">
+        <div class="toolbarRow">
+          <div class="toolbarLeft">
+            <div class="meta" id="resultsMeta">{listings.length} found</div>
+
+            <div class="toolbarLabel">Sort</div>
+            <select id="sortSelect" class="select">
+              <option value="recommended" selected>Recommended</option>
+              <option value="rating">Rating</option>
+              <option value="reviews">Reviews</option>
+              <option value="name">Name</option>
+            </select>
+          </div>
+
+          <div class="toolbarRight">
+            <button id="filterRating45" class="chip" type="button" aria-pressed="false">4.5+ rating</button>
+            <button id="filterReviews100" class="chip" type="button" aria-pressed="false">100+ reviews</button>
+            <button id="filterWebsite" class="chip" type="button" aria-pressed="false">Has website</button>
+          </div>
+        </div>
+      </div>
+
+      {listings.length ? (
+        <ul class="listingList" id="listingList">
+          {listings.map((x) => (
+            <li
+              class="listingItem"
+              data-name={x.name}
+              data-rating={x.rating}
+              data-reviews={x.reviews}
+              data-website={x.website ? "1" : "0"}
+            >
+              <div class="listingTop">
+                <div class="listingInfo">
+                  <div class="listingName">{x.name}</div>
+
+                  <div class="listingMeta">
+                    <span class="stars">{x.rating ? x.rating.toFixed(1) : "—"}</span>
+                    <span class="dot">•</span>
+                    <span>{x.reviews || 0} reviews</span>
+                    {x.website ? (
+                      <>
+                        <span class="dot">•</span>
+                        <span class="pill">Website</span>
+                      </>
+                    ) : null}
+                  </div>
+
+                  <div class="listingAddr">{x.address}</div>
+                </div>
+
+                <div class="listingActions">
+                  {x.phone ? (
+                    <a class="btn btnSmall btnPrimary" href={`tel:${String(x.phone).replace(/\D/g, "")}`}>
+                      Call
+                    </a>
+                  ) : null}
+
+                  {x.website ? (
+                    <a class="btn btnSmall btnGhost" href={x.website} target="_blank" rel="noopener noreferrer">
+                      Website
+                    </a>
+                  ) : null}
+                </div>
+              </div>
+
+              <div class="listingBottom">
+                <a class="link" href="#quote">Request a quote</a>
+                <span class="dot">•</span>
+                <a class="link" href="#">Claim this listing</a>
+              </div>
+            </li>
+          ))}
+        </ul>
+      ) : (
+        <div class="card" style="padding: 16px;">
+          <div class="meta">
+            {dataFound ? "No listings found yet." : "Service data not added yet."}
+          </div>
+
+          <p class="pageSubtitle" style="margin-top: 8px;">
+            Expected: <code>src/data/fl/{serviceConfig.folder}/{city}.json</code>
+          </p>
+
+          <p class="pageSubtitle" style="margin-top: 8px;">
+            Lookup key: <code>{dataKey}</code>
+          </p>
+
+          <a class="btn btnPrimary" style="margin-top: 12px;" href="#quote">
+            Request quotes anyway
+          </a>
+        </div>
+      )}
+    </div>
+
+    <aside class="splitRight">
+      <div class="panel sticky">
+        <div class="panelHeader">
+          <div class="panelTitle">Other trades in {cityTitle}</div>
+          <div class="panelSubtitle">Switch without losing your filters</div>
+        </div>
+
+        <div class="relatedTrades">
+          {relatedTrades.map((s) => (
+            <a class="relatedTrade" href={`/fl/${city}/${s.key}${qs}`}>
+              <span class="relatedTradeName">{s.label}</span>
+              <span class="relatedTradeArrow">→</span>
+            </a>
+          ))}
+        </div>
+
+        <div class="relatedTradeHint">
+          Tip: filters and sorting stay applied when you switch trades.
+        </div>
+      </div>
+
+      <div class="panel sticky" id="quote" style="margin-top: 12px;">
+        <div class="panelHeader">
+          <div class="panelTitle">Get free quotes</div>
+          <div class="panelSubtitle">
+            From local {serviceLabel} pros in {cityTitle}
+          </div>
+        </div>
+
+        <form class="form" action={FORMSPREE_ENDPOINT} method="POST">
+          <input type="hidden" name="_redirect" value="/thanks" />
+          <input type="hidden" name="source" value="fixalways" />
+          <input type="hidden" name="page" value={Astro.url.pathname} />
+          <input type="hidden" name="city" value={cityTitle} />
+          <input type="hidden" name="service" value={serviceLabel} />
+
+          <div class="field">
+            <label class="label" for="leadNameCity">Name</label>
+            <input id="leadNameCity" class="input" name="name" type="text" placeholder="Alex" required />
+          </div>
+
+          <div class="field">
+            <label class="label" for="leadPhoneCity">Phone</label>
+            <input id="leadPhoneCity" class="input" name="phone" type="tel" placeholder="(555) 555-5555" required />
+          </div>
+
+          <div class="field">
+            <label class="label" for="leadEmailCity">Email (optional)</label>
+            <input id="leadEmailCity" class="input" name="email" type="email" placeholder="alex@email.com" />
+          </div>
+
+          <div class="field">
+            <label class="label" for="leadCityZipCity">City or ZIP</label>
+            <input
+              id="leadCityZipCity"
+              class="input"
+              name="city_or_zip"
+              type="text"
+              value={`${cityTitle}, FL`}
+              required
+            />
+          </div>
+
+          <div class="field">
+            <label class="label" for="leadTimingCity">When do you need help?</label>
+            <select id="leadTimingCity" class="select" name="timing" required>
+              <option value="" disabled selected>Select one</option>
+              <option value="asap">ASAP</option>
+              <option value="this_week">This week</option>
+              <option value="flexible">Flexible</option>
+            </select>
+          </div>
+
+          <div class="field">
+            <label class="label" for="leadNeedCity">Project details</label>
+            <textarea
+              id="leadNeedCity"
+              class="input inputArea"
+              name="details"
+              placeholder={`Ex: Need ${serviceLabel.toLowerCase()} help in ${cityTitle}`}
+              required
+            ></textarea>
+          </div>
+
+          <div class="field consentRow">
+            <input id="leadConsentCity" name="consent" type="checkbox" required />
+            <label for="leadConsentCity">
+              I agree FixAlways and up to 3 service providers may contact me about this request.
+            </label>
+          </div>
+
+          <button class="btn btnPrimary btnFull" type="submit">
+            Get free quotes
+          </button>
+
+          <p class="finePrint">
+            No obligation. Usually replies within 10–15 minutes.
+          </p>
+        </form>
+      </div>
+
+      <div class="adBox">
+        <div class="adLabel">Ad space</div>
+        <div class="adBody">Google AdSense / Sponsored block</div>
+      </div>
+    </aside>
+  </section>
+
+  <script type="module" src="/js/city-filters.js"></script>
+</BaseLayout>
