@@ -213,7 +213,7 @@ img {
 .headerInner {
   width: var(--max-w);
   margin: 0 auto;
-  height: 64px;
+  height: 72px;
   display: flex;
   align-items: center;
   gap: 32px;
@@ -230,7 +230,7 @@ img {
 .brandLink:hover { opacity: 0.8; text-decoration: none; }
 
 .brandLogo {
-  height: 44px;
+  height: 56px;
   width: auto;
   object-fit: contain;
 }
@@ -574,8 +574,8 @@ img {
 .heroActions .btn {
   height: 44px;
   padding: 0 24px;
-  font-size: 15px;
-  border-radius: 12px;
+  font-size: 14px;
+  border-radius: 10px;
 }
 
 /* Stats bar */
