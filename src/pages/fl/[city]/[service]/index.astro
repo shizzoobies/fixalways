@@ -70,7 +70,7 @@ const relatedTrades = services.filter((s) => s.key !== serviceKey).slice(0, 6);
 ---
 
 <BaseLayout title={pageTitle} description={pageDesc} badge={`Florida • ${serviceLabel}`}>
-  <section class="section sectionTight">
+  <section class="section sectionTight animate-in" style="--delay: 0s">
     <div class="pageHeader">
       <div>
         <div class="crumbs">
@@ -110,9 +110,9 @@ const relatedTrades = services.filter((s) => s.key !== serviceKey).slice(0, 6);
     </div>
   </section>
 
-  <section class="section sectionSplit listingsWrap">
+  <section class="section sectionSplit listingsWrap animate-in" style="--delay: 0.15s">
     <div class="splitLeft">
-      <div class="toolbar card">
+      <div class="toolbar">
         <div class="toolbarRow">
           <div class="toolbarLeft">
             <div class="meta">{listings.length} found</div>
@@ -170,9 +170,9 @@ const relatedTrades = services.filter((s) => s.key !== serviceKey).slice(0, 6);
                     </a>
                   )}
                   {x.website && (
-                    <a class="btn btnSmall btnGhost" href={x.website} target="_blank" rel="noopener noreferrer">
+                    <button class="btn btnSmall btnGhost sitePreviewBtn" type="button" data-url={x.website} data-name={x.name}>
                       Website
-                    </a>
+                    </button>
                   )}
                 </div>
               </div>

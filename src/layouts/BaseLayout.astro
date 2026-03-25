@@ -4,6 +4,8 @@ const {
   description = "Find top-rated home service pros in Florida.",
   badge = "Florida • Home Services",
 } = Astro.props;
+
+import { services } from "../data/services.js";
 ---
 
 <!doctype html>
@@ -22,7 +24,13 @@ const {
     <title>{title}</title>
     <meta name="description" content={description} />
 
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&display=swap" rel="stylesheet" />
+
     <link rel="stylesheet" href="/styles/global.css" />
+    <link rel="stylesheet" href="/styles/chat-widget.css" />
+    <link rel="stylesheet" href="/styles/site-modal.css" />
 
     <link rel="icon" href="/favicon.ico" />
     <link rel="icon" href="/favicon.svg" type="image/svg+xml" />
@@ -31,11 +39,25 @@ const {
   </head>
 
   <body>
+    <!-- Premium gradient accent bar -->
+    <div class="accentBar"></div>
+
     <header class="siteHeader">
       <div class="headerInner">
         <div class="brand">
           <a class="brandLink" href="/">
-            <span class="brandMark">FA</span>
+            <span class="brandMark">
+              <!-- SVG logo mark -->
+              <svg width="18" height="18" viewBox="0 0 24 24" fill="none" aria-hidden="true">
+                <path d="M13 3L4 14h7l-1 7 9-11h-7l1-7z" fill="url(#bolt-grad)" stroke="rgba(240,165,74,0.3)" stroke-width="0.5"/>
+                <defs>
+                  <linearGradient id="bolt-grad" x1="4" y1="3" x2="20" y2="21">
+                    <stop offset="0%" stop-color="#f0a54a"/>
+                    <stop offset="100%" stop-color="#e8734a"/>
+                  </linearGradient>
+                </defs>
+              </svg>
+            </span>
             <span class="brandName">FixAlways</span>
           </a>
           <span class="brandBadge">{badge}</span>
@@ -77,15 +99,25 @@ const {
     <footer class="siteFooter">
       <div class="footerInner">
         <div class="footerLeft">
-          <div class="footerLogo">FixAlways</div>
-          <div class="footerMeta">© {new Date().getFullYear()} • Florida Home Services</div>
+          <div class="footerLogo">
+            <svg width="16" height="16" viewBox="0 0 24 24" fill="none" style="vertical-align: -2px; margin-right: 6px;" aria-hidden="true">
+              <path d="M13 3L4 14h7l-1 7 9-11h-7l1-7z" fill="url(#fbolt)" />
+              <defs><linearGradient id="fbolt" x1="4" y1="3" x2="20" y2="21"><stop offset="0%" stop-color="#f0a54a"/><stop offset="100%" stop-color="#e8734a"/></linearGradient></defs>
+            </svg>FixAlways
+          </div>
+          <div class="footerMeta">&copy; {new Date().getFullYear()} FixAlways &middot; Florida Home Services</div>
         </div>
-        <div class="footerRight">
+        <div class="footerLinks">
           <a class="footerLink" href="/#cities">Browse Cities</a>
+          {services.map((s) => (
+            <a class="footerLink" href={`/fl/tampa/${s.key}`}>{s.label}</a>
+          ))}
         </div>
       </div>
     </footer>
 
     <script type="module" src="/js/top-search.js"></script>
+    <script is:inline src="/js/chat-widget.js"></script>
+    <script is:inline src="/js/site-modal.js"></script>
   </body>
 </html>

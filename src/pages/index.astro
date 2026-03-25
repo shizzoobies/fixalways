@@ -12,20 +12,34 @@ function toSlug(city) {
 }
 
 const popularCities = [
-  "Jacksonville",
-  "Miami",
-  "Tampa",
-  "Orlando",
-  "St. Petersburg",
-  "Hialeah",
-  "Tallahassee",
-  "Fort Lauderdale",
-  "Cape Coral",
-  "Pembroke Pines",
+  { name: "Miami", img: "/images/city-miami.png", sub: "South Florida" },
+  { name: "Tampa", img: "/images/city-tampa.png", sub: "Tampa Bay area" },
+  { name: "Orlando", img: "/images/city-orlando.png", sub: "Central Florida" },
+  { name: "Jacksonville", img: "/images/city-jacksonville.png", sub: "Northeast Florida" },
+  { name: "St. Petersburg", img: "/images/city-stpete.png", sub: "Pinellas County" },
+];
+
+const moreCities = [
+  "Hialeah", "Tallahassee", "Fort Lauderdale", "Cape Coral", "Pembroke Pines",
 ];
 
 const defaultService = services.find((s) => s.key === defaultServiceKey) || services[0];
 const defaultServiceFolder = defaultService?.key || "hvac";
+
+const serviceCards = [
+  { key: "hvac", label: "HVAC", desc: "Air conditioning & heating", img: "/images/service-hvac.png", icon: "M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2z" },
+  { key: "plumbing", label: "Plumbing", desc: "Pipes, drains & fixtures", img: "/images/service-plumbing.png", icon: "M12 3c0 0-6 6.5-6 10.5a6 6 0 0012 0C18 9.5 12 3 12 3z" },
+  { key: "electrical", label: "Electrical", desc: "Wiring, panels & repairs", img: "/images/service-electrical.png", icon: "M13 3L6 14h5l-1 7 7-11h-5l1-7z" },
+  { key: "roofing", label: "Roofing", desc: "Install, repair & inspect", img: "/images/service-roofing.png", icon: "M3 12l9-8 9 8M5 10v9a1 1 0 001 1h12a1 1 0 001-1v-9" },
+  { key: "pest-control", label: "Pest Control", desc: "Bugs, rodents & prevention", img: "/images/service-pest.png", icon: "M12 14a5 5 0 100-10 5 5 0 000 10z" },
+  { key: "handyman", label: "Handyman", desc: "General repairs & projects", img: "/images/service-handyman.png", icon: "M14.7 6.3a1 1 0 000 1.4l1.6 1.6a1 1 0 001.4 0l3.8-3.8" },
+];
+
+const testimonials = [
+  { quote: "Found a 5-star AC company in Tampa within minutes. They came out the same day and fixed my unit.", name: "Maria R.", role: "Tampa homeowner", initials: "MR", stars: 5 },
+  { quote: "We use FixAlways to find contractors in every city we work in. The reviews are real and the info is always current.", name: "David K.", role: "Property manager", initials: "DK", stars: 5 },
+  { quote: "Best directory for Florida home services. Clean layout, fast, no spam. Just real companies with real contact info.", name: "Sarah T.", role: "Orlando resident", initials: "ST", stars: 5 },
+];
 ---
 
 <BaseLayout
@@ -33,99 +47,181 @@ const defaultServiceFolder = defaultService?.key || "hvac";
   description="Browse trusted home service companies across Florida. Compare HVAC providers by city with real contact info and reviews."
   badge="Florida • Home Services"
 >
-  <!-- HERO -->
-  <section class="section sectionTight">
-    <div class="heroWrap">
-      <div class="heroLeft">
-        <h1 class="heroTitle">Find trusted home service pros in Florida</h1>
-        <p class="heroSubtitle">
-          Browse HVAC companies by city with real contact info and reviews.
-          More services coming soon.
-        </p>
+  <!-- HERO WITH BACKGROUND IMAGE -->
+  <div class="heroBanner animate-in" style="--delay: 0s">
+    <div class="heroBannerBg">
+      <img src="/images/hero-bg.png" alt="" loading="eager" />
+    </div>
+    <div class="heroBannerInner">
+      <div class="heroWrapFull">
+        <div class="heroLeft">
+          <h1 class="heroTitle animate-in" style="--delay: 0.05s">
+            Find <span class="heroTitleGradient">trusted pros</span><br />in Florida
+          </h1>
+          <p class="heroSubtitle animate-in" style="--delay: 0.15s">
+            Browse HVAC, plumbing, electrical, and more — compare local companies
+            with real reviews, ratings, and contact info.
+          </p>
 
-        <div class="heroBadges">
-          <span class="badge">Local companies</span>
-          <span class="badge">Real reviews</span>
-          <span class="badge">Fast browsing</span>
+          <div class="heroBadges animate-in" style="--delay: 0.25s">
+            <span class="badge">Local companies</span>
+            <span class="badge">Real reviews</span>
+            <span class="badge">Fast browsing</span>
+          </div>
+
+          <div class="heroActions animate-in" style="--delay: 0.35s">
+            <a class="btn btnPrimary" href="#cities">Browse cities</a>
+            <a class="btn btnGhost" href={`/fl/tampa/${defaultServiceFolder}`}>View Tampa HVAC</a>
+          </div>
+
+          <div class="heroStats animate-in" style="--delay: 0.45s">
+            <div class="heroStat">
+              <span class="heroStatValue">{floridaCities.length}+</span>
+              <span class="heroStatLabel">Cities</span>
+            </div>
+            <div class="heroStat">
+              <span class="heroStatValue">{services.length}</span>
+              <span class="heroStatLabel">Services</span>
+            </div>
+            <div class="heroStat">
+              <span class="heroStatValue">Real</span>
+              <span class="heroStatLabel">Reviews</span>
+            </div>
+          </div>
         </div>
 
-        <div class="heroActions">
-          <a class="btn btnPrimary" href="#cities">Browse cities</a>
-          <a class="btn btnGhost" href={`/fl/tampa/${defaultServiceFolder}`}>View Tampa HVAC</a>
-        </div>
       </div>
+    </div>
+  </div>
+
+  <!-- SERVICE CARDS WITH IMAGES -->
+  <section class="section animate-in" style="--delay: 0.1s">
+    <div class="sectionHeader">
+      <h2 class="sectionTitle">Our services</h2>
+      <p class="sectionSubtitle">Find pros across 6 home service categories.</p>
+    </div>
+
+    <div class="serviceCardGrid">
+      {serviceCards.map((s) => (
+        <a class="serviceCard" href={`/fl/tampa/${s.key}`}>
+          <div class="serviceCardBg">
+            <img src={s.img} alt={s.label} loading="lazy" />
+          </div>
+          <div class="serviceCardArrow">&rarr;</div>
+          <div class="serviceCardContent">
+            <div class="serviceCardLabel">
+              <svg width="20" height="20" viewBox="0 0 24 24" fill="none">
+                <path d={s.icon} fill="none" stroke="currentColor" stroke-width="1.5" stroke-linejoin="round"/>
+              </svg>
+              {s.label}
+            </div>
+            <div class="serviceCardDesc">{s.desc}</div>
+          </div>
+        </a>
+      ))}
     </div>
   </section>
 
-  <!-- CITIES -->
+  <!-- FEATURED CITIES WITH THUMBNAILS -->
   <section class="section" id="cities">
-    <div class="sectionHeader">
-      <h2 class="sectionTitle">Browse Florida cities</h2>
-      <p class="sectionSubtitle">Pick a city to view local HVAC providers.</p>
+    <div class="sectionHeader animate-in" style="--delay: 0.1s">
+      <h2 class="sectionTitle">Popular Florida cities</h2>
+      <p class="sectionSubtitle">Explore home service providers in Florida's top markets.</p>
     </div>
 
-    <div class="card cityPanel">
+    <div class="cityGrid animate-in" style="--delay: 0.15s">
+      {popularCities.map((city) => (
+        <a
+          class="cityCardFeatured"
+          href={`/fl/${toSlug(city.name)}/${defaultServiceFolder}`}
+        >
+          <div class="cityCardThumb">
+            <img src={city.img} alt={city.name} loading="lazy" />
+          </div>
+          <div class="cityCardBody">
+            <div class="cityCardName">{city.name}</div>
+            <div class="cityCardSub">{city.sub}</div>
+          </div>
+        </a>
+      ))}
+      {moreCities.map((city) => (
+        <a
+          class="cityCard"
+          href={`/fl/${toSlug(city)}/${defaultServiceFolder}`}
+          data-city={city.toLowerCase()}
+        >
+          <span>{city}</span>
+          <span class="cityCardMeta">View &rarr;</span>
+        </a>
+      ))}
+    </div>
+
+    <!-- All Cities Browser -->
+    <div class="card cityPanel animate-in" style="margin-top: 16px; --delay: 0.2s">
       <div class="cityTools">
         <div class="cityCount">
-          <span id="cityCount">{floridaCities.length}</span> cities
+          <span id="cityCount">{floridaCities.length}</span> cities total
         </div>
-
         <div class="citySearchRow">
-          <input
-            id="cityFilter"
-            class="input"
-            type="text"
-            placeholder="Filter cities… (ex: Tampa, Miami, Orl)"
-            autocomplete="off"
-          />
-          <button id="clearCityFilter" class="btn btnGhost" type="button">
-            Clear
-          </button>
+          <input id="cityFilter" class="input" type="text" placeholder="Search all cities..." autocomplete="off" />
+          <button id="clearCityFilter" class="btn btnGhost" type="button">Clear</button>
         </div>
       </div>
 
-      <div class="citySectionLabel">Popular</div>
-      <div class="cityGrid" id="popularCities">
-        {popularCities.map((city) => (
-          <a
-            class="cityCard"
-            href={`/fl/${toSlug(city)}/${defaultServiceFolder}`}
-            data-city={city.toLowerCase()}
-          >
-            <span>{city}</span>
-            <span class="cityCardMeta">View listings →</span>
-          </a>
-        ))}
-      </div>
-
-      <details class="cityDetails">
+      <details class="cityDetails" style="margin-top: 8px; border: none; padding-top: 8px;">
         <summary class="citySummary">
-          <span>All cities</span>
+          <span>All {floridaCities.length} cities</span>
           <span class="citySummaryHint">tap to expand</span>
         </summary>
-
         <div class="cityList" id="cityList">
           {floridaCities.map((city) => (
-            <a
-              class="cityRow"
-              href={`/fl/${toSlug(city)}/${defaultServiceFolder}`}
-              data-city={city.toLowerCase()}
-            >
+            <a class="cityRow" href={`/fl/${toSlug(city)}/${defaultServiceFolder}`} data-city={city.toLowerCase()}>
               {city}
             </a>
           ))}
         </div>
-
-        <div class="cityEmpty" id="cityEmpty" hidden>
-          No matches. Try a different spelling.
-        </div>
-
-        <p class="cityHint">
-          Tip: use the service selector in the header to switch services.
-        </p>
+        <div class="cityEmpty" id="cityEmpty" hidden>No matches.</div>
       </details>
     </div>
-
     <script type="module" src="/js/city-list.js"></script>
   </section>
+
+  <!-- TRUST / TESTIMONIALS -->
+  <section class="trustSection animate-in" style="--delay: 0.1s">
+    <div class="sectionHeader">
+      <h2 class="sectionTitle">Trusted by Florida homeowners</h2>
+      <p class="sectionSubtitle">Real people finding real pros across the state.</p>
+    </div>
+
+    <div class="trustGrid">
+      {testimonials.map((t) => (
+        <div class="trustCard">
+          <div class="trustQuote">{t.quote}</div>
+          <div class="trustAuthor">
+            <div class="trustAvatarPlaceholder">{t.initials}</div>
+            <div>
+              <div class="trustName">{t.name}</div>
+              <div class="trustRole">{t.role}</div>
+              <div class="trustStars">{"★".repeat(t.stars)}</div>
+            </div>
+          </div>
+        </div>
+      ))}
+    </div>
+  </section>
+
+  <!-- CTA BANNER -->
+  <div class="ctaBanner animate-in" style="--delay: 0.1s">
+    <div class="ctaBannerBg">
+      <img src="/images/cta-bg.png" alt="" loading="lazy" />
+    </div>
+    <div class="ctaBannerContent">
+      <div class="ctaBannerTitle">Ready to find your pro?</div>
+      <div class="ctaBannerSub">Browse {floridaCities.length}+ Florida cities and compare top-rated companies side by side.</div>
+      <a class="btn btnPrimary" href="#cities" style="height: 48px; padding: 0 28px; font-size: 16px; border-radius: 14px;">
+        Start browsing
+      </a>
+    </div>
+  </div>
 </BaseLayout>
+
