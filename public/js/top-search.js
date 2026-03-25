@@ -1,8 +1,6 @@
 /**
- * Top pill search
- * - Sends user to: /fl/{citySlug}/{serviceKey}
- * - If already on a city/service page, preserves query params (sort/filters)
- * - If service changes and city input is populated, auto-navigates
+ * Header search bar
+ * Sends user to: /fl/{citySlug}/{serviceKey}
  */
 
 function slugify(str) {
@@ -22,15 +20,14 @@ function currentQS() {
 function navigate(serviceKey, cityText) {
   const citySlug = slugify(cityText);
   if (!citySlug) return;
-
   const qs = currentQS();
   window.location.href = `/fl/${citySlug}/${serviceKey}${qs}`;
 }
 
 function init() {
-  const serviceSelect = document.querySelector("#serviceSelect");
-  const cityInput = document.querySelector("#cityInput");
-  const goBtn = document.querySelector("#searchGo");
+  const serviceSelect = document.querySelector("#topService");
+  const cityInput = document.querySelector("#topCity");
+  const goBtn = document.querySelector("#topSearchBtn");
 
   if (!serviceSelect || !cityInput) return;
 
@@ -48,7 +45,6 @@ function init() {
     }
   });
 
-  // auto-navigate if user changes service and already typed a city
   serviceSelect.addEventListener("change", () => {
     const cityText = (cityInput.value || "").trim();
     if (cityText.length >= 2) {
