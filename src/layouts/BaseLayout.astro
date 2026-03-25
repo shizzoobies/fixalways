@@ -44,20 +44,17 @@ import { services } from "../data/services.js";
     <header class="siteHeader">
       <div class="headerInner">
         <a class="brandLink" href="/">
-          <img src="/images/logo.png" alt="FixAlways" class="brandLogo" width="120" height="40" />
+          <img src="/images/logo.png" alt="FixAlways" class="brandLogo" />
         </a>
 
         <nav class="headerNav">
           <a class="headerNavLink" href="/#services">Services</a>
           <a class="headerNavLink" href="/#cities">Cities</a>
-          {services.map((s) => (
-            <a class="headerNavLink headerNavLink--service" href={`/fl/tampa/${s.key}`}>{s.label}</a>
-          ))}
         </nav>
 
         <div class="headerSearchWrap">
           <div class="headerSearchBar">
-            <svg class="headerSearchIcon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="11" cy="11" r="8"/><line x1="21" y1="21" x2="16.65" y2="16.65"/></svg>
+            <svg class="headerSearchIcon" width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><circle cx="11" cy="11" r="7"/><line x1="21" y1="21" x2="16.65" y2="16.65"/></svg>
             <select id="topService" class="headerSearchSelect">
               <option value="hvac" selected>HVAC</option>
               <option value="plumbing">Plumbing</option>
@@ -67,9 +64,9 @@ import { services } from "../data/services.js";
               <option value="handyman">Handyman</option>
             </select>
             <span class="headerSearchDivider"></span>
-            <input id="topCity" class="headerSearchInput" type="text" placeholder="City..." autocomplete="off" />
-            <button id="topSearchBtn" class="headerSearchBtn" type="button">
-              <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><line x1="5" y1="12" x2="19" y2="12"/><polyline points="12 5 19 12 12 19"/></svg>
+            <input id="topCity" class="headerSearchInput" type="text" placeholder="Enter city..." autocomplete="off" />
+            <button id="topSearchBtn" class="headerSearchBtn" type="button" aria-label="Search">
+              <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><line x1="5" y1="12" x2="19" y2="12"/><polyline points="12 5 19 12 12 19"/></svg>
             </button>
           </div>
         </div>
