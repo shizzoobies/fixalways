@@ -1,6 +1,5 @@
 /**
- * Header search bar
- * Sends user to: /fl/{citySlug}/{serviceKey}
+ * Header search bar + custom service picker
  */
 
 function slugify(str) {
@@ -25,32 +24,80 @@ function navigate(serviceKey, cityText) {
 }
 
 function init() {
-  const serviceSelect = document.querySelector("#topService");
+  const hiddenSelect = document.querySelector("#topService");
   const cityInput = document.querySelector("#topCity");
   const goBtn = document.querySelector("#topSearchBtn");
 
-  if (!serviceSelect || !cityInput) return;
+  // --- Custom service picker ---
+  const picker = document.querySelector("#servicePicker");
+  const pickerBtn = document.querySelector("#servicePickerBtn");
+  const pickerLabel = document.querySelector("#servicePickerLabel");
+  const pickerMenu = document.querySelector("#servicePickerMenu");
+  const options = document.querySelectorAll(".headerServiceOption");
 
-  if (goBtn) {
+  if (picker && pickerBtn && pickerMenu) {
+    // Toggle menu
+    pickerBtn.addEventListener("click", (e) => {
+      e.stopPropagation();
+      picker.classList.toggle("open");
+    });
+
+    // Option selection
+    options.forEach((opt) => {
+      opt.addEventListener("click", () => {
+        const val = opt.dataset.value;
+        const label = opt.textContent.trim();
+
+        // Update label + hidden select
+        pickerLabel.textContent = label;
+        if (hiddenSelect) hiddenSelect.value = val;
+
+        // Mark active
+        options.forEach((o) => o.classList.remove("active"));
+        opt.classList.add("active");
+
+        picker.classList.remove("open");
+
+        // Auto-navigate if city is filled
+        const cityText = (cityInput?.value || "").trim();
+        if (cityText.length >= 2) {
+          navigate(val, cityText);
+        }
+      });
+    });
+
+    // Mark initial active
+    options.forEach((opt) => {
+      if (opt.dataset.value === (hiddenSelect?.value || "hvac")) {
+        opt.classList.add("active");
+      }
+    });
+
+    // Close on outside click
+    document.addEventListener("click", () => {
+      picker.classList.remove("open");
+    });
+
+    pickerMenu.addEventListener("click", (e) => e.stopPropagation());
+  }
+
+  // --- Search button ---
+  if (goBtn && hiddenSelect && cityInput) {
     goBtn.addEventListener("click", (e) => {
       e.preventDefault();
-      navigate(serviceSelect.value, cityInput.value);
+      navigate(hiddenSelect.value, cityInput.value);
     });
   }
 
-  cityInput.addEventListener("keydown", (e) => {
-    if (e.key === "Enter") {
-      e.preventDefault();
-      navigate(serviceSelect.value, cityInput.value);
-    }
-  });
-
-  serviceSelect.addEventListener("change", () => {
-    const cityText = (cityInput.value || "").trim();
-    if (cityText.length >= 2) {
-      navigate(serviceSelect.value, cityText);
-    }
-  });
+  // --- Enter key in city input ---
+  if (cityInput && hiddenSelect) {
+    cityInput.addEventListener("keydown", (e) => {
+      if (e.key === "Enter") {
+        e.preventDefault();
+        navigate(hiddenSelect.value, cityInput.value);
+      }
+    });
+  }
 }
 
 document.addEventListener("DOMContentLoaded", init);

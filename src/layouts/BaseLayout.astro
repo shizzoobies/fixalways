@@ -44,25 +44,56 @@ import { services } from "../data/services.js";
     <header class="siteHeader">
       <div class="headerInner">
         <a class="brandLink" href="/">
-          <img src="/images/logo.png" alt="FixAlways" class="brandLogo" />
+          <img src="/images/logo.png" alt="" class="brandIcon" />
+          <span class="brandName">FixAlways</span>
         </a>
 
         <nav class="headerNav">
-          <a class="headerNavLink" href="/#services">Services</a>
+          <div class="headerNavItem headerNavItem--dropdown">
+            <a class="headerNavLink" href="/#services">
+              Services
+              <svg width="10" height="10" viewBox="0 0 10 10" fill="currentColor"><path d="M2 4l3 3 3-3z"/></svg>
+            </a>
+            <div class="headerDropdown">
+              {services.map((s) => (
+                <a class="headerDropdownLink" href={`/fl/tampa/${s.key}`}>
+                  {s.label}
+                </a>
+              ))}
+            </div>
+          </div>
           <a class="headerNavLink" href="/#cities">Cities</a>
         </nav>
 
         <div class="headerSearchWrap">
           <div class="headerSearchBar">
             <svg class="headerSearchIcon" width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><circle cx="11" cy="11" r="7"/><line x1="21" y1="21" x2="16.65" y2="16.65"/></svg>
-            <select id="topService" class="headerSearchSelect">
-              <option value="hvac" selected>HVAC</option>
-              <option value="plumbing">Plumbing</option>
-              <option value="electrical">Electrical</option>
-              <option value="roofing">Roofing</option>
-              <option value="pest-control">Pest Control</option>
-              <option value="handyman">Handyman</option>
-            </select>
+
+            <!-- Custom service picker (replaces native select) -->
+            <div class="headerServicePicker" id="servicePicker">
+              <button class="headerServiceBtn" type="button" id="servicePickerBtn">
+                <span id="servicePickerLabel">HVAC</span>
+                <svg width="10" height="10" viewBox="0 0 10 10" fill="currentColor"><path d="M2 4l3 3 3-3z"/></svg>
+              </button>
+              <div class="headerServiceMenu" id="servicePickerMenu">
+                <button class="headerServiceOption" data-value="hvac" type="button">HVAC</button>
+                <button class="headerServiceOption" data-value="plumbing" type="button">Plumbing</button>
+                <button class="headerServiceOption" data-value="electrical" type="button">Electrical</button>
+                <button class="headerServiceOption" data-value="roofing" type="button">Roofing</button>
+                <button class="headerServiceOption" data-value="pest-control" type="button">Pest Control</button>
+                <button class="headerServiceOption" data-value="handyman" type="button">Handyman</button>
+              </div>
+              <!-- Hidden select to keep form/JS compatibility -->
+              <select id="topService" style="display:none">
+                <option value="hvac" selected>HVAC</option>
+                <option value="plumbing">Plumbing</option>
+                <option value="electrical">Electrical</option>
+                <option value="roofing">Roofing</option>
+                <option value="pest-control">Pest Control</option>
+                <option value="handyman">Handyman</option>
+              </select>
+            </div>
+
             <span class="headerSearchDivider"></span>
             <input id="topCity" class="headerSearchInput" type="text" placeholder="Enter city..." autocomplete="off" />
             <button id="topSearchBtn" class="headerSearchBtn" type="button" aria-label="Search">

@@ -213,33 +213,42 @@ img {
 .headerInner {
   width: var(--max-w);
   margin: 0 auto;
-  height: 72px;
+  height: 64px;
   display: flex;
   align-items: center;
-  gap: 32px;
+  gap: 28px;
 }
 
-/* ---- Brand / Logo ---- */
+/* ---- Brand: icon + text ---- */
 .brandLink {
   display: flex;
   align-items: center;
+  gap: 10px;
   flex-shrink: 0;
   text-decoration: none;
   transition: opacity 0.2s;
 }
-.brandLink:hover { opacity: 0.8; text-decoration: none; }
+.brandLink:hover { opacity: 0.85; text-decoration: none; color: var(--text); }
 
-.brandLogo {
-  height: 56px;
-  width: auto;
+.brandIcon {
+  height: 36px;
+  width: 36px;
   object-fit: contain;
+  border-radius: 8px;
+}
+
+.brandName {
+  font-size: 20px;
+  font-weight: 800;
+  color: var(--text);
+  letter-spacing: -0.03em;
 }
 
 /* ---- Nav ---- */
 .headerNav {
   display: flex;
   align-items: center;
-  gap: 4px;
+  gap: 2px;
 }
 
 .headerNavLink {
@@ -252,6 +261,9 @@ img {
   letter-spacing: -0.01em;
   transition: color 0.15s, background 0.15s;
   text-decoration: none;
+  display: flex;
+  align-items: center;
+  gap: 5px;
 }
 
 .headerNavLink:hover {
@@ -260,7 +272,57 @@ img {
   text-decoration: none;
 }
 
-/* ---- Search ---- */
+.headerNavLink svg {
+  opacity: 0.5;
+  transition: opacity 0.15s;
+}
+.headerNavLink:hover svg { opacity: 0.8; }
+
+/* ---- Services dropdown ---- */
+.headerNavItem { position: relative; }
+
+.headerDropdown {
+  position: absolute;
+  top: calc(100% + 8px);
+  left: 0;
+  min-width: 180px;
+  background: rgba(17, 24, 39, 0.97);
+  backdrop-filter: blur(20px);
+  border: 1px solid rgba(255,255,255,0.1);
+  border-radius: 12px;
+  padding: 6px;
+  box-shadow: 0 12px 40px rgba(0,0,0,0.5);
+  opacity: 0;
+  visibility: hidden;
+  transform: translateY(-4px);
+  transition: opacity 0.18s, transform 0.18s, visibility 0.18s;
+  z-index: 100;
+}
+
+.headerNavItem--dropdown:hover .headerDropdown {
+  opacity: 1;
+  visibility: visible;
+  transform: translateY(0);
+}
+
+.headerDropdownLink {
+  display: block;
+  padding: 9px 14px;
+  color: rgba(255,255,255,0.7);
+  font-size: 13.5px;
+  font-weight: 500;
+  border-radius: 8px;
+  transition: background 0.12s, color 0.12s;
+  text-decoration: none;
+}
+
+.headerDropdownLink:hover {
+  background: rgba(255,255,255,0.08);
+  color: var(--accent);
+  text-decoration: none;
+}
+
+/* ---- Search bar ---- */
 .headerSearchWrap {
   margin-left: auto;
   flex-shrink: 0;
@@ -289,7 +351,12 @@ img {
   margin-right: 10px;
 }
 
-.headerSearchSelect {
+/* ---- Custom service picker (replaces native select) ---- */
+.headerServicePicker {
+  position: relative;
+}
+
+.headerServiceBtn {
   background: none;
   border: none;
   color: var(--text);
@@ -297,18 +364,74 @@ img {
   font-size: 13px;
   font-weight: 600;
   cursor: pointer;
-  outline: none;
   padding: 0;
-  color-scheme: dark;
-  -webkit-appearance: none;
-  appearance: none;
+  display: flex;
+  align-items: center;
+  gap: 4px;
+  white-space: nowrap;
 }
 
-.headerSearchSelect option {
-  background: var(--bg-elevated);
-  color: white;
+.headerServiceBtn svg {
+  opacity: 0.4;
+  transition: opacity 0.15s, transform 0.15s;
 }
 
+.headerServicePicker.open .headerServiceBtn svg {
+  opacity: 0.7;
+  transform: rotate(180deg);
+}
+
+.headerServiceMenu {
+  position: absolute;
+  top: calc(100% + 14px);
+  left: -10px;
+  min-width: 160px;
+  background: rgba(17, 24, 39, 0.97);
+  backdrop-filter: blur(20px);
+  border: 1px solid rgba(255,255,255,0.1);
+  border-radius: 10px;
+  padding: 5px;
+  box-shadow: 0 10px 36px rgba(0,0,0,0.5);
+  opacity: 0;
+  visibility: hidden;
+  transform: translateY(-4px);
+  transition: opacity 0.15s, transform 0.15s, visibility 0.15s;
+  z-index: 200;
+}
+
+.headerServicePicker.open .headerServiceMenu {
+  opacity: 1;
+  visibility: visible;
+  transform: translateY(0);
+}
+
+.headerServiceOption {
+  display: block;
+  width: 100%;
+  text-align: left;
+  padding: 8px 12px;
+  color: rgba(255,255,255,0.7);
+  font-family: inherit;
+  font-size: 13px;
+  font-weight: 500;
+  border: none;
+  background: none;
+  border-radius: 7px;
+  cursor: pointer;
+  transition: background 0.12s, color 0.12s;
+}
+
+.headerServiceOption:hover {
+  background: rgba(255,255,255,0.08);
+  color: var(--accent);
+}
+
+.headerServiceOption.active {
+  color: var(--accent);
+  background: rgba(var(--accent-rgb), 0.1);
+}
+
+/* ---- Divider + City input ---- */
 .headerSearchDivider {
   width: 1px;
   height: 20px;
