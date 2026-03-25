@@ -3,21 +3,8 @@
  * Floating bottom-right chat with Anthropic Claude integration.
  */
 
-const CLAUDE_API_KEY = '%%ANTHROPIC_API_KEY%%';  // Replace with your key or use a backend proxy
-const CLAUDE_MODEL   = 'claude-sonnet-4-20250514';
-
-const SYSTEM_PROMPT = `You are FixAlways's friendly AI assistant. FixAlways is a Florida home-services directory that helps people find trusted local pros.
-
-Services covered: HVAC, Plumbing, Electrical, Roofing, Pest Control, Handyman.
-Coverage: 188+ cities across Florida.
-How it works: Users browse by city → view listings with real ratings, reviews, phone & website → contact the company directly.
-
-Guidelines:
-- Be concise, helpful, and warm.
-- If someone asks about a specific city or service, suggest they browse that city page (e.g. /fl/tampa/hvac).
-- You can help with general home-service questions (when to service an AC, signs of plumbing issues, etc.).
-- Never make up business names or phone numbers — direct users to browse listings on the site.
-- Keep responses short (2-3 sentences max unless they ask for detail).`;
+// Chat uses server-side proxy at /api/chat (Cloudflare Pages Function)
+// API key is stored as an environment variable in Cloudflare Dashboard.
 
 // ─── State ───────────────────────────────────────────
 let messages = [];
@@ -191,9 +178,7 @@ async function sendMessage() {
     messages.push({ role: 'assistant', content: reply });
   } catch (err) {
     hideTyping();
-    const errMsg = CLAUDE_API_KEY.includes('%%')
-      ? 'API key not configured yet. Add your Anthropic key in chat-widget.js to enable AI responses.'
-      : 'Sorry, something went wrong. Please try again.';
+    const errMsg = 'Sorry, something went wrong. Please try again in a moment.';
     addMessage('assistant', errMsg);
   }
 
@@ -201,25 +186,15 @@ async function sendMessage() {
 }
 
 async function callClaude(msgs) {
-  const res = await fetch('https://api.anthropic.com/v1/messages', {
+  const res = await fetch('/api/chat', {
     method: 'POST',
-    headers: {
-      'Content-Type': 'application/json',
-      'x-api-key': CLAUDE_API_KEY,
-      'anthropic-version': '2023-06-01',
-      'anthropic-dangerous-direct-browser-access': 'true',
-    },
-    body: JSON.stringify({
-      model: CLAUDE_MODEL,
-      max_tokens: 300,
-      system: SYSTEM_PROMPT,
-      messages: msgs.slice(-10),   // keep context window small
-    }),
+    headers: { 'Content-Type': 'application/json' },
+    body: JSON.stringify({ messages: msgs.slice(-10) }),
   });
 
   if (!res.ok) throw new Error(`API ${res.status}`);
   const data = await res.json();
-  return data.content[0].text;
+  return data.reply;
 }
 
 // ─── Init ────────────────────────────────────────────
