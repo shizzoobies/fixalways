@@ -44,7 +44,7 @@ import { services } from "../data/services.js";
     <header class="siteHeader">
       <div class="headerInner">
         <a class="brandLink" href="/">
-          <img src="/images/logo.png" alt="" class="brandIcon" />
+          <img src="/images/logo.png" alt="" class="brandIcon" style="height:36px;width:36px;border-radius:8px" />
           <span class="brandName">FixAlways</span>
         </a>
 
@@ -54,7 +54,7 @@ import { services } from "../data/services.js";
               Services
               <svg width="10" height="10" viewBox="0 0 10 10" fill="currentColor"><path d="M2 4l3 3 3-3z"/></svg>
             </a>
-            <div class="headerDropdown">
+            <div class="headerDropdown" style="opacity:0;visibility:hidden;position:absolute">
               {services.map((s) => (
                 <a class="headerDropdownLink" href={`/fl/tampa/${s.key}`}>
                   {s.label}
@@ -75,7 +75,7 @@ import { services } from "../data/services.js";
                 <span id="servicePickerLabel">HVAC</span>
                 <svg width="10" height="10" viewBox="0 0 10 10" fill="currentColor"><path d="M2 4l3 3 3-3z"/></svg>
               </button>
-              <div class="headerServiceMenu" id="servicePickerMenu">
+              <div class="headerServiceMenu" id="servicePickerMenu" style="opacity:0;visibility:hidden;position:absolute">
                 <button class="headerServiceOption" data-value="hvac" type="button">HVAC</button>
                 <button class="headerServiceOption" data-value="plumbing" type="button">Plumbing</button>
                 <button class="headerServiceOption" data-value="electrical" type="button">Electrical</button>
