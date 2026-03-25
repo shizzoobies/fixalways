@@ -242,27 +242,16 @@ img {
   text-decoration: none;
 }
 
-.brandMark {
-  width: 36px;
-  height: 36px;
-  border-radius: 10px;
-  display: grid;
-  place-items: center;
-  background: var(--gradient-subtle);
-  border: 1px solid rgba(var(--accent-rgb), 0.2);
-  font-size: 13px;
-  font-weight: 800;
-  box-shadow: 0 0 16px rgba(var(--accent-rgb), 0.15);
-  transition: box-shadow 0.3s var(--ease);
+.brandLogo {
+  height: 38px;
+  width: auto;
+  object-fit: contain;
+  filter: brightness(1.1);
+  transition: filter 0.2s var(--ease);
 }
 
-.brandLink:hover .brandMark {
-  box-shadow: 0 0 24px rgba(var(--accent-rgb), 0.25);
-}
-
-.brandName {
-  font-size: 16px;
-  letter-spacing: -0.02em;
+.brandLink:hover .brandLogo {
+  filter: brightness(1.25);
 }
 
 .brandBadge {
