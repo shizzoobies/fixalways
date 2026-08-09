@@ -908,6 +908,23 @@ img {
   margin-top: 4px;
 }
 
+/* Build credit, sits under the copyright line and stays quiet. */
+.footerCredit {
+  color: var(--muted2);
+  font-size: 12px;
+  margin-top: 6px;
+}
+
+.footerCredit a {
+  color: var(--muted);
+  font-weight: 600;
+  transition: color 0.2s var(--ease);
+}
+
+.footerCredit a:hover {
+  color: var(--accent);
+}
+
 .footerLinks {
   display: flex;
   gap: 20px;
